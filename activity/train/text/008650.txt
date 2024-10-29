@@ -1,0 +1,1 @@
+A person kicks a ball, then walks forward in the right direction.

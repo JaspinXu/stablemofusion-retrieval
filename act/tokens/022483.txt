@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX do/VERB jumping/NOUN jack/NOUN then/ADV a/DET man/NOUN sit/VERB on/ADP a/DET bench/NOUN after/SCONJ that/PRON he/PRON get/VERB up/ADP to/PART walk/VERB around/ADV in/ADP a/DET circle/NOUN and/CCONJ subsequently/ADV come/VERB back/ADV to/ADP the/DET same/ADJ bench/NOUN to/PART sit/VERB down/ADP again/ADV 

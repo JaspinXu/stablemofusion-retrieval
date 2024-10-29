@@ -1,0 +1,1 @@
+A person walks forward, then turns, jumps over an obstacle with their right leg first, and takes two steps forward. After that, they turn around and go up one step while moving their right arm up and down in front of them.

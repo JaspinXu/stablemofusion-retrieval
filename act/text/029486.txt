@@ -1,0 +1,1 @@
+A person moves by twitching both arms in a robotic way, then walks in a forward-facing zig-zag motion.

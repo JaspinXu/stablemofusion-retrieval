@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB sideways/ADV cross/VERB one/NUM leg/NOUN over/ADP the/DET other/ADJ in/ADP one/NUM direction/NOUN then/ADV walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN follow/VERB that/SCONJ he/PRON walk/VERB forward/ADV before/ADP reach/VERB out/ADP with/ADP his/PRON left/ADJ arm/NOUN 

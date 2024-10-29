@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB to/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN then/ADV slowly/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET opposite/ADJ end/NOUN and/CCONJ afterwards/ADV a/DET person/NOUN walk/VERB slowly/ADV and/CCONJ stop/VERB 

@@ -1,0 +1,1 @@
+the/DET character/NOUN sidestep/VERB to/ADP the/DET left/ADJ end/NOUN of/ADP the/DET rectangle/NOUN then/ADV sidestep/VERB to/ADP the/DET right/ADJ end/NOUN of/ADP the/DET rectangle/NOUN before/ADP make/VERB its/PRON way/NOUN back/ADV to/ADP the/DET center/NOUN follow/VERB that/SCONJ the/DET body/NOUN squat/VERB step/NOUN to/ADP its/PRON left/NOUN and/CCONJ squat/NOUN again/ADV 

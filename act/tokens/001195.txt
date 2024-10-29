@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV quickly/ADV then/ADV a/DET person/NOUN walk/VERB slightly/ADV to/ADP the/DET side/NOUN crouch/NOUN slightly/ADV push/VERB and/CCONJ afterwards/ADV walk/VERB back/ADV 

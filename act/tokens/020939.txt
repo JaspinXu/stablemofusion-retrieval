@@ -1,0 +1,1 @@
+the/DET person/NOUN look/VERB like/SCONJ he/PRON be/AUX go/VERB to/ADP the/DET office/NOUN then/ADV he/PRON move/VERB up/ADP and/CCONJ down/ADP a/DET step/NOUN to/ADP the/DET right/NOUN after/SCONJ that/PRON he/PRON lean/VERB forward/ADV pick/VERB up/ADP an/DET item/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADV 

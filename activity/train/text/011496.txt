@@ -1,0 +1,1 @@
+A stick figure stumbles around back and forth before walking forward, then proceeds to walk sideways.

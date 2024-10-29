@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP then/ADV jump/VERB up/ADP and/CCONJ subsequently/ADV do/VERB a/DET somersault/NOUN down/ADP while/SCONJ also/ADV stand/VERB and/CCONJ look/VERB around/ADV from/ADP right/ADV to/ADP left/NOUN 

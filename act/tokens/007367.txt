@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV move/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ make/VERB a/DET single/ADJ large/ADJ step/NOUN in/ADP the/DET middle/NOUN then/ADV they/PRON transition/VERB to/ADP walk/VERB on/ADP all/DET four/NOUN 

@@ -1,0 +1,1 @@
+A person walks left to lower right, then starts walking forward, turns left, and walks back.

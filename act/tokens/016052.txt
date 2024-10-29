@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV stop/NOUN and/CCONJ shake/VERB their/PRON left/ADJ wrist/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB away/ADV follow/VERB that/SCONJ the/DET same/ADJ person/NOUN lean/VERB forward/ADV and/CCONJ move/VERB their/PRON left/ADJ arm/NOUN then/ADV stand/VERB up/ADP and/CCONJ step/VERB backward/ADV 

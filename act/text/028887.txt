@@ -1,0 +1,1 @@
+The person walks to his left, then walks back to his right, and subsequently turns back to his left again, returning to his original position. Following that, he continues walking back-and-forth from left to right and back to the left.

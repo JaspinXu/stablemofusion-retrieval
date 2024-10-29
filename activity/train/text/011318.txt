@@ -1,0 +1,1 @@
+A person moves something away, then walks slowly to the upper right, opens a door, and subsequently steps backwards slowly to the starting point.

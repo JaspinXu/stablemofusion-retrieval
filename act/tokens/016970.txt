@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN then/ADV walk/VERB in/ADP a/DET circle/NOUN with/ADP their/PRON hand/NOUN up/ADV 

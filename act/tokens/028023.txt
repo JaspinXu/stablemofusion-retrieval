@@ -1,0 +1,1 @@
+a/DET person/NOUN dance/NOUN like/ADP michael/PROPN jackson/PROPN then/ADV lunge/VERB forward/ADV with/ADP one/NUM foot/NOUN while/SCONJ reach/VERB his/PRON arm/NOUN out/ADP and/CCONJ this/DET movement/NOUN happen/VERB twice/ADV 

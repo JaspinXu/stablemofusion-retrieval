@@ -1,0 +1,1 @@
+The stick figure moves its arm down from its head, then walks backwards. After that, it leans back and forth before turning around.

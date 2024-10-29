@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV begin/VERB take/VERB step/NOUN that/PRON move/VERB upwards/ADV similar/ADJ to/ADP walk/VERB up/ADP step/NOUN 

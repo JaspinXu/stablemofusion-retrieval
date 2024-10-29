@@ -1,0 +1,1 @@
+A person takes several steps forwards, then does a 180 and walks back to the original spot. Following that, the person walks forward, suddenly jumps to the right as if dodging something, and then recenters before continuing to walk.

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB from/ADP the/DET right/ADJ side/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ hop/VERB over/ADP an/DET obstacle/NOUN then/ADV a/DET person/NOUN move/VERB in/ADP a/DET waltzing/NOUN motion/NOUN with/ADP their/PRON hand/NOUN up/ADV as/SCONJ if/SCONJ they/PRON be/AUX hold/VERB onto/ADP a/DET partner/NOUN 

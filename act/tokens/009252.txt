@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP a/DET slope/NOUN move/VERB slightly/ADV to/ADP the/DET right/ADJ then/ADV a/DET man/NOUN grab/VERB a/DET support/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ take/VERB some/DET step/NOUN downwards/ADV after/SCONJ that/SCONJ he/PRON remove/VERB his/PRON left/ADJ hand/NOUN from/ADP the/DET support/NOUN 

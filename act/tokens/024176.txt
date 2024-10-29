@@ -1,0 +1,1 @@
+a/DET girl/NOUN walk/VERB fast/ADV then/ADV gradually/ADV speed/VERB up/ADP to/ADP a/DET run/NOUN and/CCONJ subsequently/ADV slow/VERB down/ADP to/ADP a/DET walk/NOUN follow/VERB that/SCONJ a/DET person/NOUN walk/VERB forward/ADV to/PART pick/VERB something/PRON up/ADP off/ADP the/DET ground/NOUN before/ADP walk/VERB back/ADV around/ADV in/ADP a/DET circle/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB like/ADP a/DET monster/NOUN then/ADV step/VERB carefully/ADV forward/ADV and/CCONJ perform/VERB a/DET small/ADJ sweep/NOUN with/ADP the/DET left/ADJ foot/NOUN follow/VERB by/ADP a/DET big/ADJ sweep/NOUN with/ADP the/DET left/ADJ foot/NOUN 

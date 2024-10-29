@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB three/NUM step/NOUN to/ADP their/PRON left/ADJ then/ADV six/NUM step/NOUN to/ADP their/PRON right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN for/ADP two/NUM step/NOUN after/ADP which/PRON they/PRON get/VERB ready/ADJ to/PART brush/VERB their/PRON tooth/NOUN 

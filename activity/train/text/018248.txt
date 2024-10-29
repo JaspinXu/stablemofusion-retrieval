@@ -1,0 +1,1 @@
+A figure moves slightly to the left and then slowly walks backward.

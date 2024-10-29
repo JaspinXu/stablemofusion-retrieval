@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV and/CCONJ then/ADV backward/ADV slightly/ADV follow/VERB that/SCONJ they/PRON appear/VERB to/PART be/AUX get/VERB a/DET shoulder/NOUN and/CCONJ arm/NOUN examination/NOUN from/ADP a/DET doctor/NOUN with/ADP their/PRON arm/NOUN bend/VERB at/ADP the/DET elbow/NOUN and/CCONJ be/AUX rotate/VERB about/ADP the/DET shoulder/NOUN 

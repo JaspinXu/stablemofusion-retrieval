@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB in/ADP a/DET curve/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET widebase/VERB gait/NOUN 

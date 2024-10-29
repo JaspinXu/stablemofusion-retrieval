@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB to/ADP the/DET right/NOUN and/CCONJ sit/VERB down/ADP then/ADV stand/VERB back/ADV up/ADV and/CCONJ take/VERB one/NUM step/NOUN to/ADP the/DET left/NOUN subsequently/ADV move/VERB back/ADV 

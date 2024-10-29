@@ -1,0 +1,12 @@
+the body walks to left in a curve.
+a person walks up the stairs.
+the body walks to left in a curve.
+a person walks forward and climbs on the stairs.
+the body walks to left in a curve.
+a person is walking forward one step, and then appears to walk up 5 steps in the same direction.
+a person walks forward then turns to walk to the right.
+a person walks up the stairs.
+a person walks forward then turns to walk to the right.
+a person walks forward and climbs on the stairs.
+a person walks forward then turns to walk to the right.
+a person is walking forward one step, and then appears to walk up 5 steps in the same direction.

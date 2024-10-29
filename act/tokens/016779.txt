@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV along/ADP the/DET same/ADJ path/NOUN after/SCONJ that/SCONJ the/DET individual/ADJ look/VERB around/ADV and/CCONJ proceed/VERB to/PART walk/VERB in/ADP a/DET swerve/VERB pattern/NOUN 

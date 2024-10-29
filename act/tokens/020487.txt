@@ -1,0 +1,1 @@
+a/DET person/NOUN stumble/VERB awkwardly/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV stumble/VERB in/ADP a/DET semicircle/NOUN before/ADP walk/VERB forward/ADV a/DET few/ADJ step/NOUN after/SCONJ that/SCONJ the/DET person/NOUN bounce/VERB in/ADP place/NOUN while/SCONJ alternate/VERB foot/NOUN 

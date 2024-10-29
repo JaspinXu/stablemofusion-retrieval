@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV before/ADP move/VERB to/ADP the/DET right/NOUN and/CCONJ cross/VERB one/NUM leg/NOUN over/ADP the/DET other/ADJ in/ADP a/DET crab/NOUN walk/NOUN subsequently/ADV the/DET figure/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV 

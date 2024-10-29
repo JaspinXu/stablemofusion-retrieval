@@ -1,0 +1,6 @@
+a person runs forward
+a person turns to their right  
+a person steps up 
+a person spreads their legs  
+a person lowers their arms to their sides while stepping forward and to the right
+the person raises their arms slightly  

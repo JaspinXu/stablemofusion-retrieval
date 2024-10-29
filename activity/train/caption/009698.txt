@@ -1,0 +1,12 @@
+character walking, gets pushed off ballanced from the right , regains orientation and continues walking.
+a person walks slowly and slightly to the right.
+character walking, gets pushed off ballanced from the right , regains orientation and continues walking.
+a person is walking slowly
+a figure stumbles, regains composure, and continues walking
+a person walks slowly and slightly to the right.
+a figure stumbles, regains composure, and continues walking
+a person is walking slowly
+walking in a random pattern forward.
+a person walks slowly and slightly to the right.
+walking in a random pattern forward.
+a person is walking slowly

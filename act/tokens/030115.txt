@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV as/ADP though/ADV on/ADP a/DET runway/NOUN then/ADV take/VERB a/DET step/NOUN forward/ADV while/SCONJ perform/VERB a/DET circular/ADJ motion/NOUN with/ADP their/PRON left/ADJ hand/NOUN over/ADP the/DET right/ADJ hand/NOUN subsequently/ADV bring/VERB the/DET left/ADJ hand/NOUN up/ADP towards/ADP the/DET head/NOUN and/CCONJ back/ADV down/ADV 

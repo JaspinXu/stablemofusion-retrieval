@@ -1,0 +1,1 @@
+A person walks forward, but then gets pushed by someone, causing him to stumble back. Following that, he takes a step backward in a right diagonal direction.

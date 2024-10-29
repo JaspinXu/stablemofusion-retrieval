@@ -1,0 +1,1 @@
+A figure marches in place slowly, then pauses before running in place slightly forward. After that, the figure pauses again, and subsequently runs in place at a faster pace slightly forward and rightward. Meanwhile, a man steps back, then takes a leap forward. Following that, he turns around and leaps again, before turning around once more and leaping again.

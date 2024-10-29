@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX do/VERB a/DET jumping/NOUN spin/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN 180/NUM degree/NOUN and/CCONJ then/ADV the/DET man/NOUN be/AUX clap/VERB use/VERB both/DET hand/NOUN 

@@ -1,0 +1,1 @@
+A person steps forward, then turns left and takes several paces. Following that, they turn right, turn right again, and walk several more paces before stopping and facing back where they came. Subsequently, they raise both their arms laterally and continue to walk forward in a zig-zag manner.

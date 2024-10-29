@@ -1,0 +1,1 @@
+A sim is walking in a looping fashion from right to left before stopping at the opposite end of the plane towards the center, and then a man walks in an S pattern before stopping.

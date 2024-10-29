@@ -1,0 +1,1 @@
+the/DET person/NOUN move/VERB their/PRON left/ADJ hand/NOUN around/ADP their/PRON chest/NOUN in/ADP a/DET counterclockwise/NOUN circular/ADJ motion/NOUN and/CCONJ then/ADV let/VERB it/PRON fall/VERB to/ADP their/PRON side/NOUN next/ADV step/VERB at/ADP an/DET angle/NOUN forward/ADV and/CCONJ to/ADP the/DET left/ADJ 

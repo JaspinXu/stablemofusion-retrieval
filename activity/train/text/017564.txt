@@ -1,0 +1,1 @@
+A person walks forward, then turns right, steps onto and over an object, steps onto another object, turns right again, and subsequently steps up onto a higher object. Following that, the person uses both hands to hold their left leg.

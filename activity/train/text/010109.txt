@@ -1,0 +1,1 @@
+A person walks forward normally, then takes two steps, slips and slides to his left, but recovers and walks to his right.

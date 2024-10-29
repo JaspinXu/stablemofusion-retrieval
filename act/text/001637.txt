@@ -1,0 +1,1 @@
+A person runs forward for 3 steps, then stops, and then starts running again, later transitioning into doing jumping jacks.

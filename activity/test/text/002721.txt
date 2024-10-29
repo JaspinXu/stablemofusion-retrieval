@@ -1,0 +1,1 @@
+A stick figure walks forward, then steps to the side. After that, it steps backwards and then to the side again, while a person walks forward one foot in front of the other, with both arms stretched out.

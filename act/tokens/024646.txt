@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB while/SCONJ rub/VERB their/PRON hand/NOUN together/ADV then/ADV jump/VERB 360/NUM degree/NOUN return/VERB to/ADP the/DET original/ADJ position/NOUN before/ADP take/VERB a/DET step/NOUN back/ADV 

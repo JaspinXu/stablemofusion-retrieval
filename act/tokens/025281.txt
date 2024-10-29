@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET regular/ADJ pace/NOUN forward/ADV then/ADV continue/VERB to/PART walk/VERB at/ADP that/DET same/ADJ pace/NOUN 

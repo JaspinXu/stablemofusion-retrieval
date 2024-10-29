@@ -1,0 +1,1 @@
+A person takes two normal steps and one big step to avoid a gap, then jumps two times.

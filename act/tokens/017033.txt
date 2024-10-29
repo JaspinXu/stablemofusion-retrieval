@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB and/CCONJ jog/NOUN back/ADV subsequently/ADV turn/VERB and/CCONJ stop/VERB while/SCONJ kick/VERB their/PRON leg/NOUN back/ADV and/CCONJ forth/ADV 

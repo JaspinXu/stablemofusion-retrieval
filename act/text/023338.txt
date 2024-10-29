@@ -1,0 +1,1 @@
+A person walks forward bouncing, then bounces in place and subsequently walks around before stopping.

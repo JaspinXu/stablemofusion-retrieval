@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX kick/VERB an/DET athletic/ADJ ball/NOUN and/CCONJ then/ADV a/DET figure/NOUN move/VERB in/ADP a/DET circle/NOUN clockwise/NOUN 

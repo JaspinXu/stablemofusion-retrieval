@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB 2/NUM uppercut/NOUN and/CCONJ 2/NUM jab/NOUN with/ADP the/DET right/ADJ hand/NOUN then/ADV stand/VERB in/ADP a/DET wide/ADJ stance/NOUN with/ADP bent/ADJ arm/NOUN in/ADP front/NOUN in/ADP a/DET block/VERB position/NOUN and/CCONJ duck/NOUN to/ADP his/PRON left/ADJ 

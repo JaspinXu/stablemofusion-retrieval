@@ -1,0 +1,1 @@
+A figure trains effectively for side-to-side speed, then the sim takes a cross sideways step before crouching slightly and sliding back and forth across the plane.

@@ -1,0 +1,1 @@
+A person walks forward, stops, and then begins to turn around; subsequently, they walk in an S pattern from the right side of the room to the left side of the room.

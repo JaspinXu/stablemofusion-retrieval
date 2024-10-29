@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ do/AUX a/DET salsa/NOUN dance/NOUN then/ADV walk/VERB in/ADP a/DET circle/NOUN while/SCONJ hunch/VERB over/ADP 

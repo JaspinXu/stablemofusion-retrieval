@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB on/ADP a/DET stool/NOUN then/ADV walk/VERB up/ADP the/DET stool/NOUN two/NUM step/NOUN and/CCONJ subsequently/ADV take/VERB four/NUM step/NOUN forward/ADV before/ADP jump/VERB straight/ADV up/ADV 

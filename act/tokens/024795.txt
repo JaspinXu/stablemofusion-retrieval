@@ -1,0 +1,1 @@
+a/DET man/NOUN with/ADP his/PRON arm/NOUN to/ADP his/PRON side/NOUN take/VERB four/NUM step/NOUN forward/ADV and/CCONJ stop/NOUN then/ADV raise/VERB his/PRON left/ADJ arm/NOUN to/ADP the/DET front/NOUN follow/VERB by/ADP his/PRON right/ADJ arm/NOUN and/CCONJ finally/ADV extend/VERB his/PRON left/ADJ arm/NOUN out/ADP to/ADP the/DET side/NOUN 

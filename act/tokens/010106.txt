@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB up/ADP step/NOUN then/ADV they/PRON rotate/VERB their/PRON left/ADJ hand/NOUN and/CCONJ arm/VERB in/ADP a/DET counterclockwise/NOUN motion/NOUN in/ADP front/NOUN of/ADP themselves/PRON parallel/ADJ to/ADP the/DET floor/NOUN 

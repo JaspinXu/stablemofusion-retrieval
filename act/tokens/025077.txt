@@ -1,0 +1,1 @@
+a/DET stick/NOUN person/NOUN walk/VERB from/ADP side/NOUN to/PART side/VERB then/ADV step/VERB forward/ADV turn/NOUN and/CCONJ walk/VERB back/ADV 

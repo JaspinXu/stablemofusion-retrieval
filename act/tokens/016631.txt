@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB back/ADV and/CCONJ forth/ADV from/ADP one/NUM foot/NOUN to/ADP the/DET other/ADJ then/ADV walk/VERB forward/ADV turn/VERB around/ADP walk/NOUN back/ADV touch/VERB something/PRON high/ADJ above/ADP they/PRON and/CCONJ subsequently/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV 

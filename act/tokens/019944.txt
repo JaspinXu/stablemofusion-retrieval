@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN in/ADP a/DET clockwise/NOUN position/NOUN then/ADV continue/VERB walk/VERB forward/ADV 

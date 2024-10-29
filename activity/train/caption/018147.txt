@@ -1,0 +1,6 @@
+a person runs diagonally forward to the right then turns around to run back.
+the sim appears to be exercising on a treadmill or going on a moderate walk.
+a person jogs forward, does a little dance then jogs back.
+the sim appears to be exercising on a treadmill or going on a moderate walk.
+a person runs forward while holding their right arm steady, then they turn around and run back while holding their left arm steady.
+the sim appears to be exercising on a treadmill or going on a moderate walk.

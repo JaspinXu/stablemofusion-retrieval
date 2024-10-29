@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB and/CCONJ then/ADV fall/VERB to/ADP the/DET right/NOUN but/CCONJ recover/VERB subsequently/ADV the/DET person/NOUN back/VERB up/ADP and/CCONJ sit/VERB in/ADP a/DET chair/NOUN 

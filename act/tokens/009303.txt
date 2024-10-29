@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN crosslegge/VERB then/ADV stand/VERB up/ADP follow/VERB that/SCONJ a/DET headless/ADJ person/NOUN gradually/ADV hold/VERB on/ADP to/ADP a/DET rail/NOUN with/ADP his/PRON left/ADJ hand/NOUN walk/VERB normally/ADV down/ADV 5/NUM step/NOUN and/CCONJ then/ADV fully/ADV stand/VERB on/ADP the/DET last/ADJ step/NOUN 

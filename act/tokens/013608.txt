@@ -1,0 +1,1 @@
+this/DET person/NOUN swing/VERB forward/ADV with/ADP hand/NOUN in/ADP front/NOUN as/SCONJ if/SCONJ to/PART play/VERB golf/NOUN then/ADV walk/VERB forward/ADV turn/VERB around/ADV sit/VERB down/ADP get/VERB up/ADP and/CCONJ walk/VERB back/ADV 

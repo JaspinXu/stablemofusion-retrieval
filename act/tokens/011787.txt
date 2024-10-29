@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV run/VERB quickly/ADV to/ADP the/DET left/NOUN and/CCONJ after/ADP that/PRON turn/VERB back/ADV to/ADP the/DET right/NOUN and/CCONJ continue/VERB run/VERB in/ADP that/DET direction/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV and/CCONJ trip/VERB then/ADV walk/VERB backwards/ADV crouch/VERB down/ADV and/CCONJ subsequently/ADV crab/NOUN walk/VERB forward/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP a/DET runway/NOUN then/ADV take/VERB two/NUM step/NOUN back/ADV diagonally/ADV to/PART sit/VERB in/ADP a/DET chair/NOUN after/SCONJ that/PRON they/PRON take/VERB three/NUM step/NOUN forward/ADV diagonally/ADV stand/VERB back/ADV in/ADP the/DET original/ADJ position/NOUN 

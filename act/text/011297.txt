@@ -1,0 +1,1 @@
+A person is standing still, then walks diagonally, and subsequently walks clockwise in a circle.

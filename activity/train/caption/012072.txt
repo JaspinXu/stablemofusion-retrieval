@@ -1,0 +1,18 @@
+a man walks forward and then stops.
+a person takes a step back and to the left, sits on an invisible object, gets up to stand, and takes smaller steps back to the original position.
+a man walks forward and then stops.
+he sits in a chair and gets back up.
+a man walks forward and then stops.
+person steps to right sits down and then stands up to return to first position.
+the man goes down 4 steps.
+a person takes a step back and to the left, sits on an invisible object, gets up to stand, and takes smaller steps back to the original position.
+the man goes down 4 steps.
+he sits in a chair and gets back up.
+the man goes down 4 steps.
+person steps to right sits down and then stands up to return to first position.
+a person walks down stairs alternating their feet, starting on the right foot
+a person takes a step back and to the left, sits on an invisible object, gets up to stand, and takes smaller steps back to the original position.
+a person walks down stairs alternating their feet, starting on the right foot
+he sits in a chair and gets back up.
+a person walks down stairs alternating their feet, starting on the right foot
+person steps to right sits down and then stands up to return to first position.

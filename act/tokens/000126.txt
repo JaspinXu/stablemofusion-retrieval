@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET large/ADJ step/NOUN to/ADP the/DET right/ADJ fast/ADV then/ADV perform/VERB a/DET 1/NUM 2/NUM 3/NUM dance/NOUN move/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV step/VERB over/ADP an/DET object/NOUN in/ADP its/PRON path/NOUN subsequently/ADV spin/VERB and/CCONJ walk/VERB back/ADV in/ADP the/DET direction/NOUN they/PRON come/VERB 

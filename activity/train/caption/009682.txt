@@ -1,0 +1,2 @@
+a person walks forward then does a backwards z-shape movement to its left side. then back to the right.
+a person walks forward, bends down picks something up, turns around and walks back.

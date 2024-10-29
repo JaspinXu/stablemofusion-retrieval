@@ -1,0 +1,6 @@
+person walks in a counterclockwise circle at medium speed.
+a person standing still, then took one step forward.
+person walks in a counterclockwise circle at medium speed.
+a person takes a step forward.
+person walks in a counterclockwise circle at medium speed.
+a person quickly steps forward.

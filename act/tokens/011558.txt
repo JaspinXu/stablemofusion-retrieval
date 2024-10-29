@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB both/DET hand/NOUN up/ADP in/ADP the/DET air/NOUN then/ADV a/DET person/NOUN move/VERB forward/ADV four/NUM step/NOUN lift/VERB his/PRON right/ADJ hand/NOUN and/CCONJ wave/NOUN after/ADP that/PRON he/PRON step/VERB back/ADV one/NUM pivot/NOUN on/ADP his/PRON right/ADJ foot/NOUN and/CCONJ move/VERB forward/ADV again/ADV 

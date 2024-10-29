@@ -1,0 +1,1 @@
+A person runs in place at varying speeds, then walks forward, makes a right turn, and stops.

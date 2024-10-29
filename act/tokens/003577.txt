@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX on/ADP a/DET motorcycle/NOUN and/CCONJ then/ADV a/DET person/NOUN wave/VERB his/PRON left/ADJ hand/NOUN 

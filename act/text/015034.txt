@@ -1,0 +1,1 @@
+A person walks at a decent pace back and forth in a diagonal line, then continues by walking to the right and left, making a "u" pattern.

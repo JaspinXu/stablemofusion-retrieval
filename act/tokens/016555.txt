@@ -1,0 +1,1 @@
+a/DET man/NOUN dodge/VERB right/ADV and/CCONJ then/ADV leave/VERB while/SCONJ a/DET robot/NOUN pick/VERB up/ADP something/PRON with/ADP its/PRON right/ADJ hand/NOUN from/ADP the/DET left/ADJ side/NOUN place/VERB it/PRON on/ADP the/DET right/ADJ side/NOUN and/CCONJ then/ADV uplift/VERB its/PRON right/ADJ arm/NOUN 

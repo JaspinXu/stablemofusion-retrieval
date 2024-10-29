@@ -1,0 +1,1 @@
+A person is moving his hands up and down, then the figure moves right to left while facing the wall.

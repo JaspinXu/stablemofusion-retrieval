@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET complete/ADJ circle/NOUN then/ADV pick/VERB up/ADP a/DET violin/NOUN and/CCONJ play/VERB it/PRON 

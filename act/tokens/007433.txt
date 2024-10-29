@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV the/DET right/ADJ arm/NOUN go/VERB forward/ADV across/ADP the/DET body/NOUN and/CCONJ back/ADV follow/VERB by/ADP step/VERB straight/ADV backwards/ADV 

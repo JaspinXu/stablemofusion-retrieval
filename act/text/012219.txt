@@ -1,0 +1,1 @@
+A person standing far left walks in a full circle counterclockwise, then turns to his left, walks two steps, next turns to his right and walks five steps, and thereafter turns left to return to the spot they started in.

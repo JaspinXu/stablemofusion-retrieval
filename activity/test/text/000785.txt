@@ -1,0 +1,1 @@
+A person steps up and to the left in one motion, then continues walking forward, turns to the right, and stops.

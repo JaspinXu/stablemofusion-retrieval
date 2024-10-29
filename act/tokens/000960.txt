@@ -1,0 +1,1 @@
+in/ADP this/DET scenario/NOUN a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV put/VERB a/DET hand/NOUN to/ADP their/PRON head/NOUN 

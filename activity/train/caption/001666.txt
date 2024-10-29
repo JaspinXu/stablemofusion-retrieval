@@ -1,0 +1,6 @@
+a person jumping into a counterclockwise air spin.
+the sim walks a few steps down the plane.
+a person jumps and spins around.
+the sim walks a few steps down the plane.
+a person performs a jump spin move 360 degrees.
+the sim walks a few steps down the plane.

@@ -1,0 +1,1 @@
+A person runs in a counter-clockwise circle, and then someone walks counter-clockwise in the same circle.

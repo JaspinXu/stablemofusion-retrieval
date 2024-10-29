@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET dance/NOUN routine/NOUN then/ADV walk/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP step/VERB to/ADP the/DET right/NOUN and/CCONJ finally/ADV return/VERB to/ADP where/SCONJ he/PRON start/VERB from/ADP 

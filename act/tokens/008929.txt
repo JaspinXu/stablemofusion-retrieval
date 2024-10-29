@@ -1,0 +1,1 @@
+a/DET robot/NOUN be/AUX walk/VERB forward/ADV slowly/ADV then/ADV stop/VERB while/SCONJ a/DET person/NOUN lean/VERB forward/ADV to/PART keep/VERB look/VERB out/ADP of/ADP a/DET window/NOUN 

@@ -1,0 +1,1 @@
+the/DET leg/NOUN be/AUX move/VERB forward/ADV and/CCONJ backward/ADV while/SCONJ shake/VERB the/DET hand/NOUN then/ADV the/DET hand/NOUN be/AUX raise/VERB toward/ADP the/DET chest/NOUN 

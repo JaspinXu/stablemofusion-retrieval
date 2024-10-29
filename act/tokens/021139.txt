@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB thing/NOUN from/ADP one/NUM location/NOUN to/ADP another/PRON with/ADP the/DET left/ADJ hand/NOUN and/CCONJ then/ADV wave/VERB someone/PRON down/ADP 

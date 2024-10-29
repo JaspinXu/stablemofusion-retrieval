@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB three/NUM time/NOUN first/ADV jump/VERB forward/ADV on/ADP one/NUM foot/NOUN and/CCONJ then/ADV on/ADP two/NUM foot/NOUN 

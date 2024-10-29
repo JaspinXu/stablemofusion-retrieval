@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV make/VERB a/DET 180degree/PROPN righthand/NOUN turn/NOUN and/CCONJ walk/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN subsequently/ADV lean/VERB on/ADP a/DET rail/NOUN while/SCONJ walk/VERB 

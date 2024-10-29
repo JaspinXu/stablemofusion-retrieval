@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN then/ADV turn/VERB around/ADP and/CCONJ begin/VERB crawl/VERB on/ADP the/DET floor/NOUN in/ADP the/DET other/ADJ direction/NOUN after/SCONJ that/PRON they/PRON stand/VERB and/CCONJ walk/VERB the/DET other/ADJ way/NOUN while/SCONJ pet/VERB a/DET dog/NOUN with/ADP their/PRON right/ADJ hand/NOUN 

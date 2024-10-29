@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP the/DET pattern/NOUN of/ADP the/DET figure/NOUN 8/NUM then/ADV a/DET person/NOUN swim/VERB in/ADP a/DET fly/NOUN stroke/NOUN 

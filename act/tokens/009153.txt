@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB one/NUM way/NOUN then/ADV backtrack/NOUN and/CCONJ subsequently/ADV walk/VERB slowly/ADV forward/ADV before/ADP stand/VERB still/ADV 

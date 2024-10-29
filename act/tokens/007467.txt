@@ -1,0 +1,1 @@
+a/DET robot/NOUN jump/VERB forward/ADV from/ADP one/NUM point/NOUN to/ADP another/PRON then/ADV a/DET man/NOUN walk/VERB slowly/ADV forward/ADV 

@@ -1,0 +1,1 @@
+The sim walks across the plane in a loop fashion, then a person stands with his arms out from his sides, looking forward while jogging in a small, counterclockwise circle.

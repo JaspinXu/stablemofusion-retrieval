@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV backward/ADV and/CCONJ forward/ADV again/ADV while/SCONJ simultaneously/ADV look/VERB right/ADV to/PART leave/VERB repeatedly/ADV with/ADP their/PRON arm/NOUN out/ADP to/ADP the/DET side/NOUN 

@@ -1,0 +1,12 @@
+a person walks around in a counter clockwise direction.
+the person takes 4 steps forward 3 step back quickley. then walks forward 5 more steps.
+a person walks around in a counter clockwise direction.
+the person walks forward in a zigzag, steps back, and continues walking forward in a zigzag.
+the person is walking in a circle
+the person takes 4 steps forward 3 step back quickley. then walks forward 5 more steps.
+the person is walking in a circle
+the person walks forward in a zigzag, steps back, and continues walking forward in a zigzag.
+a person walks in a circular motion but does not complete a full circle.
+the person takes 4 steps forward 3 step back quickley. then walks forward 5 more steps.
+a person walks in a circular motion but does not complete a full circle.
+the person walks forward in a zigzag, steps back, and continues walking forward in a zigzag.

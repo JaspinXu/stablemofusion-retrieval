@@ -1,0 +1,1 @@
+A man making gestures walks backwards several steps, then turns around and continues walking backwards again. Following that, he turns around one more time and begins walking backwards, ultimately stopping.

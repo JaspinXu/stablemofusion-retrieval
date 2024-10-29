@@ -1,0 +1,4 @@
+a person hops
+a person turns to their left 180 degrees  
+a person raises their left arm to shoulder height twice as if throwing an object
+a person throws 2 punches

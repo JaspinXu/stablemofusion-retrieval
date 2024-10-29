@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV walk/VERB backwards/ADV follow/VERB by/ADP walk/VERB sideways/ADV after/ADP that/PRON the/DET person/NOUN grab/VERB something/PRON and/CCONJ walk/VERB with/ADP the/DET object/NOUN while/SCONJ look/VERB down/ADP the/DET entire/ADJ time/NOUN 

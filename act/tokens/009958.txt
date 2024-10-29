@@ -1,0 +1,1 @@
+the/DET person/NOUN start/VERB by/ADP do/VERB an/DET arm/NOUN stretch/NOUN then/ADV walk/VERB up/ADP the/DET stair/NOUN move/VERB from/ADP a/DET low/ADJ yaxis/NOUN to/ADP a/DET high/ADJ one/NUM 

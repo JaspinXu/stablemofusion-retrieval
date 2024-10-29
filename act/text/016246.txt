@@ -1,0 +1,1 @@
+A person carefully walks diagonally, then turns and walks backwards. After that, the person walks forward to the left, then to the right, and finally lays face down on the ground.

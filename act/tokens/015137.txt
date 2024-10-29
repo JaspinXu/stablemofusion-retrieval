@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB while/SCONJ hold/VERB his/PRON injured/ADJ arm/NOUN then/ADV rest/VERB his/PRON left/ADJ hand/NOUN on/ADP an/DET object/NOUN and/CCONJ look/VERB at/ADP his/PRON left/ADJ foot/NOUN hold/VERB it/PRON with/ADP his/PRON right/ADJ hand/NOUN 

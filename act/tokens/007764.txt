@@ -1,0 +1,1 @@
+walk/VERB forward/ADV two/NUM step/NOUN he/PRON then/ADV step/VERB and/CCONJ turn/VERB to/ADP his/PRON right/ADJ walking/NOUN in/ADP a/DET clockwise/NOUN arc/NOUN after/SCONJ that/SCONJ he/PRON continue/VERB by/ADP walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN 

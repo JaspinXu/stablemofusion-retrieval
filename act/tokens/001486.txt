@@ -1,0 +1,1 @@
+in/ADP this/DET scenario/NOUN a/DET person/NOUN stand/VERB still/ADV and/CCONJ then/ADV a/DET man/NOUN move/VERB an/DET object/NOUN with/ADP his/PRON right/ADJ hand/NOUN 

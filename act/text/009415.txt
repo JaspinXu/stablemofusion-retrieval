@@ -1,0 +1,1 @@
+A person walks forward, then spins around, walks back, and subsequently moves in an arc formation within the area.

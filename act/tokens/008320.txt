@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB around/ADV on/ADP one/NUM foot/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV follow/VERB that/SCONJ the/DET person/NOUN lift/VERB weight/NOUN put/VERB his/PRON arm/NOUN out/ADP to/ADP the/DET side/NOUN and/CCONJ then/ADV to/ADP the/DET front/NOUN 

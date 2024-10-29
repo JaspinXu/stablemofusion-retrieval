@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET cartwheel/NOUN then/ADV jump/VERB up/ADP and/CCONJ down/ADV and/CCONJ subsequently/ADV rotate/VERB their/PRON body/NOUN to/ADP the/DET right/NOUN to/PART kick/VERB follow/VERB by/ADP rotate/VERB to/ADP the/DET left/NOUN and/CCONJ kick/VERB to/ADP the/DET left/ADJ 

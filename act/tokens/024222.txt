@@ -1,0 +1,1 @@
+a/DET man/NOUN stand/VERB on/ADP one/NUM leg/NOUN in/ADP place/NOUN then/ADV stand/VERB up/ADP turn/VERB slightly/ADV to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV walk/VERB in/ADP a/DET circle/NOUN 

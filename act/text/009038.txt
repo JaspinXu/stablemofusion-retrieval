@@ -1,0 +1,1 @@
+A person runs backwards in a diagonal pattern, then stands briefly and takes one step forward.

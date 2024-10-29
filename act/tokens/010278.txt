@@ -1,0 +1,1 @@
+the/DET man/NOUN bend/VERB over/ADP at/ADP a/DET 360degree/PROPN angle/NOUN then/ADV go/VERB back/ADV to/ADP stand/VERB straight/ADV following/PROPN that/SCONJ he/PRON walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV walk/VERB back/ADV to/ADP his/PRON starting/NOUN position/NOUN 

@@ -1,0 +1,1 @@
+A person walks backward, then runs forward and takes a small jump. Following that, the person runs sideways like a crab from left to right 7 full times, taking 2 steps each time, and comes to a stop the 8th time in the center.

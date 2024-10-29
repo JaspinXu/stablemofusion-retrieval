@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN backward/ADV then/ADV walk/VERB in/ADP an/DET arc/NOUN to/ADP the/DET right/NOUN and/CCONJ finally/ADV stop/VERB 

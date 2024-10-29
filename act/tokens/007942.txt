@@ -1,0 +1,1 @@
+the/DET man/NOUN step/VERB back/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN then/ADV get/VERB up/ADP and/CCONJ step/VERB forward/ADV afterwards/ADV the/DET person/NOUN be/AUX jog/VERB in/ADP place/NOUN 

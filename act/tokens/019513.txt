@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV then/ADV sprint/NOUN quickly/ADV follow/VERB by/ADP take/VERB wide/ADJ spaced/ADJ step/NOUN transition/VERB from/ADP a/DET slow/ADJ walk/VERB velocity/NOUN in/ADP a/DET line/NOUN to/ADP a/DET quick/ADJ burst/NOUN of/ADP speed/NOUN while/SCONJ move/VERB in/ADP a/DET circle/NOUN 

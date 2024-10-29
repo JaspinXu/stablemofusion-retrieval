@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB over/ADP to/ADP the/DET left/NOUN to/PART sit/VERB then/ADV get/VERB up/ADP and/CCONJ walk/VERB to/ADP the/DET right/ADJ afterward/ADV a/DET person/NOUN run/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET half/DET a/DET circle/NOUN 

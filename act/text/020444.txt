@@ -1,0 +1,1 @@
+The figure walks straight, then turns left and looks around before returning to the starting position. Subsequently, a person walks to the right, climbs up a ladder, looks over something, and then begins to climb back down the ladder.

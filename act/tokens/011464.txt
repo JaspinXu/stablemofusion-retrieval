@@ -1,0 +1,1 @@
+an/DET upleft/ADJ person/NOUN walk/VERB forward/ADV stumble/VERB in/ADP a/DET clumsy/ADJ manner/NOUN then/ADV a/DET stand/VERB person/NOUN walk/VERB forward/ADV for/ADP 3/NUM second/NOUN do/VERB a/DET little/ADJ hop/NOUN and/CCONJ subsequently/ADV continue/VERB walk/VERB 

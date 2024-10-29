@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN on/ADP its/PRON left/NOUN then/ADV sit/VERB it/PRON down/ADP on/ADP its/PRON right/NOUN subsequently/ADV pick/VERB something/PRON else/ADV up/ADV and/CCONJ place/VERB it/PRON down/ADP 

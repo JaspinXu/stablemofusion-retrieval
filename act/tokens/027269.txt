@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB while/SCONJ put/VERB their/PRON left/ADJ hand/NOUN on/ADP the/DET wall/NOUN and/CCONJ then/ADV throw/VERB an/DET object/NOUN with/ADP that/DET same/ADJ left/ADJ hand/NOUN 

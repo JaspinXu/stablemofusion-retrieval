@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB into/ADP the/DET air/NOUN and/CCONJ throw/VERB their/PRON hand/NOUN up/ADP then/ADV have/AUX both/DET arm/NOUN above/ADP their/PRON head/NOUN with/ADP their/PRON elbow/NOUN bent/ADJ at/ADP a/DET 90degree/NUM angle/NOUN and/CCONJ do/VERB two/NUM overhead/ADJ lift/NOUN 

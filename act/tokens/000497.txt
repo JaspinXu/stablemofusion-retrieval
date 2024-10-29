@@ -1,0 +1,1 @@
+the/DET man/NOUN dribble/VERB a/DET ball/NOUN then/ADV a/DET person/NOUN lift/VERB their/PRON leg/NOUN to/PART kick/VERB something/PRON forward/ADV and/CCONJ subsequently/ADV place/VERB their/PRON leg/NOUN back/ADV on/ADP the/DET ground/NOUN 

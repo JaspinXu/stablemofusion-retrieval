@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB around/ADV and/CCONJ go/VERB up/ADP the/DET stair/NOUN then/ADV walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN 

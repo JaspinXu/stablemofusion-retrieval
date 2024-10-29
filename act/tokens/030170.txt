@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ stop/VERB in/ADP the/DET center/NOUN subsequently/ADV use/VERB his/PRON arm/NOUN as/SCONJ if/SCONJ to/PART move/VERB item/NOUN from/ADP leave/VERB to/ADP right/NOUN 

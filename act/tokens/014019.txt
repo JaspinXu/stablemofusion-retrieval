@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN next/ADV he/PRON be/AUX exercise/VERB by/ADP lift/VERB his/PRON arm/NOUN in/ADP a/DET wing/NOUN flap/NOUN 

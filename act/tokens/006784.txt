@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB while/SCONJ place/VERB their/PRON left/ADJ hand/NOUN on/ADP a/DET surface/NOUN then/ADV run/VERB in/ADP place/NOUN at/ADP vary/VERB speed/NOUN 

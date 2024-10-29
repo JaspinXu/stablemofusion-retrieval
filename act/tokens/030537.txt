@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET spiral/ADJ clockwise/NOUN and/CCONJ then/ADV start/VERB to/PART sit/VERB at/ADP the/DET center/NOUN of/ADP the/DET spiral/NOUN follow/VERB that/SCONJ a/DET figure/NOUN move/VERB their/PRON arm/NOUN both/CCONJ from/ADP the/DET center/NOUN to/ADP the/DET outward/NOUN and/CCONJ back/ADV to/ADP the/DET center/NOUN in/ADP four/NUM stroke/NOUN 

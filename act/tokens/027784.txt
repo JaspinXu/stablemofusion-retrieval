@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB an/DET object/NOUN with/ADP two/NUM hand/NOUN then/ADV throw/VERB it/PRON with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV start/VERB walk/VERB upstairs/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM diagonal/ADJ step/NOUN forward/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV lean/VERB forward/ADV and/CCONJ to/ADP the/DET left/ADJ side/NOUN subsequently/ADV push/VERB something/PRON back/ADV and/CCONJ forward/ADV with/ADP their/PRON left/ADJ hand/NOUN 

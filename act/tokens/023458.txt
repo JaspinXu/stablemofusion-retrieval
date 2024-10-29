@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV three/NUM step/NOUN forward/ADV then/ADV climb/VERB a/DET ladder/NOUN three/NUM step/NOUN up/ADP while/SCONJ hold/VERB on/ADP with/ADP their/PRON hand/NOUN after/SCONJ that/SCONJ the/DET person/NOUN stretch/VERB back/ADV on/ADP the/DET ladder/NOUN and/CCONJ subsequently/ADV they/PRON push/VERB with/ADP both/CCONJ their/PRON arm/NOUN 

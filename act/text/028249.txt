@@ -1,0 +1,1 @@
+A person struts forward, diagonally to the left, then turns to the right; subsequently, someone jumps around, takes four steps, and turns back.

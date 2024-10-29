@@ -1,0 +1,18 @@
+a person jogs diagonally to his left and then slows down to a walk.
+person appears to be running in straight line then jumps over something and continues running.
+a person jogs diagonally to his left and then slows down to a walk.
+a person runs forward and to his right and jumps over something midway.
+a person jogs diagonally to his left and then slows down to a walk.
+a person is running then takes big leap.
+a man is running with arms at side.
+person appears to be running in straight line then jumps over something and continues running.
+a man is running with arms at side.
+a person runs forward and to his right and jumps over something midway.
+a man is running with arms at side.
+a person is running then takes big leap.
+a person jogs and stops.
+person appears to be running in straight line then jumps over something and continues running.
+a person jogs and stops.
+a person runs forward and to his right and jumps over something midway.
+a person jogs and stops.
+a person is running then takes big leap.

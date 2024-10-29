@@ -1,0 +1,1 @@
+a/DET person/NOUN open/VERB something/PRON like/ADP a/DET bottle/NOUN and/CCONJ tilt/VERB it/PRON to/PART drink/VERB from/ADP it/PRON then/ADV they/PRON walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ stop/VERB before/ADP reach/VERB the/DET starting/NOUN point/NOUN 

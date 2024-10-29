@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ kick/NOUN with/ADP their/PRON right/ADJ leg/NOUN twice/ADV then/ADV continue/VERB walk/VERB forward/ADV and/CCONJ punch/VERB with/ADP their/PRON left/ADJ hand/NOUN follow/VERB that/SCONJ the/DET person/NOUN walk/VERB in/ADP an/DET s/PROPN pattern/NOUN 

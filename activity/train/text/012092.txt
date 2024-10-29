@@ -1,0 +1,1 @@
+A person jogs in place in the center of a room, then turns and jogs to the edge of the room. Subsequently, they turn around and jog to the opposite side of the room, and finally, they jog back to the center of the room while performing a jogging motion.

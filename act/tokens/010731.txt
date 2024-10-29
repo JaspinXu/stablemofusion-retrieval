@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV step/NOUN around/ADP something/PRON block/VERB his/PRON path/NOUN then/ADV continue/VERB forward/ADP at/ADP a/DET normal/ADJ gait/NOUN and/CCONJ then/ADV a/DET person/NOUN kneel/VERB down/ADP with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ get/VERB on/ADP both/DET knee/NOUN 

@@ -1,0 +1,1 @@
+A person walks to his left, then to his right, subsequently walks backwards, and finally stops.

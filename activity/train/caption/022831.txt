@@ -1,0 +1,18 @@
+a person sits in place on an object.
+this person moves to the right, to the left and stops where they started.
+a person sits in place on an object.
+person steps left a few steps then steps right a few steps then back towards the left to the starting point.
+a person sits in place on an object.
+the person sliding to the left.
+the person was standing still
+this person moves to the right, to the left and stops where they started.
+the person was standing still
+person steps left a few steps then steps right a few steps then back towards the left to the starting point.
+the person was standing still
+the person sliding to the left.
+a person stands still with knees bent
+this person moves to the right, to the left and stops where they started.
+a person stands still with knees bent
+person steps left a few steps then steps right a few steps then back towards the left to the starting point.
+a person stands still with knees bent
+the person sliding to the left.

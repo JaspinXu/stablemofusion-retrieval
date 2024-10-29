@@ -1,0 +1,1 @@
+A person walks forward, pauses and turns left, then proceeds forward and spins in a circle. Subsequently, the person claps once before walking forward again and finally sits down.

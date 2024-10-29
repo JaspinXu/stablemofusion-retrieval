@@ -1,0 +1,1 @@
+the/DET man/NOUN step/VERB in/ADP an/DET s/PROPN shape/NOUN then/ADV a/DET person/NOUN quickly/ADV step/NOUN backwards/ADV shake/VERB their/PRON hand/NOUN out/ADP by/ADP their/PRON side/NOUN and/CCONJ subsequently/ADV walk/VERB forward/ADV 

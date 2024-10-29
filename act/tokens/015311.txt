@@ -1,0 +1,1 @@
+the/DET man/NOUN have/VERB a/DET cast/NOUN box/NOUN and/CCONJ then/ADV a/DET person/NOUN be/AUX pick/VERB something/PRON from/ADP his/PRON right/ADJ side/NOUN and/CCONJ transfer/VERB it/PRON to/ADP his/PRON left/ADJ side/NOUN 

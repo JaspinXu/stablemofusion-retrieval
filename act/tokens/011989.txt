@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB towards/ADP the/DET camera/NOUN leap/NOUN up/ADV and/CCONJ over/ADP an/DET object/NOUN pivot/NOUN on/ADP their/PRON left/ADJ foot/NOUN and/CCONJ then/ADV return/VERB to/PART jump/VERB back/ADV over/ADP the/DET object/NOUN once/ADV more/ADV follow/VERB that/SCONJ they/PRON walk/VERB forward/ADV and/CCONJ then/ADV step/VERB up/ADP some/DET stair/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN with/ADP its/PRON right/ADJ hand/NOUN then/ADV hold/VERB something/PRON in/ADP both/CCONJ hand/NOUN and/CCONJ move/VERB back/ADV a/DET bit/NOUN 

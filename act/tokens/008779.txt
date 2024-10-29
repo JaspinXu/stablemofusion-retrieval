@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV slowly/ADV take/VERB six/NUM step/NOUN ahead/ADV and/CCONJ continue/VERB to/PART slow/VERB walk/NOUN in/ADP the/DET same/ADJ direction/NOUN 

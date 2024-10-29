@@ -1,0 +1,12 @@
+a person is walking back and fourth.
+a man walks forward and then turn to the right and keeps walking.,
+a person is walking back and fourth.
+the man walks forward then turns left and walk away.
+a person is walking back and fourth.
+person walks forward five steps then turns left and walks towards the left diagonally.
+a person pacing back and forth, then stops in the middle.
+a man walks forward and then turn to the right and keeps walking.,
+a person pacing back and forth, then stops in the middle.
+the man walks forward then turns left and walk away.
+a person pacing back and forth, then stops in the middle.
+person walks forward five steps then turns left and walks towards the left diagonally.

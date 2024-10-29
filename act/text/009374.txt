@@ -1,0 +1,1 @@
+A person walks forward and turns left, then walks down, turns clockwise, stumbles slightly, and continues back up.

@@ -1,0 +1,8 @@
+a person walks forward and puts their hand on something two times, before continuing to walk forward.
+a person walks up the stairs and stands still.
+a person walks forward and puts their hand on something two times, before continuing to walk forward.
+a person goes up the stairs.
+a person walking diagonally while holding on to something.
+a person walks up the stairs and stands still.
+a person walking diagonally while holding on to something.
+a person goes up the stairs.

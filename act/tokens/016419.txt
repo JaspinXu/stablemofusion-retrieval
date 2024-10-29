@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV full/ADJ length/NOUN and/CCONJ then/ADV go/VERB into/ADP an/DET amateur/ADJ salsa/NOUN dance/NOUN routine/NOUN walk/VERB backwards/ADV halflength/NOUN and/CCONJ finish/VERB with/ADP a/DET 360degree/PROPN rotation/NOUN follow/VERB that/SCONJ he/PRON crouch/VERB and/CCONJ do/AUX not/PART move/VERB 

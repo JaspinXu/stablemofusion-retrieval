@@ -1,0 +1,1 @@
+the/DET sim/NOUN appear/VERB to/PART be/AUX jump/VERB up/ADV and/CCONJ down/ADV three/NUM time/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET bounce/NOUN in/ADP his/PRON step/NOUN before/ADP come/VERB to/ADP a/DET stop/NOUN 

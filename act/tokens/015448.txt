@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET diagonal/ADJ downward/NOUN and/CCONJ to/ADP the/DET right/NOUN then/ADV jog/VERB back/ADV and/CCONJ forth/ADV once/ADV before/ADP walk/VERB back/ADV to/ADP the/DET start/NOUN 

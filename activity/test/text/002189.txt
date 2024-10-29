@@ -1,0 +1,1 @@
+A person walks diagonally to his right, then turns around and walks halfway in the other direction, followed by slowly pacing forward.

@@ -1,0 +1,1 @@
+the/DET person/NOUN show/VERB the/DET range/NOUN of/ADP motion/NOUN in/ADP his/PRON arm/NOUN and/CCONJ leg/NOUN then/ADV pick/VERB an/DET item/NOUN up/ADP from/ADP the/DET ground/NOUN and/CCONJ toss/VERB it/PRON to/ADP the/DET side/NOUN follow/VERB by/ADP pick/VERB up/ADP a/DET second/ADJ item/NOUN and/CCONJ toss/VERB it/PRON as/ADV well/ADV 

@@ -1,0 +1,18 @@
+a person walks to the right side, then runs forward.
+a person walks to their left, turns and walks to the right, and then makes a final turn to walk back.
+a person walks to the right side, then runs forward.
+a person walks around aimlessly.
+a person walks to the right side, then runs forward.
+a person paces back and forth with long strides
+a person spins, begins walking while slightly turning right, then turns and jogs back from the direction they came.
+a person walks to their left, turns and walks to the right, and then makes a final turn to walk back.
+a person spins, begins walking while slightly turning right, then turns and jogs back from the direction they came.
+a person walks around aimlessly.
+a person spins, begins walking while slightly turning right, then turns and jogs back from the direction they came.
+a person paces back and forth with long strides
+this person turns and walks to the left, turns again and walks right.
+a person walks to their left, turns and walks to the right, and then makes a final turn to walk back.
+this person turns and walks to the left, turns again and walks right.
+a person walks around aimlessly.
+this person turns and walks to the left, turns again and walks right.
+a person paces back and forth with long strides

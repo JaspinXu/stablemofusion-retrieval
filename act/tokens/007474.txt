@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX drive/VERB a/DET car/NOUN then/ADV a/DET person/NOUN walk/VERB down/ADP a/DET steep/ADJ staircase/NOUN 

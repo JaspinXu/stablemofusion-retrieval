@@ -1,0 +1,18 @@
+a person standing up takes a bow forwards one time.
+a person walks directly across a room.
+a person standing up takes a bow forwards one time.
+a person moves in a 90 degree arc counterclockwise.
+a person standing up takes a bow forwards one time.
+a person is walking in a curve to the left.
+a person takes a bow forward.
+a person walks directly across a room.
+a person takes a bow forward.
+a person moves in a 90 degree arc counterclockwise.
+a person takes a bow forward.
+a person is walking in a curve to the left.
+person bends backward to arch back and stands back up.
+a person walks directly across a room.
+person bends backward to arch back and stands back up.
+a person moves in a 90 degree arc counterclockwise.
+person bends backward to arch back and stands back up.
+a person is walking in a curve to the left.

@@ -1,0 +1,1 @@
+the/DET figure/NOUN be/AUX walk/VERB then/ADV touch/VERB the/DET ground/NOUN and/CCONJ walk/VERB back/ADV to/PART touch/VERB the/DET ground/NOUN again/ADV on/ADP the/DET way/NOUN back/ADV follow/VERB that/SCONJ the/DET figure/NOUN rotate/VERB its/PRON upper/ADJ body/NOUN clockwise/NOUN and/CCONJ then/ADV rotate/VERB its/PRON hip/NOUN clockwise/NOUN 

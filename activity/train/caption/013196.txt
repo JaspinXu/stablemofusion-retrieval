@@ -1,0 +1,4 @@
+a person sits down and gets up.
+a person walks across the space, then starts to walk the other direction.
+a person walks forward, turns around and squats. then stands up and walks back the direction it came from.
+a person walks across the space, then starts to walk the other direction.

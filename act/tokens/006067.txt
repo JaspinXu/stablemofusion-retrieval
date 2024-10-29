@@ -1,0 +1,1 @@
+a/DET man/NOUN squat/NOUN and/CCONJ stand/VERB as/SCONJ if/SCONJ lift/VERB a/DET dumbbell/NOUN then/ADV walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN 

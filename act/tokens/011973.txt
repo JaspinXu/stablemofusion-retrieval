@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM normal/ADJ stride/NOUN forward/ADV follow/VERB by/ADP a/DET large/ADJ stride/NOUN with/ADP their/PRON right/ADJ leg/NOUN lead/VERB after/SCONJ that/SCONJ the/DET person/NOUN take/VERB one/NUM more/ADV normal/ADJ stride/NOUN forward/ADV maintain/VERB a/DET straight/ADJ line/NOUN that/PRON be/AUX slightly/ADV lean/VERB to/ADP the/DET right/NOUN 

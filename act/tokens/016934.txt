@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP pick/NOUN up/ADP something/PRON and/CCONJ continue/VERB in/ADP the/DET opposite/ADJ direction/NOUN while/SCONJ a/DET person/NOUN simultaneously/ADV do/VERB a/DET clockwise/NOUN motion/NOUN with/ADP their/PRON right/ADJ hand/NOUN 

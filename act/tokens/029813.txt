@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET slow/ADJ stoop/VERB pace/NOUN while/SCONJ hold/VERB a/DET cane/NOUN in/ADP his/PRON right/ADJ hand/NOUN then/ADV a/DET man/NOUN cross/VERB his/PRON arm/NOUN in/ADP front/NOUN of/ADP he/PRON swing/VERB they/PRON side/ADV to/PART side/VERB and/CCONJ subsequently/ADV move/VERB they/PRON up/ADP and/CCONJ down/ADP 

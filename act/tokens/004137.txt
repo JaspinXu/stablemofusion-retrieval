@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB and/CCONJ kick/VERB their/PRON foot/NOUN simultaneously/ADV move/VERB the/DET bottom/ADJ half/NOUN of/ADP their/PRON right/ADJ arm/NOUN in/ADP a/DET circle/NOUN while/SCONJ the/DET bottom/ADJ half/NOUN of/ADP their/PRON left/ADJ arm/NOUN also/ADV move/VERB in/ADP a/DET circle/NOUN 

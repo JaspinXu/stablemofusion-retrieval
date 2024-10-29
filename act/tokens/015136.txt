@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET scary/ADJ gesture/NOUN with/ADP its/PRON arm/NOUN and/CCONJ then/ADV perform/VERB a/DET 180degree/PROPN circle/NOUN later/ADV walk/VERB while/SCONJ hold/VERB his/PRON injure/VERB arm/NOUN 

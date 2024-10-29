@@ -1,0 +1,1 @@
+a/DET person/NOUN appear/VERB to/PART be/AUX engage/VERB in/ADP a/DET conversation/NOUN and/CCONJ then/ADV they/PRON start/VERB warm/VERB up/ADP by/ADP rotate/VERB their/PRON arm/NOUN first/ADV they/PRON rotate/VERB they/PRON counterclockwise/NOUN and/CCONJ then/ADV clockwise/VERB 

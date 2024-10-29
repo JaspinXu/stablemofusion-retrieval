@@ -1,0 +1,1 @@
+A person jumps up once, then jumps higher the second time, and after that, they pick up something from the floor, look to their left, and walk towards their left.

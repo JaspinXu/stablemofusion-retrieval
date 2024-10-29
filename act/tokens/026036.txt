@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB diagonally/ADV backwards/ADV as/SCONJ if/SCONJ drag/VERB one/NUM leg/NOUN then/ADV walk/VERB forward/ADV turn/VERB around/ADP counterclockwise/NOUN and/CCONJ walk/VERB back/ADV after/SCONJ that/PRON they/PRON repeat/VERB the/DET entire/ADJ process/NOUN but/CCONJ this/DET time/NOUN the/DET turn/NOUN be/AUX clockwise/NOUN 

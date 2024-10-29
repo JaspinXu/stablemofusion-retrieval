@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB forward/ADV then/ADV swat/NOUN and/CCONJ afterward/ADV walk/VERB back/ADV while/SCONJ a/DET man/NOUN also/ADV walk/VERB forward/ADV and/CCONJ then/ADV turn/VERB left/ADJ 

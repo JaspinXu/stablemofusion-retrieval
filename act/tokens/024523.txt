@@ -1,0 +1,1 @@
+a/DET person/NOUN crumble/VERB an/DET item/NOUN and/CCONJ put/VERB it/PRON on/ADP a/DET surface/NOUN then/ADV they/PRON pick/VERB up/ADP a/DET second/ADJ item/NOUN and/CCONJ place/VERB it/PRON on/ADP the/DET surface/NOUN as/ADV well/ADV while/SCONJ a/DET young/ADJ kid/NOUN observe/VERB the/DET action/NOUN with/ADP interest/NOUN 

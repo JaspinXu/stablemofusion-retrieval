@@ -1,0 +1,1 @@
+The sim appears to be standing still, then positions an object onto their left side.

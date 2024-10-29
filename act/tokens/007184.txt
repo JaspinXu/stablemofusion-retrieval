@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX push/VERB to/ADP the/DET left/NOUN but/CCONJ do/AUX not/PART fall/VERB down/ADP then/ADV the/DET figure/NOUN walk/VERB forward/ADV with/ADP his/PRON left/ADJ foot/NOUN subsequently/ADV continue/VERB to/PART walk/VERB forward/ADV before/ADP turn/VERB on/ADP his/PRON right/ADJ foot/NOUN and/CCONJ walk/VERB forward/ADV again/ADV 

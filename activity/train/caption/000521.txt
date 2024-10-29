@@ -1,0 +1,18 @@
+person person is applauding someone.
+a person jogs forward at a fast pace
+person person is applauding someone.
+a person jogs at a normal pace.
+person person is applauding someone.
+a person is jogging in place.
+a person is clapping their hands.
+a person jogs forward at a fast pace
+a person is clapping their hands.
+a person jogs at a normal pace.
+a person is clapping their hands.
+a person is jogging in place.
+someone standing and claps the hands.
+a person jogs forward at a fast pace
+someone standing and claps the hands.
+a person jogs at a normal pace.
+someone standing and claps the hands.
+a person is jogging in place.

@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB by/ADP do/VERB squat/NOUN at/ADP the/DET gym/NOUN then/ADV stand/VERB up/ADP and/CCONJ jump/VERB forward/ADV 

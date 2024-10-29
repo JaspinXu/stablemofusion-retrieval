@@ -1,0 +1,1 @@
+A person runs to the left, then turns around and runs to the right, subsequently running towards the middle. After that, he raises his arms, steps onto a beam, walks the length of the beam, steps off the beam, and finally stops.

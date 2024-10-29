@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB by/ADP twitch/VERB both/DET arm/NOUN in/ADP a/DET robotic/ADJ way/NOUN then/ADV walk/VERB in/ADP a/DET forwardface/VERB zigzag/PROPN motion/NOUN 

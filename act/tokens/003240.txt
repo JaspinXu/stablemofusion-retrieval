@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV three/NUM step/NOUN then/ADV jog/VERB before/ADP come/VERB to/ADP a/DET stop/NOUN 

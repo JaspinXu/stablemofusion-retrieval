@@ -1,0 +1,1 @@
+The sim walks backwards down the plane, then the man moves to the side.

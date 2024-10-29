@@ -1,0 +1,1 @@
+a/DET person/NOUN wander/VERB forward/ADV then/ADV stop/VERB and/CCONJ turn/VERB to/PART wander/VERB backward/ADV follow/VERB by/ADP turn/VERB counterclockwise/NOUN 180/NUM degree/NOUN walk/VERB straight/ADV and/CCONJ then/ADV turn/VERB counterclockwise/NOUN 180/NUM degree/NOUN again/ADV 

@@ -1,0 +1,12 @@
+the person is walking up the stairs and stood still.
+a person jogs forward and semi circles around to the right and then to the left.
+the person is walking up the stairs and stood still.
+a person jogs around a small area.
+the person is walking up the stairs and stood still.
+a person jogs downwards towards the right hand side, then turns around and jogs a long counterclockwise arc to the left and then jogs a clockwise arc to the right side.
+a person walks up a few steps, turns around at the top, and then walks back down the steps
+a person jogs forward and semi circles around to the right and then to the left.
+a person walks up a few steps, turns around at the top, and then walks back down the steps
+a person jogs around a small area.
+a person walks up a few steps, turns around at the top, and then walks back down the steps
+a person jogs downwards towards the right hand side, then turns around and jogs a long counterclockwise arc to the left and then jogs a clockwise arc to the right side.

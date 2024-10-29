@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV then/ADV pick/VERB up/ADP an/DET item/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ set/VERB it/PRON down/ADP somewhere/ADV else/ADV 

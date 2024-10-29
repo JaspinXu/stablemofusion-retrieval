@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV and/CCONJ backward/ADV then/ADV run/VERB counter/ADJ clockwise/NOUN before/ADP turn/VERB around/ADV and/CCONJ run/VERB clockwise/NOUN 

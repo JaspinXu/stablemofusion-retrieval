@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV sit/VERB down/ADP after/SCONJ that/SCONJ they/PRON continue/AUX walk/VERB in/ADP the/DET same/ADJ direction/NOUN while/SCONJ also/ADV drink/VERB from/ADP a/DET glass/NOUN in/ADP their/PRON left/ADJ hand/NOUN 

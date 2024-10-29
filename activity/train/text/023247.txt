@@ -1,0 +1,1 @@
+The man walks forward, then walks backwards in a diagonal formation away from his original trajectory. He then repeats the same diagonal backwards movement in the other direction. After that, he gets down on one bended knee.

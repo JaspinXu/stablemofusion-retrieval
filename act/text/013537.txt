@@ -1,0 +1,1 @@
+A person walks forward down a slope, then turns around, sits down, stands up, and continues walking.

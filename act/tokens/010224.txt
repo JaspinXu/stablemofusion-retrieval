@@ -1,0 +1,1 @@
+the/DET person/NOUN step/VERB back/ADV two/NUM step/NOUN and/CCONJ then/ADV come/VERB forward/ADV two/NUM step/NOUN subsequently/ADV walk/VERB forward/ADV and/CCONJ then/ADV back/ADV 

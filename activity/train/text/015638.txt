@@ -1,0 +1,1 @@
+A figure takes one short step to the right, then it is pushed from the left side.

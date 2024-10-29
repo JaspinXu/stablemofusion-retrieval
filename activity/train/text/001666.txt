@@ -1,0 +1,1 @@
+A person jumps and spins around, then the sim walks a few steps down the plane.

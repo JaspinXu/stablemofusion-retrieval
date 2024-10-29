@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN and/CCONJ then/ADV perform/VERB a/DET golf/NOUN swing/NOUN 

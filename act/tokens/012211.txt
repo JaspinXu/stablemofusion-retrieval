@@ -1,0 +1,1 @@
+a/DET person/NOUN slightly/ADV wobbly/ADV walk/VERB forward/ADV while/SCONJ grab/VERB onto/ADP railing/NOUN on/ADP both/DET side/NOUN and/CCONJ then/ADV press/VERB some/DET button/NOUN in/ADP a/DET specific/ADJ order/NOUN like/ADP a/DET passcode/NOUN 

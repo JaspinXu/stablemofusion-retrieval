@@ -1,0 +1,18 @@
+person steps down from platform, walks forward, then walks back up on platform
+a person walks with both feet pointed inwards.
+person steps down from platform, walks forward, then walks back up on platform
+a man turns and walks away, leaving a trail behind him.
+person steps down from platform, walks forward, then walks back up on platform
+a person turns around and walks forward from a standing position.
+a person steps down from an object,
+a person walks with both feet pointed inwards.
+a person steps down from an object,
+a man turns and walks away, leaving a trail behind him.
+a person steps down from an object,
+a person turns around and walks forward from a standing position.
+the person walks slowly up to elevated platform
+a person walks with both feet pointed inwards.
+the person walks slowly up to elevated platform
+a man turns and walks away, leaving a trail behind him.
+the person walks slowly up to elevated platform
+a person turns around and walks forward from a standing position.

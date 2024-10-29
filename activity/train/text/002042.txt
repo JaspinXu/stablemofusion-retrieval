@@ -1,0 +1,1 @@
+A person walks forward and veers to the right, then stops, subsequently continuing to walk slowly before stopping again.

@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV perform/VERB a/DET jump/NOUN and/CCONJ spin/VERB in/ADP one/NUM spot/NOUN then/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN while/SCONJ face/VERB forward/ADV and/CCONJ subsequently/ADV turn/VERB to/ADP their/PRON left/NOUN as/SCONJ they/PRON complete/VERB the/DET circle/NOUN 

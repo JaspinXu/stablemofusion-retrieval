@@ -1,0 +1,6 @@
+a person walks forward, then takes a big step in between then continues to walks forward.
+a person is walking and then pivots, and turns in the other direction.
+a person walks forward, then takes a big step in between then continues to walks forward.
+a person slowly walked forward, and return
+a person walks forward, then takes a big step in between then continues to walks forward.
+a person walks straight and then swings around to the left and walks back.

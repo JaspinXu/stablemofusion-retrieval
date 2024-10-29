@@ -1,0 +1,1 @@
+A figure walks forward, then turns 180 degrees from the left before walking back towards the starting point, and subsequently, a person puts a golf ball on a tee.

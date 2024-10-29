@@ -1,0 +1,1 @@
+The toon walks across the plane at a normal speed and then continues slowly walking forward towards something.

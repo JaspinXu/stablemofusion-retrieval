@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB upstairs/ADV and/CCONJ then/ADV subsequently/ADV walk/VERB downstairs/ADV after/SCONJ that/PRON a/DET man/NOUN jump/VERB up/ADP and/CCONJ down/ADV 10/NUM time/NOUN 

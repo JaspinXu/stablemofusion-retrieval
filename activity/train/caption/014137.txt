@@ -1,0 +1,18 @@
+a person walks forward at a moderate pace, then turns around clockwise.
+a person walks forward 3 steps, grabs something and moves it over, and then walks back.
+a person walks forward at a moderate pace, then turns around clockwise.
+this person walks forward and moves something then steps backwards.
+a person walks forward at a moderate pace, then turns around clockwise.
+the person is whisking food.
+a person walks forward and turns around.
+a person walks forward 3 steps, grabs something and moves it over, and then walks back.
+a person walks forward and turns around.
+this person walks forward and moves something then steps backwards.
+a person walks forward and turns around.
+the person is whisking food.
+the person was walking normally.
+a person walks forward 3 steps, grabs something and moves it over, and then walks back.
+the person was walking normally.
+this person walks forward and moves something then steps backwards.
+the person was walking normally.
+the person is whisking food.

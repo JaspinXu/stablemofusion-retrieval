@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB backwards/ADV in/ADP an/DET anticlockwise/NOUN direction/NOUN while/SCONJ draw/VERB a/DET line/NOUN with/ADP their/PRON foot/NOUN then/ADV seamlessly/ADV transition/NOUN into/ADP a/DET salsa/NOUN dance/NOUN 

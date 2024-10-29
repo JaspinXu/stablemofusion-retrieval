@@ -1,0 +1,1 @@
+the/DET person/NOUN bend/VERB down/ADP perform/VERB a/DET flip/NOUN on/ADP the/DET ground/NOUN and/CCONJ then/ADV get/VERB up/ADP from/ADP the/DET flip/ADJ subsequently/ADV they/PRON cross/VERB their/PRON arm/NOUN and/CCONJ return/VERB to/ADP a/DET resting/NOUN position/NOUN 

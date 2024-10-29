@@ -1,0 +1,1 @@
+A person runs and jumps over an object, then turns around and jumps over it again. Following that, they crouch down and move on their hands and feet like an animal.

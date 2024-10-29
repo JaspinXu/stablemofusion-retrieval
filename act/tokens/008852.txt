@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB a/DET big/ADJ step/NOUN forward/ADV with/ADP his/PRON right/ADJ foot/NOUN first/ADV then/ADV a/DET person/NOUN continue/VERB to/PART walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ 

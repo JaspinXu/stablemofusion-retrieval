@@ -1,0 +1,1 @@
+a/DET person/NOUN handle/VERB an/DET object/NOUN walk/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV set/VERB it/PRON down/ADP subsequently/ADV the/DET same/ADJ person/NOUN appear/VERB to/PART walk/VERB toward/ADP another/DET object/NOUN knock/VERB or/CCONJ tap/VERB it/PRON with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ then/ADV walk/VERB away/ADV again/ADV 

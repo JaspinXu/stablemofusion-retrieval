@@ -1,0 +1,1 @@
+A person takes steps to the left and to the right before then taking a step to his right and subsequently standing in place.

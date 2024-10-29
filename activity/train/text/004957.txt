@@ -1,0 +1,1 @@
+A man steps backward towards the right side, then steps forward towards the left side, subsequently standing still before taking a step forward to the right diagonally.

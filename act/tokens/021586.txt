@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jog/VERB around/ADV in/ADP a/DET circle/NOUN then/ADV step/VERB forward/ADJ duck/NOUN twice/ADV to/ADP the/DET left/ADJ and/CCONJ finally/ADV duck/VERB once/ADV to/ADP the/DET right/NOUN 

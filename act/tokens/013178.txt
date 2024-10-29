@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pick/VERB something/PRON up/ADP with/ADP the/DET left/ADJ hand/NOUN then/ADV walk/VERB backwards/ADV to/ADP the/DET original/ADJ position/NOUN next/SCONJ they/PRON walk/VERB zigzag/PROPN forwards/ADV and/CCONJ then/ADV to/ADP their/PRON left/ADJ 

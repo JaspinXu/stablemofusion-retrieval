@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV forwards/ADV in/ADP a/DET circular/ADJ pattern/NOUN and/CCONJ subsequently/ADV make/VERB a/DET motion/NOUN of/ADP move/VERB something/PRON from/ADP one/NUM place/NOUN to/ADP another/PRON 

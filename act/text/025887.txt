@@ -1,0 +1,1 @@
+A robot walks up the stairs, then turns back and walks down the stairs. Following that, a person turns around and limps slowly in a straight line, and then turns around again.

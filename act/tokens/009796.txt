@@ -1,0 +1,1 @@
+a/DET man/NOUN shrug/VERB his/PRON shoulder/NOUN then/ADV raise/VERB his/PRON arm/NOUN and/CCONJ lower/VERB they/PRON back/ADV down/ADV follow/VERB that/SCONJ a/DET person/NOUN take/VERB two/NUM step/NOUN towards/ADP the/DET front/NOUN then/ADV turn/VERB around/ADV and/CCONJ take/VERB two/NUM step/NOUN towards/ADP the/DET back/NOUN 

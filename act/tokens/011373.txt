@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB into/ADP an/DET object/NOUN that/PRON abruptly/ADV knock/VERB it/PRON backward/ADV then/ADV take/VERB a/DET step/NOUN back/ADV proceed/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ subsequently/ADV jump/VERB in/ADP one/NUM place/NOUN use/VERB a/DET jump/NOUN rope/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV a/DET man/NOUN stand/VERB ready/ADJ to/PART defend/VERB and/CCONJ sway/VERB back/ADV to/PART avoid/VERB a/DET punch/NOUN 

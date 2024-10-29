@@ -1,0 +1,1 @@
+a/DET walk/VERB man/NOUN make/VERB a/DET left/ADJ turn/NOUN then/ADV a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV 

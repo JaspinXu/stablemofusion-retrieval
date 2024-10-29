@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ route/NOUN to/ADP the/DET right/ADJ then/ADV walk/VERB in/ADP a/DET circle/NOUN two/NUM time/NOUN 

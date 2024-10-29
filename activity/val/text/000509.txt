@@ -1,0 +1,1 @@
+A person walks forward, then turns to their left and continues to walk, subsequently walking further to his left.

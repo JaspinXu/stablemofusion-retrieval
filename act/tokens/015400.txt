@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV from/ADP right/ADV to/ADP leave/VERB then/ADV stop/VERB in/ADP the/DET middle/NOUN subsequently/ADV they/PRON begin/VERB to/PART walk/VERB slowly/ADV in/ADP a/DET counterclockwise/NOUN direction/NOUN while/SCONJ hunch/VERB their/PRON body/NOUN back/ADV with/ADP elbow/NOUN bent/ADJ 

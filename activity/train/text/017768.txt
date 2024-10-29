@@ -1,0 +1,1 @@
+The sim takes a step forward, then raises their right arm before making a waving motion. Following that, the person takes two more steps forward and begins waving their right hand.

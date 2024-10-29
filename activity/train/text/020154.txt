@@ -1,0 +1,1 @@
+A person walks back-and-forth following the same arch-like path, then moves in a semi-circle, and after reaching the end of the semi-circle, they walk back along the same path, ending where they started.

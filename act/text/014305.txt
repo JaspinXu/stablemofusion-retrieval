@@ -1,0 +1,1 @@
+A man is walking left and right, then he rotates an object counter-clockwise.

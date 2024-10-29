@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ path/NOUN at/ADP a/DET slow/ADJ pace/NOUN take/VERB four/NUM step/NOUN with/ADP their/PRON arm/NOUN at/ADP their/PRON side/NOUN then/ADV wipe/VERB off/ADP a/DET counter/NOUN before/ADP return/VERB to/ADP a/DET neutral/ADJ pose/NOUN 

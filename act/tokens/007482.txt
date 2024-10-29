@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB on/ADP a/DET right/ADJ curve/NOUN then/ADV move/VERB from/ADP one/NUM wall/NOUN to/ADP the/DET wall/NOUN on/ADP his/PRON left/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN 

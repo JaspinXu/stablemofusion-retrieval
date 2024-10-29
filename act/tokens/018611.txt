@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON hand/NOUN clockwise/NOUN and/CCONJ counterclockwise/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN follow/VERB that/SCONJ they/PRON stumble/VERB turn/VERB around/ADV and/CCONJ walk/VERB back/ADV but/CCONJ unfortunately/ADV stumble/VERB again/ADV at/ADP the/DET end/NOUN 

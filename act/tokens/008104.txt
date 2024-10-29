@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ stop/VERB at/ADP the/DET front/NOUN then/ADV a/DET person/NOUN on/ADP the/DET floor/NOUN in/ADP a/DET pushup/NOUN position/NOUN get/VERB up/ADV 

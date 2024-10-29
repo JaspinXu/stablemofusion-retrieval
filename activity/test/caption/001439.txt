@@ -1,0 +1,18 @@
+the person is walking and making a right turn.
+a person walks straight and turns to the left
+the person is walking and making a right turn.
+a person walks and turns left
+the person is walking and making a right turn.
+a person walks in a counterclockwise quarter circle.
+a person walks in an arc slightly to their right.
+a person walks straight and turns to the left
+a person walks in an arc slightly to their right.
+a person walks and turns left
+a person walks in an arc slightly to their right.
+a person walks in a counterclockwise quarter circle.
+a person walks forward and to the left.
+a person walks straight and turns to the left
+a person walks forward and to the left.
+a person walks and turns left
+a person walks forward and to the left.
+a person walks in a counterclockwise quarter circle.

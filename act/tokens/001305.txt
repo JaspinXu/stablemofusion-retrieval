@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV curve/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV continue/VERB walk/VERB at/ADP the/DET edge/NOUN of/ADP a/DET rectangle/NOUN on/ADP the/DET floor/NOUN before/ADP reach/VERB the/DET other/ADJ side/NOUN of/ADP it/PRON 

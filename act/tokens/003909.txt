@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB a/DET step/NOUN back/ADV to/ADP his/PRON left/NOUN then/ADV a/DET person/NOUN walk/VERB down/ADV one/NUM step/NOUN move/VERB slightly/ADV to/ADP their/PRON left/ADJ 

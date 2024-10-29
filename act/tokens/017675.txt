@@ -1,0 +1,1 @@
+the/DET person/NOUN start/VERB look/VERB around/ADV for/ADP help/NOUN and/CCONJ then/ADV the/DET man/NOUN be/AUX move/VERB in/ADP a/DET circular/ADJ motion/NOUN 

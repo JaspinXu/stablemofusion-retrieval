@@ -1,0 +1,1 @@
+a/DET person/NOUN seem/VERB to/PART be/AUX crawl/VERB on/ADP the/DET floor/NOUN and/CCONJ then/ADV someone/PRON walk/VERB five/NUM foot/NOUN before/ADP sit/VERB down/ADP on/ADP a/DET chair/NOUN for/ADP a/DET second/ADJ after/ADV that/SCONJ they/PRON get/VERB up/ADP and/CCONJ walk/VERB back/ADV five/NUM foot/NOUN 

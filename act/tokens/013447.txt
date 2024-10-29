@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB sideways/ADV to/ADP their/PRON left/NOUN then/ADV the/DET person/NOUN stand/VERB in/ADP the/DET middle/ADJ walk/NOUN to/ADP the/DET right/ADJ side/NOUN two/NUM step/NOUN back/ADV to/ADP the/DET left/ADJ side/NOUN five/NUM step/NOUN then/ADV back/ADV to/ADP the/DET right/ADJ three/NUM step/NOUN before/ADP stop/VERB in/ADP the/DET middle/ADJ 

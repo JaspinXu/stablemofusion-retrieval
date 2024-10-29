@@ -1,0 +1,1 @@
+A stick figure stands still momentarily before walking in a counterclockwise curve motion, then a person jogs forward 4 spaces before stopping.

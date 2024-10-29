@@ -1,0 +1,1 @@
+a/DET person/NOUN sashay/VERB to/ADP the/DET right/NOUN then/ADV sashay/VERB to/ADP the/DET left/NOUN subsequently/ADV sashay/VERB again/ADV to/ADP the/DET right/NOUN and/CCONJ finally/ADV sashay/VERB one/NUM more/ADJ time/NOUN to/ADP the/DET left/NOUN while/SCONJ dance/VERB 

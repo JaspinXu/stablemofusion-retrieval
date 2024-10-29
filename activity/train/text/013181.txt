@@ -1,0 +1,1 @@
+A standing person walks to the right, then to the left, and again to the right, stopping at their original standing position. After that, they walk to their left, turn around to their right, and walk back with their arms swinging.

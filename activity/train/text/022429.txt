@@ -1,0 +1,1 @@
+A person slowly moves in the left direction, then walks backwards up a ramp.

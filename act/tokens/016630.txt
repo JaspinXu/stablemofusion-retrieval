@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET shuffled/ADJ gait/NOUN then/ADV turn/VERB around/ADV and/CCONJ take/VERB several/ADJ step/NOUN back/ADV in/ADP the/DET same/ADJ shuffle/VERB manner/NOUN subsequently/ADV the/DET person/NOUN lower/VERB their/PRON arm/NOUN and/CCONJ step/NOUN forward/ADV and/CCONJ then/ADV jump/VERB leave/VERB and/CCONJ right/ADV repeatedly/ADV 

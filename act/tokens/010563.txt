@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB three/NUM time/NOUN go/VERB higher/ADV each/DET time/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV stumble/NOUN to/ADP their/PRON right/ADJ correct/NOUN and/CCONJ continue/VERB walk/VERB forward/ADV 

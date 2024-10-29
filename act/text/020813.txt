@@ -1,0 +1,1 @@
+A person walks around and reaches up, then sidesteps to the right 2 steps, next sidesteps to the left 4 steps, and finally sidesteps to the right 2 steps.

@@ -1,0 +1,1 @@
+An individual takes a few steps forward, bends down to pick something up, and then walks back to the start location. Following that, a person walks up to fix something and subsequently walks back.

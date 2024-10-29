@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV turn/VERB right/ADV and/CCONJ then/ADV subsequently/ADV walk/VERB around/ADP the/DET bend/NOUN to/ADP the/DET left/ADJ 

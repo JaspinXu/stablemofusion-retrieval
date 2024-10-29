@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX jump/VERB 90/NUM degree/NOUN in/ADP the/DET air/NOUN then/ADV seem/VERB to/PART be/AUX practice/VERB kick/VERB a/DET soccer/NOUN ball/NOUN with/ADP his/PRON left/ADJ foot/NOUN 

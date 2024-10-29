@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV four/NUM stair/NOUN start/VERB with/ADP the/DET left/ADJ leg/NOUN while/SCONJ the/DET left/ADJ hand/NOUN hold/VERB onto/ADP a/DET railing/NOUN then/ADV the/DET person/NOUN cast/VERB something/PRON 

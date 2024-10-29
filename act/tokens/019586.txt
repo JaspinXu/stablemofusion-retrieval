@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP then/ADV get/VERB up/ADP and/CCONJ walk/VERB around/ADV in/ADP a/DET circle/NOUN while/SCONJ simultaneously/ADV execute/VERB a/DET rolling/ADJ motion/NOUN with/ADP his/PRON hand/NOUN follow/VERB by/ADP an/DET up/ADJ and/CCONJ down/ADP motion/NOUN 

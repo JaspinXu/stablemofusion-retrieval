@@ -1,0 +1,1 @@
+A person walks in a circular motion but does not complete a full circle; then, they take 4 steps forward, 3 steps back quickly, and afterwards walk forward 5 more steps.

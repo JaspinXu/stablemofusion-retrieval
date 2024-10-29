@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 5/NUM step/NOUN forward/ADV then/ADV take/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV spin/NOUN around/ADV while/SCONJ sweep/VERB his/PRON left/ADJ arm/NOUN and/CCONJ subsequently/ADV step/VERB back/ADV to/ADP his/PRON original/ADJ position/NOUN 

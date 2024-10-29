@@ -1,0 +1,1 @@
+A person walks with a limp, then walks back diagonally, followed by moving forward diagonally, turns around twice, and finally returns to the original position.

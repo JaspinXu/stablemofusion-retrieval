@@ -1,0 +1,1 @@
+a/DET figure/NOUN take/VERB two/NUM small/ADJ jump/NOUN then/ADV a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN in/ADP a/DET curved/ADJ path/NOUN to/ADP the/DET right/NOUN 

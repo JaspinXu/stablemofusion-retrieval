@@ -1,0 +1,1 @@
+a/DET person/NOUN swing/VERB their/PRON right/ADJ arm/NOUN in/ADP a/DET circle/NOUN then/ADV swing/VERB it/PRON in/ADP a/DET circle/NOUN backwards/ADV and/CCONJ after/ADP that/PRON a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET right/ADJ side/NOUN and/CCONJ place/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN 

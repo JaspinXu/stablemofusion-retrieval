@@ -1,0 +1,1 @@
+a/DET person/NOUN execute/VERB four/NUM kick/NOUN two/NUM go/VERB forward/ADV and/CCONJ two/NUM go/VERB backward/ADV then/ADV the/DET man/NOUN start/VERB walk/VERB in/ADP an/DET anticlockwise/NOUN direction/NOUN and/CCONJ make/VERB a/DET circle/NOUN 

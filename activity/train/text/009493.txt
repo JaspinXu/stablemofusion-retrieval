@@ -1,0 +1,1 @@
+A person jogs in place, then begins to walk forward when pushed to the left, after which they move back to their initial line of walking.

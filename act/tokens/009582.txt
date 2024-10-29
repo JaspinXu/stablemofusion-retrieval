@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV start/VERB with/ADP the/DET right/ADJ foot/NOUN then/ADV walk/VERB at/ADP a/DET moderate/ADJ pace/NOUN in/ADP an/DET oval/NOUN shape/NOUN without/ADP complete/VERB the/DET full/ADJ loop/NOUN 

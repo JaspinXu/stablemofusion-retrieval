@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB by/ADP do/VERB the/DET waltz/NOUN dance/NOUN then/ADV crouch/VERB slightly/ADV and/CCONJ sneak/VERB forward/ADV before/ADP turn/VERB around/ADV and/CCONJ sneak/VERB back/ADP 

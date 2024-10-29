@@ -1,0 +1,1 @@
+a/DET person/NOUN kick/VERB two/NUM time/NOUN on/ADP his/PRON right/NOUN then/ADV kick/VERB forward/ADV two/NUM time/NOUN subsequently/ADV high/ADJ kicking/NOUN with/ADP his/PRON right/ADJ leg/NOUN twice/ADV and/CCONJ finally/ADV high/ADJ kicking/NOUN with/ADP their/PRON left/ADJ leg/NOUN twice/ADV 

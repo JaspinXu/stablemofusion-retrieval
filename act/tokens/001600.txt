@@ -1,0 +1,1 @@
+a/DET person/NOUN dribble/VERB a/DET ball/NOUN with/ADP both/DET hand/NOUN take/VERB a/DET step/NOUN forward/ADV and/CCONJ then/ADV jump/VERB up/ADP with/ADP their/PRON left/ADJ arm/NOUN extend/VERB above/ADP they/PRON while/SCONJ another/DET person/NOUN walk/VERB forward/ADV side/NOUN by/ADP side/NOUN in/ADP a/DET very/ADV crooked/ADJ manner/NOUN 

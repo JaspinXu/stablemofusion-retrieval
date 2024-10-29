@@ -1,0 +1,1 @@
+A person takes 5 steps forward, starting and ending with their left foot. After that, the person walks forward, takes a few more steps, then turns around and takes additional steps before stopping.

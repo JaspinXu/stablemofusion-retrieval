@@ -1,0 +1,18 @@
+a person walks forward, reaches the edge and halts.
+a person turns and crouches, as if sitting in a chair, then gets up and walks forward a few steps.
+a person walks forward, reaches the edge and halts.
+person turns to side then sits in chair then gets out of chair and walks forward
+a person walks forward, reaches the edge and halts.
+a standing person makes a 1/4 turn to his left. then steps backwards and sets into a chair, leaning back into it. he then gets up and returns to his original position
+a person is standing at the top of a ramp, then takes 4 steps down the ramp, left foot first.
+a person turns and crouches, as if sitting in a chair, then gets up and walks forward a few steps.
+a person is standing at the top of a ramp, then takes 4 steps down the ramp, left foot first.
+person turns to side then sits in chair then gets out of chair and walks forward
+a person is standing at the top of a ramp, then takes 4 steps down the ramp, left foot first.
+a standing person makes a 1/4 turn to his left. then steps backwards and sets into a chair, leaning back into it. he then gets up and returns to his original position
+a person is standing, then walks forward and comes to a stop
+a person turns and crouches, as if sitting in a chair, then gets up and walks forward a few steps.
+a person is standing, then walks forward and comes to a stop
+person turns to side then sits in chair then gets out of chair and walks forward
+a person is standing, then walks forward and comes to a stop
+a standing person makes a 1/4 turn to his left. then steps backwards and sets into a chair, leaning back into it. he then gets up and returns to his original position

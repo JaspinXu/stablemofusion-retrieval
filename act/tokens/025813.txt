@@ -1,0 +1,1 @@
+a/DET person/NOUN make/VERB a/DET motion/NOUN by/ADP lift/VERB from/ADP the/DET low/ADJ right/ADJ side/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV back/ADV again/ADV subsequently/ADV move/VERB their/PRON arm/NOUN like/ADP a/DET monkey/NOUN 

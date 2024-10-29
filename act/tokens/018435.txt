@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB briskly/ADV in/ADP a/DET clockwise/NOUN semicircle/NOUN then/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN after/SCONJ that/PRON he/PRON stand/VERB up/ADP and/CCONJ resume/VERB walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN while/SCONJ a/DET person/NOUN nearby/ADV be/AUX drink/VERB from/ADP a/DET glass/NOUN in/ADP their/PRON right/ADJ hand/NOUN 

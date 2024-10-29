@@ -1,0 +1,18 @@
+person quickly takes 3 steps in a straight forward direction
+a person throws something with their left hand
+person quickly takes 3 steps in a straight forward direction
+a person throws something overhand with their left hand
+person quickly takes 3 steps in a straight forward direction
+a person throws with his left hand.
+a person takes a couple quick steps forward.
+a person throws something with their left hand
+a person takes a couple quick steps forward.
+a person throws something overhand with their left hand
+a person takes a couple quick steps forward.
+a person throws with his left hand.
+a person quickly walks forward.
+a person throws something with their left hand
+a person quickly walks forward.
+a person throws something overhand with their left hand
+a person quickly walks forward.
+a person throws with his left hand.

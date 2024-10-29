@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB over/ADP to/ADP an/DET object/NOUN on/ADP a/DET table/NOUN pick/VERB up/ADP something/PRON and/CCONJ use/VERB it/PRON to/PART wipe/VERB all/ADV around/ADP the/DET object/NOUN then/ADV as/SCONJ the/DET person/NOUN continue/VERB walk/VERB forward/ADV they/PRON be/AUX surprise/VERB by/ADP someone/PRON 

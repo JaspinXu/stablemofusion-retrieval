@@ -1,0 +1,1 @@
+A person runs backwards while performing an 'A' like pattern, then subsequently takes sideways steps to his left, and immediately afterward takes sideways steps to his right back towards his original position.

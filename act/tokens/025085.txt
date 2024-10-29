@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM large/ADJ step/NOUN forward/ADV then/ADV pivot/VERB on/ADP the/DET right/ADJ leg/NOUN and/CCONJ take/VERB several/ADJ step/NOUN back/ADV to/ADP the/DET starting/NOUN position/NOUN after/SCONJ that/SCONJ the/DET man/NOUN stroke/VERB a/DET guitar/NOUN one/NUM time/NOUN 

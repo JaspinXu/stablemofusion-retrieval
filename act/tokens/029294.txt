@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB and/CCONJ stumble/NOUN around/ADV with/ADP their/PRON arm/NOUN out/ADP in/ADP front/NOUN of/ADP the/DET body/NOUN then/ADV stumble/VERB with/ADP an/DET unsteady/ADJ gait/NOUN as/SCONJ they/PRON walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN 

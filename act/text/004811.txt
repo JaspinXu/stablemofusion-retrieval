@@ -1,0 +1,1 @@
+A person lifts an item, then puts it down, followed by doing one jump backwards.

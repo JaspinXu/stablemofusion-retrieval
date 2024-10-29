@@ -1,0 +1,1 @@
+A person is moving an object, then puts it down and turns in an adjacent movement away from the object. Following that, they walk in a curve to the left, and that leads to them turning and climbing several stairs.

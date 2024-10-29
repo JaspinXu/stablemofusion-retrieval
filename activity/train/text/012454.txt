@@ -1,0 +1,1 @@
+A person walks to their left three steps, then turns around and walks five steps forward. After that, they turn around again and walk back to where they started. Subsequently, the person moves sideways from left to right and then from right to left.

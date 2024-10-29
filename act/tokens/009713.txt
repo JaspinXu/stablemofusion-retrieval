@@ -1,0 +1,1 @@
+a/DET man/NOUN dribble/VERB a/DET ball/NOUN and/CCONJ then/ADV take/VERB a/DET shot/NOUN subsequently/ADV hold/VERB an/DET object/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ strum/VERB it/PRON with/ADP his/PRON right/ADJ hand/NOUN 

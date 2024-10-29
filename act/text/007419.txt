@@ -1,0 +1,1 @@
+A person walks forward a few steps, then turns right, walks a few more steps, and then stops, subsequently continuing to walk while turning right.

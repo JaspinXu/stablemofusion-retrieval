@@ -1,0 +1,1 @@
+A person walks slightly to their left in six steps, then continues to walk to their right, and subsequently turns again to end up where they started.

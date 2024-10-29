@@ -1,0 +1,1 @@
+A person walks in a diagonal direction, then walks back to where they started, and subsequently raises their right hand and pulls it down.

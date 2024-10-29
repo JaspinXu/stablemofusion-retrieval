@@ -1,0 +1,1 @@
+A person walks up two stairs starting with their right leg, then walks backwards down the stairs. After that, they walk in a semi-circular path to their left, and subsequently, walk forward, kick, and then walk back making a circle.

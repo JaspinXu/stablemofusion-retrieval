@@ -1,0 +1,18 @@
+a person curves to the left while walking.
+a person walks forward to the front and then pivots on one foot to turn around, then walks forward towards the back.
+a person curves to the left while walking.
+a person walks forward then turns and goes down the same path
+a person curves to the left while walking.
+a person walks up, turns around in a clockwise direction, and walks back.
+figure moves left to right stands facing wall
+a person walks forward to the front and then pivots on one foot to turn around, then walks forward towards the back.
+figure moves left to right stands facing wall
+a person walks forward then turns and goes down the same path
+figure moves left to right stands facing wall
+a person walks up, turns around in a clockwise direction, and walks back.
+a person walking towards the left in a curved path.
+a person walks forward to the front and then pivots on one foot to turn around, then walks forward towards the back.
+a person walking towards the left in a curved path.
+a person walks forward then turns and goes down the same path
+a person walking towards the left in a curved path.
+a person walks up, turns around in a clockwise direction, and walks back.

@@ -1,0 +1,1 @@
+A person walks forward slowly, then turns around and walks back. After that, the same person takes a couple of jog steps to their left, turns around to jog the other way, and subsequently turns around one more time to jog back to their original position.

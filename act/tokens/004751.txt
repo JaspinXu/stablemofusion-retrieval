@@ -1,0 +1,1 @@
+a/DET person/NOUN spin/VERB 90/NUM degree/NOUN to/ADP the/DET left/NOUN while/SCONJ jump/VERB then/ADV walk/VERB forward/ADV while/SCONJ avoid/VERB a/DET gap/NOUN 

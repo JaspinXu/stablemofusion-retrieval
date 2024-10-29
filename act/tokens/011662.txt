@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB backwards/ADV then/ADV sit/VERB in/ADP a/DET chair/NOUN and/CCONJ afterwards/ADV begin/VERB walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN 

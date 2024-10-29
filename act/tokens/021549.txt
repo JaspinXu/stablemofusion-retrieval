@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX pick/VERB and/CCONJ hold/VERB up/ADP a/DET baseball/NOUN then/ADV catch/VERB and/CCONJ throw/VERB the/DET ball/NOUN twice/ADV but/CCONJ subsequently/ADV miss/VERB it/PRON and/CCONJ go/VERB to/PART retrieve/VERB it/PRON 

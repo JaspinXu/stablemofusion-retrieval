@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB quickly/ADV forward/ADV at/ADP a/DET slight/ADJ angle/NOUN to/ADP the/DET right/NOUN then/ADV move/VERB an/DET object/NOUN from/ADP a/DET position/NOUN on/ADP his/PRON left/NOUN to/ADP a/DET position/NOUN on/ADP his/PRON right/NOUN 

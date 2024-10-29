@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB a/DET run/NOUN jump/NOUN and/CCONJ spin/NOUN around/ADV then/ADV land/VERB on/ADP their/PRON left/ADJ foot/NOUN and/CCONJ come/VERB to/ADP a/DET standing/NOUN position/NOUN after/SCONJ that/SCONJ the/DET person/NOUN walk/VERB along/ADP a/DET balance/NOUN beam/NOUN hold/VERB onto/ADP the/DET rail/NOUN for/ADP support/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV then/ADV take/VERB one/NUM step/NOUN forward/ADV towards/ADP the/DET right/NOUN 

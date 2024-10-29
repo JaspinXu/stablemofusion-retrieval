@@ -1,0 +1,1 @@
+The person takes one step to the left, then walks forward briskly, jumps, and continues to walk forward once they land.

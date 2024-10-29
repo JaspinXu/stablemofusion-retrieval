@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB backandforth/NOUN turn/VERB 180/NUM degree/NOUN every/DET few/ADJ step/NOUN then/ADV shuffle/VERB around/ADV while/SCONJ punch/VERB three/NUM time/NOUN with/ADP their/PRON left/ADJ arm/NOUN and/CCONJ three/NUM time/NOUN with/ADP their/PRON right/NOUN 

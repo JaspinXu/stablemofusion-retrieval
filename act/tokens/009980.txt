@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV several/ADJ stair/NOUN with/ADP their/PRON right/ADJ hand/NOUN on/ADP a/DET handrail/NOUN then/ADV continue/VERB to/PART walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN 

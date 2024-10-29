@@ -1,0 +1,12 @@
+a person takes two steps forward then turns to the right and takes two more steps.
+person walks forward then to the left.
+a person takes two steps forward then turns to the right and takes two more steps.
+a person walks to his left.
+a person walks forward then turns to their left, continuing to walk.
+person walks forward then to the left.
+a person walks forward then turns to their left, continuing to walk.
+a person walks to his left.
+a man walks forwards while taking a gradual left turn.
+person walks forward then to the left.
+a man walks forwards while taking a gradual left turn.
+a person walks to his left.

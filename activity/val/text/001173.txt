@@ -1,0 +1,1 @@
+The figure is walking, then touches the ground, and walks back to touch the ground again on the way back. Following that, the figure rotates its upper body clockwise and then rotates its hips clockwise.

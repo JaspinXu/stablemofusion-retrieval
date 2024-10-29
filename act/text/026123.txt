@@ -1,0 +1,1 @@
+A person walks diagonally backwards, then sideways, moving back and forth.

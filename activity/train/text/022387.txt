@@ -1,0 +1,1 @@
+A person takes a step to the left, then walks in a winding path, and then stops before carrying something and subsequently opening a door.

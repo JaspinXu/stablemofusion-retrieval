@@ -1,0 +1,1 @@
+a/DET stand/VERB person/NOUN step/VERB forward/ADV to/PART interact/VERB with/ADP an/DET item/NOUN then/ADV step/VERB back/ADV without/ADP the/DET item/NOUN 

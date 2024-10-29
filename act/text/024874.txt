@@ -1,0 +1,1 @@
+A person transitions from an open pose to a closed-off pose, then walks forward and stops.

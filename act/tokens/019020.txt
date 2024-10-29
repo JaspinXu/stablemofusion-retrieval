@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB straight/ADV forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ hold/VERB on/ADP to/ADP a/DET railing/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV towards/ADP their/PRON starting/NOUN position/NOUN 

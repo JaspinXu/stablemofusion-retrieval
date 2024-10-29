@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP counterclockwise/NOUN circle/NOUN then/ADV take/VERB a/DET step/NOUN back/ADV and/CCONJ assume/VERB a/DET sit/VERB position/NOUN and/CCONJ thereafter/ADV stand/VERB back/ADV up/ADV 

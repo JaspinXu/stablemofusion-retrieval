@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV to/ADP the/DET left/NOUN then/ADV walk/VERB on/ADP the/DET spot/NOUN before/ADP move/VERB in/ADP a/DET backwards/ADJ circle/NOUN 

@@ -1,0 +1,1 @@
+A person walks forward 6 steps, then turns around to face the direction they came from. After that, they sit, subsequently get up, and walk back to the starting point. Later, the person slowly tries to dodge something and stumbles backward, but then regains composure and takes a few steps forward.

@@ -1,0 +1,1 @@
+A person walks forward five steps and then stops; subsequently, they take two skipping steps while moving forward before resuming their walk.

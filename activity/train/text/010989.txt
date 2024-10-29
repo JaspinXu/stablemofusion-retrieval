@@ -1,0 +1,1 @@
+A person jogs to the left, then turns around to jog to the right before turning around one last time, followed by jogging from left to right on a narrow strip.

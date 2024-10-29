@@ -1,0 +1,1 @@
+The body walks forward and slowly twirls backwards to keep walking. Next, a man walks in a wavy line, diagonally to his left.

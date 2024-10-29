@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN and/CCONJ subsequently/ADV kick/VERB something/PRON with/ADP his/PRON left/ADJ leg/NOUN 

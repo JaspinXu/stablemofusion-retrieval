@@ -1,0 +1,1 @@
+A person walks forward, pivots to the left, and then walks back to the starting point. Following that, the person side steps with the right leg a few steps and then returns back again.

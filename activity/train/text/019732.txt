@@ -1,0 +1,1 @@
+A person jogs forward, then turns around and jogs in an angled line to the right. After that, they raise their leg and lower it, subsequently raising their other leg, pushing it backwards, and lowering it before repeating their actions.

@@ -1,0 +1,1 @@
+the/DET person/NOUN do/VERB 2/NUM jump/VERB jack/NOUN in/ADP place/NOUN then/ADV take/VERB a/DET big/ADJ step/NOUN to/ADP the/DET side/NOUN 

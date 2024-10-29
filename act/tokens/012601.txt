@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB in/ADP place/NOUN stop/NOUN and/CCONJ then/ADV take/VERB three/NUM quick/ADJ step/NOUN forward/ADV before/ADP step/VERB over/ADP the/DET gap/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN jump/VERB up/ADP and/CCONJ be/AUX stand/VERB on/ADP a/DET ball/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV slowly/ADV 

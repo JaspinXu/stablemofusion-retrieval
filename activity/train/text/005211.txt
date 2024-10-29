@@ -1,0 +1,1 @@
+A person runs five steps forward, then walks in a clockwise circular pattern to their left.

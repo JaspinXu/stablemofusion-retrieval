@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET sip/NOUN from/ADP a/DET cup/NOUN and/CCONJ set/VERB it/PRON down/ADP on/ADP a/DET table/NOUN then/ADV step/VERB back/ADV and/CCONJ move/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN end/VERB with/ADP the/DET arm/NOUN extend/VERB towards/ADP the/DET head/NOUN 

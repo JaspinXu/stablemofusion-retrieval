@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET twist/VERB path/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN take/VERB small/ADJ step/NOUN forward/ADV and/CCONJ slightly/ADV turn/VERB from/ADP side/NOUN to/PART side/VERB 

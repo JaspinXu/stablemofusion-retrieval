@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN towards/ADP the/DET front/NOUN then/ADV turn/VERB around/ADV and/CCONJ take/VERB two/NUM step/NOUN towards/ADP the/DET back/NOUN and/CCONJ subsequently/ADV strafe/VERB from/ADP side/NOUN to/PART side/VERB 

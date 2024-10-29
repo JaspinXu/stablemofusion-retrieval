@@ -1,0 +1,12 @@
+the sim appears to be standing an object onto their right side.
+a figure jumps a few times clockwise, then quickly turns counterclockwise with one big twisting jump, then stumbles backward upon landing.
+the sim appears to be standing an object onto their right side.
+a person jumps while turning back and forth; they stumble back on their last jump since they try to do a 360 turn unsuccessfully
+the sim appears to be standing an object onto their right side.
+a person jumps to the right then jumps to the left then they try to do a double jump but stumbles backwards after regaining their composure starts walking back to starting position.
+this person lifts something then places it to the right.
+a figure jumps a few times clockwise, then quickly turns counterclockwise with one big twisting jump, then stumbles backward upon landing.
+this person lifts something then places it to the right.
+a person jumps while turning back and forth; they stumble back on their last jump since they try to do a 360 turn unsuccessfully
+this person lifts something then places it to the right.
+a person jumps to the right then jumps to the left then they try to do a double jump but stumbles backwards after regaining their composure starts walking back to starting position.

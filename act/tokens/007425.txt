@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB then/ADV turn/VERB leave/VERB subsequently/ADV walk/VERB from/ADP one/NUM wall/NOUN to/ADP the/DET wall/NOUN on/ADP his/PRON right/NOUN in/ADP a/DET clockwise/NOUN motion/NOUN 

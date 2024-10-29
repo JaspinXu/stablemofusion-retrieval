@@ -1,0 +1,1 @@
+While standing, one waves their hand in a circular pattern, and then the robot starts moving backward from the center. Subsequently, it moves forward with stretchy legs and begins kicking.

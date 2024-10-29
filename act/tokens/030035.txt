@@ -1,0 +1,1 @@
+this/DET person/NOUN stand/VERB up/ADP and/CCONJ appear/VERB to/PART be/AUX talk/VERB on/ADP a/DET phone/NOUN then/ADV turn/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN hold/VERB their/PRON hand/NOUN up/ADP as/SCONJ if/SCONJ to/PART push/VERB something/PRON and/CCONJ take/VERB a/DET step/NOUN forward/ADV and/CCONJ a/DET step/NOUN back/ADV 

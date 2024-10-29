@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN and/CCONJ after/ADP that/PRON return/VERB while/SCONJ also/ADV move/VERB something/PRON heavy/ADJ from/ADP one/NUM place/NOUN to/ADP another/PRON 

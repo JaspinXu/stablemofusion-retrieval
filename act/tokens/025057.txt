@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV stop/VERB after/SCONJ that/SCONJ a/DET man/NOUN be/AUX curl/VERB weight/NOUN with/ADP one/NUM in/ADP each/DET hand/NOUN 

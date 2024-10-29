@@ -1,0 +1,1 @@
+the/DET man/NOUN jog/VERB forward/ADV 4/NUM step/NOUN then/ADV continue/VERB walk/VERB forward/ADV slowly/ADV 

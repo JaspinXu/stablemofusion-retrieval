@@ -1,0 +1,1 @@
+A person walks forward, then changes direction by moving left and right, subsequently sidestepping back and forth.

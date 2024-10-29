@@ -1,0 +1,1 @@
+the/DET person/NOUN lift/VERB the/DET right/ADJ leg/NOUN from/ADP bottom/NOUN to/ADP top/NOUN then/ADV stand/VERB and/CCONJ step/NOUN in/ADP a/DET square/ADJ formation/NOUN start/VERB with/ADP the/DET left/ADJ foot/NOUN 

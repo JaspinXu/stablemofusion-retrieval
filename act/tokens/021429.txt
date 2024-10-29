@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB with/ADP both/DET foot/NOUN in/ADP a/DET half/NOUN circle/NOUN while/SCONJ both/DET arm/NOUN be/AUX position/VERB backwards/ADV then/ADV the/DET individual/ADJ walk/VERB by/ADP take/VERB one/NUM step/NOUN with/ADP his/PRON leg/NOUN cross/VERB over/ADP and/CCONJ continue/VERB to/PART move/VERB around/ADV 

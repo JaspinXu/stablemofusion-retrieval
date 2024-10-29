@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV slowly/ADV then/ADV a/DET man/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN before/ADP stop/VERB in/ADP a/DET standing/NOUN position/NOUN 

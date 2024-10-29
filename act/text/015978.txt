@@ -1,0 +1,1 @@
+A person starts to walk to the left, then turns right in a zig-zag motion. Following that, they continue walking forward with random stances, beginning with a wide stance. Finally, they cross their legs to move until reaching the end.

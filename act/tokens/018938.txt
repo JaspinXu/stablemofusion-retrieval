@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV brush/NOUN both/PRON foot/NOUN one/NUM at/ADP a/DET time/NOUN on/ADP the/DET floor/NOUN step/VERB back/ADV and/CCONJ then/ADV repeat/VERB the/DET sequence/NOUN while/SCONJ do/VERB several/ADJ different/ADJ type/NOUN of/ADP hand/NOUN signal/NOUN 

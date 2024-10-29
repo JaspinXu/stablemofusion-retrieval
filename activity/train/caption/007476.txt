@@ -1,0 +1,18 @@
+a person, walk forward and turned left side, and kept walk
+the man takes 5 curved steps.
+a person, walk forward and turned left side, and kept walk
+a person walks forward and bends to the left.
+a person, walk forward and turned left side, and kept walk
+a person walks while turning left
+a person walks forward, then walks to the left and stops.
+the man takes 5 curved steps.
+a person walks forward, then walks to the left and stops.
+a person walks forward and bends to the left.
+a person walks forward, then walks to the left and stops.
+a person walks while turning left
+person walks forward a few steps then turns left walks a few more steps then stops.
+the man takes 5 curved steps.
+person walks forward a few steps then turns left walks a few more steps then stops.
+a person walks forward and bends to the left.
+person walks forward a few steps then turns left walks a few more steps then stops.
+a person walks while turning left

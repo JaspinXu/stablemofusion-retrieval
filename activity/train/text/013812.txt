@@ -1,0 +1,1 @@
+The person is walking in a circle, then walks forward in a zigzag, steps back, and continues walking forward in a zigzag.

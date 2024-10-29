@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB sideways/ADV to/ADP the/DET right/NOUN then/ADV diagonally/ADV to/ADP the/DET left/ADJ and/CCONJ back/ADV to/ADP the/DET center/NOUN after/SCONJ that/PRON this/DET person/NOUN raise/VERB their/PRON arm/NOUN and/CCONJ then/ADV lower/VERB they/PRON to/ADP their/PRON side/NOUN 

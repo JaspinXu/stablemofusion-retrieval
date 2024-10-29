@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV but/CCONJ the/DET pace/NOUN be/AUX very/ADV slow/ADJ 

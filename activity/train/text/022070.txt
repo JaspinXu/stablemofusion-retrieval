@@ -1,0 +1,1 @@
+The sim walks in a loop fashion before turning around and walking in a straight line, and then a person walks around clumsily.

@@ -1,0 +1,1 @@
+the/DET man/NOUN hop/VERB 5/NUM time/NOUN on/ADP his/PRON left/ADJ foot/NOUN then/ADV jump/VERB to/ADP his/PRON left/ADJ side/NOUN as/SCONJ if/SCONJ he/PRON s/AUX dodge/VERB something/PRON 

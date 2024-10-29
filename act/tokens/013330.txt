@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB then/ADV jump/VERB and/CCONJ subsequently/ADV the/DET man/NOUN wave/VERB to/ADP the/DET left/ADJ 

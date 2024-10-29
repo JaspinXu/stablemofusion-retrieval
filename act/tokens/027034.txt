@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN then/ADV a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN walk/VERB clockwise/NOUN and/CCONJ subsequently/ADV stop/VERB 

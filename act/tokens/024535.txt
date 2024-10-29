@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV forward/ADV 8/NUM pace/NOUN in/ADP a/DET lumber/VERB fashion/NOUN then/ADV the/DET sim/NOUN walk/VERB in/ADP a/DET loop/NOUN fashion/NOUN from/ADP one/NUM side/NOUN of/ADP the/DET plane/NOUN to/ADP the/DET other/ADJ before/ADP turn/VERB around/ADV 

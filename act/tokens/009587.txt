@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX rub/VERB his/PRON belly/NOUN because/SCONJ he/PRON be/AUX hungry/ADJ then/ADV he/PRON run/VERB to/ADP the/DET right/NOUN turn/VERB around/ADV and/CCONJ run/VERB to/ADP the/DET left/NOUN before/ADP turn/VERB around/ADV again/ADV and/CCONJ run/VERB back/ADV to/ADP the/DET right/NOUN 

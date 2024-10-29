@@ -1,0 +1,1 @@
+The sim appears to grab a cup with their left hand, taking a drink and then setting it down before turning around. After that, they walk upstairs, turn around, and then walk downstairs.

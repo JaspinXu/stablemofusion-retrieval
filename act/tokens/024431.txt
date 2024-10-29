@@ -1,0 +1,1 @@
+the/DET man/NOUN perform/VERB two/NUM karate/ADJ kick/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV two/NUM kick/NOUN to/ADP the/DET right/ADJ afterward/ADV a/DET person/NOUN walk/VERB in/ADV and/CCONJ sit/VERB down/ADP immediately/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN drive/VERB forward/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV curve/VERB to/ADP the/DET left/ADJ follow/VERB that/SCONJ another/DET person/NOUN run/VERB to/ADP the/DET right/NOUN 

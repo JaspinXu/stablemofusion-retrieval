@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB walk/VERB in/ADP the/DET shape/NOUN of/ADP a/DET quarter/NOUN circle/NOUN then/ADV lift/VERB their/PRON right/ADJ arm/NOUN to/ADP a/DET horizontal/ADJ position/NOUN and/CCONJ hold/VERB it/PRON there/ADV for/ADP a/DET brief/ADJ moment/NOUN before/ADP return/VERB it/PRON to/ADP their/PRON side/NOUN 

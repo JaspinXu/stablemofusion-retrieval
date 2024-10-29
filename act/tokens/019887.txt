@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV bend/NOUN down/ADP and/CCONJ pick/VERB up/ADP item/NOUN then/ADV walk/VERB forward/ADV and/CCONJ set/VERB they/PRON on/ADP a/DET table/NOUN subsequently/ADV skim/VERB a/DET wall/NOUN 

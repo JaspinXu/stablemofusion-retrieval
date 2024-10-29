@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB then/ADV turn/VERB leave/VERB 270/NUM degree/NOUN in/ADP the/DET air/NOUN and/CCONJ subsequently/ADV move/VERB its/PRON right/ADJ arm/NOUN across/ADP the/DET body/NOUN toward/ADP the/DET left/NOUN to/PART deliver/VERB a/DET punch/NOUN 

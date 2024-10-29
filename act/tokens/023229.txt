@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX act/VERB like/ADP a/DET chicken/NOUN then/ADV stand/VERB up/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN 

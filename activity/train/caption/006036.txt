@@ -1,0 +1,18 @@
+this person is seated and appears to drink something.
+a person is jogging and then stops suddenly
+this person is seated and appears to drink something.
+a person jogs straight forward.
+this person is seated and appears to drink something.
+a person runs forward at a medium speed.
+a person is eating something with his right hand.
+a person is jogging and then stops suddenly
+a person is eating something with his right hand.
+a person jogs straight forward.
+a person is eating something with his right hand.
+a person runs forward at a medium speed.
+a person is sitting down eating something with their hands.
+a person is jogging and then stops suddenly
+a person is sitting down eating something with their hands.
+a person jogs straight forward.
+a person is sitting down eating something with their hands.
+a person runs forward at a medium speed.

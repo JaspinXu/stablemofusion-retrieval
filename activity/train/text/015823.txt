@@ -1,0 +1,1 @@
+A person picks up an object and turns their body to the right, then takes the object and puts it down, subsequently walking around randomly.

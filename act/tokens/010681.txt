@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ go/VERB up/ADP some/DET stair/NOUN then/ADV he/PRON back/VERB up/ADP and/CCONJ sit/VERB down/ADP in/ADP an/DET armchair/NOUN 

@@ -1,0 +1,1 @@
+A person walks forward over an unleveled and inclined surface, then avoids a gap in their path.

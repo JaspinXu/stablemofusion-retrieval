@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB in/ADP a/DET slight/ADJ bend/NOUN from/ADP left/NOUN to/ADP right/ADV then/ADV a/DET person/NOUN lift/VERB their/PRON left/ADJ foot/NOUN shake/VERB it/PRON and/CCONJ lower/VERB it/PRON 

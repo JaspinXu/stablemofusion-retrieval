@@ -1,0 +1,18 @@
+the person is jogging in place.
+a person turns left while walking.
+the person is jogging in place.
+a person walks to the left, making a half circle.
+the person is jogging in place.
+a person walks in a circular counterclockwise path
+a man jogs in place, moving his arms slightly, before stopping and going to a standing position.
+a person turns left while walking.
+a man jogs in place, moving his arms slightly, before stopping and going to a standing position.
+a person walks to the left, making a half circle.
+a man jogs in place, moving his arms slightly, before stopping and going to a standing position.
+a person walks in a circular counterclockwise path
+person is running in place
+a person turns left while walking.
+person is running in place
+a person walks to the left, making a half circle.
+person is running in place
+a person walks in a circular counterclockwise path

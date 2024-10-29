@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB forward/ADV once/ADV then/ADV walk/VERB forward/ADV and/CCONJ subsequently/ADV move/VERB back/ADV 

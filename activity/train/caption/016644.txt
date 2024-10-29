@@ -1,0 +1,4 @@
+person is walking back and forth.
+a person walks forward then walks back.
+person is walking back and forth.
+a person walks forward and then backward.

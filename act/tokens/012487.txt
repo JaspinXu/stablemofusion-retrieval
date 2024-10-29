@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB up/ADV 4/NUM step/NOUN of/ADP stair/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV and/CCONJ slightly/ADV to/ADP their/PRON left/ADJ 

@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB a/DET fight/NOUN and/CCONJ shove/VERB their/PRON opponent/NOUN then/ADV walk/VERB forward/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN 

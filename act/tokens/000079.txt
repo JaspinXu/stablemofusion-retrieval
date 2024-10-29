@@ -1,0 +1,1 @@
+a/DET man/NOUN throw/VERB an/DET object/NOUN with/ADP his/PRON right/ADJ arm/NOUN then/ADV a/DET person/NOUN spin/VERB in/ADP a/DET clockwise/NOUN circle/NOUN 

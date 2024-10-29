@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN counterclockwise/NOUN while/SCONJ face/VERB the/DET same/ADJ way/NOUN the/DET whole/ADJ time/NOUN and/CCONJ then/ADV subsequently/ADV lift/VERB a/DET box/NOUN from/ADP the/DET left/ADJ side/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET right/ADJ side/NOUN 

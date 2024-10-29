@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB forward/ADV and/CCONJ kick/NOUN at/ADP something/PRON then/ADV move/VERB backwards/ADV after/ADP which/PRON they/PRON hold/VERB their/PRON left/ADJ arm/NOUN up/ADP grab/VERB it/PRON with/ADP their/PRON right/ADJ arm/NOUN and/CCONJ push/VERB their/PRON arm/NOUN forward/ADV five/NUM time/NOUN 

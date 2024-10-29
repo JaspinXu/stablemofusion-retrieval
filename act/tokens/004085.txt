@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV stand/VERB with/ADP the/DET right/ADJ hand/NOUN raise/VERB elbow/PROPN bent/ADJ to/PART head/VERB level/NOUN and/CCONJ subsequently/ADV return/VERB to/ADP the/DET starting/NOUN position/NOUN 

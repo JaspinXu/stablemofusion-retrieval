@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB something/PRON up/ADP from/ADP a/DET table/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADV slightly/ADV to/ADP the/DET left/NOUN then/ADV they/PRON shift/VERB their/PRON weight/NOUN from/ADP one/NUM foot/NOUN to/ADP another/PRON with/ADP their/PRON arm/NOUN in/ADP front/NOUN of/ADP they/PRON elbow/VERB bent/ADJ 

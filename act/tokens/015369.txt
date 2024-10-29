@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB something/PRON up/ADP with/ADP two/NUM hand/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV next/ADV a/DET person/NOUN pick/VERB up/ADP a/DET phone/NOUN dial/NOUN call/VERB and/CCONJ then/ADV hang/VERB up/ADP 

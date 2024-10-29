@@ -1,0 +1,1 @@
+a/DET person/NOUN show/VERB a/DET friend/NOUN an/DET iphone/PROPN picture/NOUN then/ADV walk/VERB backwards/ADV and/CCONJ subsequently/ADV step/VERB down/ADP stair/NOUN in/ADP reverse/NOUN 

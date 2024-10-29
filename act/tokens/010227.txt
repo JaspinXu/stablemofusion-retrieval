@@ -1,0 +1,1 @@
+an/DET object/NOUN be/AUX move/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV the/DET person/NOUN be/AUX do/VERB jumping/NOUN jack/NOUN 

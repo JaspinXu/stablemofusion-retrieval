@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB a/DET curved/ADJ path/NOUN a/DET few/ADJ step/NOUN to/ADP the/DET right/NOUN then/ADV sit/VERB down/ADP and/CCONJ quickly/ADV jump/VERB before/ADP repeat/VERB the/DET action/NOUN 

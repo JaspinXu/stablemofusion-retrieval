@@ -1,0 +1,1 @@
+This person starts from a standing position, then jumps and turns in mid-air, after that walks to the left and stops.

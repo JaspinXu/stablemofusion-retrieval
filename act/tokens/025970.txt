@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP an/DET l/PROPN shape/NOUN then/ADV walk/VERB up/ADP several/ADJ step/NOUN while/SCONJ hold/VERB a/DET handrail/NOUN with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV down/ADV 

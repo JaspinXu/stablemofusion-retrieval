@@ -1,0 +1,1 @@
+A person runs to the right, then turns and runs to the left. Following that, the same person walks diagonally to the right, pauses with their hand raised, and then walks back.

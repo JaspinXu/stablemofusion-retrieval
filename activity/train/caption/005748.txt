@@ -1,0 +1,12 @@
+a person walks slowly forward while moving to the left.
+person walks from back centre to slightly front right
+a person walks slowly forward while moving to the left.
+a person walks forward and stops.
+a person walks slowly forward while moving to the left.
+a person walks forward.
+a person walks forward, turns left and continues to walk, then stops.
+person walks from back centre to slightly front right
+a person walks forward, turns left and continues to walk, then stops.
+a person walks forward and stops.
+a person walks forward, turns left and continues to walk, then stops.
+a person walks forward.

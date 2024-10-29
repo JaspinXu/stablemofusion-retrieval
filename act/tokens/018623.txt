@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ direction/NOUN forwards/ADV then/ADV spin/VERB counterclockwise/NOUN and/CCONJ begin/VERB walk/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN while/SCONJ a/DET man/NOUN look/VERB up/ADP at/ADP the/DET sky/NOUN 

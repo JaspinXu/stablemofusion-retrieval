@@ -1,0 +1,1 @@
+A person sprints forward three steps, stops, then sprints forward again. Subsequently, they climb a step up, walk to another step, and climb down.

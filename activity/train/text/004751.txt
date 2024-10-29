@@ -1,0 +1,1 @@
+A person spins 90 degrees to the left while jumping, then walks forward while avoiding a gap.

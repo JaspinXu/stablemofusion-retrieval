@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB as/SCONJ if/SCONJ move/VERB up/ADV and/CCONJ down/ADV over/ADP object/NOUN subsequently/ADV move/VERB in/ADP a/DET clockwise/NOUN square/NOUN and/CCONJ then/ADV a/DET man/NOUN looks/AUX left/ADJ to/ADP right/ADV before/ADP walk/VERB forward/ADV in/ADP an/DET s/PROPN motion/NOUN 

@@ -1,0 +1,1 @@
+A person standing far right walks in a full circle clockwise, then turns to his right, walks two steps, subsequently turns to his left and walks five steps, and finally turns right to return to the spot they started in.

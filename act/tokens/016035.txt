@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET counterclockwise/NOUN motion/NOUN then/ADV shift/NOUN to/ADP a/DET clockwise/NOUN motion/NOUN subsequently/ADV pretend/VERB to/PART be/AUX a/DET hummingbird/ADJ 

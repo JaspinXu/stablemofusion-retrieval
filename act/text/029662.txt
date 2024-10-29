@@ -1,0 +1,1 @@
+A person walks up a few steps, turns around at the top, and then walks back down the steps; subsequently, they jog downwards towards the right-hand side, then turn around and jog a long counterclockwise arc to the left, followed by a clockwise arc to the right side.

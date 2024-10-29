@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN from/ADP his/PRON left/ADJ side/NOUN and/CCONJ put/VERB it/PRON to/ADP his/PRON right/ADJ side/NOUN then/ADV look/VERB left/ADJ and/CCONJ right/ADV with/ADP binocular/NOUN 

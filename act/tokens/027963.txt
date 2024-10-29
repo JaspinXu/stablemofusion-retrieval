@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP a/DET chair/NOUN behind/ADP they/PRON then/ADV stand/VERB back/ADV up/ADV and/CCONJ walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ 

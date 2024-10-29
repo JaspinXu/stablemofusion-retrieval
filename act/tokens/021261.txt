@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET cartwheel/NOUN then/ADV pick/VERB up/ADP an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN by/ADP bend/VERB over/ADP after/SCONJ that/PRON turn/VERB to/ADP the/DET right/ADJ 90/NUM degree/NOUN and/CCONJ subsequently/ADV begin/VERB to/PART scrub/VERB an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN 

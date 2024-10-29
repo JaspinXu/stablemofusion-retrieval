@@ -1,0 +1,1 @@
+A character takes two steps up to a beam, extends their arms to a "t" position while walking on the beam until reaching the destination. Following that, the character then walks forward, knocks on a door, and walks back in a straight line.

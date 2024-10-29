@@ -1,0 +1,1 @@
+the/DET sim/NOUN appear/VERB to/PART be/AUX drive/VERB a/DET boat/NOUN while/SCONJ look/VERB through/ADP binocular/NOUN then/ADV a/DET person/NOUN hop/VERB six/NUM time/NOUN in/ADP the/DET same/ADJ spot/NOUN move/VERB forward/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/ADJ 

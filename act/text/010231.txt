@@ -1,0 +1,1 @@
+Someone is walking down a flight of steps, and then a person walks forward, pivots counterclockwise, and subsequently walks back to where they started.

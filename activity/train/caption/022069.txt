@@ -1,0 +1,6 @@
+person is practicing standing long jump
+the sim walks in a loop fashion before turning around & walking in a straight line.
+person takes warms up legs and arms before taking a big jump then raising arms to head
+the sim walks in a loop fashion before turning around & walking in a straight line.
+the person makes one big jump
+the sim walks in a loop fashion before turning around & walking in a straight line.

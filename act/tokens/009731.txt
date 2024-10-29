@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET figure/NOUN eight/NUM type/NOUN motion/NOUN then/ADV walk/VERB forward/ADV while/SCONJ place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ to/PART maintain/VERB balance/NOUN and/CCONJ take/VERB a/DET slight/ADJ circle/NOUN before/ADP walk/VERB back/ADV 

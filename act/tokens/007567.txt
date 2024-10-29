@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 5/NUM step/NOUN forward/ADV then/ADV the/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB right/ADJ 

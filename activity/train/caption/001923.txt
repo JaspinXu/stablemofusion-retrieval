@@ -1,0 +1,12 @@
+a person walks down a ramp, first to the left, then to the right.
+a person who is poised to run, jogs a few steps forward, then pivots to his left and jogs five more steps.
+a person walks down a ramp, first to the left, then to the right.
+a person runs forward and then suddenly cuts right and keeps running.
+a person walks down a ramp, first to the left, then to the right.
+a person runs forward, jukes to the right, then runs diagonally right.
+the person stumbled a little bit and walked forward.
+a person who is poised to run, jogs a few steps forward, then pivots to his left and jogs five more steps.
+the person stumbled a little bit and walked forward.
+a person runs forward and then suddenly cuts right and keeps running.
+the person stumbled a little bit and walked forward.
+a person runs forward, jukes to the right, then runs diagonally right.

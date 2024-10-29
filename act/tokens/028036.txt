@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB four/NUM small/ADJ step/NOUN then/ADV jump/VERB up/ADP subsequently/ADV take/VERB three/NUM more/ADJ step/NOUN and/CCONJ afterward/ADV jump/VERB kick/NOUN in/ADP the/DET air/NOUN then/ADV proceed/VERB to/ADP dance/NOUN and/CCONJ strike/VERB a/DET pose/NOUN 

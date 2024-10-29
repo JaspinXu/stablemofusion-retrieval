@@ -1,0 +1,1 @@
+A person steps forward, then is pushed backward, after which they walk forward again, turn back around to the left, and walk back towards the original position.

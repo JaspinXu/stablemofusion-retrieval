@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB four/NUM fast/ADJ step/NOUN forward/ADV then/ADV walk/VERB slowly/ADV forward/ADV and/CCONJ stop/VERB 

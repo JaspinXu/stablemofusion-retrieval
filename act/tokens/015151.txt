@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB in/ADP place/NOUN then/ADV spring/NOUN to/ADP the/DET right/ADJ subsequently/ADV spring/NOUN to/ADP the/DET left/NOUN and/CCONJ return/VERB to/ADP their/PRON starting/NOUN position/NOUN after/SCONJ that/PRON they/PRON walk/VERB forward/ADV climb/VERB up/ADP something/PRON then/ADV turn/VERB around/ADV and/CCONJ climb/VERB back/ADV down/ADV 

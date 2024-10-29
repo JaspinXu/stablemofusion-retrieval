@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET right/ADJ subsequently/ADV a/DET person/NOUN walk/VERB forward/ADV three/NUM step/NOUN towards/ADP the/DET right/ADJ bend/NOUN their/PRON shoulder/NOUN downward/ADV and/CCONJ walk/VERB three/NUM more/ADJ step/NOUN forward/ADV in/ADP the/DET same/ADJ direction/NOUN 

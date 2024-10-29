@@ -1,0 +1,1 @@
+This person walks from left to right, stops, and then walks to the back. After that, they walk right, subsequently performing a figure 8 formation.

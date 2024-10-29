@@ -1,0 +1,18 @@
+a person jogs side to side.
+a person walk forward with a natural gait.
+a person jogs side to side.
+a person walks forward a few steps and then stops.
+a person jogs side to side.
+walking forward and then stopping.
+a person who is jogging takes four steps to his right, reverses course, takes five steps in the other direction, reverses course and continues to jog.
+a person walk forward with a natural gait.
+a person who is jogging takes four steps to his right, reverses course, takes five steps in the other direction, reverses course and continues to jog.
+a person walks forward a few steps and then stops.
+a person who is jogging takes four steps to his right, reverses course, takes five steps in the other direction, reverses course and continues to jog.
+walking forward and then stopping.
+a man runs foward to the right,makes a u turn and runs to the left and  then stops.
+a person walk forward with a natural gait.
+a man runs foward to the right,makes a u turn and runs to the left and  then stops.
+a person walks forward a few steps and then stops.
+a man runs foward to the right,makes a u turn and runs to the left and  then stops.
+walking forward and then stopping.

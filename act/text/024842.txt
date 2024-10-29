@@ -1,0 +1,1 @@
+A headless stick figure with hands takes four steps and stops, then a person steps out, places their hands outward on something, and subsequently lowers them down.

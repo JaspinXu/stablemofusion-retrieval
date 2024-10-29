@@ -1,0 +1,18 @@
+a person walks forward then turns around to walk back.
+a person walks backwards in a straight line
+a person walks forward then turns around to walk back.
+a person walks backwards slowly.
+a person walks forward then turns around to walk back.
+a person walks backwards several steps.
+person is walking down then around.
+a person walks backwards in a straight line
+person is walking down then around.
+a person walks backwards slowly.
+person is walking down then around.
+a person walks backwards several steps.
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.
+a person walks backwards in a straight line
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.
+a person walks backwards slowly.
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.
+a person walks backwards several steps.

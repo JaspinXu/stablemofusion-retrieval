@@ -1,0 +1,18 @@
+a person jogs for a few steps, then slows to a walk for a few more steps.
+a man jumps down from a curve.
+a person jogs for a few steps, then slows to a walk for a few more steps.
+the person took a small jump forward.
+a person jogs for a few steps, then slows to a walk for a few more steps.
+a man jumps forward once.
+a person initially running and decelerating to a walking pace.
+a man jumps down from a curve.
+a person initially running and decelerating to a walking pace.
+the person took a small jump forward.
+a person initially running and decelerating to a walking pace.
+a man jumps forward once.
+a person runs and then they walk.
+a man jumps down from a curve.
+a person runs and then they walk.
+the person took a small jump forward.
+a person runs and then they walk.
+a man jumps forward once.

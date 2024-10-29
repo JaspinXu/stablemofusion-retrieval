@@ -1,0 +1,1 @@
+A person walks forward, hits something, then keeps walking and subsequently walks clockwise to their right.

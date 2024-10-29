@@ -1,0 +1,1 @@
+A person runs to the left, then turns around and runs to the right. After that, they turn around again and run to the left, followed by turning to the right and walking straight, then turning again and walking straight once more.

@@ -1,0 +1,1 @@
+A person takes two steps back diagonally to sit in a chair, then takes three steps forward diagonally to stand back in the original position. After that, the person shuffles to the side three times to their left, and subsequently shuffles back three times to their right.

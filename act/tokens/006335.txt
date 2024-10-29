@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV bear/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP another/DET individual/NOUN who/PRON bounce/VERB a/DET ball/NOUN on/ADP the/DET ground/NOUN while/SCONJ walk/VERB backwards/ADV 

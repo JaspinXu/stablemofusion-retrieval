@@ -1,0 +1,18 @@
+a person jogs forward then walks after a couple steps
+the person nearly stumbles while walking
+a person jogs forward then walks after a couple steps
+person walks straight, stumbles to the right, regains balance
+a person jogs forward then walks after a couple steps
+a man walks forward, trips to the left and then comes back to the center.
+a person ran forward while jumped
+the person nearly stumbles while walking
+a person ran forward while jumped
+person walks straight, stumbles to the right, regains balance
+a person ran forward while jumped
+a man walks forward, trips to the left and then comes back to the center.
+a person runs forward, jumps over an object, and then walks forward.
+the person nearly stumbles while walking
+a person runs forward, jumps over an object, and then walks forward.
+person walks straight, stumbles to the right, regains balance
+a person runs forward, jumps over an object, and then walks forward.
+a man walks forward, trips to the left and then comes back to the center.

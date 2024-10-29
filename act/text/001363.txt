@@ -1,0 +1,1 @@
+A man raises his right arm, then lowers it and raises his left arm, while simultaneously, the sim raises both their left and right arms, standing still.

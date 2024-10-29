@@ -1,0 +1,1 @@
+A stick figure on a three-dimensional plane walks down and then to the left, subsequently turning, while a person stands in place for a long time, then moves slightly to the left direction.

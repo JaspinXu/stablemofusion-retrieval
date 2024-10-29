@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX make/VERB a/DET monster/NOUN gesture/NOUN while/SCONJ walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN complete/VERB one/NUM and/CCONJ a/DET half/NOUN circle/NOUN 

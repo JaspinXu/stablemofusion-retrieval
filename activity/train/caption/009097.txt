@@ -1,0 +1,18 @@
+a figure diagonally walks across a square shape.
+a person steps back, sits down, stands up and steps forward.
+a figure diagonally walks across a square shape.
+a person backs up and sits down, then stands back up.
+a figure diagonally walks across a square shape.
+a man steps backwards, sits down, then stands back up.
+a person walks counterclockwise in a quarter circle.
+a person steps back, sits down, stands up and steps forward.
+a person walks counterclockwise in a quarter circle.
+a person backs up and sits down, then stands back up.
+a person walks counterclockwise in a quarter circle.
+a man steps backwards, sits down, then stands back up.
+the person is walking around
+a person steps back, sits down, stands up and steps forward.
+the person is walking around
+a person backs up and sits down, then stands back up.
+the person is walking around
+a man steps backwards, sits down, then stands back up.

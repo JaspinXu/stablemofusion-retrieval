@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB five/NUM step/NOUN forward/ADV lead/VERB with/ADP their/PRON left/ADJ foot/NOUN then/ADV quickly/ADV walk/VERB to/ADP the/DET right/NOUN 

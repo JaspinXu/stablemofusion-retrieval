@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV lift/VERB something/PRON up/ADP and/CCONJ then/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV while/SCONJ another/DET man/NOUN walk/VERB forward/ADV sway/VERB his/PRON foot/NOUN in/ADP a/DET zigzag/NOUN path/NOUN 

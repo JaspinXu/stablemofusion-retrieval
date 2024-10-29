@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB three/NUM time/NOUN in/ADP a/DET row/NOUN then/ADV continue/VERB by/ADP jump/VERB up/ADV and/CCONJ down/ADP 

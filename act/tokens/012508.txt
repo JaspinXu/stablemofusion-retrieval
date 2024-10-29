@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB run/VERB from/ADP right/ADV to/ADP left/NOUN and/CCONJ then/ADV stop/VERB at/ADP the/DET left/ADJ side/NOUN while/SCONJ a/DET person/NOUN walk/VERB forward/ADV with/ADP their/PRON left/ADJ hand/NOUN touch/VERB something/PRON for/ADP support/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB make/VERB a/DET square/ADJ pattern/NOUN lift/VERB his/PRON foot/NOUN as/SCONJ if/SCONJ he/PRON be/AUX climb/VERB up/ADP and/CCONJ down/ADP stair/NOUN then/ADV he/PRON walk/VERB in/ADP a/DET straight/ADJ line/NOUN before/ADP take/VERB a/DET right/ADJ turn/NOUN and/CCONJ walk/VERB straight/ADV back/ADV repeat/VERB this/DET several/ADJ time/NOUN 

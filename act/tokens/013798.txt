@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB back/ADV and/CCONJ forth/ADV then/ADV walk/VERB forward/ADV slowly/ADV five/NUM step/NOUN and/CCONJ stop/VERB 

@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB step/NOUN forward/ADV back/ADV left/ADV and/CCONJ right/ADV then/ADV a/DET person/NOUN walk/VERB forward/ADV fall/VERB down/ADP and/CCONJ catch/VERB himself/PRON with/ADP his/PRON hand/NOUN before/ADP get/VERB back/ADV up/ADP to/PART walk/VERB to/ADP the/DET right/NOUN 

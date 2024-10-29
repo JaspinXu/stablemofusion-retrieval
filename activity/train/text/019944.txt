@@ -1,0 +1,1 @@
+A person walks around the room in a clockwise position, then continues walking forward.

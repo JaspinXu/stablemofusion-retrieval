@@ -1,0 +1,1 @@
+a/DET man/NOUN lightly/ADV jump/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ then/ADV a/DET person/NOUN walk/VERB slowly/ADV from/ADP back/ADV to/ADP front/NOUN 

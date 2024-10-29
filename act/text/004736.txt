@@ -1,0 +1,1 @@
+A person walks four steps forward, then shuffles to the left and subsequently to the right.

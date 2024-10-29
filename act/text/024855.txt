@@ -1,0 +1,1 @@
+A person steps once to the left with a wide step, then jumps up and turns to the left, landing facing towards the right of the screen.

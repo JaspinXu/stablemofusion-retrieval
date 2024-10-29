@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN and/CCONJ then/ADV begin/VERB to/PART walk/VERB in/ADP a/DET zigzag/NOUN shape/NOUN 

@@ -1,0 +1,1 @@
+The man goes down 4 steps, then a person takes a step back and to the left, sits on an invisible object, gets up to stand, and subsequently takes smaller steps back to the original position.

@@ -1,0 +1,1 @@
+A person walks forward, then turns anti-clockwise, walks back the other way, pauses, takes three steps backward, and walks diagonally forward for three steps. After that, the person pauses again and takes one step backward. Subsequently, the same person shifts their focus and begins preparing the dough.

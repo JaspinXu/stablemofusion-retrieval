@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADV and/CCONJ reach/VERB up/ADP then/ADV sidestep/VERB to/ADP the/DET right/ADJ 2/NUM step/NOUN next/ADJ sidestep/NOUN to/ADP the/DET left/ADJ 4/NUM step/NOUN and/CCONJ finally/ADV sidestep/VERB to/ADP the/DET right/ADJ 2/NUM step/NOUN 

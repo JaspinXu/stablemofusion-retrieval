@@ -1,0 +1,1 @@
+A person picks up a horizontal object from their front left, moves it to the right, and rotates it clockwise to vertical; after that, they return it to the starting position. Subsequently, a man sidesteps energetically to his right, then again to his left, and finally steps back to stop in a standing position.

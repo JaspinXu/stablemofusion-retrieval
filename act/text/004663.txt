@@ -1,0 +1,1 @@
+A person walks forward at a normal pace, then moves in a counter clockwise semicircle to the right side and finally comes to a standstill.

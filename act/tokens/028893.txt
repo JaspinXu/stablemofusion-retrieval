@@ -1,0 +1,1 @@
+the/DET man/NOUN crab/NOUN crawl/VERB across/ADP the/DET area/NOUN and/CCONJ back/ADV then/ADV the/DET person/NOUN be/AUX square/PROPN box/NOUN dancing/NOUN 

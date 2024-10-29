@@ -1,0 +1,6 @@
+a person begins to start walking forward and then stops after about 3 steps.
+the sim is standing in place doing jumping jacks.
+a person walks up something.
+the sim is standing in place doing jumping jacks.
+the person is rushing forward quickly.
+the sim is standing in place doing jumping jacks.

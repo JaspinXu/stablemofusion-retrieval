@@ -1,0 +1,1 @@
+A person slowly walks forward, then takes two steps forward, does a 180-degree turn, and subsequently takes two steps back to where he started.

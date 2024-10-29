@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV stop/VERB and/CCONJ subsequently/ADV walk/VERB up/ADP the/DET stair/NOUN while/SCONJ hold/VERB the/DET rail/NOUN 

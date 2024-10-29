@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX make/VERB hand/NOUN gesture/NOUN with/ADP his/PRON right/NOUN and/CCONJ leave/VERB hand/NOUN then/ADV pick/VERB something/PRON up/ADP on/ADP the/DET left/NOUN put/VERB it/PRON up/ADP to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV place/VERB it/PRON back/ADV in/ADP its/PRON original/ADJ position/NOUN 

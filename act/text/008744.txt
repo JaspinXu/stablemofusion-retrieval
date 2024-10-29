@@ -1,0 +1,1 @@
+A person is moving something from left to right, then subsequently stands in place while moving their hands left to right.

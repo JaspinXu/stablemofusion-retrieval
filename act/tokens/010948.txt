@@ -1,0 +1,1 @@
+a/DET person/NOUN duck/VERB down/ADP like/SCONJ he/PRON s/AUX avoid/VERB something/PRON then/ADV turn/VERB around/ADV and/CCONJ duck/NOUN again/ADV after/SCONJ that/PRON he/PRON hop/VERB 5/NUM time/NOUN on/ADP his/PRON right/ADJ leg/NOUN walk/VERB backwards/ADV 4/NUM step/NOUN and/CCONJ then/ADV move/VERB forward/ADV 4/NUM step/NOUN 

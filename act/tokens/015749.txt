@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV tentatively/ADV through/ADP either/CCONJ slippery/ADJ or/CCONJ muddy/ADJ ground/NOUN then/ADV walk/VERB upstairs/ADV and/CCONJ subsequently/ADV back/ADV downstairs/ADV 

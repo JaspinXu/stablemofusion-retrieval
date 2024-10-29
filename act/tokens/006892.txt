@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB both/DET hand/NOUN to/PART pick/VERB up/ADP an/DET object/NOUN from/ADP the/DET left/NOUN then/ADV place/VERB the/DET object/NOUN down/ADP to/ADP the/DET right/NOUN following/NOUN that/SCONJ they/PRON walk/VERB forward/ADV turn/NOUN leave/VERB and/CCONJ make/VERB a/DET complete/ADJ turn/NOUN back/ADV to/ADP the/DET starting/NOUN spot/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN to/PART sit/VERB down/ADP then/ADV the/DET man/NOUN step/VERB on/ADP top/NOUN of/ADP and/CCONJ then/ADV over/ADP an/DET object/NOUN at/ADP kneeheight/PROPN subsequently/ADV turn/VERB around/ADV to/PART repeat/VERB the/DET process/NOUN 

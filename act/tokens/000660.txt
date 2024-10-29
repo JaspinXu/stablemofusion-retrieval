@@ -1,0 +1,1 @@
+the/DET person/NOUN stride/VERB while/SCONJ walk/VERB forward/ADV then/ADV raise/VERB their/PRON right/ADJ arm/NOUN above/ADP their/PRON head/NOUN drop/VERB it/PRON and/CCONJ subsequently/ADV raise/VERB their/PRON left/ADJ arm/NOUN above/ADP their/PRON head/NOUN 

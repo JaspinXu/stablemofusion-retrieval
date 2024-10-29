@@ -1,0 +1,1 @@
+A man walks forward and stumbles to the side, then the sim steps forward throwing an object with their left hand.

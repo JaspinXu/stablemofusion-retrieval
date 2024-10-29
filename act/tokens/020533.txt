@@ -1,0 +1,1 @@
+a/DET man/NOUN stand/VERB up/ADP from/ADP a/DET kneeling/NOUN position/NOUN then/ADV kneel/NOUN again/ADV and/CCONJ subsequently/ADV balance/VERB on/ADP one/NUM leg/NOUN while/SCONJ hold/VERB his/PRON left/ADJ leg/NOUN with/ADP his/PRON left/ADJ hand/NOUN before/ADP hop/VERB on/ADP his/PRON right/ADJ leg/NOUN 

@@ -1,0 +1,6 @@
+person walks forward then jumps up and down
+the sim walks to the far end of the plane, wobbling a bit.
+person walks forward then jumps up and down
+a person is walking towards the viewer while veering to their right as if they are avoiding something in their path.
+person walks forward then jumps up and down
+a person takes too-wide steps forward, and then comes to a stop.

@@ -1,0 +1,1 @@
+a/DET person/NOUN skip/VERB in/ADP a/DET circle/NOUN one/NUM way/NOUN then/ADV turn/VERB and/CCONJ skip/VERB in/ADP a/DET circle/NOUN in/ADP the/DET opposite/ADJ direction/NOUN after/SCONJ that/PRON a/DET man/NOUN step/VERB forward/ADV a/DET few/ADJ step/NOUN turn/VERB around/ADP while/SCONJ swinge/VERB his/PRON left/ADJ leg/NOUN and/CCONJ start/VERB to/PART walk/VERB back/ADV 

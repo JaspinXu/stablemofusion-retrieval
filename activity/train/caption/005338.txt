@@ -1,0 +1,18 @@
+person walks  slowly forward
+a person walks forward then spins around and walks back
+person walks  slowly forward
+a person walks forward turns left and walks back to his original position
+person walks  slowly forward
+a person slowly walked forward and returned
+a person walks forward at a relatively fast pace.
+a person walks forward then spins around and walks back
+a person walks forward at a relatively fast pace.
+a person walks forward turns left and walks back to his original position
+a person walks forward at a relatively fast pace.
+a person slowly walked forward and returned
+a person walks at a normal pace.
+a person walks forward then spins around and walks back
+a person walks at a normal pace.
+a person walks forward turns left and walks back to his original position
+a person walks at a normal pace.
+a person slowly walked forward and returned

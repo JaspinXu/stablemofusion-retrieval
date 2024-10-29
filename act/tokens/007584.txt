@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB to/PART walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN then/ADV step/VERB up/ADP and/CCONJ apparently/ADV walk/VERB along/ADP a/DET beam/NOUN before/ADP step/VERB down/ADP 

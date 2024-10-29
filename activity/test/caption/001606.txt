@@ -1,0 +1,12 @@
+the person is cleaning something.
+person walks forward in straight line 4 steps and then stops.
+the person is cleaning something.
+a person takes a few steps forwards before stopping.
+person looks around and then takes a step to their right
+person walks forward in straight line 4 steps and then stops.
+person looks around and then takes a step to their right
+a person takes a few steps forwards before stopping.
+a person side steps once to the right.
+person walks forward in straight line 4 steps and then stops.
+a person side steps once to the right.
+a person takes a few steps forwards before stopping.

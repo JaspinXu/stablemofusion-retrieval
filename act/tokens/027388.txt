@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB make/VERB a/DET right/ADJ turn/NOUN then/ADV dodge/VERB to/ADP the/DET left/NOUN subsequently/ADV to/ADP the/DET right/NOUN and/CCONJ then/ADV perform/VERB a/DET kick/NOUN with/ADP the/DET left/ADJ leg/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ jog/VERB back/ADV take/VERB a/DET step/NOUN slightly/ADV forward/ADV and/CCONJ subsequently/ADV pause/VERB before/ADP throw/VERB their/PRON arm/NOUN wide/ADV open/ADJ 

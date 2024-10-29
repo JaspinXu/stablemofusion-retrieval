@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sidestep/VERB in/ADP both/DET direction/NOUN then/ADV walk/VERB forward/ADV with/ADP their/PRON hand/NOUN out/ADP to/ADP the/DET side/NOUN turn/VERB counterclockwise/ADJ and/CCONJ subsequently/ADV walk/VERB in/ADP the/DET other/ADJ direction/NOUN before/ADP start/VERB to/PART turn/VERB clockwise/NOUN again/ADV 

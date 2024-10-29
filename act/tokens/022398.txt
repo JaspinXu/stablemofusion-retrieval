@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN for/ADP a/DET few/ADJ foot/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB the/DET other/ADJ way/NOUN in/ADP an/DET oval/NOUN motion/NOUN subsequently/ADV act/VERB like/ADP a/DET chicken/NOUN by/ADP peck/VERB at/ADP the/DET ground/NOUN and/CCONJ flap/VERB its/PRON wing/NOUN 

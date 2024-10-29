@@ -1,0 +1,1 @@
+A person jumps up from the ground, then steps with their left foot to the right, followed by stepping back to the left using the same foot, after that, the character continues walking in a quarter circle, heading to the left.

@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB forward/ADV make/VERB a/DET bit/NOUN of/ADP a/DET zigzag/NOUN shape/NOUN then/ADV a/DET person/NOUN shuffle/VERB to/ADP the/DET right/NOUN before/ADP walk/VERB to/ADP the/DET left/ADJ 

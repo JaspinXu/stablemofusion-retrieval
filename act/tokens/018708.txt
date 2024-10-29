@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB from/ADP left/ADJ to/ADP right/NOUN with/ADP large/ADJ stride/NOUN then/ADV subsequently/ADV walk/VERB forwards/ADV and/CCONJ backwards/ADV very/ADV slowly/ADV 

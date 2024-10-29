@@ -1,0 +1,1 @@
+The toon bends to grab an object, appears to be filling a cup, and then places the item back to where it was while walking forward and to the side.

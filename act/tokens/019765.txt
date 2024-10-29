@@ -1,0 +1,1 @@
+a/DET person/NOUN crouch/NOUN and/CCONJ swing/NOUN side/NOUN to/PART side/VERB then/ADV walk/VERB forward/ADV at/ADP a/DET 90degree/NUM angle/NOUN before/ADP turn/VERB around/ADV completely/ADV to/PART return/VERB to/ADP the/DET starting/NOUN point/NOUN at/ADP a/DET 90degree/NUM angle/NOUN 

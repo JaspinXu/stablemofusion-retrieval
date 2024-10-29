@@ -1,0 +1,18 @@
+a person slowly jogs to the right to left and the jogs back into place
+a person steps forward, then kneels down using their right hand for support.
+a person slowly jogs to the right to left and the jogs back into place
+a person gets on the floor with its knees.
+a person slowly jogs to the right to left and the jogs back into place
+arms flap up and down, then the body knees down with both hands on the ground.
+robot start walking to his right and then start running from left to right and stopped at center.
+a person steps forward, then kneels down using their right hand for support.
+robot start walking to his right and then start running from left to right and stopped at center.
+a person gets on the floor with its knees.
+robot start walking to his right and then start running from left to right and stopped at center.
+arms flap up and down, then the body knees down with both hands on the ground.
+a person runs to their right, then left, then right again, and finally walk back to their starting position.
+a person steps forward, then kneels down using their right hand for support.
+a person runs to their right, then left, then right again, and finally walk back to their starting position.
+a person gets on the floor with its knees.
+a person runs to their right, then left, then right again, and finally walk back to their starting position.
+arms flap up and down, then the body knees down with both hands on the ground.

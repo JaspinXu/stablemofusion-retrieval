@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET big/ADJ step/NOUN in/ADP between/ADP and/CCONJ continue/VERB to/PART walk/VERB forward/ADV subsequently/PROPN the/DET person/NOUN be/AUX walk/VERB when/SCONJ they/PRON pivot/VERB and/CCONJ turn/VERB in/ADP the/DET other/ADJ direction/NOUN 

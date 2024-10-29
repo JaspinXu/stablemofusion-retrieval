@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET small/ADJ step/NOUN forward/ADV then/ADV walk/VERB towards/ADP the/DET camera/NOUN and/CCONJ pivot/NOUN on/ADP their/PRON left/ADJ foot/NOUN to/PART head/VERB towards/ADP the/DET back/NOUN 

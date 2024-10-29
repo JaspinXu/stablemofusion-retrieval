@@ -1,0 +1,18 @@
+person walks forward and to the left
+a person took four steps forward.
+person walks forward and to the left
+a person takes four steps forward, then stops.
+person walks forward and to the left
+a person starts from an stand still, walks straight forward, and stops.
+the man walks in a curve to the right.
+a person took four steps forward.
+the man walks in a curve to the right.
+a person takes four steps forward, then stops.
+the man walks in a curve to the right.
+a person starts from an stand still, walks straight forward, and stops.
+a walking man makes a left turn.
+a person took four steps forward.
+a walking man makes a left turn.
+a person takes four steps forward, then stops.
+a walking man makes a left turn.
+a person starts from an stand still, walks straight forward, and stops.

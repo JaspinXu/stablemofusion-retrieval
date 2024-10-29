@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB in/ADP a/DET slight/ADJ bend/NOUN from/ADP right/NOUN to/ADP left/VERB then/ADV a/DET person/NOUN lean/VERB to/ADP their/PRON left/NOUN and/CCONJ make/VERB a/DET small/ADJ forward/ADJ kick/NOUN with/ADP their/PRON right/ADJ leg/NOUN 

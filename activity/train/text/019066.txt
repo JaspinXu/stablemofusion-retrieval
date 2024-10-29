@@ -1,0 +1,1 @@
+The man walks forward, then walks backwards in a diagonal formation away from his original trajectory. He then repeats the same diagonal backwards movement in the other direction. Following that, he bends down on his left knee and stands back up, before bending down with his right knee to balance himself out.

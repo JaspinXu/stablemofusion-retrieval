@@ -1,0 +1,1 @@
+A person slides an object from their left to right, then picks something up from the right to the left.

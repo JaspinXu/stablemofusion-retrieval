@@ -1,0 +1,1 @@
+The person must push from the left to the right while staying standing, and then walks in a curve from the top right to the bottom left.

@@ -1,0 +1,1 @@
+a/DET man/NOUN bend/VERB down/ADP and/CCONJ look/VERB back/ADV and/CCONJ forth/ADV from/ADP left/ADJ to/ADP right/NOUN following/PROPN that/SCONJ a/DET person/NOUN bend/VERB over/ADP pick/NOUN up/ADP two/NUM dart/NOUN aim/VERB and/CCONJ then/ADV throw/VERB they/PRON one/NOUN after/ADP another/PRON 

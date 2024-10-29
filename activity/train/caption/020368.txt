@@ -1,0 +1,6 @@
+a person climbs up and down steps in a square.
+a man walks up and down from either stairs, rocks, or some unlevel terrain requiring a step.
+a person climbs up and down steps in a square.
+a person walks in a square shape while going up and down on objects.
+a person climbs up and down steps in a square.
+climb up steps with both legs

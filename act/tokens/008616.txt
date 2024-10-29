@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB a/DET small/ADJ backwards/ADV step/NOUN then/ADV a/DET person/NOUN start/VERB walk/VERB in/ADP a/DET straight/ADJ line/NOUN subsequently/ADV jog/VERB on/ADP the/DET spot/NOUN and/CCONJ later/ADV jog/NOUN in/ADP a/DET circle/NOUN 

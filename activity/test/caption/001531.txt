@@ -1,0 +1,12 @@
+a person walks forward and to the right.
+a person strolls forward towards the left
+a person walks forward and to the right.
+a person takes four steps forward, and turns to their left while doing so, to end up facing to their left.
+a person walks to his left.
+a person strolls forward towards the left
+a person walks to his left.
+a person takes four steps forward, and turns to their left while doing so, to end up facing to their left.
+a person walks while turning left.
+a person strolls forward towards the left
+a person walks while turning left.
+a person takes four steps forward, and turns to their left while doing so, to end up facing to their left.

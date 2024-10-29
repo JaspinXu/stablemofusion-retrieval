@@ -1,0 +1,6 @@
+person is  walking to right then left jogging.
+a man paces back and forth.
+person is  walking to right then left jogging.
+a person paces back and forth, first going left and then going right.
+person is  walking to right then left jogging.
+the person is walking back and forth in the room.

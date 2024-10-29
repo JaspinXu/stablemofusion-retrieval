@@ -1,0 +1,6 @@
+a person runs to their left, turns and runs back.
+a person is walking up and greeting someone.
+a person runs to their left, turns and runs back.
+a person walks forward, waves, turns and walks back to their original location.
+a person runs to their left, turns and runs back.
+man walks slowly forwards with his hands to his sides for 2 seconds then he raises his right arm and waves to the right, man turns around 180 degrees and walks back to the starting point.

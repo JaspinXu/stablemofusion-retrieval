@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB forward/ADV four/NUM time/NOUN then/ADV turn/VERB around/ADP and/CCONJ begin/VERB to/PART hop/VERB again/ADV after/SCONJ that/SCONJ they/PRON pick/VERB something/PRON up/ADP with/ADP the/DET right/ADJ hand/NOUN and/CCONJ scrub/VERB something/PRON with/ADP the/DET left/ADJ hand/NOUN 

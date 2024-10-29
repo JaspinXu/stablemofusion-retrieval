@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP some/DET stair/NOUN then/ADV take/VERB four/NUM step/NOUN forward/ADV and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV down/ADV 

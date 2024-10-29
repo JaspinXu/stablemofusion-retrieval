@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB forward/ADV in/ADP a/DET hurry/NOUN while/SCONJ a/DET person/NOUN be/AUX jog/VERB then/ADV the/DET person/NOUN stop/VERB and/CCONJ start/VERB to/PART jog/VERB again/ADV 

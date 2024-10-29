@@ -1,0 +1,1 @@
+The person slides to their left 3 times, then slides to their right 4 times, and subsequently slides to their right 2 times, ultimately ending at their original position. After that, the person uses both hands to carry an object and hands it to someone next to them.

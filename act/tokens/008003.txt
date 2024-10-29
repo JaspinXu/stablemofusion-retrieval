@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV for/ADP a/DET second/ADJ or/CCONJ two/NUM then/ADV walk/VERB forward/ADV down/ADP a/DET slope/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET book/NOUN from/ADP the/DET shelf/NOUN use/VERB his/PRON left/ADJ hand/NOUN and/CCONJ then/ADV shake/VERB hand/NOUN with/ADP that/DET same/ADJ hand/NOUN 

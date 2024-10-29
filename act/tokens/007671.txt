@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB an/DET object/NOUN and/CCONJ then/ADV raise/VERB their/PRON arm/NOUN to/PART catch/VERB it/PRON once/SCONJ its/PRON throw/VERB back/ADV subsequently/ADV a/DET man/NOUN pick/VERB up/ADP a/DET different/ADJ object/NOUN and/CCONJ set/VERB it/PRON on/ADP top/NOUN of/ADP another/DET object/NOUN 

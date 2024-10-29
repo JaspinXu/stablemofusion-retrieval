@@ -1,0 +1,1 @@
+a/DET person/NOUN climb/VERB up/ADV and/CCONJ down/ADP step/NOUN in/ADP a/DET square/NOUN then/ADV walk/VERB in/ADP a/DET square/ADJ shape/NOUN while/SCONJ go/VERB up/ADV and/CCONJ down/ADV on/ADP object/NOUN 

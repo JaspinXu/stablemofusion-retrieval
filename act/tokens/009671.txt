@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB on/ADP the/DET spot/NOUN in/ADP a/DET small/ADJ circular/ADJ motion/NOUN while/SCONJ face/VERB forwards/ADV then/ADV he/PRON slowly/ADV cross/VERB his/PRON right/ADJ leg/NOUN in/ADP front/NOUN of/ADP his/PRON left/ADJ leg/NOUN and/CCONJ subsequently/ADV cross/VERB his/PRON left/ADJ leg/NOUN in/ADP front/NOUN of/ADP his/PRON right/ADJ leg/NOUN 

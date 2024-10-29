@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX sit/VERB down/ADP eat/VERB a/DET hamburger/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV while/SCONJ hold/VERB up/ADP their/PRON left/ADJ hand/NOUN subsequently/ADV turn/VERB around/ADP and/CCONJ walk/VERB back/ADV 

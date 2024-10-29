@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB down/ADP a/DET flight/NOUN of/ADP stair/NOUN hold/VERB the/DET safety/NOUN rail/NOUN with/ADP his/PRON left/ADJ hand/NOUN then/ADV jump/VERB down/ADP to/ADP the/DET floor/NOUN once/SCONJ he/PRON reach/VERB the/DET bottom/ADJ step/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ turn/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV sit/VERB down/ADP and/CCONJ afterward/ADV walk/VERB clockwise/NOUN to/PART almost/ADV complete/VERB a/DET cycle/NOUN 

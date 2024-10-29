@@ -1,0 +1,1 @@
+The person is walking, then turns right and continues on, subsequently stopping on the right side.

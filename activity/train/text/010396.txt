@@ -1,0 +1,1 @@
+He walks forward, then turns backward. After that, he walks down halfway and makes a sharp diagonal to the left, followed by a sharp diagonal to the right in a zigzag pattern.

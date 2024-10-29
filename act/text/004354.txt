@@ -1,0 +1,1 @@
+An individual walks backward a few steps, then the sim walks down the plane.

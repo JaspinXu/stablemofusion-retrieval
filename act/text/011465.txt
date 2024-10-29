@@ -1,0 +1,1 @@
+A standing person walks forward for 3 seconds, does a little hop, and then continues walking. Following that, the person backs up two steps, sits down momentarily, and then stands up again.

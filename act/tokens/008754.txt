@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB straight/ADV while/SCONJ the/DET right/ADJ arm/NOUN assist/VERB with/ADP the/DET walking/NOUN then/ADV someone/PRON walk/VERB slowly/ADV take/VERB two/NUM step/NOUN forward/ADV before/ADP turn/VERB and/CCONJ walk/VERB one/NUM step/NOUN back/ADV to/ADP where/SCONJ they/PRON begin/VERB though/SCONJ now/ADV face/VERB the/DET opposite/ADJ direction/NOUN 

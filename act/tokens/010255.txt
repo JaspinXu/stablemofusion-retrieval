@@ -1,0 +1,1 @@
+the/DET man/NOUN go/VERB up/ADV 5/NUM stair/NOUN then/ADV he/PRON seem/VERB to/PART be/AUX straggle/VERB to/PART walk/VERB forward/ADV 

@@ -1,0 +1,1 @@
+A person jumps sideways to the left, then the person standing in the middle walks to the left side two steps, goes back to the right side five steps, returns to the left three steps, and finally stops in the middle.

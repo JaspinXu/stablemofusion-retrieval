@@ -1,0 +1,1 @@
+a/DET stocky/ADJ individual/ADJ walk/NOUN stiffly/VERB down/ADP the/DET stair/NOUN then/ADV pivot/VERB lift/VERB up/ADP their/PRON right/ADJ leg/NOUN kick/NOUN and/CCONJ return/NOUN to/ADP a/DET neutral/ADJ position/NOUN 

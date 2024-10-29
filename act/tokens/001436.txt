@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB a/DET few/ADJ step/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV run/VERB a/DET few/ADJ step/NOUN again/ADV follow/VERB by/ADP run/VERB forward/ADV for/ADP three/NUM more/ADJ step/NOUN before/ADP stop/VERB once/ADV more/ADV and/CCONJ start/VERB to/PART run/VERB again/ADV 

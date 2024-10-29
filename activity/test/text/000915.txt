@@ -1,0 +1,1 @@
+A person walks in a diagonal line, then walks forward, turns around, and walks back.

@@ -1,0 +1,1 @@
+A person does a single jump, then kicks an object.

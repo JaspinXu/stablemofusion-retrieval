@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sway/VERB from/ADP left/ADJ to/ADP right/ADV then/ADV take/VERB one/NUM step/NOUN forward/ADV and/CCONJ subsequently/ADV enter/VERB the/DET scene/NOUN travel/VERB in/ADP a/DET zig/PROPN zag/NOUN pattern/NOUN to/PART avoid/VERB certain/ADJ terrain/NOUN 

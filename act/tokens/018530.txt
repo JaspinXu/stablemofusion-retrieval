@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB stationary/ADJ on/ADP a/DET treadmill/NOUN then/ADV walk/VERB backwards/ADV while/SCONJ look/VERB back/ADV after/SCONJ that/PRON walk/VERB straight/ADV and/CCONJ subsequently/ADV walk/VERB backwards/ADV again/ADV 

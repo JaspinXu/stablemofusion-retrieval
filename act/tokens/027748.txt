@@ -1,0 +1,1 @@
+a/DET person/NOUN pitch/VERB a/DET baseball/NOUN and/CCONJ then/ADV stand/VERB still/ADV bounce/VERB their/PRON hand/NOUN as/ADP if/SCONJ play/VERB with/ADP a/DET yoyo/NOUN 

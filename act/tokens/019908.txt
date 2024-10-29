@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX standing/AUX crouch/VERB at/ADP an/DET angle/NOUN whip/VERB an/DET object/NOUN back/ADV and/CCONJ forth/ADV lead/VERB with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ then/ADV a/DET person/NOUN shoo/VERB something/PRON away/ADV with/ADP his/PRON arm/NOUN 

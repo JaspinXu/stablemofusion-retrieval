@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV climb/NOUN down/ADP the/DET stair/NOUN then/ADV a/DET man/NOUN be/AUX walk/VERB slowly/ADV in/ADP a/DET straight/ADJ line/NOUN with/ADP both/DET arm/NOUN reach/VERB above/ADP his/PRON head/NOUN as/SCONJ if/SCONJ he/PRON be/AUX walk/VERB on/ADP a/DET balance/NOUN beam/NOUN 

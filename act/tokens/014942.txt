@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX shift/VERB from/ADP side/NOUN to/PART side/VERB while/SCONJ pick/VERB up/ADP an/DET object/NOUN from/ADP one/NUM side/NOUN and/CCONJ move/VERB it/PRON to/ADP the/DET other/ADJ then/ADV a/DET figure/NOUN stand/VERB with/ADP its/PRON hand/NOUN at/ADP waist/NOUN level/NOUN before/ADP tentatively/ADV raise/VERB its/PRON hand/NOUN in/ADP response/NOUN 

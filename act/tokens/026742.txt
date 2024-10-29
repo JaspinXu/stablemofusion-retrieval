@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET brisk/ADJ pace/NOUN and/CCONJ then/ADV a/DET man/NOUN swing/VERB an/DET object/NOUN towards/ADP the/DET left/ADJ 

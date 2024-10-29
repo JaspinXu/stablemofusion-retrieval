@@ -1,0 +1,1 @@
+A person turns clockwise 180 degrees and then takes wide steps forward; subsequently, they turn around in the opposite direction and walk in a zig-zag motion.

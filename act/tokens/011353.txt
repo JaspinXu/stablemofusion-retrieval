@@ -1,0 +1,1 @@
+the/DET toon/NOUN walk/VERB forward/ADV sway/VERB a/DET bit/NOUN and/CCONJ then/ADV walk/VERB back/ADV before/ADP stop/VERB subsequently/ADV a/DET man/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN 

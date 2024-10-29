@@ -1,0 +1,1 @@
+A person is walking, then stops and walks again. Following that, he walks forward, bends down to touch something, gets back up, turns around, and walks back in the direction he came from.

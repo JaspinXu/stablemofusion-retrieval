@@ -1,0 +1,1 @@
+A figure slightly rocks back and forth while rotating clockwise 90 degrees, then a person turns anticlockwise to look at an object. Subsequently, the person proceeds to move towards and sit in the object.

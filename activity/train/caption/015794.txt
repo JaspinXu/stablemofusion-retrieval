@@ -1,0 +1,6 @@
+a person picks up an object, tilts it on its side, and then returns it to its starting position
+person is  walking to left then right jogging.
+a person reaches down to grab something, then placing it off to their right, and then reaching down again.
+person is  walking to left then right jogging.
+a person picking up something in a horizontal position, turning it vertically , and then placing it back down horizontally.
+person is  walking to left then right jogging.

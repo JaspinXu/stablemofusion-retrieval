@@ -1,0 +1,1 @@
+A person walks forwards, then turns around, after that walks forwards again, followed by turning around, all while navigating by walking to the right and left.

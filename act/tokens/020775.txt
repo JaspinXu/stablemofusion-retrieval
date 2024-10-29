@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB on/ADP one/NUM foot/NOUN in/ADP a/DET circle/NOUN then/ADV switch/VERB foot/NOUN every/DET half/NOUN circle/NOUN afterward/ADV someone/PRON step/VERB forward/ADV and/CCONJ turn/VERB back/ADV but/CCONJ walk/VERB with/ADP difficulty/NOUN 

@@ -1,0 +1,1 @@
+A person is walking forward while limping with his right leg, then turns around anticlockwise and sprints back to his starting position. After stopping, he turns around clockwise, next walks over to a chair, sits down, and subsequently gets back up.

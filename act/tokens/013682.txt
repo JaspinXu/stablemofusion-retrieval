@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV stumble/VERB forward/ADV and/CCONJ fall/VERB on/ADP all/DET four/NOUN crawl/VERB forward/ADV a/DET bit/NOUN and/CCONJ then/ADV walk/VERB backward/ADV after/SCONJ that/PRON the/DET same/ADJ person/NOUN get/VERB into/ADP a/DET car/NOUN and/CCONJ begin/VERB to/PART drive/VERB take/VERB a/DET left/ADJ turn/NOUN 

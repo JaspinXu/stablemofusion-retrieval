@@ -1,0 +1,1 @@
+A person runs to the right side for 4 steps, then to the left side for 5 steps to return to their original spot, and subsequently walks back and forth.

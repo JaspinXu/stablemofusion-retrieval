@@ -1,0 +1,1 @@
+A person throws something, then moves forward and subsequently walks at an angle to the left.

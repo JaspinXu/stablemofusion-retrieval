@@ -1,0 +1,4 @@
+a person is standing and jumps backward.
+the person took a step and jump backwards.
+a person is standing and jumps backward.
+a person jumps backward.

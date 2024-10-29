@@ -1,0 +1,1 @@
+a/DET person/NOUN casually/ADV walk/VERB aimlessly/ADV then/ADV bend/VERB down/ADP to/PART touch/VERB the/DET ground/NOUN stand/VERB up/ADP and/CCONJ subsequently/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN 

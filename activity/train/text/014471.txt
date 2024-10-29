@@ -1,0 +1,1 @@
+A stick figure without a head walks down the hill diagonally, then turns around and walks up the hill diagonally, while I feel like this animation is skipping or perhaps running in a U-shaped path with a twist at every stop.

@@ -1,0 +1,18 @@
+while walking forward he appears to be pushed, he rights himself and continues walking.
+a person walks clockwise from the 3 o'clock position to the 11 o'clock position.
+while walking forward he appears to be pushed, he rights himself and continues walking.
+a person makes a right turn and after about 5 steps does a u-turn.
+while walking forward he appears to be pushed, he rights himself and continues walking.
+a person walks to the left hand side, turns, then begins to walk back.
+a person walks forward, stumbles backwards, then walks forward again
+a person walks clockwise from the 3 o'clock position to the 11 o'clock position.
+a person walks forward, stumbles backwards, then walks forward again
+a person makes a right turn and after about 5 steps does a u-turn.
+a person walks forward, stumbles backwards, then walks forward again
+a person walks to the left hand side, turns, then begins to walk back.
+a man walks forward before stumbling backwards and the continues walking forward.
+a person walks clockwise from the 3 o'clock position to the 11 o'clock position.
+a man walks forward before stumbling backwards and the continues walking forward.
+a person makes a right turn and after about 5 steps does a u-turn.
+a man walks forward before stumbling backwards and the continues walking forward.
+a person walks to the left hand side, turns, then begins to walk back.

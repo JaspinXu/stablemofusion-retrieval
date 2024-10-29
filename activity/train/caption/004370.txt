@@ -1,0 +1,2 @@
+forward right, arms up, back left, arms down
+stick figure stands still momentarily before walking a counterclockwise curve motion

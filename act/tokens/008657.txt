@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB and/CCONJ stop/VERB then/ADV observe/VERB a/DET robot/NOUN run/VERB in/ADP a/DET circle/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV while/SCONJ hold/VERB a/DET baby/NOUN sit/VERB down/ADP briefly/ADV get/VERB up/ADP and/CCONJ walk/VERB back/ADV 

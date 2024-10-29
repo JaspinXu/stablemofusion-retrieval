@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV quickly/ADV in/ADP the/DET center/NOUN then/ADV jog/VERB forward/ADV a/DET few/ADJ step/NOUN turn/VERB sharply/ADV to/ADP his/PRON left/NOUN and/CCONJ continue/VERB jog/VERB 

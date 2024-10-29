@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX talk/VERB on/ADP the/DET phone/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN direction/NOUN 

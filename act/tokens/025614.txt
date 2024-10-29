@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sit/VERB with/ADP one/NUM leg/NOUN cross/VERB then/ADV switch/NOUN and/CCONJ cross/VERB the/DET other/ADJ leg/NOUN subsequently/PROPN the/DET person/NOUN throw/VERB twice/ADV and/CCONJ then/ADV stand/VERB up/ADP to/PART throw/VERB something/PRON again/ADV 

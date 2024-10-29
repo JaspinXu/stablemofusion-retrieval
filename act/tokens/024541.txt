@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB up/ADP onto/ADP a/DET platform/NOUN then/ADV descend/VERB down/ADP two/NUM stair/NOUN next/ADV make/VERB a/DET 180⁰/NUM turn/NOUN and/CCONJ thereafter/ADV ascend/VERB back/ADV up/ADP the/DET stair/NOUN atop/ADP the/DET platform/NOUN while/SCONJ rub/VERB their/PRON belly/NOUN 

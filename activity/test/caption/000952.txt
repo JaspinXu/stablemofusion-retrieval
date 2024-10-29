@@ -1,0 +1,18 @@
+a person walks down some stairs.
+a  man stands on the ground ,walks anticlockwise and then stops.
+a person walks down some stairs.
+a man walks and angled path forward towards his left.
+a person walks down some stairs.
+a person walks in a curved path to the left.
+walks downwstairs forward directly
+a  man stands on the ground ,walks anticlockwise and then stops.
+walks downwstairs forward directly
+a man walks and angled path forward towards his left.
+walks downwstairs forward directly
+a person walks in a curved path to the left.
+a person takes two steps before coming to a full stop
+a  man stands on the ground ,walks anticlockwise and then stops.
+a person takes two steps before coming to a full stop
+a man walks and angled path forward towards his left.
+a person takes two steps before coming to a full stop
+a person walks in a curved path to the left.

@@ -1,0 +1,4 @@
+a person walks to the left, then climbs something.
+a person walks straight then turn to its right then walks straight again.
+a person walks to the left, then climbs something.
+without stopping, a person walks a few steps forward then makes a sharp right turn and continues walking a few more steps.

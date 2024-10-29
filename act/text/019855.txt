@@ -1,0 +1,1 @@
+A man walks towards the right, then walks backward to the left, turns around, and walks backward to the right. Following that, a person stumbles forward, then turns around and stops.

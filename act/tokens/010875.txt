@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV a/DET person/NOUN march/VERB forward/ADV while/SCONJ lift/VERB up/ADP their/PRON knee/NOUN 

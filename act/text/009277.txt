@@ -1,0 +1,1 @@
+A person walks backwards and stops, then another person is walking, turns to the left whilst still walking, and subsequently also stops.

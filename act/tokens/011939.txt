@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV slowly/ADV in/ADP a/DET manner/NOUN then/ADV continue/VERB walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN to/ADP the/DET left/ADJ 

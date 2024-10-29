@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET leisurely/ADJ pace/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV take/VERB hop/NOUN step/NOUN to/ADP their/PRON left/ADJ and/CCONJ subsequently/ADV return/VERB back/ADV to/ADP their/PRON original/ADJ position/NOUN 

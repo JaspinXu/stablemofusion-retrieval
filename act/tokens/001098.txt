@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET karate/ADJ kick/NOUN then/ADV lift/VERB their/PRON right/ADJ arm/NOUN with/ADP the/DET elbow/NOUN bent/NOUN extend/VERB it/PRON out/ADP to/ADP a/DET 90/NUM degree/NOUN angle/NOUN to/ADP their/PRON body/NOUN 

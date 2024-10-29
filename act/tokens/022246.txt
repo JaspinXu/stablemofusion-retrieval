@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET cartwheel/NOUN spin/NOUN and/CCONJ then/ADV perform/VERB another/DET cartwheel/NOUN follow/VERB that/SCONJ a/DET man/NOUN walk/VERB forwards/ADV slowly/ADV use/VERB his/PRON right/ADJ leg/NOUN while/SCONJ drag/VERB his/PRON left/ADJ leg/NOUN with/ADP difficulty/NOUN 

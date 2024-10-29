@@ -1,0 +1,1 @@
+a/DET man/NOUN sit/VERB and/CCONJ throw/VERB two/NUM ball/NOUN then/ADV stand/VERB and/CCONJ throw/VERB again/ADV follow/VERB that/SCONJ a/DET person/NOUN lift/VERB a/DET light/ADJ object/NOUN above/ADP their/PRON head/NOUN and/CCONJ then/ADV lower/VERB it/PRON to/ADP the/DET ground/NOUN 

@@ -1,0 +1,1 @@
+a/DET kneeling/NOUN person/NOUN stand/VERB up/ADP then/ADV bend/NOUN at/ADP the/DET waist/NOUN with/ADP their/PRON left/ADJ hand/NOUN on/ADP their/PRON hip/NOUN and/CCONJ their/PRON right/ADJ arm/NOUN extend/VERB imitate/VERB a/DET teapot/NOUN be/AUX pour/VERB before/ADP kneel/VERB back/ADV on/ADP one/NUM knee/NOUN 

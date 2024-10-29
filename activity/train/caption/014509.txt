@@ -1,0 +1,6 @@
+a person walks froward from one side to the other.
+someone walks forward 10 steps.
+starting with the right foot, a person walks forward and then climbs up stairs,
+someone walks forward 10 steps.
+a person walks up stairs.
+someone walks forward 10 steps.

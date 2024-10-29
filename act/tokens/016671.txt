@@ -1,0 +1,1 @@
+a/DET person/NOUN pose/VERB as/ADP a/DET bird/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV follow/VERB by/ADP another/DET man/NOUN walk/VERB backwards/ADV and/CCONJ later/ADV a/DET man/NOUN walk/VERB to/ADP the/DET side/NOUN while/SCONJ cross/VERB his/PRON leg/NOUN 

@@ -1,0 +1,1 @@
+A person first turns to the right and walks right, then pivots and turns to the left, walks almost to the end, and subsequently turns right to end where they originally started. Following that, the person prepares food on a kitchen worktop.

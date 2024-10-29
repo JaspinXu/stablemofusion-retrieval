@@ -1,0 +1,1 @@
+a/DET person/NOUN adjust/VERB the/DET temperature/NOUN knob/NOUN on/ADP an/DET oven/NOUN then/ADV sit/VERB down/ADP stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV follow/VERB that/SCONJ they/PRON turn/VERB around/ADV 180/NUM degree/NOUN and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN 

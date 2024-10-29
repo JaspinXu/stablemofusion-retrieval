@@ -1,0 +1,1 @@
+the/DET person/NOUN sweep/VERB the/DET floor/NOUN then/ADV walk/VERB to/ADP his/PRON right/NOUN and/CCONJ then/ADV to/ADP his/PRON left/NOUN finally/ADV return/VERB to/ADP his/PRON original/ADJ position/NOUN 

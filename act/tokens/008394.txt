@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX hop/VERB on/ADP one/NUM foot/NOUN at/ADP a/DET time/NOUN alternate/VERB between/ADP left/NOUN and/CCONJ right/ADJ and/CCONJ then/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN 

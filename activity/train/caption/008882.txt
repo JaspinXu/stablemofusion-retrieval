@@ -1,0 +1,18 @@
+a person walks backwards, in a straight line.
+a person walks clockwise and forward in a half loop.
+a person walks backwards, in a straight line.
+a person who walks at a bend towards the left.
+a person walks backwards, in a straight line.
+a man walks forwards while curving to the left.
+the person is walking straight backwards.
+a person walks clockwise and forward in a half loop.
+the person is walking straight backwards.
+a person who walks at a bend towards the left.
+the person is walking straight backwards.
+a man walks forwards while curving to the left.
+this person walks backwards and stops.
+a person walks clockwise and forward in a half loop.
+this person walks backwards and stops.
+a person who walks at a bend towards the left.
+this person walks backwards and stops.
+a man walks forwards while curving to the left.

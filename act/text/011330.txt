@@ -1,0 +1,1 @@
+A person crawls forward, then stands up and turns to their right. Subsequently, the person walks forward, then paces backwards, and finally walks forward again.

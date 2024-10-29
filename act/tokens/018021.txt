@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP with/ADP hand/NOUN by/ADP his/PRON side/NOUN then/ADV a/DET man/NOUN stand/VERB up/ADP from/ADP his/PRON seat/VERB position/NOUN walk/VERB forward/ADV turn/VERB around/ADP to/PART face/VERB where/SCONJ he/PRON be/AUX seat/VERB and/CCONJ afterward/ADV walk/VERB back/ADV to/PART reseat/VERB himself/PRON 

@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB two/NUM overarm/NOUN swipe/NOUN then/ADV a/DET man/NOUN walk/VERB from/ADP the/DET left/ADJ side/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ hop/VERB over/ADP an/DET obstacle/NOUN 

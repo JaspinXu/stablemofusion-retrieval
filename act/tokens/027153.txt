@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB their/PRON left/ADJ arm/NOUN up/ADP twitch/NOUN a/DET bit/NOUN then/ADV bring/VERB their/PRON right/ADJ arm/NOUN up/ADP while/SCONJ put/VERB their/PRON left/ADJ arm/NOUN down/ADP follow/VERB that/SCONJ start/VERB with/ADP their/PRON left/ADJ foot/NOUN the/DET person/NOUN walk/VERB quickly/ADV forward/ADV 

@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB up/ADP the/DET step/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV down/ADV while/SCONJ a/DET person/NOUN nearby/ADV be/AUX walk/VERB with/ADP a/DET limp/ADJ to/ADP their/PRON right/NOUN 

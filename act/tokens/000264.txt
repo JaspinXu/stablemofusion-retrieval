@@ -1,0 +1,1 @@
+john/PROPN go/VERB forward/ADV kick/NOUN with/ADP his/PRON right/ADJ leg/NOUN hard/ADV and/CCONJ then/ADV turn/VERB around/ADP 

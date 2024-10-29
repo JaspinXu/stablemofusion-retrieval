@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN in/ADP lotus/PROPN position/NOUN then/ADV get/VERB back/ADV up/ADV and/CCONJ subsequently/ADV the/DET man/NOUN begin/VERB to/PART dance/VERB 

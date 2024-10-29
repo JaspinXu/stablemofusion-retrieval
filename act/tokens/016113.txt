@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB something/PRON up/ADP show/VERB it/PRON to/ADP the/DET left/NOUN and/CCONJ then/ADV put/VERB it/PRON down/ADP follow/VERB that/SCONJ the/DET person/NOUN run/VERB in/ADP place/NOUN turn/VERB to/ADP the/DET left/ADJ run/VERB to/ADP the/DET right/NOUN and/CCONJ ultimately/ADV return/VERB to/ADP the/DET starting/NOUN position/NOUN 

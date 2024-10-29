@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX eat/VERB while/SCONJ stand/VERB up/ADP then/ADV stand/VERB up/ADP from/ADP lay/VERB on/ADP the/DET ground/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ subsequently/ADV lay/VERB down/ADP on/ADP the/DET ground/NOUN again/ADV 

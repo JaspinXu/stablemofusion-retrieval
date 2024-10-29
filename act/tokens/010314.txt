@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB downstairs/ADV then/ADV a/DET man/NOUN take/VERB a/DET step/NOUN up/ADP walk/NOUN forward/ADV and/CCONJ subsequently/ADV take/VERB a/DET step/NOUN down/ADV 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backward/ADV slowly/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB backward/ADV in/ADP the/DET opposite/ADJ direction/NOUN while/SCONJ a/DET person/NOUN seem/VERB to/PART be/AUX grab/VERB something/PRON from/ADP their/PRON pocket/NOUN 

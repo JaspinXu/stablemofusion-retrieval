@@ -1,0 +1,1 @@
+A person jumps to the left, then to the right, and tries to do a double jump but stumbles backwards. After regaining their composure, they start walking back to the starting position. Next, the person picks something up, tilts it, and then puts it back down.

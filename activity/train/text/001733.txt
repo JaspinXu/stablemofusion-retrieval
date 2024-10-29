@@ -1,0 +1,1 @@
+A person walking forward is shoved mid-step, but he quickly recovers his balance. Following that, he steps forward with his right foot, raises his left arm, andThrows something.

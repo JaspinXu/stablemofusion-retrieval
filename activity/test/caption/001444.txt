@@ -1,0 +1,18 @@
+a person stands still for a moment, and then staggers forward.
+a person walking down and taking a right turn
+a person stands still for a moment, and then staggers forward.
+person walks forward, and in a half circle, angles to the left of the screen
+a person stands still for a moment, and then staggers forward.
+a person starts walking forward, and follows an clockwise path for a quarter turn.
+a man takes two steps forward.
+a person walking down and taking a right turn
+a man takes two steps forward.
+person walks forward, and in a half circle, angles to the left of the screen
+a man takes two steps forward.
+a person starts walking forward, and follows an clockwise path for a quarter turn.
+this person stumbles forward a short distance.
+a person walking down and taking a right turn
+this person stumbles forward a short distance.
+person walks forward, and in a half circle, angles to the left of the screen
+this person stumbles forward a short distance.
+a person starts walking forward, and follows an clockwise path for a quarter turn.

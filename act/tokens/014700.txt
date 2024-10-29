@@ -1,0 +1,1 @@
+the/DET person/NOUN start/VERB stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ hop/VERB with/ADP the/DET second/ADJ leg/NOUN hold/VERB up/ADP off/ADP the/DET ground/NOUN then/ADV he/PRON repeat/VERB the/DET action/NOUN with/ADP the/DET opposite/ADJ leg/NOUN after/SCONJ that/PRON the/DET man/NOUN jump/VERB and/CCONJ then/ADV walk/VERB forward/ADV 

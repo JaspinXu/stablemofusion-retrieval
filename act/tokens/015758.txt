@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN one/NUM foot/NOUN at/ADP a/DET time/NOUN then/ADV flap/VERB their/PRON arm/NOUN like/ADP a/DET bird/NOUN 

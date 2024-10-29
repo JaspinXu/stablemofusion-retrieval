@@ -1,0 +1,1 @@
+A person walks slowly in a circular pattern, and after completing the circle, they slowly walk forward.

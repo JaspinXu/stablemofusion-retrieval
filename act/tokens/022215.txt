@@ -1,0 +1,1 @@
+a/DET pizza/NOUN delivery/NOUN driver/NOUN arrive/VERB at/ADP a/DET customer/NOUN house/NOUN walk/VERB up/ADP to/ADP the/DET door/NOUN and/CCONJ ring/VERB the/DET doorbell/NOUN follow/VERB that/SCONJ the/DET man/NOUN sit/VERB down/ADP and/CCONJ throw/VERB two/NUM ball/NOUN then/ADV stand/VERB up/ADP and/CCONJ throw/VERB again/ADV 

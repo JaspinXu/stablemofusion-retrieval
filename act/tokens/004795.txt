@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB at/ADP the/DET top/ADJ portion/NOUN of/ADP a/DET rectangle/NOUN jog/VERB to/ADP the/DET other/ADJ side/NOUN then/ADV raise/VERB their/PRON right/ADJ arm/NOUN follow/VERB by/ADP their/PRON left/ADJ arm/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET semicircle/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV walk/VERB down/ADP the/DET stair/NOUN 

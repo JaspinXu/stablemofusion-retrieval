@@ -1,0 +1,1 @@
+a/DET person/NOUN twist/VERB side/NOUN to/PART side/VERB and/CCONJ spin/VERB counterclockwise/NOUN to/ADP the/DET right/NOUN then/ADV jog/VERB to/ADP the/DET left/NOUN and/CCONJ right/ADV before/ADP return/VERB to/ADP their/PRON starting/NOUN position/NOUN 

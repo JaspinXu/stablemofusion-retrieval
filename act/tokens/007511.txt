@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV pivot/NOUN and/CCONJ turn/VERB 180/NUM degree/NOUN to/ADP the/DET right/ADJ after/SCONJ that/PRON take/VERB a/DET right/ADJ step/NOUN forward/ADV and/CCONJ then/ADV return/VERB to/ADP the/DET same/ADJ spot/NOUN 

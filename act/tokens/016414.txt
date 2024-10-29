@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET curve/NOUN then/ADV pause/VERB and/CCONJ afterward/ADV walk/VERB forward/ADV again/ADV 

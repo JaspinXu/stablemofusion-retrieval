@@ -1,0 +1,1 @@
+A person walks with a slightly angled direction and smooth hip motion, then takes two steps before coming to a full stop.

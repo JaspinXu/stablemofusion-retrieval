@@ -1,0 +1,1 @@
+a/DET person/NOUN crouch/NOUN to/PART pick/VERB something/PRON up/ADP and/CCONJ stand/VERB up/ADP then/ADV raise/VERB up/ADP each/DET arm/NOUN one/NUM at/ADP a/DET time/NOUN follow/VERB by/ADP both/DET arm/NOUN together/ADV and/CCONJ finally/ADV raise/VERB each/DET arm/NOUN one/NUM at/ADP a/DET time/NOUN again/ADV 

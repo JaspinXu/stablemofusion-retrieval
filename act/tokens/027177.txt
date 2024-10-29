@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ put/VERB it/PRON down/ADP to/ADP the/DET side/NOUN then/ADV walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ until/SCONJ he/PRON lose/VERB his/PRON balance/NOUN tilt/VERB far/ADV to/ADP the/DET left/NOUN before/ADP stumble/VERB to/ADP his/PRON left/ADJ 

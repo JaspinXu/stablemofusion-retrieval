@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV in/ADP five/NUM step/NOUN then/ADV walk/VERB forward/ADV again/ADV before/ADP start/VERB to/PART skip/VERB 

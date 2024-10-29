@@ -1,0 +1,18 @@
+the man runs very fast
+the figure is walking forward, slightly off center.
+the man runs very fast
+the man takes 5 steps forward.
+the man runs very fast
+a person slowly walked forward
+a person was slowly running in left direction
+the figure is walking forward, slightly off center.
+a person was slowly running in left direction
+the man takes 5 steps forward.
+a person was slowly running in left direction
+a person slowly walked forward
+the person is running in place.
+the figure is walking forward, slightly off center.
+the person is running in place.
+the man takes 5 steps forward.
+the person is running in place.
+a person slowly walked forward

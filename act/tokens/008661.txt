@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB three/NUM time/NOUN forward/ADV then/ADV walk/VERB backwards/ADV up/ADP a/DET slope/NOUN 

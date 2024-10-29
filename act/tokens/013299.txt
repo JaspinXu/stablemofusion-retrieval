@@ -1,0 +1,1 @@
+a/DET figure/NOUN throw/VERB a/DET frisbee/NOUN then/ADV a/DET person/NOUN walk/VERB to/ADP the/DET cooler/NOUN and/CCONJ take/VERB out/ADP a/DET beer/NOUN 

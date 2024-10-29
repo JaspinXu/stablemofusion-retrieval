@@ -1,0 +1,1 @@
+a/DET person/NOUN carefully/ADV walk/VERB forward/ADV with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ arm/NOUN hold/VERB out/ADP to/ADP either/DET side/NOUN then/ADV step/VERB forward/ADV turn/VERB around/ADP to/ADP his/PRON right/NOUN and/CCONJ step/NOUN back/ADV before/ADP stop/VERB 

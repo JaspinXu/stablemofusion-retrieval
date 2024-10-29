@@ -1,0 +1,18 @@
+a person appears to be running in place.
+walking forward in a diagonal line.
+a person appears to be running in place.
+a person wiggles in a seat, pauses, and then stands up and walks forward.
+a person appears to be running in place.
+a person is sitting in a chair, wobbles side to side, stands up, and then start walking.
+a person is running in place at a medium pace.
+walking forward in a diagonal line.
+a person is running in place at a medium pace.
+a person wiggles in a seat, pauses, and then stands up and walks forward.
+a person is running in place at a medium pace.
+a person is sitting in a chair, wobbles side to side, stands up, and then start walking.
+a person is jogging forward in a steady manner.
+walking forward in a diagonal line.
+a person is jogging forward in a steady manner.
+a person wiggles in a seat, pauses, and then stands up and walks forward.
+a person is jogging forward in a steady manner.
+a person is sitting in a chair, wobbles side to side, stands up, and then start walking.

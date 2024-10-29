@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB 90/NUM degree/NOUN then/ADV get/VERB down/ADP on/ADP its/PRON knee/NOUN and/CCONJ start/VERB crawl/VERB after/SCONJ that/SCONJ the/DET person/NOUN lift/VERB up/ADP something/PRON from/ADP a/DET table/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADV slightly/ADV to/ADP the/DET right/NOUN 

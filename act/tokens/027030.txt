@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB towards/ADP the/DET viewer/NOUN before/ADP veer/VERB off/ADP to/ADP the/DET visual/ADJ right/NOUN and/CCONJ stop/VERB as/SCONJ if/SCONJ look/VERB out/ADP a/DET window/NOUN then/ADV the/DET man/NOUN touch/VERB his/PRON head/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ then/ADV with/ADP his/PRON right/NOUN 

@@ -1,0 +1,1 @@
+a/DET stickman/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN flick/VERB his/PRON right/ADJ arm/NOUN and/CCONJ then/ADV his/PRON left/ADJ arm/NOUN subsequently/ADV a/DET person/NOUN walk/VERB down/ADP a/DET set/NOUN of/ADP stair/NOUN 

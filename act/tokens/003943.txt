@@ -1,0 +1,1 @@
+a/DET figure/NOUN stagger/VERB one/NUM step/NOUN forward/ADV then/ADV a/DET person/NOUN walk/VERB forward/ADV slowly/ADV 

@@ -1,0 +1,1 @@
+A person starts in the middle, walks to the right, then back to the left, and finally returns to the middle again. Following that, they run to the left, then to the right, and ultimately return to their starting position.

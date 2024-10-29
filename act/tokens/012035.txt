@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET slow/ADJ clockwise/NOUN circle/NOUN then/ADV stop/VERB in/ADP a/DET standing/NOUN position/NOUN follow/VERB that/SCONJ they/PRON shake/VERB something/PRON in/ADP their/PRON left/ADJ hand/NOUN take/VERB a/DET few/ADJ step/NOUN and/CCONJ then/ADV set/VERB the/DET object/NOUN down/ADP 

@@ -1,0 +1,1 @@
+a/DET man/NOUN sit/VERB on/ADP a/DET bench/NOUN then/ADV get/VERB up/ADP to/PART walk/VERB around/ADV in/ADP a/DET circle/NOUN return/VERB to/ADP the/DET same/ADJ bench/NOUN to/PART sit/VERB down/ADP again/ADV while/SCONJ he/PRON move/VERB a/DET person/NOUN nearby/ADV play/VERB a/DET horn/NOUN as/SCONJ they/PRON turn/VERB from/ADP right/ADV to/ADP left/NOUN 

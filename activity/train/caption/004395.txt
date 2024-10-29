@@ -1,0 +1,12 @@
+a person is running in place and stops.
+a person walks forward a quarter of a circle clockwise.
+a person is running in place and stops.
+a person walks from the left side of the room to the right.
+a person is running in place and stops.
+the person was walking forward to the right.
+a person bounces up and down on each leg while moving arms slightly up and down at the same time.
+a person walks forward a quarter of a circle clockwise.
+a person bounces up and down on each leg while moving arms slightly up and down at the same time.
+a person walks from the left side of the room to the right.
+a person bounces up and down on each leg while moving arms slightly up and down at the same time.
+the person was walking forward to the right.

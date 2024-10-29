@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV towards/ADP the/DET left/NOUN while/SCONJ raise/VERB a/DET hand/NOUN then/ADV walk/VERB backwards/ADV and/CCONJ subsequently/ADV go/VERB around/ADV to/PART sit/VERB on/ADP a/DET chair/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jump/VERB rope/NOUN with/ADP cross/VERB arm/NOUN then/ADV step/NOUN backwards/ADV towards/ADP the/DET lefthand/NOUN side/NOUN follow/VERB by/ADP move/VERB forward/ADV to/ADP the/DET right/ADJ turning/NOUN around/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET left/ADJ 

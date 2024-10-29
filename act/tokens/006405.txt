@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN and/CCONJ stop/NOUN then/ADV perform/VERB a/DET 360/NUM jump/NOUN in/ADP the/DET air/NOUN 

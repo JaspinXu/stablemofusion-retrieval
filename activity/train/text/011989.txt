@@ -1,0 +1,1 @@
+A person running towards the camera leaps up and over an object, pivots on their left foot, and then returns to jump back over the object once more. Following that, they walk forward and then step up some stairs.

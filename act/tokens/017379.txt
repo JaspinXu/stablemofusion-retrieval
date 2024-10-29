@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX stand/VERB while/SCONJ move/VERB his/PRON hand/NOUN up/ADV and/CCONJ down/ADV then/ADV turn/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN and/CCONJ run/VERB diagonally/ADV subsequently/ADV turn/VERB in/ADP a/DET clockwise/NOUN circle/NOUN before/ADP walk/VERB diagonally/ADV back/ADV to/ADP the/DET middle/NOUN of/ADP the/DET gray/ADJ area/NOUN 

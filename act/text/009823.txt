@@ -1,0 +1,1 @@
+This person slowly walks forward, then stops. Following that, the person walks forward quickly, turns, and sits, afterward getting back up and walking a little past their original position.

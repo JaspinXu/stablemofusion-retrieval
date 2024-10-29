@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB two/NUM time/NOUN and/CCONJ then/ADV a/DET person/NOUN jog/VERB in/ADP a/DET circle/NOUN 

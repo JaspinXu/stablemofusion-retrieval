@@ -1,0 +1,1 @@
+A person walks forward, then turns to his right, continues walking, turns to his right again, steps forward, and stops. After that, the person looks down at his shoe.

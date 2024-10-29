@@ -1,0 +1,1 @@
+a/DET person/NOUN act/VERB out/ADP i/PRON be/AUX a/DET little/PROPN teapot/PROPN then/ADV walk/VERB while/SCONJ hold/VERB on/ADP to/ADP a/DET rail/NOUN with/ADP each/DET hand/NOUN 

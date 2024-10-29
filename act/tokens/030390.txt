@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP a/DET ledge/NOUN then/ADV get/VERB up/ADP and/CCONJ begin/VERB walk/VERB in/ADP a/DET curve/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP make/VERB a/DET turn/NOUN back/ADV around/ADV to/ADP the/DET left/NOUN in/ADP another/DET curve/NOUN 

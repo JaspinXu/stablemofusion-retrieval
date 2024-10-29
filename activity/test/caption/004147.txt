@@ -1,0 +1,6 @@
+walking forward turn around and then run back to starting place
+person picked an object up.
+a person takes 3 steps forward then turns around and runs.
+person picked an object up.
+a person walks forward, arms unmoving then they run back.
+person picked an object up.

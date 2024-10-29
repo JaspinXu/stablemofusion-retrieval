@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN while/SCONJ a/DET man/NOUN perform/VERB a/DET few/ADJ ballet/NOUN move/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN move/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN 

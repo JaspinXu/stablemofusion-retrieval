@@ -1,0 +1,1 @@
+A person walks and picks up an object, then throws it, followed by continuing to walk. Subsequently, an individual is walking as well, bending over to grab something, throwing the object, and then resumes walking.

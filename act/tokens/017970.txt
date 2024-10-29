@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB counterclockwise/NOUN around/ADP the/DET room/NOUN and/CCONJ then/ADV stop/VERB 

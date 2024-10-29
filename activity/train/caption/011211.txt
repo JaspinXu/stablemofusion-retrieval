@@ -1,0 +1,18 @@
+the person is picking up and moving something.
+a person walks in a counter clockwise circle before stopping at their original position.
+the person is picking up and moving something.
+a person walking in anticlockwise direction and stands still.
+the person is picking up and moving something.
+a person is walking counterclockwise.
+a person puts down a large object, then walks forwards.
+a person walks in a counter clockwise circle before stopping at their original position.
+a person puts down a large object, then walks forwards.
+a person walking in anticlockwise direction and stands still.
+a person puts down a large object, then walks forwards.
+a person is walking counterclockwise.
+person puts something on ground then takes 8 steps forward
+a person walks in a counter clockwise circle before stopping at their original position.
+person puts something on ground then takes 8 steps forward
+a person walking in anticlockwise direction and stands still.
+person puts something on ground then takes 8 steps forward
+a person is walking counterclockwise.

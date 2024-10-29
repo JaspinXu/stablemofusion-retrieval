@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB one/NUM step/NOUN forward/ADV then/ADV walk/VERB in/ADP a/DET 90degree/NUM arc/NOUN counterclockwise/NOUN 

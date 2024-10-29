@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV pivot/VERB back/ADV in/ADP a/DET half/NOUN turn/NOUN to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV the/DET way/NOUN he/PRON come/VERB after/SCONJ that/SCONJ a/DET person/NOUN walk/VERB forward/ADV turn/VERB on/ADP his/PRON right/ADJ foot/NOUN and/CCONJ go/VERB back/ADV 

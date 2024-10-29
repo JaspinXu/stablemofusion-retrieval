@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP something/PRON then/ADV grab/VERB it/PRON and/CCONJ put/VERB it/PRON somewhere/ADV after/SCONJ that/PRON the/DET sim/NOUN climb/VERB up/ADP a/DET few/ADJ step/NOUN before/ADP climb/VERB back/ADV down/ADV and/CCONJ walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET plane/NOUN 

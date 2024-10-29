@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB to/PART walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN with/ADP their/PRON hand/NOUN on/ADP their/PRON hip/NOUN and/CCONJ then/ADV the/DET right/ADJ hand/NOUN extend/VERB across/ADP the/DET body/NOUN to/ADP the/DET left/ADJ side/NOUN where/SCONJ the/DET left/ADJ hand/NOUN join/VERB the/DET right/ADJ hand/NOUN in/ADP a/DET sweeping/ADJ motion/NOUN 

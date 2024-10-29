@@ -1,0 +1,1 @@
+A person paces back and forth in a diagonal line, then moves to the left and subsequently to the right.

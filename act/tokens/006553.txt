@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV two/NUM step/NOUN then/ADV back/ADV to/ADP his/PRON original/ADJ place/NOUN and/CCONJ subsequently/ADV bend/NOUN at/ADP the/DET waist/NOUN make/VERB a/DET motion/NOUN with/ADP his/PRON arm/NOUN as/SCONJ if/SCONJ lift/VERB something/PRON slightly/ADV and/CCONJ pass/VERB it/PRON from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ 

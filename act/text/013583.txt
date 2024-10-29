@@ -1,0 +1,1 @@
+A man takes a couple of steps to his left and then returns to the starting position by stepping to his right. After that, he takes a small step backward and then jumps with both feet three times forward.

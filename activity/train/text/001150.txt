@@ -1,0 +1,1 @@
+Animation is walking in a downward direction diagonally to the left, then a person hops forward.

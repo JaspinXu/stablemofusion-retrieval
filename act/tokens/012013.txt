@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV a/DET short/ADJ distance/NOUN then/ADV pick/VERB something/PRON up/ADP off/ADP a/DET table/NOUN move/VERB it/PRON in/ADP a/DET circular/ADJ fashion/NOUN as/SCONJ to/PART whisk/VERB something/PRON follow/VERB that/SCONJ a/DET person/NOUN walk/VERB backward/ADV and/CCONJ then/ADV stand/VERB still/ADV 

@@ -1,0 +1,1 @@
+A person starts to dig something, then turns around, walks forward, turns around again, and returns to the original position.

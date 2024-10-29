@@ -1,0 +1,18 @@
+a person side-steps to the left, then to the right, then back to center.
+person walks forward and stumbles
+a person side-steps to the left, then to the right, then back to center.
+a person walking forward staggers to the left and then corrects their gait.
+a person side-steps to the left, then to the right, then back to center.
+a person stumbles to the right while walking.
+a man takes side steps to the left, then side steps to the right, and finally side steps to the left, to return to the center.
+person walks forward and stumbles
+a man takes side steps to the left, then side steps to the right, and finally side steps to the left, to return to the center.
+a person walking forward staggers to the left and then corrects their gait.
+a man takes side steps to the left, then side steps to the right, and finally side steps to the left, to return to the center.
+a person stumbles to the right while walking.
+a person slowly moved in left and right direction
+person walks forward and stumbles
+a person slowly moved in left and right direction
+a person walking forward staggers to the left and then corrects their gait.
+a person slowly moved in left and right direction
+a person stumbles to the right while walking.

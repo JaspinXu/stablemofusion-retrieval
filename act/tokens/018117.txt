@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV turn/VERB around/ADV before/ADP walk/VERB to/ADP the/DET right/ADJ while/SCONJ cross/VERB his/PRON leg/NOUN one/NUM over/ADP another/PRON and/CCONJ afterward/ADV walk/VERB to/ADP the/DET left/NOUN while/SCONJ cross/VERB his/PRON leg/NOUN one/NUM over/ADP another/PRON 

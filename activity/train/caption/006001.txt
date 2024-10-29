@@ -1,0 +1,18 @@
+a person walks forward at a normal pace.
+a person picks something up and puts it down to the right
+a person walks forward at a normal pace.
+displace from right to left
+a person walks forward at a normal pace.
+the person is moving soemthing.
+a man walks forward slowly.
+a person picks something up and puts it down to the right
+a man walks forward slowly.
+displace from right to left
+a man walks forward slowly.
+the person is moving soemthing.
+a person walks forward while holding their arms still
+a person picks something up and puts it down to the right
+a person walks forward while holding their arms still
+displace from right to left
+a person walks forward while holding their arms still
+the person is moving soemthing.

@@ -1,0 +1,1 @@
+a/DET man/NOUN play/VERB the/DET violin/NOUN then/ADV move/VERB forward/ADV and/CCONJ do/VERB a/DET cartwheel/NOUN before/ADP return/VERB to/ADP his/PRON original/ADJ position/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV forward/ADV while/SCONJ look/VERB around/ADV then/ADV a/DET man/NOUN step/VERB forward/ADV and/CCONJ push/VERB against/ADP something/PRON at/ADP midsectionheight/NOUN with/ADP his/PRON left/ADJ leg/NOUN behind/ADP he/PRON before/ADP step/VERB back/ADV 

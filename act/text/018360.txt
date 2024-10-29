@@ -1,0 +1,1 @@
+A person hops in place, first making small hops, then a large hop, and afterwards repeats the process. Following that, they make a big jump before returning to their starting position.

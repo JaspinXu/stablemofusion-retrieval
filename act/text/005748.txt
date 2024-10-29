@@ -1,0 +1,1 @@
+A person walks forward, turns left, and continues to walk, then stops. Following that, the person walks from the back center to slightly front right.

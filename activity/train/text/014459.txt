@@ -1,0 +1,1 @@
+A person walks leisurely forward, then pivots to their right in a U-shape, and subsequently walks straight. Following that, they continue to walk forward, turn right again, and then walk back diagonally.

@@ -1,0 +1,1 @@
+A stick figure walks forward, then stops and moves both arms up and forward as if setting an item on a table. After that, it steps backward to its starting position. Following that, a person stands with elbows bent and hands in front of the body, rolling their arms slowly to the left and back to the center again, subsequently dropping the right arm.

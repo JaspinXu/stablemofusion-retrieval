@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB and/CCONJ jump/VERB over/ADP an/DET object/NOUN then/ADV turn/VERB around/ADV and/CCONJ jump/VERB over/ADP it/PRON again/ADV follow/VERB that/SCONJ they/PRON crouch/VERB down/ADV and/CCONJ move/VERB on/ADP their/PRON hand/NOUN and/CCONJ foot/NOUN like/ADP an/DET animal/NOUN 

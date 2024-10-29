@@ -1,0 +1,1 @@
+A person walks in a clockwise direction in a circle, then slowly walks forward while making the circle, and finally stops at the original position.

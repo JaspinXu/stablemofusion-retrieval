@@ -1,0 +1,1 @@
+A person may be grabbing something, then opens a door, slides it to the right, selects an item from the top section, and moves it to a lower section.

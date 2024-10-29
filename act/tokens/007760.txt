@@ -1,0 +1,1 @@
+someone/PRON pick/VERB up/ADP an/DET object/NOUN and/CCONJ move/VERB it/PRON from/ADP right/ADV to/ADP left/VERB then/ADV a/DET person/NOUN wave/VERB both/DET hand/NOUN above/ADP their/PRON head/NOUN 

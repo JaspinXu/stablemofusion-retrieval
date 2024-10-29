@@ -1,0 +1,1 @@
+A person walks in a right diagonal, then stops, and next walks forward, trips, but catches their fall with a side step to the left.

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB some/DET slow/ADJ small/ADJ step/NOUN forward/ADV then/ADV walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN stop/VERB about/ADP 34/NUM of/ADP the/DET way/NOUN around/ADV 

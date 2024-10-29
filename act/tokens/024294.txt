@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET counterclockwise/NOUN loop/NOUN then/ADV bent/ADJ down/ADP get/VERB back/ADV up/ADV and/CCONJ start/VERB to/PART do/VERB a/DET wipe/VERB motion/NOUN in/ADP front/NOUN of/ADP they/PRON 

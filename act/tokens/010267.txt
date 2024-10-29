@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV hesitate/VERB to/PART step/VERB over/ADP an/DET object/NOUN and/CCONJ subsequently/ADV continue/VERB to/PART walk/VERB forward/ADV move/VERB up/ADP with/ADP each/DET step/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV kneel/VERB down/ADV with/ADP the/DET left/ADJ leg/NOUN first/ADV while/SCONJ hold/VERB onto/ADP the/DET side/NOUN with/ADP the/DET right/ADJ hand/NOUN 

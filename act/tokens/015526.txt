@@ -1,0 +1,1 @@
+this/DET person/NOUN be/AUX do/VERB a/DET dance/NOUN then/ADV walk/VERB up/ADP the/DET stair/NOUN hold/VERB on/ADP with/ADP the/DET right/ADJ hand/NOUN and/CCONJ afterward/ADV walk/VERB down/ADP the/DET stair/NOUN hold/VERB on/ADP with/ADP the/DET left/ADJ hand/NOUN 

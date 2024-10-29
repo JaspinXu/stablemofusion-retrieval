@@ -1,0 +1,1 @@
+The character is simply walking forward at a normal pace, then turns slightly to the right and takes a kick forward with his right foot.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV to/ADP the/DET upper/ADJ left/NOUN and/CCONJ open/VERB the/DET door/NOUN then/ADV step/VERB backwards/ADV slowly/ADV to/ADP the/DET starting/NOUN point/NOUN after/SCONJ that/PRON they/PRON jump/VERB up/ADP and/CCONJ move/VERB to/ADP the/DET right/NOUN with/ADP two/NUM quick/ADJ step/NOUN sideways/ADV 

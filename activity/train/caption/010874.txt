@@ -1,0 +1,18 @@
+person is jumping in place.
+a man walks around in a circle.
+person is jumping in place.
+the man walks in a clockwise circle.
+person is jumping in place.
+a person walks in a circle.
+a person makes a short jump up in place, then shuffles left to right.
+a man walks around in a circle.
+a person makes a short jump up in place, then shuffles left to right.
+the man walks in a clockwise circle.
+a person makes a short jump up in place, then shuffles left to right.
+a person walks in a circle.
+this person jumps in place then steps right 3 times.
+a man walks around in a circle.
+this person jumps in place then steps right 3 times.
+the man walks in a clockwise circle.
+this person jumps in place then steps right 3 times.
+a person walks in a circle.

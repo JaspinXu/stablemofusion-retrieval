@@ -1,0 +1,1 @@
+A person walks in a counterclockwise circle, then sidesteps to the left three times, subsequently to the right three times, and finally to the left once more to end where they started.

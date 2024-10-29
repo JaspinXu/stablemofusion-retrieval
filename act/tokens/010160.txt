@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB by/ADP do/VERB jumping/NOUN jack/NOUN raise/VERB arm/NOUN and/CCONJ spread/VERB leg/NOUN in/ADP unison/PROPN then/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN at/ADP a/DET steady/ADJ pace/NOUN while/SCONJ move/VERB both/DET arm/NOUN 

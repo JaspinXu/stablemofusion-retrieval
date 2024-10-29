@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB from/ADP a/DET standing/NOUN position/NOUN and/CCONJ slowly/ADV walk/VERB in/ADP a/DET circle/NOUN move/VERB clockwise/NOUN and/CCONJ then/ADV stop/VERB 

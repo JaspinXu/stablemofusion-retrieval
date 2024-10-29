@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET couple/NOUN of/ADP step/NOUN backwards/ADV then/ADV walk/VERB forward/ADV but/CCONJ clumsily/ADV trip/VERB over/ADP themselves/PRON subsequently/ADV a/DET man/NOUN sit/VERB down/ADP move/NOUN both/PRON of/ADP his/PRON hand/NOUN side/NOUN to/PART side/VERB before/ADP put/VERB his/PRON right/ADJ hand/NOUN on/ADP his/PRON left/ADJ shoulder/NOUN 

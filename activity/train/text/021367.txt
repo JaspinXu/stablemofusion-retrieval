@@ -1,0 +1,1 @@
+A person walks forward in a straight line, then takes one step forward while swinging both arms simultaneously in a forward direction. After that, they turn 180 degrees and move forward again, this time swinging their arms in a backward circular motion. Subsequently, they walk back along the path they initially took.

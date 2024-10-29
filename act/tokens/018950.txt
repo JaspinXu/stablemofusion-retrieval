@@ -1,0 +1,1 @@
+a/DET soldier/NOUN army/NOUN crawl/VERB across/ADP the/DET ground/NOUN then/ADV a/DET person/NOUN walk/VERB carefully/ADV to/ADP the/DET right/ADJ side/NOUN and/CCONJ subsequently/ADV to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV walk/VERB in/ADP place/NOUN a/DET few/ADJ more/ADJ step/NOUN and/CCONJ subsequently/ADV climb/VERB stair/NOUN while/SCONJ use/VERB the/DET railing/NOUN 

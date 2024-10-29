@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ be/AUX assist/VERB by/ADP handrail/NOUN then/ADV step/VERB forward/ADJ gesture/NOUN with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ step/NOUN back/ADV 

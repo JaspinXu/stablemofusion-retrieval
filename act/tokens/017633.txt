@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ make/VERB a/DET screwdriver/NOUN motion/NOUN with/ADP his/PRON right/ADJ hand/NOUN on/ADP an/DET object/NOUN hold/VERB in/ADP his/PRON left/ADJ hand/NOUN just/ADV below/ADP his/PRON waist/NOUN then/ADV a/DET man/NOUN jog/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ back/ADV again/ADV 

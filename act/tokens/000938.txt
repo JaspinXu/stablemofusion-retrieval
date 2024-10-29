@@ -1,0 +1,1 @@
+the/DET sim/NOUN jump/VERB make/VERB a/DET 90degree/NUM turn/NOUN and/CCONJ then/ADV a/DET person/NOUN take/VERB a/DET jump/NOUN back/ADV 

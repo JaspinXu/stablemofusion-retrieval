@@ -1,0 +1,18 @@
+person is walking very slowly.
+someone takes several steps from left to right, then side steps halfway back to the left.
+person is walking very slowly.
+a person walks sideways to the right, and then back to left
+person is walking very slowly.
+a person is side stepping to the right and then to the left
+a person walks several steps forward.
+someone takes several steps from left to right, then side steps halfway back to the left.
+a person walks several steps forward.
+a person walks sideways to the right, and then back to left
+a person walks several steps forward.
+a person is side stepping to the right and then to the left
+a person walks forward and slightly to their right
+someone takes several steps from left to right, then side steps halfway back to the left.
+a person walks forward and slightly to their right
+a person walks sideways to the right, and then back to left
+a person walks forward and slightly to their right
+a person is side stepping to the right and then to the left

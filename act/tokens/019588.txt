@@ -1,0 +1,1 @@
+the/DET figure/NOUN look/VERB left/ADJ and/CCONJ right/ADV then/ADV start/VERB rotate/VERB its/PRON neck/NOUN in/ADP a/DET circular/ADJ fashion/NOUN after/ADP that/PRON walk/VERB forward/ADV and/CCONJ raise/VERB its/PRON hand/NOUN 

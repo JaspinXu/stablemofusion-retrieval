@@ -1,0 +1,12 @@
+this person jogs forward then stops.
+a man steps to the left.
+this person jogs forward then stops.
+a person side-steps one step to the right.
+a person jogs forward.
+a man steps to the left.
+a person jogs forward.
+a person side-steps one step to the right.
+a person slowly jogs forward.
+a man steps to the left.
+a person slowly jogs forward.
+a person side-steps one step to the right.

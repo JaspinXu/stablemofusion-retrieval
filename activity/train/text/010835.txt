@@ -1,0 +1,1 @@
+The body moves in counterclock motion once, then jumps into counterclock motion twice, while leaving a mark on the floor. Following that, a man winds his arm up and throws something.

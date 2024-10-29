@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX pace/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ several/ADJ time/NOUN then/ADV a/DET person/NOUN jump/VERB to/ADP the/DET right/NOUN and/CCONJ leave/VERB multiple/ADJ time/NOUN 

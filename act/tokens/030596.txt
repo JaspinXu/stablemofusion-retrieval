@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB quickly/ADV in/ADP a/DET diagonal/ADJ direction/NOUN for/ADP 8/NUM step/NOUN then/ADV turn/VERB to/PART walk/VERB in/ADP the/DET direction/NOUN they/PRON come/VERB from/ADP and/CCONJ afterward/ADV a/DET man/NOUN move/VERB backwards/ADV while/SCONJ slide/VERB his/PRON foot/NOUN 

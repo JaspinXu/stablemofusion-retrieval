@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB on/ADP flat/ADJ ground/NOUN for/ADP four/NUM pace/NOUN then/ADV walk/VERB up/ADV four/NUM step/NOUN in/ADP stair/NOUN thereafter/ADV a/DET stick/NOUN figure/NOUN walk/VERB in/ADP a/DET w/PROPN motion/NOUN while/SCONJ hold/VERB its/PRON arm/NOUN in/ADP the/DET air/NOUN 

@@ -1,0 +1,1 @@
+A person walks diagonally until turning around, subsequently walking back to where they originally started. Following that, the person walks forward in a stagger, then turns around and retraces their steps in the same way back.

@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP and/CCONJ get/VERB up/ADP then/ADV walk/VERB across/ADP the/DET space/NOUN before/ADP start/VERB to/PART walk/VERB in/ADP the/DET other/ADJ direction/NOUN 

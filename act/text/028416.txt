@@ -1,0 +1,1 @@
+A person steps back, then starts jogging forward, and subsequently turns around to jog. After that, they walk in a circle, clockwise.

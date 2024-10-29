@@ -1,0 +1,1 @@
+The sim is pacing back and forth alone on the plane in a sort of rectangular motion, then a person paces from right to left, and subsequently returns to where they began.

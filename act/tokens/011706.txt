@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV another/DET person/NOUN walk/VERB at/ADP a/DET normal/ADJ speed/NOUN diagonally/ADV across/ADP the/DET room/NOUN 

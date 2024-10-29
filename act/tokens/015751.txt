@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV then/ADV climb/VERB backwards/ADV up/ADP a/DET flight/NOUN of/ADP stair/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN be/AUX press/VERB button/NOUN like/ADP in/ADP a/DET passcode/NOUN 

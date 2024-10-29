@@ -1,0 +1,1 @@
+the/DET person/NOUN sit/VERB down/ADP from/ADP a/DET standing/NOUN position/NOUN and/CCONJ then/ADV do/VERB a/DET front/ADJ flip/NOUN 

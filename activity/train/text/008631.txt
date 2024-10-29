@@ -1,0 +1,1 @@
+A person makes a quarter circle turn to the right, then takes a step forward.

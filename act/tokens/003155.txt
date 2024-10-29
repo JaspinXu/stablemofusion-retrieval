@@ -1,0 +1,1 @@
+the/DET person/NOUN do/VERB 3/NUM jump/VERB jack/NOUN in/ADP place/NOUN then/ADV raise/VERB his/PRON hand/NOUN up/ADP and/CCONJ walk/VERB in/ADP the/DET forward/ADJ direction/NOUN 

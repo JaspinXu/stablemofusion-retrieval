@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB and/CCONJ spin/NOUN around/ADP then/ADV the/DET sim/NOUN walk/VERB a/DET few/ADJ step/NOUN down/ADP the/DET plane/NOUN 

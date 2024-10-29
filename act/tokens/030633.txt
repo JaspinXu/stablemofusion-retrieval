@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ perform/VERB karate/VERB chop/NOUN then/ADV walk/VERB backward/ADV while/SCONJ continue/VERB the/DET karate/ADJ chop/NOUN follow/VERB that/SCONJ the/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET 34/NUM circle/NOUN 

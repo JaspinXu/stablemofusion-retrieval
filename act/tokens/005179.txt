@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN on/ADP the/DET platform/NOUN 

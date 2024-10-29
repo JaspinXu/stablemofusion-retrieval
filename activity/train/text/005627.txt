@@ -1,0 +1,1 @@
+A person runs forward quickly, then walks in a right diagonal and stops.

@@ -1,0 +1,18 @@
+standing person walks in a clockwise circle, then stops.
+a person appears to be looking around.
+standing person walks in a clockwise circle, then stops.
+a person looks left and right.
+standing person walks in a clockwise circle, then stops.
+a person standing still and looking forward, looks left, looks right, and then returns to looking forward.
+person is walking around in a circle.
+a person appears to be looking around.
+person is walking around in a circle.
+a person looks left and right.
+person is walking around in a circle.
+a person standing still and looking forward, looks left, looks right, and then returns to looking forward.
+a person walks in a clockwise circle.
+a person appears to be looking around.
+a person walks in a clockwise circle.
+a person looks left and right.
+a person walks in a clockwise circle.
+a person standing still and looking forward, looks left, looks right, and then returns to looking forward.

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET chair/NOUN and/CCONJ move/VERB it/PRON to/ADP the/DET left/NOUN then/ADV slowly/ADV walk/VERB in/ADP a/DET large/ADJ circle/NOUN 

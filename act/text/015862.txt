@@ -1,0 +1,1 @@
+This person walks forward, moves something, then steps back, and subsequently walks up steps.

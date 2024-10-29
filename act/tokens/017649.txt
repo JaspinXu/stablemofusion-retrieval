@@ -1,0 +1,1 @@
+a/DET person/NOUN make/VERB a/DET rolling/ADJ motion/NOUN with/ADP his/PRON hand/NOUN then/ADV proceed/VERB to/ADP pat/NOUN something/PRON down/ADP with/ADP both/DET hand/NOUN follow/VERB that/SCONJ the/DET person/NOUN turn/VERB to/ADP the/DET left/NOUN and/CCONJ raise/VERB one/NUM arm/NOUN then/ADV turn/VERB to/ADP the/DET right/NOUN and/CCONJ raise/VERB both/DET arm/NOUN 

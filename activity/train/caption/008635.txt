@@ -1,0 +1,18 @@
+a person flips to the right side.
+a person hops in place and then walks forward.
+a person flips to the right side.
+a person jumps and then walks forward
+a person flips to the right side.
+a person hops over something then takes four steps and stops with both feet next to each other.
+a person flips clockwise from their left side of body and also swings both hands to their left side during flip.
+a person hops in place and then walks forward.
+a person flips clockwise from their left side of body and also swings both hands to their left side during flip.
+a person jumps and then walks forward
+a person flips clockwise from their left side of body and also swings both hands to their left side during flip.
+a person hops over something then takes four steps and stops with both feet next to each other.
+a person swings their arms clockwise, flips in a clockwise circle, and lands.
+a person hops in place and then walks forward.
+a person swings their arms clockwise, flips in a clockwise circle, and lands.
+a person jumps and then walks forward
+a person swings their arms clockwise, flips in a clockwise circle, and lands.
+a person hops over something then takes four steps and stops with both feet next to each other.

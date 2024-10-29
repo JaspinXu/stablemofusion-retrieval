@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX reach/VERB their/PRON hand/NOUN out/ADP while/SCONJ stand/VERB then/ADV turn/VERB to/ADP the/DET right/ADJ jog/NOUN a/DET few/ADJ step/NOUN pivot/NOUN to/ADP the/DET left/NOUN and/CCONJ jog/VERB a/DET few/ADJ more/ADJ step/NOUN and/CCONJ subsequently/ADV return/VERB to/ADP the/DET starting/NOUN point/NOUN 

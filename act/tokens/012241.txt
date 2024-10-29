@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV stop/VERB and/CCONJ subsequently/ADV step/VERB forward/ADV while/SCONJ make/VERB a/DET throw/VERB motion/NOUN with/ADP his/PRON left/ADJ arm/NOUN follow/VERB that/SCONJ a/DET man/NOUN lunge/VERB forward/ADV with/ADP his/PRON left/ADJ foot/NOUN as/SCONJ he/PRON move/VERB his/PRON left/ADJ arm/NOUN back/ADV and/CCONJ forth/ADV 

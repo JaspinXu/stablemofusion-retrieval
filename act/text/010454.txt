@@ -1,0 +1,1 @@
+A person moves in a clockwise direction, then continues walking in a clockwise circle.

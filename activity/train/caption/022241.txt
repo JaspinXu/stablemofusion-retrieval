@@ -1,0 +1,6 @@
+walks forward a few steps and pauses then continues to walk forward.
+the sim steps forwards using their left hand to make a swatting motion, walking forward and taking a hop in the same direction.
+a person walks forward, stops, walks forward again, then hesitates and stops.
+the sim steps forwards using their left hand to make a swatting motion, walking forward and taking a hop in the same direction.
+a figure walks forward, pauses, then walks again
+the sim steps forwards using their left hand to make a swatting motion, walking forward and taking a hop in the same direction.

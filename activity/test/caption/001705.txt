@@ -1,0 +1,18 @@
+a person lifts object with two hands and throws with right hand.
+a person thats walking backwards
+a person lifts object with two hands and throws with right hand.
+a person quickly takes 5 steps backwards.
+a person lifts object with two hands and throws with right hand.
+a person walks backwards in a fairly straight line.
+the person is throwing a ball.
+a person thats walking backwards
+the person is throwing a ball.
+a person quickly takes 5 steps backwards.
+the person is throwing a ball.
+a person walks backwards in a fairly straight line.
+a person pitches a ball.
+a person thats walking backwards
+a person pitches a ball.
+a person quickly takes 5 steps backwards.
+a person pitches a ball.
+a person walks backwards in a fairly straight line.

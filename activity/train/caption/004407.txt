@@ -1,0 +1,2 @@
+a figure safely steps to the right avoiding something.
+a man steps over an object while walking on a diagonal.

@@ -1,0 +1,1 @@
+someone/PRON walk/VERB forward/ADV 10/NUM step/NOUN then/ADV a/DET person/NOUN continue/VERB walking/AUX slowly/ADV use/VERB hand/NOUN rail/NOUN on/ADP the/DET left/NOUN and/CCONJ on/ADP the/DET right/NOUN for/ADP support/NOUN 

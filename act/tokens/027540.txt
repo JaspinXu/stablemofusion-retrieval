@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB use/VERB a/DET handrail/NOUN with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ then/ADV make/VERB a/DET circular/ADJ motion/NOUN with/ADP their/PRON left/ADJ hand/NOUN 

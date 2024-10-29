@@ -1,0 +1,1 @@
+a/DET man/NOUN grab/VERB an/DET item/NOUN off/ADP of/ADP a/DET shelf/NOUN and/CCONJ put/VERB it/PRON into/ADP a/DET cart/NOUN then/ADV a/DET person/NOUN reach/VERB to/ADP the/DET right/NOUN appear/VERB to/PART pick/VERB something/PRON up/ADP and/CCONJ place/VERB it/PRON in/ADP front/NOUN of/ADP they/PRON 

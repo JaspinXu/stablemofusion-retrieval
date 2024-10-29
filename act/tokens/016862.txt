@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV 4/NUM step/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV 4/NUM step/NOUN follow/VERB that/SCONJ they/PRON hold/VERB a/DET phone/NOUN in/ADP their/PRON left/ADJ hand/NOUN and/CCONJ dial/VERB a/DET number/NOUN with/ADP their/PRON right/NOUN 

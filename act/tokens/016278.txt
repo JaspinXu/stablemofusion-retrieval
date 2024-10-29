@@ -1,0 +1,1 @@
+a/DET man/NOUN mimic/NOUN play/VERB a/DET violin/NOUN hold/VERB the/DET instrument/NOUN in/ADP his/PRON left/ADJ hand/NOUN and/CCONJ play/VERB with/ADP his/PRON right/ADJ hand/NOUN while/SCONJ a/DET person/NOUN wave/VERB one/NUM hand/NOUN and/CCONJ sway/VERB back/ADV and/CCONJ forth/ADV between/ADP both/DET foot/NOUN 

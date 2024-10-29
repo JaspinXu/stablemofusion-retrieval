@@ -1,0 +1,1 @@
+a/DET person/NOUN hold/VERB the/DET violin/NOUN with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ play/VERB with/ADP the/DET right/ADJ hand/NOUN then/ADV walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ subsequently/ADV sit/VERB down/ADP at/ADP their/PRON starting/NOUN position/NOUN 

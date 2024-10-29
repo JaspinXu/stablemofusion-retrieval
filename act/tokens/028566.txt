@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP an/DET average/ADJ pace/NOUN then/ADV turn/VERB ninety/NUM degree/NOUN to/ADP the/DET left/NOUN and/CCONJ continue/VERB walk/VERB to/ADP the/DET edge/NOUN of/ADP a/DET grey/ADJ square/NOUN before/ADP proceed/VERB to/PART walk/VERB forward/ADV to/ADP another/DET edge/NOUN of/ADP the/DET same/ADJ square/NOUN 

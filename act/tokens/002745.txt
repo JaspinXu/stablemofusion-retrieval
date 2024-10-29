@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP something/PRON and/CCONJ hold/VERB it/PRON to/ADP his/PRON mouth/NOUN to/PART drink/VERB then/ADV stand/VERB still/ADV and/CCONJ put/VERB one/NUM leg/NOUN to/ADP the/DET side/NOUN follow/VERB by/ADP the/DET other/ADJ nearly/ADV trip/VERB up/ADP 

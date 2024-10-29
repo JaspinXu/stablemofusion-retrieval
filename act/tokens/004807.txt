@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV sway/VERB kick/VERB out/ADP one/NUM foot/NOUN at/ADP a/DET time/NOUN 

@@ -1,0 +1,1 @@
+A person takes two steps forward, then swings their right foot to pivot their body in order to walk back to their original position without turning around. Following that, they step sideways to their left, then to the right of their starting position, and finally return back to the starting position.

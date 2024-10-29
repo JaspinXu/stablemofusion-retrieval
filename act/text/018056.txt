@@ -1,0 +1,1 @@
+A person walks up and down steps in a square pattern, then turns to the right, subsequently bends sideways a couple of times, and finally bends down forwards at the end.

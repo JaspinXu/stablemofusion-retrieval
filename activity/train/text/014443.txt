@@ -1,0 +1,1 @@
+A figure begins running but then stops at the edge to demonstrate how to perform a particular pick up and move strategy before turning around and running back to the starting point.

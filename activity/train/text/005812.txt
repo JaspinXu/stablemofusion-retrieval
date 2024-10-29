@@ -1,0 +1,1 @@
+A person walks forward, then walks slowly to the left and subsequently stops.

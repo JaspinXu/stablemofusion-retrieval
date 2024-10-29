@@ -1,0 +1,1 @@
+Someone walks clockwise in a circle, then the body walks in a strong line, increasing speed slowly.

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/ADJ direction/NOUN and/CCONJ return/VERB afterward/ADV bend/VERB to/ADP the/DET right/ADJ picking/NOUN up/ADP something/PRON turn/VERB and/CCONJ then/ADV set/VERB it/PRON down/ADP 

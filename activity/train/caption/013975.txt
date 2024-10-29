@@ -1,0 +1,18 @@
+robot start moving from left to right and then stopped.
+a man walks around in a circle.
+robot start moving from left to right and then stopped.
+the man walks in a clockwise circle to the right.
+robot start moving from left to right and then stopped.
+a man walks in a counter clockwise complete racetrack shape
+person walked two steps to the left and then four steps to the right and then stopped.
+a man walks around in a circle.
+person walked two steps to the left and then four steps to the right and then stopped.
+the man walks in a clockwise circle to the right.
+person walked two steps to the left and then four steps to the right and then stopped.
+a man walks in a counter clockwise complete racetrack shape
+the person is walking back and forth.
+a man walks around in a circle.
+the person is walking back and forth.
+the man walks in a clockwise circle to the right.
+the person is walking back and forth.
+a man walks in a counter clockwise complete racetrack shape

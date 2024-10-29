@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN and/CCONJ sit/VERB down/ADP then/ADV they/PRON walk/VERB forward/ADV toward/ADP something/PRON turn/NOUN towards/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV 

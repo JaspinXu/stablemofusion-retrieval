@@ -1,0 +1,1 @@
+a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET left/ADJ side/NOUN with/ADP both/DET hand/NOUN then/ADV lean/VERB to/ADP the/DET right/NOUN to/PART pick/VERB something/PRON up/ADP and/CCONJ after/ADP that/PRON lean/VERB to/ADP the/DET left/NOUN to/PART pick/VERB something/PRON else/ADV up/ADV 

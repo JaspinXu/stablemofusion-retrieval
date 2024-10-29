@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB move/VERB from/ADP left/ADJ to/ADP right/ADJ then/ADV stop/VERB afterward/ADV a/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN complete/ADJ racetrack/NOUN shape/NOUN 

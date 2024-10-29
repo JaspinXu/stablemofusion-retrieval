@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB a/DET quick/ADJ step/NOUN forward/ADV start/VERB with/ADP his/PRON right/ADJ foot/NOUN then/ADV a/DET person/NOUN turn/VERB to/ADP their/PRON left/NOUN and/CCONJ start/VERB walk/VERB over/ADP to/ADP an/DET object/NOUN after/SCONJ that/SCONJ they/PRON bend/VERB down/ADP to/PART pick/VERB it/PRON up/ADP 

@@ -1,0 +1,1 @@
+A person picks something up to the right at table height and moves it to table height on their left. Then, they take four steps, left foot first and then right foot, moving forward.

@@ -1,0 +1,1 @@
+The sim appears to walk forward, then slightly bends to grab an object with their right hand, after which a person stumbles but continues to walk forward.

@@ -1,0 +1,6 @@
+person walks forward and stumbles
+a person grabs left foot with left hand, then extends the leg by its head.
+a person walking forward staggers to the right and then corrects their gait.
+a person grabs left foot with left hand, then extends the leg by its head.
+a person stumbles to the left while walking.
+a person grabs left foot with left hand, then extends the leg by its head.

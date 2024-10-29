@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX stand/VERB there/ADV and/CCONJ walk/VERB around/ADP then/ADV sidestep/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP a/DET move/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV step/VERB to/ADP the/DET right/ADV again/ADV 

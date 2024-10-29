@@ -1,0 +1,1 @@
+a/DET person/NOUN swing/VERB their/PRON right/ADJ arm/NOUN in/ADP a/DET windmill/ADJ fashion/NOUN first/ADJ counterclockwise/NOUN and/CCONJ then/ADV counter/VERB counterclockwise/NOUN follow/VERB that/SCONJ a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN with/ADP his/PRON arm/NOUN swinge/VERB loosely/ADV at/ADP his/PRON side/NOUN 

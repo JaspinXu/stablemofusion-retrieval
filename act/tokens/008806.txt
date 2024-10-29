@@ -1,0 +1,1 @@
+the/DET person/NOUN use/VERB the/DET handrail/NOUN to/PART walk/VERB up/ADP the/DET stair/NOUN then/ADV walk/VERB forward/ADV and/CCONJ perform/VERB a/DET spin/NOUN move/NOUN to/PART walk/VERB in/ADP the/DET other/ADJ direction/NOUN 

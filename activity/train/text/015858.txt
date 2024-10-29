@@ -1,0 +1,1 @@
+A person makes a forward smashing gesture with their right arm, then a robot starts walking forward, followed by cleaning something with its left arm, and finally steps back to stand still.

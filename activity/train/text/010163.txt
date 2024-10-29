@@ -1,0 +1,1 @@
+A person walks forward, then spins around counterclockwise and walks back to where they came from. After that, they walk downward casually in a straight line and stop.

@@ -1,0 +1,1 @@
+a/DET person/NOUN remove/VERB a/DET sponge/NOUN from/ADP a/DET bucket/NOUN and/CCONJ then/ADV wash/VERB a/DET car/NOUN after/ADP which/PRON they/PRON return/VERB the/DET sponge/NOUN to/ADP the/DET bucket/NOUN follow/VERB that/SCONJ they/PRON grab/VERB something/PRON walk/VERB back/ADV and/CCONJ grab/VERB it/PRON again/ADV 

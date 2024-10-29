@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB away/ADV diagonally/ADV to/ADP his/PRON left/ADJ pick/VERB something/PRON up/ADP then/ADV walk/VERB back/ADV and/CCONJ subsequently/ADV walk/VERB diagonally/ADV to/ADP his/PRON left/NOUN again/ADV to/PART pick/VERB something/PRON up/ADP while/SCONJ in/ADP between/ADP the/DET man/NOUN be/AUX do/VERB starjump/NOUN 

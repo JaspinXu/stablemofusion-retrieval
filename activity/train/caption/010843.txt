@@ -1,0 +1,18 @@
+a person takes two steps forward, turns 180 degrees to his left and walks back to where he started.
+the man strolls forward with minimal movement of his hands.
+a person takes two steps forward, turns 180 degrees to his left and walks back to where he started.
+a person walks very slowly
+a person takes two steps forward, turns 180 degrees to his left and walks back to where he started.
+a person walks slowly, with right leg first
+a person walks forward, pivots with their left foot, and walks back.
+the man strolls forward with minimal movement of his hands.
+a person walks forward, pivots with their left foot, and walks back.
+a person walks very slowly
+a person walks forward, pivots with their left foot, and walks back.
+a person walks slowly, with right leg first
+a person who is standing with his arms by his sides takes two steps forward, turns 180 degrees and takes two steps in the other direction and stops.
+the man strolls forward with minimal movement of his hands.
+a person who is standing with his arms by his sides takes two steps forward, turns 180 degrees and takes two steps in the other direction and stops.
+a person walks very slowly
+a person who is standing with his arms by his sides takes two steps forward, turns 180 degrees and takes two steps in the other direction and stops.
+a person walks slowly, with right leg first

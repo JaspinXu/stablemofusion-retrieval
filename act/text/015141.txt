@@ -1,0 +1,1 @@
+A person sneaks while walking in a diagonal and then walks backwards to return.

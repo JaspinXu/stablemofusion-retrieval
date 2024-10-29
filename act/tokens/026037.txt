@@ -1,0 +1,1 @@
+a/DET figure/NOUN be/AUX walk/VERB in/ADP a/DET counterclockwise/NOUN pace/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB with/ADP exaggerated/ADJ footstep/NOUN length/NOUN in/ADP a/DET diagonal/ADJ line/NOUN across/ADP the/DET room/NOUN from/ADP the/DET top/ADJ right/NOUN to/ADP the/DET bottom/NOUN left/ADJ 

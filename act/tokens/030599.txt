@@ -1,0 +1,1 @@
+a/DET person/NOUN dance/VERB in/ADP a/DET simple/ADJ waltz/NOUN box/NOUN pattern/NOUN then/ADV the/DET man/NOUN walk/VERB in/ADP a/DET zigzag/NOUN pattern/NOUN back/ADV and/CCONJ forth/ADV across/ADP the/DET area/NOUN 

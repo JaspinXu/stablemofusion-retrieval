@@ -1,0 +1,2 @@
+a stick figure without a head walks down the hill diagonally, turns around and walks up the hill diagonally as well.
+a person walks forward in a straight line. the person goes at a normal pace.

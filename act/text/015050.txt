@@ -1,0 +1,1 @@
+The person picks a few objects up in random spots and puts them into some sort of bin, then walks forward in a curve to their right, stops, and subsequently curves back to where they started.

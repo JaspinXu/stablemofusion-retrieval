@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ kick/NOUN then/ADV walk/VERB back/ADV and/CCONJ repeat/VERB the/DET movement/NOUN follow/VERB that/SCONJ the/DET person/NOUN practice/VERB the/DET stand/VERB long/ADJ jump/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB down/ADP stair/NOUN then/ADV jump/VERB up/ADP with/ADP both/DET foot/NOUN and/CCONJ subsequently/ADV lift/VERB an/DET item/NOUN above/ADP their/PRON head/NOUN 

@@ -1,0 +1,1 @@
+A person walks in a clockwise circle, and then they step sideways to their right, followed by stepping sideways to their left, and finally step sidewise right back to their original spot.

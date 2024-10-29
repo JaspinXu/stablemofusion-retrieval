@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX pretend/VERB to/PART be/AUX a/DET penguin/NOUN then/ADV pick/VERB up/ADP a/DET beverage/NOUN container/NOUN and/CCONJ pour/VERB the/DET beverage/NOUN into/ADP a/DET glass/NOUN 

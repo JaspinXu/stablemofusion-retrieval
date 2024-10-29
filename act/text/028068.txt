@@ -1,0 +1,1 @@
+A person walks forward, but slowly curves towards the right, creating a circle on the floor, and then stops.

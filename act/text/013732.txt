@@ -1,0 +1,1 @@
+A figure walks forward and then moves in a circular motion to the left, subsequently continuing to walk in a circle counter-clockwise.

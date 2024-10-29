@@ -1,0 +1,1 @@
+A person walks in a clockwise circle, then stops at the original position. Following that, they walk backwards before sitting down, and then stand up to walk forward.

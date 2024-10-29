@@ -1,0 +1,8 @@
+a person steps sideways to their right, then they step sideways to their left, and they step sidewise right back to their original spot.
+a person steps sideways to their left, then they step sideways to their right, and they step sidewise left back to their original spot.
+a person steps sideways to their right, then they step sideways to their left, and they step sidewise right back to their original spot.
+a person side steps to their left, then back past their original position.
+a person side steps to their right, then back past their original position.
+a person steps sideways to their left, then they step sideways to their right, and they step sidewise left back to their original spot.
+a person side steps to their right, then back past their original position.
+a person side steps to their left, then back past their original position.

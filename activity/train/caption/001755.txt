@@ -1,0 +1,2 @@
+the sim kicks an object with their left foot.
+the motion is showing hi

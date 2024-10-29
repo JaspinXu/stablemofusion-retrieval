@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX walk/VERB with/ADP both/DET hand/NOUN on/ADP a/DET hand/NOUN rail/NOUN next/ADP walk/VERB through/ADP a/DET hallway/NOUN while/SCONJ grab/VERB the/DET rail/NOUN again/ADV with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB while/SCONJ touch/VERB something/PRON with/ADP his/PRON left/ADJ hand/NOUN 

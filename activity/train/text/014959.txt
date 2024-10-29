@@ -1,0 +1,1 @@
+A person walks to his left and then to his right, returning to his original position; subsequently, he walks in a circle, turning right.

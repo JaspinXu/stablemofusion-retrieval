@@ -1,0 +1,1 @@
+The toon walks forward and then back, subsequently steps backward at an angle, and then shuffles to the side before stopping.

@@ -1,0 +1,1 @@
+a/DET man/NOUN kick/VERB forward/ADV with/ADP his/PRON left/ADJ leg/NOUN and/CCONJ backward/ADV with/ADP his/PRON right/ADJ leg/NOUN then/ADV run/VERB in/ADP place/NOUN for/ADP about/ADV 2/NUM second/NOUN before/ADP run/VERB to/ADP his/PRON right/NOUN and/CCONJ back/ADV to/ADP his/PRON left/ADJ 

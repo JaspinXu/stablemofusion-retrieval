@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV then/ADV stop/VERB turn/VERB around/ADV and/CCONJ walk/VERB back/ADV subsequently/ADV kneel/VERB down/ADP on/ADP both/DET knee/NOUN 

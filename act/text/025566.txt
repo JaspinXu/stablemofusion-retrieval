@@ -1,0 +1,1 @@
+A person crawls in a forward direction, then turns counterclockwise and subsequently walks in a loop in a sort of wobbly fashion.

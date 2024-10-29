@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB upstairs/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB downstairs/ADV subsequently/ADV walk/VERB backward/ADV while/SCONJ gesture/VERB with/ADP their/PRON hand/NOUN 

@@ -1,0 +1,1 @@
+A person walks in a curve to the left, then walks forward, turns around, and walks back.

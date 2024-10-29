@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV like/ADP a/DET robot/NOUN then/ADV a/DET man/NOUN put/VERB both/DET arm/NOUN down/ADP and/CCONJ move/VERB his/PRON head/NOUN side/NOUN to/PART side/VERB and/CCONJ in/ADP a/DET circular/ADJ motion/NOUN 

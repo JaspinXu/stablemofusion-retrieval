@@ -1,0 +1,18 @@
+a person takes something from above, walks away, walks back and puts the item on the ground.
+a person walks to the left in a u shaped curve then returns.
+a person takes something from above, walks away, walks back and puts the item on the ground.
+the person is walking around
+a person takes something from above, walks away, walks back and puts the item on the ground.
+the person is walking to the left and then back to the right.
+a person reaches above their head with their right arm, walks away from the location, turns around, returns to where they reached over their head, and they reach to the ground with the same hand.
+a person walks to the left in a u shaped curve then returns.
+a person reaches above their head with their right arm, walks away from the location, turns around, returns to where they reached over their head, and they reach to the ground with the same hand.
+the person is walking around
+a person reaches above their head with their right arm, walks away from the location, turns around, returns to where they reached over their head, and they reach to the ground with the same hand.
+the person is walking to the left and then back to the right.
+a person is walking back and froth, then picks an item up.
+a person walks to the left in a u shaped curve then returns.
+a person is walking back and froth, then picks an item up.
+the person is walking around
+a person is walking back and froth, then picks an item up.
+the person is walking to the left and then back to the right.

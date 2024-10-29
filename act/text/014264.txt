@@ -1,0 +1,1 @@
+A man walks forward, leans on something for a moment, then walks backward to his starting position. Following that, he walks backwards in a clockwise direction to form a circle in the center of the platform.

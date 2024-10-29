@@ -1,0 +1,1 @@
+the/DET man/NOUN raise/VERB one/NUM hand/NOUN in/ADP the/DET air/NOUN and/CCONJ shake/VERB it/PRON then/ADV do/VERB the/DET same/ADJ with/ADP the/DET other/ADJ hand/NOUN follow/VERB that/SCONJ a/DET person/NOUN raise/VERB both/CCONJ its/PRON arm/NOUN clap/NOUN and/CCONJ then/ADV bring/VERB its/PRON arm/NOUN back/ADV down/ADV 

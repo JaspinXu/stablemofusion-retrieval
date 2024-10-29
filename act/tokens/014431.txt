@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB and/CCONJ do/VERB a/DET small/ADJ jog/NOUN to/ADP their/PRON right/NOUN and/CCONJ then/ADV their/PRON left/NOUN before/ADP end/VERB up/ADP in/ADP the/DET same/ADJ space/NOUN they/PRON start/VERB and/CCONJ subsequently/ADV move/VERB to/ADP the/DET right/NOUN with/ADP their/PRON arm/NOUN up/ADV 

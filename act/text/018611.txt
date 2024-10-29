@@ -1,0 +1,1 @@
+A person moves their hand clockwise and counterclockwise, then takes a few steps. Following that, they stumble, turn around, and walk back, but unfortunately stumble again at the end.

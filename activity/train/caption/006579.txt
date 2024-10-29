@@ -1,0 +1,12 @@
+a person walks forward to the front and then pivots on one foot to turn around, then walks forward towards the back.
+a man reaches to pick something up on his left, moves it to his right, and sets it down.
+a person walks forward to the front and then pivots on one foot to turn around, then walks forward towards the back.
+a man picks something up from the left and places it on the right.
+a person walks forward then turns and goes down the same path
+a man reaches to pick something up on his left, moves it to his right, and sets it down.
+a person walks forward then turns and goes down the same path
+a man picks something up from the left and places it on the right.
+a person walks up, turns around in a counterclockwise direction, and walks back.
+a man reaches to pick something up on his left, moves it to his right, and sets it down.
+a person walks up, turns around in a counterclockwise direction, and walks back.
+a man picks something up from the left and places it on the right.

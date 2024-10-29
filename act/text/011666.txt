@@ -1,0 +1,1 @@
+A person steps sideways to their left and then to the right of their starting position, then walks counterclockwise in a circle before finally returning back to the starting position.

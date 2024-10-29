@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB backwards/ADV again/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN subsequently/ADV mop/VERB the/DET floor/NOUN 

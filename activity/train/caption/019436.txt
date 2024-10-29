@@ -1,0 +1,4 @@
+a person walks diagonally until turning around, walking back to where they orginally started.
+person walks forward in a  stagger, then turns around and walks the same way back.
+a person walks diagonally until turning around, walking back to where they orginally started.
+a person walking forward and backward dragging his right foot.

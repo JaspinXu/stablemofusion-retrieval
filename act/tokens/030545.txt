@@ -1,0 +1,1 @@
+the/DET person/NOUN take/VERB 4/NUM step/NOUN forward/ADV then/ADV shake/VERB its/PRON leg/NOUN subsequently/ADV take/VERB step/NOUN backwards/ADV walk/VERB forward/ADV again/ADV open/VERB a/DET door/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN before/ADP return/VERB to/ADP the/DET door/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV then/ADV head/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN while/SCONJ a/DET person/NOUN dance/VERB forward/ADV then/ADV twist/NOUN and/CCONJ dance/NOUN back/ADV to/ADP the/DET begin/VERB space/NOUN 

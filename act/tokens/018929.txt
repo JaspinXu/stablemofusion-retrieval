@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET s/PROPN pattern/NOUN before/ADP stop/VERB and/CCONJ then/ADV a/DET person/NOUN bend/VERB over/ADP with/ADP his/PRON hand/NOUN on/ADP his/PRON hip/NOUN 

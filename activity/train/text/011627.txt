@@ -1,0 +1,1 @@
+A person picks something up and walks straight forward, then takes two steps back diagonally to sit in a chair, and next takes three steps forward diagonally to return to the original position.

@@ -1,0 +1,18 @@
+person picks something up, shows it left, then puts it down.
+a person walks confidently forward
+person picks something up, shows it left, then puts it down.
+a person walks forward while bearing to the left and swaying.
+person picks something up, shows it left, then puts it down.
+a person stands still for several seconds, before walking forward slowly and ending in a standing position.
+a person picks something up with both hands, turns it, and very carefully places it onto something.
+a person walks confidently forward
+a person picks something up with both hands, turns it, and very carefully places it onto something.
+a person walks forward while bearing to the left and swaying.
+a person picks something up with both hands, turns it, and very carefully places it onto something.
+a person stands still for several seconds, before walking forward slowly and ending in a standing position.
+a person picks up something in front of them with both hands at shoulder width, tilts it to their left with their right hand, and sets it back down in front of them.
+a person walks confidently forward
+a person picks up something in front of them with both hands at shoulder width, tilts it to their left with their right hand, and sets it back down in front of them.
+a person walks forward while bearing to the left and swaying.
+a person picks up something in front of them with both hands at shoulder width, tilts it to their left with their right hand, and sets it back down in front of them.
+a person stands still for several seconds, before walking forward slowly and ending in a standing position.

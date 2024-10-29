@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET quarter/NOUN of/ADP a/DET circle/NOUN counterclockwise/NOUN then/ADV back/VERB up/ADP and/CCONJ take/VERB a/DET big/ADJ swing/NOUN with/ADP his/PRON left/ADJ hand/NOUN 

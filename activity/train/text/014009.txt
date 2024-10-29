@@ -1,0 +1,1 @@
+A robot starts moving from right to left and then stops, subsequently a man walks in a counterclockwise complete racetrack shape.

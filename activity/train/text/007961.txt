@@ -1,0 +1,1 @@
+A person walks forward, then turns 90 degrees left and stops, afterward running forwards and coming to a slow stop.

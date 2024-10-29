@@ -1,0 +1,18 @@
+the person walks forward, turns around and walks back.
+a person on the floor, gets up.
+the person walks forward, turns around and walks back.
+a person stands up from being on their hands and knees.
+the person walks forward, turns around and walks back.
+kneeling and then standing up.
+a person walks and does a left turn.
+a person on the floor, gets up.
+a person walks and does a left turn.
+a person stands up from being on their hands and knees.
+a person walks and does a left turn.
+kneeling and then standing up.
+a man walks forward, the turns around and walks back.
+a person on the floor, gets up.
+a man walks forward, the turns around and walks back.
+a person stands up from being on their hands and knees.
+a man walks forward, the turns around and walks back.
+kneeling and then standing up.

@@ -1,0 +1,6 @@
+a person walks in a circular route to the right.
+person cautiously walks diagonally, before checking over their shoulder and then turning around and cautiously walking back the way they came.
+a person walks around in a circle
+person cautiously walks diagonally, before checking over their shoulder and then turning around and cautiously walking back the way they came.
+a person walks in a circle counterclockwise.
+person cautiously walks diagonally, before checking over their shoulder and then turning around and cautiously walking back the way they came.

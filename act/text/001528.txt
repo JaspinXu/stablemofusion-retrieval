@@ -1,0 +1,1 @@
+A person walks in a clockwise circle while facing forward, and then turns to their right as they complete the circle. After that, they jog a few steps, stop, and then jog some more.

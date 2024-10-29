@@ -1,0 +1,1 @@
+a/DET person/NOUN go/VERB in/ADP a/DET 45degree/NUM left/ADJ angle/NOUN forward/ADV while/SCONJ use/VERB handrail/NOUN on/ADP both/DET side/NOUN then/ADV walk/VERB forward/ADV and/CCONJ stop/VERB 

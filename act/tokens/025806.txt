@@ -1,0 +1,1 @@
+the/DET person/NOUN put/VERB the/DET grocery/NOUN on/ADP the/DET shelf/NOUN then/ADV grab/VERB something/PRON with/ADP his/PRON right/ADJ hand/NOUN from/ADP his/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV stoop/VERB forward/ADV touch/VERB his/PRON right/ADJ knee/NOUN with/ADP his/PRON right/ADJ hand/NOUN three/NUM time/NOUN 

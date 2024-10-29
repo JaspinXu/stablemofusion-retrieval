@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV then/ADV turn/VERB in/ADP a/DET half/ADJ circle/NOUN and/CCONJ stop/VERB subsequently/ADV the/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN 

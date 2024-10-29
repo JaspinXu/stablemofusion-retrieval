@@ -1,0 +1,1 @@
+the/DET man/NOUN bend/VERB down/ADP and/CCONJ pick/VERB up/ADP an/DET object/NOUN off/ADP the/DET floor/NOUN then/ADV put/VERB the/DET object/NOUN onto/ADP a/DET table/NOUN or/CCONJ elevated/ADJ surface/NOUN after/SCONJ that/PRON he/PRON walk/VERB two/NUM step/NOUN turn/VERB around/ADP walk/NOUN back/ADV two/NUM step/NOUN and/CCONJ then/ADV stop/VERB 

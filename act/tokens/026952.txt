@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB on/ADP one/NUM leg/NOUN at/ADP a/DET time/NOUN with/ADP a/DET lot/NOUN of/ADP energy/NOUN and/CCONJ then/ADV lift/VERB something/PRON heavy/ADJ up/ADP and/CCONJ place/VERB it/PRON to/ADP the/DET right/NOUN 

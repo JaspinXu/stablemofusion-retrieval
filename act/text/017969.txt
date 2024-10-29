@@ -1,0 +1,1 @@
+The sim walks from one end of the plane to the other, reaching to grab an object before turning around and walking back and forth. Then, a man also walks forward, turns left, and comes back to take something from the front.

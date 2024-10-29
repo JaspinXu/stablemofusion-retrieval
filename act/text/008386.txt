@@ -1,0 +1,1 @@
+A person walks forward, then turns left, after that walks back, and subsequently another person walks diagonally from right to left before switching back to the right.

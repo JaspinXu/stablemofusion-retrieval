@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ gently/ADV set/VERB it/PRON on/ADP a/DET shelf/NOUN then/ADV slowly/ADV move/VERB to/ADP the/DET right/ADJ direction/NOUN before/ADP shift/VERB to/ADP the/DET left/ADJ direction/NOUN 

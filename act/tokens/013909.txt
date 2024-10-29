@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN to/ADP the/DET right/NOUN then/ADV jog/VERB on/ADP the/DET spot/NOUN and/CCONJ subsequently/ADV begin/VERB to/PART jog/VERB slowly/ADV in/ADP a/DET figure/NOUN of/ADP eight/NUM motion/NOUN while/SCONJ maintain/VERB a/DET forwardface/VERB body/NOUN orientation/NOUN 

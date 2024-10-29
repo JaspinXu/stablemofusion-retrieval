@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB smoothly/ADV from/ADP the/DET back/NOUN left/NOUN of/ADP a/DET location/NOUN to/ADP the/DET top/ADJ right/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV move/VERB horizontally/ADV to/ADP the/DET side/NOUN follow/VERB by/ADP walk/VERB back/ADV and/CCONJ forth/ADV 

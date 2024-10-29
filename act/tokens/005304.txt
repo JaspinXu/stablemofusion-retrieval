@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB two/NUM jump/VERB jack/NOUN while/SCONJ move/VERB forward/ADV slowly/ADV and/CCONJ then/ADV stop/VERB to/PART stand/VERB still/ADV 

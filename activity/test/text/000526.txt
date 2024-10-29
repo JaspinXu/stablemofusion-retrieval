@@ -1,0 +1,1 @@
+A person turns right while walking, then stops. After that, the person runs in a diagonal line.

@@ -1,0 +1,1 @@
+A person is walking horizontally, then trips on something and turns around, limping back. After that, they stand still but then step slightly forward with just their left foot.

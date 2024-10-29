@@ -1,0 +1,18 @@
+running forward and then stopping.
+person side steps to their left and stops
+running forward and then stopping.
+a person takes one step to the left diagonally.
+running forward and then stopping.
+a person stands still before side stepping left
+a person jogs forward several steps.
+person side steps to their left and stops
+a person jogs forward several steps.
+a person takes one step to the left diagonally.
+a person jogs forward several steps.
+a person stands still before side stepping left
+a person is running from one side to the other.
+person side steps to their left and stops
+a person is running from one side to the other.
+a person takes one step to the left diagonally.
+a person is running from one side to the other.
+a person stands still before side stepping left

@@ -1,0 +1,1 @@
+A figure hops in place, then a person staggers to their right and then left.

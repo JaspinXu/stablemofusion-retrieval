@@ -1,0 +1,1 @@
+A person moves left up a step, then takes a quick step to their right.

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET normal/ADJ gait/NOUN then/ADV a/DET person/NOUN move/VERB his/PRON left/ADJ hand/NOUN in/ADP a/DET throw/VERB motion/NOUN 

@@ -1,0 +1,1 @@
+A person appears to be walking over obstacles, first moving forward, then turning left and stepping up onto something. They then turn left again and repeat the same motion. Following that, they walk forward once more, then turn to their right and step up and down, as if navigating over or on additional obstacles.

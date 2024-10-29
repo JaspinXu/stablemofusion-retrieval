@@ -1,0 +1,1 @@
+A person staggers to the right, then returns to their original position, and subsequently walks to the left.

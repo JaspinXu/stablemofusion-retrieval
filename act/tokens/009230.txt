@@ -1,0 +1,1 @@
+a/DET stickman/NOUN perform/VERB a/DET squat/ADJ jump/NOUN then/ADV jump/VERB upward/ADV follow/VERB by/ADP a/DET person/NOUN walk/VERB backwards/ADV in/ADP five/NUM step/NOUN 

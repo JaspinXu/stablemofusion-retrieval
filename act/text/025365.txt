@@ -1,0 +1,1 @@
+A person steps sideways to their right, then steps sideways to their left, returning to their original spot. Next, they sidestep to their left and then back past their original position.

@@ -1,0 +1,1 @@
+A person walks forward over an object, then moves to the right, turns around, and walks back over the object. Following that, the person walks forward at a steady pace but stays in one spot.

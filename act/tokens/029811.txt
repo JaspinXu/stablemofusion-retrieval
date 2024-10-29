@@ -1,0 +1,1 @@
+a/DET human/ADJ move/NOUN backwards/ADV and/CCONJ forwards/ADV at/ADP an/DET angle/NOUN only/ADV use/VERB his/PRON left/ADJ leg/NOUN to/PART move/VERB forward/ADV then/ADV a/DET person/NOUN be/AUX walk/VERB around/ADV back/ADV and/CCONJ forth/ADV 

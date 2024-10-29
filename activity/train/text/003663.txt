@@ -1,0 +1,1 @@
+A person kicks forward one time, then slowly moves in the left direction.

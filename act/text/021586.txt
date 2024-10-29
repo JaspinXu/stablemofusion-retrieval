@@ -1,0 +1,1 @@
+A person is jogging around in a circle, then steps forward, ducks twice to the left, and finally ducks once to the right.

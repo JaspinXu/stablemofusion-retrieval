@@ -1,0 +1,1 @@
+A person walks diagonally forward, then another person walks straight ahead.

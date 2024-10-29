@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET suitcase/NOUN with/ADP their/PRON right/ADJ hand/NOUN then/ADV grab/VERB the/DET right/ADJ hand/NOUN of/ADP another/DET person/NOUN and/CCONJ show/VERB they/PRON something/PRON 

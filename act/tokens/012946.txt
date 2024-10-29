@@ -1,0 +1,1 @@
+a/DET person/NOUN go/VERB and/CCONJ sit/VERB down/ADP then/ADV start/VERB to/PART jog/VERB in/ADP place/NOUN turn/VERB to/ADP their/PRON right/NOUN and/CCONJ run/VERB to/ADP the/DET edge/NOUN after/SCONJ that/PRON they/PRON turn/VERB and/CCONJ run/VERB all/DET the/DET way/NOUN to/ADP their/PRON left/ADJ and/CCONJ subsequently/ADV repeat/VERB this/DET jogging/NOUN pattern/NOUN 

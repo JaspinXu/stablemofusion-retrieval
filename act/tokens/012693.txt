@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX hop/VERB on/ADP his/PRON right/ADJ foot/NOUN then/ADV he/PRON be/AUX hop/VERB on/ADP his/PRON left/ADJ foot/NOUN follow/VERB that/SCONJ he/PRON turn/VERB to/ADP his/PRON left/ADJ and/CCONJ casually/ADV walk/VERB backwards/ADV in/ADP a/DET clockwise/NOUN direction/NOUN 

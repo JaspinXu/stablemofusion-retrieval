@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV two/NUM step/NOUN then/ADV take/VERB a/DET left/ADJ turn/NOUN walk/VERB back/ADV two/NUM step/NOUN and/CCONJ afterward/ADV the/DET man/NOUN stroke/VERB a/DET guitar/NOUN one/NUM time/NOUN 

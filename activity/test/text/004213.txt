@@ -1,0 +1,1 @@
+A person is walking in a random pattern, then backs up and starts walking diagonally.

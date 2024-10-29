@@ -1,0 +1,1 @@
+A person starts from the middle, walks left, turns around and runs diagonally backwards towards the right of the area, then runs in a semi-circle from the left to the center of the floor, followed by moving their arms side to side and then jumping.

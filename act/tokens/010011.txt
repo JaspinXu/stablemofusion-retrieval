@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV stop/VERB and/CCONJ subsequently/ADV walk/VERB down/ADP the/DET side/NOUN of/ADP a/DET wall/NOUN 

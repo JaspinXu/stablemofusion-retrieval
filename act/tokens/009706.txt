@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV a/DET figure/NOUN stand/VERB still/ADV for/ADP a/DET moment/NOUN and/CCONJ subsequently/ADV step/VERB to/ADP the/DET right/NOUN 

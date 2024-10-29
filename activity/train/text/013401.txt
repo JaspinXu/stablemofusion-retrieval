@@ -1,0 +1,1 @@
+A stick figure takes a single step to the left, then a person is walking and takes some additional steps.

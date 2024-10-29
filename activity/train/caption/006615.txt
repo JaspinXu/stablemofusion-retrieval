@@ -1,0 +1,18 @@
+a person moonwalks back and to the side, then moonwalks forward.
+a person walks forward at a normal pace.
+a person moonwalks back and to the side, then moonwalks forward.
+a person walks forward at a normal speed then stops.
+a person moonwalks back and to the side, then moonwalks forward.
+the person walks forward at a steady pace
+a person is leaning forward and moving erratically while walking slowly.
+a person walks forward at a normal pace.
+a person is leaning forward and moving erratically while walking slowly.
+a person walks forward at a normal speed then stops.
+a person is leaning forward and moving erratically while walking slowly.
+the person walks forward at a steady pace
+a person walks slowly back and to the right then walks forward
+a person walks forward at a normal pace.
+a person walks slowly back and to the right then walks forward
+a person walks forward at a normal speed then stops.
+a person walks slowly back and to the right then walks forward
+the person walks forward at a steady pace

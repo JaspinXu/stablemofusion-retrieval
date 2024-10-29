@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB back/ADV subsequently/ADV walk/VERB around/ADV while/SCONJ look/VERB scared/ADJ 

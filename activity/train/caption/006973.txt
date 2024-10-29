@@ -1,0 +1,6 @@
+a person wlowly walked forward and return
+a person moves backwards then sits down, then gets back up
+a person walks forward, turns around, and then walks back to origin.
+a person moves backwards then sits down, then gets back up
+person walks forward and spins around on one foot then turns around and walks back.
+a person moves backwards then sits down, then gets back up

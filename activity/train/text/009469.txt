@@ -1,0 +1,1 @@
+A person erratically walks forward in a zigzag, then walks towards his left and stops.

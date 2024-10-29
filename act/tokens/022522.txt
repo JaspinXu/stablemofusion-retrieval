@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB an/DET exotic/ADJ dance/NOUN then/ADV a/DET man/NOUN walk/VERB slowly/ADV and/CCONJ turn/VERB around/ADP 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV a/DET person/NOUN walk/VERB as/SCONJ if/SCONJ they/PRON be/AUX step/VERB on/ADP stone/NOUN 

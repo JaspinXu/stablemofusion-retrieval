@@ -1,0 +1,1 @@
+A person runs forward whilst swinging both arms, then stops and turns counterclockwise to face the direction they came from. Subsequently, they walk forward two steps, turn left while walking two more steps, and finally come to a halt.

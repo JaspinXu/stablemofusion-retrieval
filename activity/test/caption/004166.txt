@@ -1,0 +1,2 @@
+the sim takes a cross sideways step before crouching a bit sliding back and forth accross the plane.
+a person jumps from side to side right to left.

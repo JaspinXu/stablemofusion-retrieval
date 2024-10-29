@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB after/ADP sit/VERB on/ADP the/DET floor/NOUN then/ADV walk/VERB in/ADP a/DET circle/NOUN subsequently/ADV walk/VERB back/ADV and/CCONJ forth/ADV at/ADP a/DET very/ADV slow/ADJ pace/NOUN and/CCONJ finally/ADV sit/VERB back/ADV in/ADP their/PRON original/ADJ spot/NOUN 

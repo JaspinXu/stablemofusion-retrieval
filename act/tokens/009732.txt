@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ try/VERB to/PART keep/VERB balance/NOUN then/ADV the/DET toon/NOUN walk/VERB down/ADP the/DET plane/NOUN at/ADP a/DET normal/ADJ speed/NOUN 

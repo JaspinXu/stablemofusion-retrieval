@@ -1,0 +1,1 @@
+a/DET person/NOUN kick/VERB two/NUM ball/NOUN with/ADP his/PRON left/ADJ foot/NOUN first/ADV to/ADP his/PRON right/NOUN and/CCONJ then/ADV to/ADP his/PRON left/ADJ and/CCONJ afterward/ADV a/DET man/NOUN walk/VERB forward/ADV and/CCONJ stop/VERB 

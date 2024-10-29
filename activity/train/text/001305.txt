@@ -1,0 +1,1 @@
+A person walks forward, then curves to the left and subsequently continues walking at the edge of a rectangle on the floor before reaching the other side of it.

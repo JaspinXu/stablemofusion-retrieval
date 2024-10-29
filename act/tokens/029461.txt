@@ -1,0 +1,1 @@
+a/DET person/NOUN side/NOUN step/NOUN move/VERB one/NUM leg/NOUN at/ADP a/DET time/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV do/VERB the/DET same/ADJ kind/NOUN of/ADP side/ADJ step/NOUN to/ADP the/DET right/ADV subsequently/ADV the/DET person/NOUN walk/VERB slowly/ADV on/ADP the/DET spot/NOUN 

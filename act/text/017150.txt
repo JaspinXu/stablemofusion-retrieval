@@ -1,0 +1,1 @@
+A man walks forward, turns around and then walks back, subsequently turning around again, while a person turns counterclockwise 180 degrees, walks straight, and then turns counterclockwise 180 degrees once more.

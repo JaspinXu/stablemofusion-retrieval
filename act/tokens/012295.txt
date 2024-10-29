@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB by/ADP do/VERB a/DET cartwheel/NOUN then/ADV strut/NOUN forward/ADV turn/VERB around/ADV and/CCONJ subsequently/ADV walk/VERB back/ADV 

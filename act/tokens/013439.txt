@@ -1,0 +1,1 @@
+one/NUM wrist/NOUN shake/VERB at/ADP the/DET right/ADJ side/NOUN of/ADP the/DET head/NOUN then/ADV the/DET left/ADJ wrist/NOUN shake/VERB towards/ADP the/DET head/NOUN follow/VERB that/SCONJ a/DET person/NOUN hold/VERB their/PRON arm/NOUN up/ADP and/CCONJ rotate/VERB at/ADP the/DET waist/NOUN 

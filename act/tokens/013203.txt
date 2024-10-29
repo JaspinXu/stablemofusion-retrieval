@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV towards/ADP a/DET door/NOUN knock/VERB wait/NOUN for/ADP less/ADJ than/ADP two/NUM second/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ walk/VERB away/ADV subsequently/ADV the/DET same/ADJ person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN at/ADP medium/ADJ speed/NOUN 

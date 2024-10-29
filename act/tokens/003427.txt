@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET medium/NOUN hop/NOUN forward/ADV then/ADV take/VERB 4/NUM step/NOUN turn/VERB 90/NUM degree/NOUN to/ADP the/DET right/NOUN 

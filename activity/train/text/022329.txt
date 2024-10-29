@@ -1,0 +1,1 @@
+The sim appears to be exercising on a treadmill, then transitions to walking in place.

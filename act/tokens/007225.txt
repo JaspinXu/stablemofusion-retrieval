@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB in/ADP place/NOUN then/ADV the/DET sim/NOUN walk/VERB down/ADP the/DET plane/NOUN at/ADP normal/ADJ speed/NOUN 

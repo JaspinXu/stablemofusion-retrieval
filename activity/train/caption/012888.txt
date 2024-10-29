@@ -1,0 +1,12 @@
+a person jogs back and forth then faces forward
+a man seems to be walking forward and has a wide gait.
+a person jogs back and forth then faces forward
+a person walks forward.
+a person runs to the left and then turns and runs to the right.
+a man seems to be walking forward and has a wide gait.
+a person runs to the left and then turns and runs to the right.
+a person walks forward.
+a person turns to the left, jogs a few steps, then pivots to the right and jogs a few steps then returns to the start point.
+a man seems to be walking forward and has a wide gait.
+a person turns to the left, jogs a few steps, then pivots to the right and jogs a few steps then returns to the start point.
+a person walks forward.

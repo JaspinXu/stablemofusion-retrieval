@@ -1,0 +1,1 @@
+A person stands still, then slowly walks forward and begins to jump, after that, turns their body to the right.

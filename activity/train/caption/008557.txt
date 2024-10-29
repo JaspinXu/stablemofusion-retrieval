@@ -1,0 +1,18 @@
+a person walks straight forward, before stopping.
+the person jogs up the stairs
+a person walks straight forward, before stopping.
+a person is jogging for a short distance.
+a person walks straight forward, before stopping.
+a person jogs in place
+a person walks forward diagonally to their left
+the person jogs up the stairs
+a person walks forward diagonally to their left
+a person is jogging for a short distance.
+a person walks forward diagonally to their left
+a person jogs in place
+the person was walking straight forward.
+the person jogs up the stairs
+the person was walking straight forward.
+a person is jogging for a short distance.
+the person was walking straight forward.
+a person jogs in place

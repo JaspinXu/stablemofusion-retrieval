@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB around/ADV in/ADP a/DET circle/NOUN counterclockwise/NOUN then/ADV a/DET person/NOUN stand/VERB up/ADP from/ADP be/AUX on/ADP one/NUM knee/NOUN 

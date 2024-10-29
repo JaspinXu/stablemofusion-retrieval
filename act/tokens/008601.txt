@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV back/ADV subsequently/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN quarter/NOUN circle/NOUN 

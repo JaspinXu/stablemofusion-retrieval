@@ -1,0 +1,1 @@
+A person steps over an object with their right foot, then turns to the right and continues to take steps up an incline. After that, they turn to the right again, step down, and walk back. Subsequently, the same person walks forward, puts something on a shelf, walks back, picks up something else, and then places it on the same shelf.

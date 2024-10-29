@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ slightly/ADV stumble/VERB on/ADP one/NUM of/ADP the/DET step/NOUN then/ADV take/VERB five/NUM additional/ADJ step/NOUN forward/ADV 

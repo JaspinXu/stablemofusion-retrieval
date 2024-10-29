@@ -1,0 +1,1 @@
+A person walking in a clockwise direction stands still, then a stick figure turns counterclockwise for half a circle before turning back clockwise.

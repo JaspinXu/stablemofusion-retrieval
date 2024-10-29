@@ -1,0 +1,1 @@
+A person takes one step diagonally forward and to the left, then walks over a high object that was in his way.

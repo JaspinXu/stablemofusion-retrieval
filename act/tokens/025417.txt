@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP the/DET shape/NOUN of/ADP an/DET s/PROPN first/ADV turn/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN following/NOUN that/SCONJ they/PRON walk/VERB forward/ADV then/ADV turn/VERB around/ADP to/PART look/VERB at/ADP the/DET path/NOUN they/PRON have/AUX walk/VERB 

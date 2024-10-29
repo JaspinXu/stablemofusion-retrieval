@@ -1,0 +1,1 @@
+A person walks forward, picks up a ball, turns around, and walks back to their start position. Following that, someone walks in a backward motion.

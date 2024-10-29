@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX move/VERB his/PRON left/ADJ hand/NOUN in/ADP a/DET circle/NOUN counterclockwise/NOUN then/ADV the/DET toon/NOUN walk/VERB down/ADP the/DET plane/NOUN at/ADP a/DET normal/ADJ rate/NOUN of/ADP speed/NOUN 

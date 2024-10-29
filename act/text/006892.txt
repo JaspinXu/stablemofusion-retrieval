@@ -1,0 +1,1 @@
+A person uses both hands to pick up an object from the left, then places the object down to the right. Following that, they walk forward, turn left, and make a complete turn back to the starting spot.

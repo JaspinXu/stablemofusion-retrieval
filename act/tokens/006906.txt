@@ -1,0 +1,1 @@
+a/DET person/NOUN reach/VERB down/ADP to/PART pick/VERB something/PRON up/ADP in/ADP one/NUM hand/NOUN then/ADV reach/VERB over/ADP to/ADP the/DET other/ADJ side/NOUN to/PART pick/VERB something/PRON else/ADV up/ADP follow/VERB that/SCONJ the/DET person/NOUN walk/VERB and/CCONJ turn/VERB their/PRON backside/NOUN to/PART sit/VERB down/ADP on/ADP a/DET high/ADJ surface/NOUN 

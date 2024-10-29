@@ -1,0 +1,12 @@
+a person walks in a bending route to the left.
+a person bends down to pick something up with their left hand
+a person walks in a bending route to the left.
+the person is picking something up.
+a person walks in a bending route to the left.
+the figure stands still, and then it steps forward and drops its weight onto one leg to pick up an object from the ground, and then casually returns back to its first position.
+a person walks across floor at an angled right direction
+a person bends down to pick something up with their left hand
+a person walks across floor at an angled right direction
+the person is picking something up.
+a person walks across floor at an angled right direction
+the figure stands still, and then it steps forward and drops its weight onto one leg to pick up an object from the ground, and then casually returns back to its first position.

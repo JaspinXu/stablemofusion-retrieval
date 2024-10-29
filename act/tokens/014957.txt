@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET wide/ADJ object/NOUN place/VERB it/PRON down/ADP rotate/VERB 90/NUM degree/NOUN then/ADV return/VERB it/PRON to/ADP its/PRON original/ADJ place/NOUN afterward/ADV the/DET person/NOUN begin/VERB sweep/VERB the/DET floor/NOUN with/ADP both/DET hand/NOUN while/SCONJ hold/VERB something/PRON 

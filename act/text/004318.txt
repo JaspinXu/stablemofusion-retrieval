@@ -1,0 +1,1 @@
+The toon walks down the plane at a normal rate of speed, then takes 2 steps forward and afterwards turns to take another 2 steps.

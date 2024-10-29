@@ -1,0 +1,18 @@
+jogging forward a couple of feet
+a person moves a step to the right side from being pushed.
+jogging forward a couple of feet
+a person standing still in once place is pushed to the left from the right and takes one step before stopping.
+jogging forward a couple of feet
+a person steps quickly to the right.
+the person is running.
+a person moves a step to the right side from being pushed.
+the person is running.
+a person standing still in once place is pushed to the left from the right and takes one step before stopping.
+the person is running.
+a person steps quickly to the right.
+this person jogs forward and stops.
+a person moves a step to the right side from being pushed.
+this person jogs forward and stops.
+a person standing still in once place is pushed to the left from the right and takes one step before stopping.
+this person jogs forward and stops.
+a person steps quickly to the right.

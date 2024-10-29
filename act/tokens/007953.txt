@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 5/NUM step/NOUN backwards/ADV start/VERB with/ADP the/DET left/ADJ leg/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ step/NOUN over/ADP the/DET top/NOUN of/ADP something/PRON 

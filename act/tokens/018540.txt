@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB and/CCONJ spin/VERB 180/NUM degree/NOUN in/ADP the/DET air/NOUN pause/NOUN and/CCONJ then/ADV turn/VERB back/ADV after/SCONJ that/SCONJ the/DET person/NOUN continue/VERB with/ADP arm/NOUN exercise/NOUN 

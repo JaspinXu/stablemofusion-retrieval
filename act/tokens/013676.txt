@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP a/DET flight/NOUN of/ADP step/NOUN without/ADP the/DET assistance/NOUN of/ADP a/DET railing/NOUN then/ADV continue/VERB walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN while/SCONJ never/ADV change/VERB the/DET direction/NOUN of/ADP his/PRON body/NOUN by/ADP turn/VERB 

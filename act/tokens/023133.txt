@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX do/VERB cartwheel/NOUN to/ADP one/NUM side/NOUN and/CCONJ then/ADV towards/ADP the/DET other/ADJ side/NOUN after/SCONJ that/SCONJ the/DET person/NOUN step/VERB forward/ADV lift/VERB their/PRON left/ADJ arm/NOUN swing/VERB it/PRON forward/ADV and/CCONJ wave/VERB it/PRON and/CCONJ subsequently/ADV rotate/VERB their/PRON left/ADJ hand/NOUN 

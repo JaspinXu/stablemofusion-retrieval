@@ -1,0 +1,29 @@
+-Goal-
+Combine multiple input texts into a single coherent and contextually relevant output.
+
+-Steps-
+1. Identify the key thematic or narrative connections within each input text.
+   - text_snippet: The individual input text snippet.
+
+2. Synthesize these elements into one unified piece of text that maintains logical flow and consistency throughout, and make appropriate use of connecting words that indicate temporal sequence for articulation between input texts.
+   - combined_text: The synthesized output text.
+   - connectives_word: e.g."then","next","after that","subsequently","later","following that","thereafter",etc.
+
+3. When finished, output {completion_delimiter}.
+
+4. You should output in this format:
+("combined_text"{tuple_delimiter}"The unified and coherent text generated from the input snippets."){record_delimiter}
+
+######################
+-Examples-
+######################
+Example 1:
+
+Input Texts:
+A person walks forward.
+An individual plays a basketball.
+A man is jumping.
+################
+Output:
+("combined_text"{tuple_delimiter}"A person walks forward, next plays a basketball and then jumps up."){record_delimiter}
+#############################

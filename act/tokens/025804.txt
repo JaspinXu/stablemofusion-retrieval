@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX dry/VERB his/PRON left/ADJ arm/NOUN then/ADV walk/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV walk/VERB back/ADV to/ADP the/DET right/NOUN 

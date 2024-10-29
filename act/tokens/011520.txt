@@ -1,0 +1,1 @@
+a/DET person/NOUN swing/VERB their/PRON arm/NOUN in/ADP front/NOUN of/ADP they/PRON as/SCONJ they/PRON move/VERB backwards/ADV towards/ADP the/DET right/NOUN then/ADV walk/VERB forward/ADV strafe/VERB to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV walk/VERB to/ADP the/DET left/ADJ 

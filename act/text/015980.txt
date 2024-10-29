@@ -1,0 +1,1 @@
+A person walks to their left, then sidesteps past their original position to the right, and subsequently returns to their starting position.

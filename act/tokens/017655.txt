@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB on/ADP a/DET treadmill/NOUN then/ADV a/DET man/NOUN do/AUX warmup/VERB exercise/NOUN by/ADP rotate/VERB his/PRON arm/NOUN and/CCONJ shoulder/NOUN with/ADP circular/ADJ motion/NOUN 

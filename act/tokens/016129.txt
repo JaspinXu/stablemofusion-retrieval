@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET front/ADJ hand/NOUN flip/NOUN then/ADV a/DET man/NOUN perform/VERB an/DET action/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV stand/VERB in/ADP a/DET tpose/NOUN 

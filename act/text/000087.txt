@@ -1,0 +1,1 @@
+The sim walks forward a few steps, then turns to their left before climbing a step, and afterwards, the person balances on one leg while holding the other.

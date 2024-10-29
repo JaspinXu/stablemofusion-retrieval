@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ slightly/ADV to/ADP the/DET right/ADJ then/ADV another/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET straight/ADJ line/NOUN 

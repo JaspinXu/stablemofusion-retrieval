@@ -1,0 +1,1 @@
+the/DET man/NOUN wind/VERB up/ADP and/CCONJ throw/VERB a/DET ball/NOUN then/ADV a/DET person/NOUN begin/VERB hop/VERB on/ADP one/NUM foot/NOUN with/ADP their/PRON arm/NOUN out/ADV and/CCONJ subsequently/ADV switch/VERB to/PART do/VERB the/DET same/ADJ on/ADP their/PRON other/ADJ foot/NOUN 

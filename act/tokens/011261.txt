@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN stand/VERB still/ADV then/ADV a/DET stick/NOUN figure/NOUN turn/VERB counterclockwise/NOUN for/ADP half/DET a/DET circle/NOUN before/ADP turn/VERB back/ADP clockwise/NOUN 

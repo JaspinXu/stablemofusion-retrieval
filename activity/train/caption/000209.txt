@@ -1,0 +1,2 @@
+a person slowly walks backwards.
+the sim walks forward a few steps, turns to their right then is about to climb a step.

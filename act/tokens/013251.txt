@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forwards/ADV then/ADV quickly/ADV walk/VERB backwards/ADV and/CCONJ subsequently/ADV walk/VERB forwards/ADV again/ADV afterward/ADV he/PRON scrunch/VERB his/PRON shoulder/NOUN walk/VERB forward/ADV once/ADV more/ADV and/CCONJ then/ADV scrunch/VERB his/PRON shoulder/NOUN again/ADV as/SCONJ he/PRON prepare/VERB for/ADP a/DET fight/NOUN 

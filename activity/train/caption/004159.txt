@@ -1,0 +1,18 @@
+a person is pushed forward and recovers standing up.
+a person side steps to the left and then the right.
+a person is pushed forward and recovers standing up.
+person moves one large step to their left side
+a person is pushed forward and recovers standing up.
+a person side steps to the left and then walks back to their origin.
+a person steps forward and stops.
+a person side steps to the left and then the right.
+a person steps forward and stops.
+person moves one large step to their left side
+a person steps forward and stops.
+a person side steps to the left and then walks back to their origin.
+the person was pushed but stayed standing.
+a person side steps to the left and then the right.
+the person was pushed but stayed standing.
+person moves one large step to their left side
+the person was pushed but stayed standing.
+a person side steps to the left and then walks back to their origin.

@@ -1,0 +1,1 @@
+A person moves his right hand in a clockwise direction, then falls forward one step.

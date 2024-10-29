@@ -1,0 +1,1 @@
+A person walks diagonally to the right, then slowly walks forward and returns.

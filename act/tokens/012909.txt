@@ -1,0 +1,1 @@
+the/DET man/NOUN sidestep/VERB two/NUM step/NOUN to/ADP the/DET right/ADJ then/ADV sidestep/VERB to/ADP the/DET left/ADJ and/CCONJ next/ADJ move/NOUN right/ADV back/ADV to/ADP where/SCONJ he/PRON begin/VERB while/SCONJ a/DET person/NOUN walk/VERB forward/ADV slowly/ADV drag/VERB their/PRON foot/NOUN behind/ADV 

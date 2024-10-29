@@ -1,0 +1,1 @@
+the/DET person/NOUN dribble/VERB a/DET basketball/NOUN backwards/ADV and/CCONJ then/ADV a/DET person/NOUN walk/VERB forward/ADV take/VERB six/NUM confident/ADJ stride/NOUN 

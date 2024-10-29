@@ -1,0 +1,1 @@
+A person walks at a normal pace, then walks forward, spins around, and walks back.

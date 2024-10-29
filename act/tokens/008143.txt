@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB straight/ADV forward/ADV while/SCONJ the/DET body/NOUN walk/VERB straight/ADV backwards/ADV 

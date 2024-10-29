@@ -1,0 +1,1 @@
+a/DET person/NOUN signal/VERB a/DET vehicle/NOUN in/ADP reverse/NOUN to/PART keep/VERB go/VERB then/ADV to/PART stop/VERB then/ADV again/ADV to/PART keep/VERB go/VERB and/CCONJ finally/ADV to/PART stop/VERB after/SCONJ that/SCONJ the/DET person/NOUN sit/VERB down/ADP and/CCONJ then/ADV stand/VERB back/ADV up/ADV 

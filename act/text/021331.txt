@@ -1,0 +1,1 @@
+A person wanders forward, then stops and turns to wander backward, followed by turning counterclockwise 180 degrees, walking straight, and then turning counterclockwise 180 degrees again.

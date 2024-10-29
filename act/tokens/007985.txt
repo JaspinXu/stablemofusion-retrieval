@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB his/PRON right/ADJ foot/NOUN forward/ADV then/ADV walk/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV stop/VERB follow/VERB that/SCONJ he/PRON move/VERB his/PRON right/ADJ arm/NOUN in/ADP a/DET circular/ADJ clockwise/NOUN motion/NOUN like/ADP stir/VERB a/DET pot/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV forward/ADV place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ raise/VERB both/DET arm/NOUN straight/ADV up/ADV and/CCONJ then/ADV back/ADV down/ADV after/ADP that/PRON they/PRON sit/VERB down/ADP cross/VERB their/PRON leg/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV 

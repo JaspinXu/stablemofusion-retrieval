@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET steady/ADJ slow/ADJ pace/NOUN with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ then/ADV take/VERB a/DET step/NOUN to/ADP their/PRON left/NOUN sit/VERB down/ADP and/CCONJ subsequently/ADV stand/VERB back/ADV up/ADV 

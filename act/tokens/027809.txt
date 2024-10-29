@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV four/NUM step/NOUN while/SCONJ hold/VERB onto/ADP the/DET railing/NOUN with/ADP their/PRON right/ADJ hand/NOUN then/ADV a/DET figure/NOUN with/ADP arm/NOUN out/ADP rotate/VERB down/ADP and/CCONJ move/VERB their/PRON hand/NOUN around/ADV 

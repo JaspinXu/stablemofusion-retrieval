@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV start/VERB with/ADP the/DET left/ADJ leg/NOUN then/ADV slowly/ADV continue/VERB to/PART walk/VERB forward/ADV before/ADP stop/VERB and/CCONJ stand/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV lean/VERB over/ADV and/CCONJ step/NOUN back/ADV then/ADV signal/NOUN for/ADP a/DET basketball/NOUN dribble/ADJ in/ADP three/NUM different/ADJ type/NOUN 

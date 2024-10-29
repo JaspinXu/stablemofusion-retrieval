@@ -1,0 +1,1 @@
+a/DET person/NOUN drop/VERB to/ADP his/PRON knee/NOUN hold/VERB his/PRON hand/NOUN up/ADP then/ADV stand/VERB up/ADP and/CCONJ subsequently/ADV drop/VERB to/ADP his/PRON hand/NOUN and/CCONJ knee/NOUN again/ADV while/SCONJ a/DET man/NOUN turn/VERB his/PRON head/NOUN slightly/ADV and/CCONJ walk/VERB in/ADP a/DET slow/ADJ counterclockwise/NOUN circle/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB a/DET hand/NOUN rail/NOUN while/SCONJ walk/VERB up/ADP and/CCONJ then/ADV down/ADP a/DET flight/NOUN of/ADP stair/NOUN thereafter/ADV use/VERB both/DET hand/NOUN the/DET person/NOUN bend/VERB over/ADP to/AUX pat/PROPN the/DET ground/NOUN 

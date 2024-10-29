@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN with/ADP their/PRON left/ADJ hand/NOUN then/ADV rotate/VERB their/PRON right/ADJ arm/NOUN at/ADP the/DET elbow/NOUN 

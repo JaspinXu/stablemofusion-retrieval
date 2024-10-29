@@ -1,0 +1,1 @@
+A person walks in a curve going towards their left, then stops; after that, they walk forward over a gap.

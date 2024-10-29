@@ -1,0 +1,18 @@
+a person turns left while walking then stops
+a person runs forward and stops short.
+a person turns left while walking then stops
+a person is running fast then stops
+a person turns left while walking then stops
+person runs in a diagonal line.
+a person walks ina curved line.
+a person runs forward and stops short.
+a person walks ina curved line.
+a person is running fast then stops
+a person walks ina curved line.
+person runs in a diagonal line.
+someone is walking in a semicircle to the left side
+a person runs forward and stops short.
+someone is walking in a semicircle to the left side
+a person is running fast then stops
+someone is walking in a semicircle to the left side
+person runs in a diagonal line.

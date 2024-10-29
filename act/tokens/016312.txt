@@ -1,0 +1,1 @@
+a/DET person/NOUN put/VERB their/PRON left/ADJ arm/NOUN in/ADP a/DET sweater/NOUN then/ADV their/PRON right/ADJ arm/NOUN and/CCONJ finally/ADV button/VERB the/DET sweater/NOUN after/SCONJ that/PRON they/PRON move/VERB their/PRON right/ADJ hand/NOUN around/ADV at/ADP waist/NOUN level/PROPN then/ADV raise/VERB it/PRON to/ADP their/PRON head/NOUN and/CCONJ shake/VERB it/PRON 

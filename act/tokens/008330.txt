@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB backwards/ADV five/NUM step/NOUN and/CCONJ then/ADV walk/VERB forward/ADV slightly/ADV follow/VERB by/ADP turn/VERB to/ADP the/DET left/NOUN as/SCONJ they/PRON continue/VERB to/PART walk/VERB 

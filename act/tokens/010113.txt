@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sit/VERB in/ADP a/DET chair/NOUN eat/VERB a/DET burger/NOUN and/CCONJ then/ADV later/ADV swing/VERB a/DET golf/NOUN club/NOUN 

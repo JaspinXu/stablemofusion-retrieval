@@ -1,0 +1,1 @@
+a/DET person/NOUN bounce/VERB a/DET ball/NOUN on/ADP the/DET ground/NOUN and/CCONJ walk/NOUN backwards/ADV then/ADV subsequently/ADV do/AUX jump/VERB jack/NOUN  /SPACE three/NUM to/PART be/AUX exact/ADJ 

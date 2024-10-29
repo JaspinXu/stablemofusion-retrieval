@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV from/ADP the/DET right/ADJ side/NOUN to/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV a/DET man/NOUN slowly/ADV walk/VERB to/ADP the/DET right/NOUN with/ADP his/PRON arm/NOUN outstretche/VERB at/ADP his/PRON side/NOUN 

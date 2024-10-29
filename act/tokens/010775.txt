@@ -1,0 +1,1 @@
+a/DET character/NOUN walk/VERB up/ADP to/ADP an/DET elevated/ADJ point/NOUN in/ADP five/NUM step/NOUN then/ADV a/DET person/NOUN walk/VERB and/CCONJ touch/VERB something/PRON with/ADP his/PRON right/ADJ hand/NOUN 

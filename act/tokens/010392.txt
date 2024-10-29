@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV then/ADV move/VERB forward/ADV seven/NUM step/NOUN lead/VERB with/ADP the/DET left/ADJ foot/NOUN from/ADP the/DET center/NOUN back/ADV to/ADP the/DET front/ADJ left/NOUN of/ADP the/DET box/NOUN 

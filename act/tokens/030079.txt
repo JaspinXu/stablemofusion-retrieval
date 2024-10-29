@@ -1,0 +1,1 @@
+this/DET person/NOUN sit/VERB on/ADP a/DET chair/NOUN then/ADV move/VERB to/ADP the/DET floor/NOUN to/PART sit/VERB down/ADP follow/VERB that/SCONJ he/PRON slowly/ADV bend/VERB and/CCONJ unbend/VERB his/PRON left/ADJ hand/NOUN in/ADP various/ADJ motion/NOUN while/SCONJ the/DET rest/NOUN of/ADP his/PRON body/NOUN remain/VERB straight/ADJ and/CCONJ steady/ADJ 

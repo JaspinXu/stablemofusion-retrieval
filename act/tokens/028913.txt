@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB three/NUM step/NOUN backward/ADV then/ADV bend/VERB down/ADP to/ADP their/PRON left/ADJ side/NOUN take/VERB their/PRON left/ADJ hand/NOUN and/CCONJ place/VERB it/PRON on/ADP their/PRON right/ADJ arm/NOUN and/CCONJ finally/ADV bend/VERB back/ADV down/ADV to/ADP the/DET left/NOUN with/ADP both/DET hand/NOUN 

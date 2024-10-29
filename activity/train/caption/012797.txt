@@ -1,0 +1,18 @@
+a person walks in a complete circle.
+a man is playing a violin before stopping.
+a person walks in a complete circle.
+a person is playing the violin.
+a person walks in a complete circle.
+he picks up a violin and plays it.
+a person slowly walks in a circle in a counter-clockwise direction.
+a man is playing a violin before stopping.
+a person slowly walks in a circle in a counter-clockwise direction.
+a person is playing the violin.
+a person slowly walks in a circle in a counter-clockwise direction.
+he picks up a violin and plays it.
+a person walks counterclockwise, beginning at the 9 o'clock mark on a clock until the 12 o'clock mark.
+a man is playing a violin before stopping.
+a person walks counterclockwise, beginning at the 9 o'clock mark on a clock until the 12 o'clock mark.
+a person is playing the violin.
+a person walks counterclockwise, beginning at the 9 o'clock mark on a clock until the 12 o'clock mark.
+he picks up a violin and plays it.

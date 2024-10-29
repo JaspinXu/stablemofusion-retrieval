@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB carefully/ADV while/SCONJ look/VERB around/ADV then/ADV a/DET man/NOUN walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN turn/VERB around/ADV and/CCONJ subsequently/ADV walk/VERB down/ADP the/DET stair/NOUN 

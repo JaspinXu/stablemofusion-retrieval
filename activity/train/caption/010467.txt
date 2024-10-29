@@ -1,0 +1,12 @@
+person took two steps forward and one step back and then another step forward.
+a person steps forwards, turns around on their right foot and walk back.
+person took two steps forward and one step back and then another step forward.
+a person walks counterclockwise to their left.
+a person walks forward, hits something, then keeps walking
+a person steps forwards, turns around on their right foot and walk back.
+a person walks forward, hits something, then keeps walking
+a person walks counterclockwise to their left.
+a person walks forward, then takes a step back, and then walks forward.
+a person steps forwards, turns around on their right foot and walk back.
+a person walks forward, then takes a step back, and then walks forward.
+a person walks counterclockwise to their left.

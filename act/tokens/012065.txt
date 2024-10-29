@@ -1,0 +1,1 @@
+a/DET figure/NOUN slightly/ADV rock/VERB back/ADV and/CCONJ forth/ADV while/SCONJ rotate/VERB clockwise/NOUN 90/NUM degree/NOUN then/ADV a/DET person/NOUN turn/VERB anticlockwise/ADJ to/PART look/VERB at/ADP an/DET object/NOUN subsequently/ADV the/DET person/NOUN proceed/VERB to/PART move/VERB towards/ADP and/CCONJ sit/VERB in/ADP the/DET object/NOUN 

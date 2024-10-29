@@ -1,0 +1,1 @@
+A person steps back diagonally, then pushes himself to make a jump.

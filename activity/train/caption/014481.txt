@@ -1,0 +1,2 @@
+a person walks forward, walks backwards then walks sideways.
+a person grabbing something and then walking with object, while looking down the entire walk.

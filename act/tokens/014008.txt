@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB on/ADP all/DET four/NOUN then/ADV take/VERB two/NUM step/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP four/NUM step/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV stop/VERB 

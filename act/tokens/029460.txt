@@ -1,0 +1,1 @@
+the/DET person/NOUN side/VERB step/NOUN to/ADP the/DET right/ADJ then/ADV side/VERB step/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV return/VERB back/ADV to/ADP the/DET right/ADV move/VERB one/NUM leg/NOUN at/ADP a/DET time/NOUN in/ADP a/DET coordinated/ADJ fashion/NOUN 

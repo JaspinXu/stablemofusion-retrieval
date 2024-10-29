@@ -1,0 +1,18 @@
+place items in a line up
+a person climbs up some ladders
+place items in a line up
+a person walks in a curve to the left, turns and climbs several stairs.
+place items in a line up
+a person quickly puts both hands down while walking in a counterclockwise half circle, then climbs imaginary stairs with both arms and legs, and finally pulls his head above his arms using his hands.
+a person grabbed something with both hands and put it down
+a person climbs up some ladders
+a person grabbed something with both hands and put it down
+a person walks in a curve to the left, turns and climbs several stairs.
+a person grabbed something with both hands and put it down
+a person quickly puts both hands down while walking in a counterclockwise half circle, then climbs imaginary stairs with both arms and legs, and finally pulls his head above his arms using his hands.
+a person is moving an object, puts the object down and turns in an adjacent movement from the object.
+a person climbs up some ladders
+a person is moving an object, puts the object down and turns in an adjacent movement from the object.
+a person walks in a curve to the left, turns and climbs several stairs.
+a person is moving an object, puts the object down and turns in an adjacent movement from the object.
+a person quickly puts both hands down while walking in a counterclockwise half circle, then climbs imaginary stairs with both arms and legs, and finally pulls his head above his arms using his hands.

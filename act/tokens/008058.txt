@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV then/ADV kick/VERB out/ADP their/PRON left/ADJ leg/NOUN towards/ADP an/DET object/NOUN and/CCONJ subsequently/ADV continue/VERB walk/VERB down/ADP in/ADP a/DET straight/ADJ line/NOUN 

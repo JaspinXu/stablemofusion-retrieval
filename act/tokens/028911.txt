@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB from/ADP left/ADJ to/ADP right/ADV then/ADV back/ADV to/ADP left/NOUN and/CCONJ subsequently/ADV to/ADP the/DET right/NOUN after/SCONJ that/PRON they/PRON pick/VERB something/PRON up/ADP with/ADP both/DET hand/NOUN move/VERB it/PRON to/ADP the/DET side/NOUN and/CCONJ then/ADV place/VERB it/PRON back/ADV down/ADV 

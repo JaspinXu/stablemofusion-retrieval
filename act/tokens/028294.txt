@@ -1,0 +1,1 @@
+a/DET figure/NOUN walk/VERB to/ADP the/DET left/NOUN in/ADP a/DET circle/NOUN then/ADV a/DET person/NOUN move/VERB lead/VERB with/ADP their/PRON right/ADJ foot/NOUN and/CCONJ follow/VERB by/ADP their/PRON left/NOUN to/PART complete/VERB five/NUM step/NOUN slightly/ADV to/ADP the/DET left/ADJ 

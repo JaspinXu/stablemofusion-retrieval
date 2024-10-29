@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB from/ADP one/NUM side/NOUN of/ADP the/DET platform/NOUN to/ADP another/PRON in/ADP an/DET sshaped/PROPN motion/NOUN then/ADV look/VERB for/ADP something/PRON on/ADP the/DET ground/NOUN stand/VERB back/NOUN up/ADP and/CCONJ subsequently/ADV seem/VERB to/PART see/VERB it/PRON 

@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX make/VERB a/DET motion/NOUN of/ADP throw/VERB an/DET object/NOUN to/ADP his/PRON left/ADJ side/NOUN with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ then/ADV flap/VERB his/PRON arm/NOUN like/ADP a/DET bird/NOUN 

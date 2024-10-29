@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV balance/VERB on/ADP one/NUM leg/NOUN while/SCONJ the/DET other/ADJ leg/NOUN be/AUX bent/ADJ upwards/ADV 

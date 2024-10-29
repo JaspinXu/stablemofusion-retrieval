@@ -1,0 +1,1 @@
+A person turns to their left, then walks forward before turning back around and walking halfway back to their starting point, subsequently stopping. After that, they walk slowly forward.

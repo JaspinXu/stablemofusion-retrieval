@@ -1,0 +1,1 @@
+A person walks forward, picks something up, puts their hand to their mouth and tilts back their head, then puts it down. Subsequently, a robot starts walking to its left, then begins running from right to left and stops at the center.

@@ -1,0 +1,1 @@
+A person strafes from left to right and vice versa, then leans to the right, shakes an item, pours it out, and puts it back down.

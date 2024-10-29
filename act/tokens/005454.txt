@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB in/ADP place/NOUN several/ADJ time/NOUN while/SCONJ hold/VERB his/PRON arm/NOUN to/ADP the/DET side/NOUN then/ADV step/VERB forward/ADV on/ADP his/PRON left/ADJ leg/NOUN stop/NOUN and/CCONJ extend/VERB his/PRON left/ADJ leg/NOUN a/DET short/ADJ distance/NOUN to/PART touch/VERB his/PRON foot/NOUN to/ADP the/DET ground/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB both/DET arm/NOUN from/ADP left/ADJ to/ADP right/ADV then/ADV turn/VERB around/ADP move/NOUN hand/NOUN forward/ADV and/CCONJ signal/NOUN to/PART come/VERB towards/ADP he/PRON after/SCONJ that/PRON the/DET man/NOUN carefully/ADV sit/VERB down/ADP on/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB back/ADV up/ADV 

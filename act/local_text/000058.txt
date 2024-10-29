@@ -1,0 +1,2 @@
+stick figure moves in a counter clockwise motion
+a person runs quickly to the left

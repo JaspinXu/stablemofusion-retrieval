@@ -1,0 +1,1 @@
+a/DET person/NOUN appear/VERB to/PART be/AUX push/VERB forward/ADV and/CCONJ stumble/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV one/NUM step/NOUN backward/ADV and/CCONJ three/NUM step/NOUN forward/ADV before/ADP finally/ADV stop/VERB 

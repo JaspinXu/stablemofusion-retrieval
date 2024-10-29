@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV appear/VERB to/PART climb/VERB up/ADP 3/NUM step/NOUN of/ADP a/DET ladder/NOUN go/VERB back/ADV down/ADP the/DET 3/NUM step/NOUN and/CCONJ turn/VERB back/ADV towards/ADP the/DET direction/NOUN they/PRON come/VERB from/ADP after/SCONJ that/SCONJ the/DET person/NOUN walk/VERB stationary/ADJ on/ADP a/DET treadmill/NOUN 

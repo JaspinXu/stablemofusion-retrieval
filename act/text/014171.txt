@@ -1,0 +1,1 @@
+A person picks up an item, then reaches over to wipe another item. After that, they return the first item to its original container while walking in an 's' shaped trajectory slowly, looking down at their feet.

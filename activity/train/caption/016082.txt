@@ -1,0 +1,18 @@
+a person turns to their right, walks forward, turns right again and walks back, then turns right again and walks back to the start position.
+bends to the left, picks up something, turns, then sets it down.
+a person turns to their right, walks forward, turns right again and walks back, then turns right again and walks back to the start position.
+a person moving something heavy from one place to another.
+a person turns to their right, walks forward, turns right again and walks back, then turns right again and walks back to the start position.
+a person turns towards to the left, picks up a heavy object and turns and set it down in front of him.
+a person moved to right and after left direction and return
+bends to the left, picks up something, turns, then sets it down.
+a person moved to right and after left direction and return
+a person moving something heavy from one place to another.
+a person moved to right and after left direction and return
+a person turns towards to the left, picks up a heavy object and turns and set it down in front of him.
+a person walking back and fourth from right to left and stopping in the center.
+bends to the left, picks up something, turns, then sets it down.
+a person walking back and fourth from right to left and stopping in the center.
+a person moving something heavy from one place to another.
+a person walking back and fourth from right to left and stopping in the center.
+a person turns towards to the left, picks up a heavy object and turns and set it down in front of him.

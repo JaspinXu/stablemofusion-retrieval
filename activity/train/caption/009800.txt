@@ -1,0 +1,18 @@
+the person steps forward, then turns facing left and steps backwards
+a person slowly walks forward in a diagonal line.
+the person steps forward, then turns facing left and steps backwards
+a person steps over a hole.
+the person steps forward, then turns facing left and steps backwards
+a person walks forward extremely slow
+a man walks 2 fits and returns to his place
+a person slowly walks forward in a diagonal line.
+a man walks 2 fits and returns to his place
+a person steps over a hole.
+a man walks 2 fits and returns to his place
+a person walks forward extremely slow
+the person is walking forward to turning right.
+a person slowly walks forward in a diagonal line.
+the person is walking forward to turning right.
+a person steps over a hole.
+the person is walking forward to turning right.
+a person walks forward extremely slow

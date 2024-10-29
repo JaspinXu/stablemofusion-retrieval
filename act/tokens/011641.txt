@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV take/VERB toowide/NOUN step/NOUN then/ADV come/VERB to/ADP a/DET stop/NOUN and/CCONJ afterward/ADV jump/VERB up/ADP and/CCONJ down/ADP 

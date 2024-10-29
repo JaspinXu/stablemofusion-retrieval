@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB toward/ADP a/DET leftbranch/NOUN in/ADP a/DET smooth/ADJ curve/NOUN and/CCONJ stop/NOUN then/ADV a/DET man/NOUN evenly/ADV walk/VERB calmly/ADV forward/ADV while/SCONJ swinge/VERB his/PRON right/NOUN and/CCONJ leave/VERB arm/NOUN 

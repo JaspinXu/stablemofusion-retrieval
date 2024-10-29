@@ -1,0 +1,1 @@
+A person walks at a diagonal, downwards and to the right, then jogs back and forth once before walking back to the start.

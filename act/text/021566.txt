@@ -1,0 +1,1 @@
+A figure walks forward, then turns a quarter turn left to face an obstacle. Subsequently, it turns leftward, throws its left leg up and across the obstacle, and hops over. After that, the figure walks forward, then turns left and left again to step up onto another level. Meanwhile, a man stands on the ground and raises his left hand, making up and downwards movements.

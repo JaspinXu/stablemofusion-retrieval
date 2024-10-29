@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV walk/VERB to/ADP the/DET left/NOUN and/CCONJ after/ADP that/PRON walk/VERB back/ADV to/ADP the/DET center/NOUN while/SCONJ also/ADV signal/VERB to/PART wait/VERB with/ADP their/PRON left/ADJ hand/NOUN 

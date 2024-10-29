@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV walk/VERB forward/ADV then/ADV take/VERB two/NUM step/NOUN forward/ADV do/AUX a/DET 180degree/PROPN turn/NOUN and/CCONJ subsequently/ADV take/VERB two/NUM step/NOUN back/ADV to/ADP where/SCONJ he/PRON start/VERB 

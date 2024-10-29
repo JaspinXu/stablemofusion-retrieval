@@ -1,0 +1,1 @@
+a/DET person/NOUN skip/VERB backwards/ADV on/ADP a/DET diagonal/ADJ path/NOUN to/ADP the/DET left/NOUN then/ADV a/DET man/NOUN turn/VERB to/ADP his/PRON right/NOUN and/CCONJ walk/VERB several/ADJ step/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB back/ADV toward/ADP where/SCONJ he/PRON come/VERB 

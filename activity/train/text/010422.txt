@@ -1,0 +1,1 @@
+A figure walks forward, then turns left, and walks back toward the direction they came from, after that, the person is lifting something heavy.

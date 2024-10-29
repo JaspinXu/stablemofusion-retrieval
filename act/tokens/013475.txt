@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jog/VERB backandforth/NOUN to/ADP the/DET right/NOUN and/CCONJ leave/VERB then/ADV step/VERB up/ADP on/ADP stair/NOUN turn/VERB around/ADV 180/NUM degree/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV down/ADP the/DET stair/NOUN 

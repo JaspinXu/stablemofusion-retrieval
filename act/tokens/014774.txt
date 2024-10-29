@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM large/ADJ step/NOUN to/ADP the/DET side/NOUN and/CCONJ bring/VERB their/PRON foot/NOUN back/ADV together/ADV then/ADV a/DET man/NOUN pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON to/ADP the/DET right/ADJ hand/NOUN side/NOUN of/ADP the/DET screen/NOUN to/ADP the/DET left/ADJ hand/NOUN side/NOUN 

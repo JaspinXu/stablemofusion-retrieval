@@ -1,0 +1,18 @@
+a person is moving around his left and right hand.
+a person who is standing with his hands by his sides takes five steps forward, then walks up three steps and stops.
+a person is moving around his left and right hand.
+the person is walking forward slowly.
+a person is moving around his left and right hand.
+a person walks forwards and up some stairs.
+picks up something and prepares for something else
+a person who is standing with his hands by his sides takes five steps forward, then walks up three steps and stops.
+picks up something and prepares for something else
+the person is walking forward slowly.
+picks up something and prepares for something else
+a person walks forwards and up some stairs.
+the person is drying something with the right hand.
+a person who is standing with his hands by his sides takes five steps forward, then walks up three steps and stops.
+the person is drying something with the right hand.
+the person is walking forward slowly.
+the person is drying something with the right hand.
+a person walks forwards and up some stairs.

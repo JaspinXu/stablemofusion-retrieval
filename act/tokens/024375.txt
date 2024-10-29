@@ -1,0 +1,1 @@
+a/DET person/NOUN look/VERB to/PART be/AUX pretend/VERB to/PART be/AUX a/DET dinosaur/NOUN or/CCONJ trex/PROPN then/ADV walk/VERB backwards/ADV and/CCONJ subsequently/ADV forwards/ADV and/CCONJ while/SCONJ go/VERB forward/ADV they/PRON be/AUX push/VERB towards/ADP the/DET right/NOUN and/CCONJ crouch/ADJ 

@@ -1,0 +1,1 @@
+The person walks forward with a path that turns to their right, then takes one big step up to the right.

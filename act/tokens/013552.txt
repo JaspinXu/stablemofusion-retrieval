@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET ground/NOUN then/ADV walk/VERB to/ADP the/DET right/ADJ next/ADV walk/VERB to/ADP the/DET left/NOUN and/CCONJ thereafter/ADV return/VERB to/ADP the/DET center/NOUN 

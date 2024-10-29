@@ -1,0 +1,6 @@
+the sim walks across the plane in a loop fashion before stopping near the end of the space.
+a person jogging in place.
+the sim walks across the plane in a loop fashion before stopping near the end of the space.
+a person moves in a jogging motion in a counter counterclockwise circle.
+the sim walks across the plane in a loop fashion before stopping near the end of the space.
+a person who is standing with his arms out from his sides looks forward while jogging in a small, clockwise circle.

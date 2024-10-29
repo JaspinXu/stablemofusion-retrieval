@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB towards/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV step/VERB over/ADP a/DET gap/NOUN 

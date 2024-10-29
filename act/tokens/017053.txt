@@ -1,0 +1,1 @@
+a/DET person/NOUN act/VERB like/ADP a/DET monkey/NOUN then/ADV step/VERB to/ADP the/DET side/NOUN move/VERB forward/ADV over/ADP an/DET obstacle/NOUN and/CCONJ afterward/ADV step/NOUN sideways/ADV over/ADP another/DET object/NOUN 

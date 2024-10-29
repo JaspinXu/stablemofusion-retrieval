@@ -1,0 +1,12 @@
+a person is walking clockwise and making a half cirle
+someone slowly walking forward a few steps
+a person is walking clockwise and making a half cirle
+a person walks forward over a gap.
+person is walking towards the left.
+someone slowly walking forward a few steps
+person is walking towards the left.
+a person walks forward over a gap.
+a person walks in a curve going towards their left, then stops.
+someone slowly walking forward a few steps
+a person walks in a curve going towards their left, then stops.
+a person walks forward over a gap.

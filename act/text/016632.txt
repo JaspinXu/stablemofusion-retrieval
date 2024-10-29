@@ -1,0 +1,1 @@
+A person walks forward, then turns around and walks back. Following that, they touch something high above them before turning around and walking back again. Next, they sidestep to the left for 2 steps, then sidestep to the right for 4 steps, and finally sidestep to the left for 2 steps.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV up/ADP the/DET staircase/NOUN then/ADV a/DET man/NOUN step/VERB forward/ADV hurriedly/ADV bend/NOUN over/ADP to/PART pick/VERB something/PRON up/ADP set/VERB it/PRON on/ADP something/PRON else/ADV and/CCONJ subsequently/ADV turn/VERB to/PART walk/VERB away/ADV 

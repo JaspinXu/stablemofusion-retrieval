@@ -1,0 +1,1 @@
+a/DET person/NOUN spin/VERB 180/NUM degree/NOUN while/SCONJ jump/VERB to/ADP the/DET left/NOUN then/ADV take/VERB giant/ADJ step/NOUN forward/ADV 

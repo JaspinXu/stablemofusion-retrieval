@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB 5/NUM time/NOUN on/ADP his/PRON right/ADJ leg/NOUN then/ADV walk/VERB backwards/ADV 4/NUM step/NOUN follow/VERB by/ADP walk/VERB forward/ADV 4/NUM step/NOUN after/ADP which/PRON he/PRON continue/VERB to/PART walk/VERB forward/ADV slowly/ADV 

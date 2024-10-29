@@ -1,0 +1,2 @@
+person moves backwards. they take a few steps back
+the body walks forward and slowly twirls backwards to keep walking.

@@ -1,0 +1,1 @@
+A robot walks forward, then moves its right hand horizontally and vertically, and subsequently moves backwards. Following that, a person walks in a diagonal direction.

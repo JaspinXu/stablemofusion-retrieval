@@ -1,0 +1,1 @@
+A person shuffles and slides to their left two steps, then shuffles and slides back to their right for two steps. This is done five times to their left and four times to their right, subsequently moving forward and backward while dancing.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV straight/ADV while/SCONJ stumble/VERB then/ADV kick/VERB back/ADV with/ADP the/DET left/ADJ foot/NOUN follow/VERB by/ADP the/DET right/ADJ foot/NOUN one/NUM at/ADP a/DET time/NOUN 

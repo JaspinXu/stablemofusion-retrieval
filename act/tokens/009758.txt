@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB down/ADP the/DET plane/NOUN then/ADV begin/VERB to/PART climb/VERB up/ADP the/DET stair/NOUN while/SCONJ a/DET man/NOUN be/AUX walk/VERB forward/ADV 

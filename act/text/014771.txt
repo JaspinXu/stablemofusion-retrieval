@@ -1,0 +1,1 @@
+A person is running in place, starting slowly and then going faster; subsequently, the sim extends both arms fully before bringing them down in front of them as if grabbing a steering wheel.

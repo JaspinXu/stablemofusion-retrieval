@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET quick/ADJ long/ADJ step/NOUN to/ADP the/DET lefthand/PROPN side/NOUN lead/VERB with/ADP the/DET right/ADJ leg/NOUN and/CCONJ stand/VERB still/ADV then/ADV they/PRON open/VERB a/DET bottle/NOUN and/CCONJ drink/VERB from/ADP it/PRON 

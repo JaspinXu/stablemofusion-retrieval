@@ -1,0 +1,1 @@
+from/ADP a/DET standing/NOUN position/NOUN the/DET person/NOUN quickly/ADV run/VERB four/NUM step/NOUN forward/ADV before/ADP stop/VERB and/CCONJ then/ADV they/PRON clap/VERB their/PRON hand/NOUN 

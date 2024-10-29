@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV forward/ADV then/ADV another/DET person/NOUN walk/VERB straight/ADV ahead/ADV 

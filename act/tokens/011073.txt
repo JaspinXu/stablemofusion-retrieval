@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX push/VERB from/ADP the/DET front/NOUN while/SCONJ the/DET person/NOUN be/AUX sit/VERB down/ADP and/CCONJ eat/VERB a/DET hamburger/NOUN 

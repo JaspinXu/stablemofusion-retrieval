@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV then/ADV pace/VERB backwards/ADV and/CCONJ then/ADV walk/VERB forward/ADV again/ADV subsequently/ADV they/PRON catch/VERB a/DET ball/NOUN in/ADP both/DET hand/NOUN toss/VERB it/PRON back/ADV with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ then/ADV attempt/VERB to/PART catch/VERB another/DET ball/NOUN but/CCONJ drop/VERB it/PRON 

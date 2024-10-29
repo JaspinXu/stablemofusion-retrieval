@@ -1,0 +1,1 @@
+from/ADP a/DET stationary/ADJ position/NOUN a/DET person/NOUN raise/VERB their/PRON left/ADJ hand/NOUN to/PART shoulder/VERB height/NOUN and/CCONJ then/ADV bring/VERB it/PRON back/ADV to/ADP their/PRON side/NOUN next/ADV this/DET person/NOUN put/VERB both/DET arm/NOUN up/ADP in/ADP front/NOUN of/ADP themselves/PRON while/SCONJ continue/VERB to/PART stand/VERB still/ADV 

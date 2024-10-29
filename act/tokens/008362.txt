@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV walk/VERB around/ADP a/DET room/NOUN before/ADP stop/VERB to/PART look/VERB out/ADP of/ADP a/DET window/NOUN 

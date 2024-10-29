@@ -1,0 +1,1 @@
+a/DET man/NOUN dodge/VERB bullet/NOUN like/ADP neo/PROPN from/ADP the/DET matrix/PROPN then/ADV lower/VERB his/PRON arm/NOUN and/CCONJ rest/VERB his/PRON hand/NOUN on/ADP his/PRON leg/NOUN 

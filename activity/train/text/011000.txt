@@ -1,0 +1,1 @@
+A person is pushed from the left, then slowly walks forward.

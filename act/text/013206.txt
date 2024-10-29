@@ -1,0 +1,1 @@
+A person moves by taking a step to his right and turns slightly to the left to sit down. He then stands up using his hands to push up to assist him while standing. Next, he runs in a circle twice clockwise.

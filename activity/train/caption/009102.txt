@@ -1,0 +1,18 @@
+person is walking forward.
+a person jogs on place, swaying arms side to side.
+person is walking forward.
+a person jogs forward and then stops.
+person is walking forward.
+the person is jogging on the spot
+a person jumping up and then stepping forward.
+a person jogs on place, swaying arms side to side.
+a person jumping up and then stepping forward.
+a person jogs forward and then stops.
+a person jumping up and then stepping forward.
+the person is jogging on the spot
+a person jumps up and then walks forward in a straight line.
+a person jogs on place, swaying arms side to side.
+a person jumps up and then walks forward in a straight line.
+a person jogs forward and then stops.
+a person jumps up and then walks forward in a straight line.
+the person is jogging on the spot

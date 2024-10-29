@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN follow/VERB that/SCONJ he/PRON bounce/VERB a/DET basketball/NOUN but/CCONJ then/ADV lose/VERB the/DET ball/NOUN 

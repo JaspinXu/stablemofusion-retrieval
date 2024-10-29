@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 5/NUM step/NOUN forward/ADV then/ADV a/DET person/NOUN walk/VERB with/ADP a/DET normal/ADJ gait/NOUN forward/ADV 

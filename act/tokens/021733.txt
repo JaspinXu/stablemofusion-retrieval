@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB right/ADV and/CCONJ subsequently/ADV balance/VERB on/ADP their/PRON left/ADJ leg/NOUN while/SCONJ extend/VERB their/PRON right/ADJ leg/NOUN move/VERB their/PRON ankle/NOUN in/ADP a/DET counterclockwise/NOUN and/CCONJ clockwise/NOUN motion/NOUN 

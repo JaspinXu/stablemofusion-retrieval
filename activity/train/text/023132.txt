@@ -1,0 +1,1 @@
+A person takes cross steps diagonally to the left and then returns to the original position, following that, a figure performs sloppy cartwheels.

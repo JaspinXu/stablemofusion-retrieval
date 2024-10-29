@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ turn/VERB 90/NUM degree/NOUN to/ADP the/DET right/NOUN then/ADV touch/VERB their/PRON stomach/NOUN with/ADP their/PRON right/ADJ hand/NOUN 

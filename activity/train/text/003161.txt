@@ -1,0 +1,1 @@
+A stick figure clasps both hands and swings them forward, then sidesteps to the left, jumps, and subsequently sidesteps back to where it started.

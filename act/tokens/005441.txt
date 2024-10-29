@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV while/SCONJ limp/VERB on/ADP the/DET left/ADJ leg/NOUN then/ADV jump/VERB in/ADP the/DET air/NOUN and/CCONJ turn/VERB 90/NUM degree/NOUN to/ADP the/DET left/ADJ 

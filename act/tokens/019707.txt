@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX pace/VERB back/ADV and/CCONJ forth/ADV alone/ADV on/ADP the/DET plane/NOUN in/ADP a/DET sort/NOUN of/ADP rectangular/ADJ motion/NOUN then/ADV a/DET person/NOUN pace/VERB from/ADP right/ADV to/ADP left/ADJ and/CCONJ subsequently/ADV return/VERB to/ADP where/SCONJ they/PRON begin/VERB 

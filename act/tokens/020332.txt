@@ -1,0 +1,1 @@
+a/DET person/NOUN set/VERB a/DET ball/NOUN down/ADP and/CCONJ then/ADV kick/VERB it/PRON afterward/ADV they/PRON slowly/ADV and/CCONJ carefully/ADV walk/VERB in/ADP a/DET curved/ADJ line/NOUN 

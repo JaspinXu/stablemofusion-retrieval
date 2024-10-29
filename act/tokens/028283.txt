@@ -1,0 +1,1 @@
+a/DET blindfolded/ADJ person/NOUN walk/VERB around/ADV then/ADV a/DET figure/NOUN walk/VERB to/ADP the/DET right/NOUN in/ADP a/DET circle/NOUN 

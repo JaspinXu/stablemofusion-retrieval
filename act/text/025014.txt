@@ -1,0 +1,1 @@
+A person walks forward, then turns and returns, but while walking in a straight line, they trip on something and subsequently move back.

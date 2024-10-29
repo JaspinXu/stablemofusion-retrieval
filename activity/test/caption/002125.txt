@@ -1,0 +1,6 @@
+a person walks in a circle counterclockwise and returns to their original position.
+a person walks towards the left making a wide 's' shape.
+a person walks in a circle counterclockwise and returns to their original position.
+person walks in a s-shape before coming to a stop
+a person walks in a circle counterclockwise and returns to their original position.
+the man steps in an s shape.

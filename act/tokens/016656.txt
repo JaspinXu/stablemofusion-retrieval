@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV backward/ADV repeatedly/ADV while/SCONJ a/DET person/NOUN be/AUX crouch/VERB over/ADV and/CCONJ move/VERB side/NOUN to/PART side/VERB 

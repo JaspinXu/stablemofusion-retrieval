@@ -1,0 +1,6 @@
+character is taking a side step to the left, then a side step to the right.
+a person bends over and touches something with his left hand.
+character is taking a side step to the left, then a side step to the right.
+a person touches ground with left hand.
+character is taking a side step to the left, then a side step to the right.
+the legs takes a slight kneel while the left hand touches the ground.

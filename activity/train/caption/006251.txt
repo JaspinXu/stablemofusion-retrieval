@@ -1,0 +1,18 @@
+a person tilts object from left to right.
+a person takes one large step forward and takes five small steps backward and stops.
+a person tilts object from left to right.
+a person walks up some stairs.
+a person tilts object from left to right.
+individual is stomping in place
+a person picks up and moves an object in front of them, from their left to their right, using both hands.
+a person takes one large step forward and takes five small steps backward and stops.
+a person picks up and moves an object in front of them, from their left to their right, using both hands.
+a person walks up some stairs.
+a person picks up and moves an object in front of them, from their left to their right, using both hands.
+individual is stomping in place
+a man reaches down and moves something from left to right at waist height.
+a person takes one large step forward and takes five small steps backward and stops.
+a man reaches down and moves something from left to right at waist height.
+a person walks up some stairs.
+a man reaches down and moves something from left to right at waist height.
+individual is stomping in place

@@ -1,0 +1,12 @@
+a person walks diagonally to the left, turns around, and walks diagonally to the right.
+a peson steps backwards from their left to right to avoid something.
+a person walks diagonally to the left, turns around, and walks diagonally to the right.
+the person is recovering from being pushed.
+a person walks diagonally to the left, turns around, and walks diagonally to the right.
+a person steps backwards to the right.
+a person walks right to left diagonally swinging his left arm and then walks back.
+a peson steps backwards from their left to right to avoid something.
+a person walks right to left diagonally swinging his left arm and then walks back.
+the person is recovering from being pushed.
+a person walks right to left diagonally swinging his left arm and then walks back.
+a person steps backwards to the right.

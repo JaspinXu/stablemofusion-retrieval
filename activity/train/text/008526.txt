@@ -1,0 +1,1 @@
+A person starts to jog in place, then returns to standing still, and subsequently walks straight forward while avoiding a gap.

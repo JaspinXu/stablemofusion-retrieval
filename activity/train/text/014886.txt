@@ -1,0 +1,1 @@
+A person paces from left to right and then back to their origin, preparing to execute an upper left move.

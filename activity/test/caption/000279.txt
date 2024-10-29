@@ -1,0 +1,2 @@
+a man is walking forward
+[from:to(0:3s)] a person dodges something to his left, before squatting down.

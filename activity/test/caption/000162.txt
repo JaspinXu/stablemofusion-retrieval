@@ -1,0 +1,18 @@
+a person takes a big step to the side.
+a person jumps up and then lands
+a person takes a big step to the side.
+a person jumps over an object in front of them
+a person takes a big step to the side.
+the sim takes a jump forward.
+a standing person is pushed to their right and stumbles, catching themselves with their left foot.
+a person jumps up and then lands
+a standing person is pushed to their right and stumbles, catching themselves with their left foot.
+a person jumps over an object in front of them
+a standing person is pushed to their right and stumbles, catching themselves with their left foot.
+the sim takes a jump forward.
+a person takes a step directly to their right
+a person jumps up and then lands
+a person takes a step directly to their right
+a person jumps over an object in front of them
+a person takes a step directly to their right
+the sim takes a jump forward.

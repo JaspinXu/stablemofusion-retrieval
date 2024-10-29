@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV and/CCONJ then/ADV march/VERB slowly/ADV back/ADV to/ADP the/DET original/ADJ position/NOUN follow/VERB by/ADP raise/VERB their/PRON right/ADJ hand/NOUN in/ADP a/DET slow/ADJ forward/ADV gesture/NOUN 

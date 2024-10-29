@@ -1,0 +1,1 @@
+The forward-facing figure climbs two steps up a ladder, then descends by two steps and halts once reaching the ground. Subsequently, a man runs counterclockwise, making a half circle, and then turns to run halfway back.

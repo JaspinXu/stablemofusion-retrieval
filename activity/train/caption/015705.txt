@@ -1,0 +1,18 @@
+a person lifts an item with both hands and rotates the right upward before placing the item back down in the same position
+this person strolls down the lane and then does a full 180 and walks back to almost the beginning.
+a person lifts an item with both hands and rotates the right upward before placing the item back down in the same position
+the person walks forward, turns around and walks back.
+a person lifts an item with both hands and rotates the right upward before placing the item back down in the same position
+walking in a diagonal line then back.
+a person picks something up, places it upleft, then puts it down.
+this person strolls down the lane and then does a full 180 and walks back to almost the beginning.
+a person picks something up, places it upleft, then puts it down.
+the person walks forward, turns around and walks back.
+a person picks something up, places it upleft, then puts it down.
+walking in a diagonal line then back.
+a person turns towards his right, picks up something, pours to his left and then places the item back down.
+this person strolls down the lane and then does a full 180 and walks back to almost the beginning.
+a person turns towards his right, picks up something, pours to his left and then places the item back down.
+the person walks forward, turns around and walks back.
+a person turns towards his right, picks up something, pours to his left and then places the item back down.
+walking in a diagonal line then back.

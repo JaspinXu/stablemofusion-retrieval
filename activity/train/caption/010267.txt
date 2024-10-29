@@ -1,0 +1,18 @@
+person taking two steps before hesitating to step over object
+a person walks forward, moving up with each step.
+person taking two steps before hesitating to step over object
+a person walks up the stairs.
+person taking two steps before hesitating to step over object
+a person walks up 4 steps, beginning with his right foot and ending with his right foot.
+person walks forward with slow and halting gait
+a person walks forward, moving up with each step.
+person walks forward with slow and halting gait
+a person walks up the stairs.
+person walks forward with slow and halting gait
+a person walks up 4 steps, beginning with his right foot and ending with his right foot.
+a man walks forward slowly.
+a person walks forward, moving up with each step.
+a man walks forward slowly.
+a person walks up the stairs.
+a man walks forward slowly.
+a person walks up 4 steps, beginning with his right foot and ending with his right foot.

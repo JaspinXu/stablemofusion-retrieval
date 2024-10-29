@@ -1,0 +1,1 @@
+A person walks to the left, then to the right, and subsequently walks back to the left before slowly walking forward.

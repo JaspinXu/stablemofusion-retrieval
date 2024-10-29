@@ -1,0 +1,1 @@
+The body walks forward, then increases pace by slightly hopping faster as it walks and subsequently turns around to walk at a normal pace. Following that, a person raises both arms with hands at head height, then lowers them and cradles an object by their right side.

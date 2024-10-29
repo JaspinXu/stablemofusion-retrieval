@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV eat/VERB a/DET hamburger/NOUN 

@@ -1,0 +1,1 @@
+A person walks smoothly from the back left of a location to the top right in a circular motion, then moves horizontally to the side, followed by walking back and forth.

@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB forward/ADV for/ADP three/NUM step/NOUN then/ADV stop/VERB subsequently/ADV start/VERB run/VERB again/ADV and/CCONJ then/ADV shift/NOUN to/ADP do/VERB jumping/NOUN jack/NOUN 

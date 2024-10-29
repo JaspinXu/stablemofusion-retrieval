@@ -1,0 +1,1 @@
+A person walks forward then stops briefly; after that, he does a 180-degree turn and walks in that direction, subsequently looking around himself from left to right.

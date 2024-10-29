@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN from/ADP 300/NUM to/ADP 600/NUM and/CCONJ then/ADV a/DET man/NOUN sit/VERB down/ADP lean/NOUN back/ADV and/CCONJ put/VERB his/PRON arm/NOUN in/ADP the/DET air/NOUN 

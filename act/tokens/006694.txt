@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB swiftly/ADV down/ADP a/DET ramp/NOUN at/ADP a/DET right/ADJ angle/NOUN then/ADV the/DET body/NOUN continue/VERB to/PART move/VERB to/ADP the/DET right/NOUN in/ADP a/DET curve/NOUN 

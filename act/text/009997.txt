@@ -1,0 +1,1 @@
+The person walks straight forward while slowly moving their hips, then walks up stairs, starting at a lower y-axis and ending up higher.

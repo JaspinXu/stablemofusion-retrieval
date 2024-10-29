@@ -1,0 +1,18 @@
+the person took a big step over something.
+a person casually jogs forward.
+the person took a big step over something.
+a person jogs straight forward.
+the person took a big step over something.
+a person starts running and stops
+a person steps over something while walking.
+a person casually jogs forward.
+a person steps over something while walking.
+a person jogs straight forward.
+a person steps over something while walking.
+a person starts running and stops
+a person walks forward slowly.
+a person casually jogs forward.
+a person walks forward slowly.
+a person jogs straight forward.
+a person walks forward slowly.
+a person starts running and stops

@@ -1,0 +1,1 @@
+A person walks forward in a slightly zig zag, then turns back, next steps to the side left over right and finally steps back.

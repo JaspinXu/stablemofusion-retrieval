@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB three/NUM step/NOUN to/ADP the/DET right/ADJ four/NUM step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV two/NUM step/NOUN back/ADV in/ADP a/DET side/ADJ step/NOUN motion/NOUN subsequently/ADV transition/VERB to/ADP swim/VERB in/ADP freestyle/NOUN 

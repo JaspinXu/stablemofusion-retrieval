@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB in/ADP place/NOUN three/NUM time/NOUN then/ADV kick/VERB their/PRON left/ADJ leg/NOUN back/ADV and/CCONJ forward/ADV follow/VERB by/ADP kick/VERB their/PRON right/ADJ leg/NOUN back/ADV and/CCONJ forward/ADV and/CCONJ finally/ADV stand/VERB back/ADV straight/ADV 

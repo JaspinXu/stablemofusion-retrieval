@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET circle/NOUN then/ADV jump/VERB back/ADV abruptly/ADV and/CCONJ continue/VERB to/PART hop/VERB around/ADP follow/VERB that/SCONJ they/PRON walk/VERB again/ADV in/ADP a/DET tight/ADJ circle/NOUN before/ADP run/VERB back/ADV and/CCONJ walk/VERB in/ADP yet/ADV another/DET tight/ADJ circle/NOUN 

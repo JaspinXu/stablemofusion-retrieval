@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN while/SCONJ talk/VERB and/CCONJ then/ADV a/DET man/NOUN jog/VERB from/ADP side/NOUN to/PART side/VERB 

@@ -1,0 +1,1 @@
+A person jogs a few steps to his right, attempting to navigate around steppingstones, then jogs a few steps to his left, and subsequently jogs a few steps to his right again.

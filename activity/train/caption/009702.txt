@@ -1,0 +1,2 @@
+a figure faces straight, then turns to the left and jogs 2 steps, then turns to the right and jogs over 4 steps. then, he faces forward, and jogs 3 steps to the left and comes to a stop.
+a person stands still and does nothing.

@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB a/DET knife/NOUN to/PART cut/VERB an/DET object/NOUN and/CCONJ then/ADV stand/VERB still/ADV before/ADP move/VERB forward/ADV one/NUM step/NOUN 

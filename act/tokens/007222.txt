@@ -1,0 +1,1 @@
+a/DET stick/NOUN figure/NOUN move/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV turn/VERB 90/NUM degree/NOUN to/ADP their/PRON right/ADJ walk/NOUN forward/ADV again/ADV and/CCONJ take/VERB a/DET large/ADJ step/NOUN up/ADP onto/ADP something/PRON 

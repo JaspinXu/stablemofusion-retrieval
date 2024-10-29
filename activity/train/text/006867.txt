@@ -1,0 +1,1 @@
+A person walks in an arc to the left, then stops, subsequently pushing recovery left before stopping again.

@@ -1,0 +1,1 @@
+a/DET man/NOUN pick/VERB up/ADP a/DET phone/NOUN dial/NOUN a/DET number/NOUN start/VERB talk/VERB and/CCONJ then/ADV put/VERB the/DET phone/NOUN down/ADP follow/VERB that/SCONJ a/DET person/NOUN jog/VERB in/ADP place/NOUN 

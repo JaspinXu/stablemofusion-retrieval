@@ -1,0 +1,1 @@
+A person walks forward while jumping, then takes a few steps forward and subsequently walks backward a few steps.

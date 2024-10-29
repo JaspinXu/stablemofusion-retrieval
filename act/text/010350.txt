@@ -1,0 +1,1 @@
+A person walks down halfway, then makes a sharp diagonal to the right, followed by another sharp diagonal to the left in a zigzag pattern. After that, the person jumps while turning left and right.

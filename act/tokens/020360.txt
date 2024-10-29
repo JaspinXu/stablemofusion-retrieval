@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV two/NUM step/NOUN then/ADV walk/VERB down/ADV two/NUM step/NOUN turn/VERB around/ADV and/CCONJ walk/VERB up/ADV and/CCONJ down/ADP the/DET step/NOUN again/ADV after/SCONJ that/PRON they/PRON rub/VERB their/PRON abdomen/NOUN and/CCONJ take/VERB a/DET drink/NOUN of/ADP something/PRON with/ADP the/DET other/ADJ hand/NOUN 

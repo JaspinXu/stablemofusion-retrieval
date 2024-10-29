@@ -1,0 +1,1 @@
+a/DET headless/ADJ stick/NOUN figure/NOUN with/ADP hand/NOUN take/VERB 4/NUM step/NOUN then/ADV stop/VERB follow/VERB that/SCONJ a/DET man/NOUN walk/VERB forward/ADV place/VERB his/PRON hand/NOUN on/ADP an/DET object/NOUN and/CCONJ look/VERB at/ADP it/PRON 

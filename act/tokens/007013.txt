@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB down/ADP the/DET plane/NOUN at/ADP normal/ADJ speed/NOUN then/ADV a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ subsequently/ADV stop/VERB 

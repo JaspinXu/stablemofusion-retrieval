@@ -1,0 +1,6 @@
+someone steps to the right and then recovers there original position by steping to the left.
+the person rubs his arm, sits up, and then walks away.
+a person steps forward to the right.
+the person rubs his arm, sits up, and then walks away.
+a person steps to the left, takes a half step back with their right foot and then steps back to the right.
+the person rubs his arm, sits up, and then walks away.

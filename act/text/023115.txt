@@ -1,0 +1,1 @@
+A person picks something up and moves it to a shelf, then walks forward slowly, turns around 180 degrees clockwise, and subsequently sprints forwards.

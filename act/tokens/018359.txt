@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB backwards/ADV in/ADP a/DET circle/NOUN then/ADV begin/VERB to/PART hop/VERB in/ADP place/NOUN with/ADP small/ADJ hop/NOUN follow/VERB by/ADP a/DET large/ADJ hop/NOUN and/CCONJ repeat/VERB the/DET sequence/NOUN all/ADV over/ADV again/ADV 

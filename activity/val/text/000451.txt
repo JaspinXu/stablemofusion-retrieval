@@ -1,0 +1,1 @@
+A person changes their walking path to the left, then walks straight forward and stops.

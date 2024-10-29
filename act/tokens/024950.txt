@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB on/ADP the/DET spot/NOUN while/SCONJ rotate/VERB in/ADP a/DET circle/NOUN then/ADV walk/VERB straight/ADV in/ADP front/NOUN of/ADP they/PRON and/CCONJ subsequently/ADV turn/VERB to/ADP the/DET left/ADJ 

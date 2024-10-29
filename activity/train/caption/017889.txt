@@ -1,0 +1,4 @@
+the sim walks in a loop fashion before turning around & walking in a straight line.
+a person is walking around clumsily
+the sim walks in a loop fashion before turning around & walking in a straight line.
+a person shuttles towards the right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backward/ADV before/ADP turn/VERB back/ADV and/CCONJ walk/VERB forward/ADV and/CCONJ then/ADV a/DET man/NOUN walk/VERB forward/ADV make/VERB a/DET halfturn/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV 

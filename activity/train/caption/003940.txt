@@ -1,0 +1,4 @@
+a person starts to run, after a few steps jumps as short distance, before walking again.
+a person runs, then jumps and walks slowly.
+a person starts to run, after a few steps jumps as short distance, before walking again.
+a man runs forward slightly to the right and then jumps.

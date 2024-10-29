@@ -1,0 +1,1 @@
+the/DET person/NOUN pick/VERB an/DET object/NOUN from/ADP waist/NOUN high/PROPN and/CCONJ put/VERB it/PRON in/ADP his/PRON arm/NOUN then/ADV walk/VERB from/ADP the/DET top/NOUN leave/VERB towards/ADP the/DET bottom/ADJ right/ADJ backtrack/NOUN walk/VERB forward/ADV to/ADP the/DET top/ADJ right/NOUN and/CCONJ backtrack/NOUN again/ADV 

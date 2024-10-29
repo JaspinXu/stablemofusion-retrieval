@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB along/ADP a/DET path/NOUN curve/VERB to/ADP their/PRON right/NOUN then/ADV continue/VERB walk/VERB towards/ADP their/PRON left/ADJ 

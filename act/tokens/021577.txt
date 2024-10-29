@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB on/ADP all/DET four/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV the/DET person/NOUN be/AUX clean/VERB something/PRON 

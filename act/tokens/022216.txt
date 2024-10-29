@@ -1,0 +1,1 @@
+the/DET man/NOUN sit/VERB and/CCONJ throw/VERB two/NUM ball/NOUN then/ADV stand/VERB and/CCONJ throw/VERB again/ADV follow/VERB that/SCONJ a/DET person/NOUN be/AUX open/VERB and/CCONJ close/VERB an/DET umbrella/NOUN 

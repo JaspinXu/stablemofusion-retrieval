@@ -1,0 +1,1 @@
+A person turns counterclockwise 180 degrees, then walks straight, next turns counterclockwise 180 degrees again, and subsequently bends down to take off a boot.

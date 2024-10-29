@@ -1,0 +1,1 @@
+a/DET person/NOUN cross/VERB the/DET room/NOUN and/CCONJ use/VERB his/PRON left/ADJ arm/NOUN to/AUX pat/VERB someone/PRON on/ADP the/DET shoulder/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV across/ADP the/DET room/NOUN follow/VERB that/SCONJ he/PRON walk/VERB backward/ADV then/ADV turn/VERB around/ADP again/ADV and/CCONJ walk/VERB normally/ADV 

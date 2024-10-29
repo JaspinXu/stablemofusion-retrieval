@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV then/ADV turn/VERB right/ADJ and/CCONJ jump/VERB in/ADP place/NOUN 

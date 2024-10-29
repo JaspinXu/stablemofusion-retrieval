@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB forward/ADV three/NUM time/NOUN before/ADP walk/VERB the/DET rest/NOUN of/ADP the/DET way/NOUN and/CCONJ then/ADV crawl/VERB on/ADP his/PRON hand/NOUN and/CCONJ foot/NOUN 

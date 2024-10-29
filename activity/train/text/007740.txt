@@ -1,0 +1,1 @@
+A figure takes small steps forward towards the camera, starting with the right foot. After that, the figure pivots around on his heel and walks back to the starting point.

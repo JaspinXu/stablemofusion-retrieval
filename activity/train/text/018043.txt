@@ -1,0 +1,1 @@
+A person stumbles diagonally, then turns around and walks across, subsequently side-stepping slowly to the right and then to the left.

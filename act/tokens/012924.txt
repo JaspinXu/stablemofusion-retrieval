@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB and/CCONJ run/VERB to/ADP the/DET right/NOUN then/ADV turn/VERB to/PART run/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV a/DET man/NOUN jab/VERB with/ADP his/PRON right/ADJ fist/NOUN repeatedly/ADV follow/VERB by/ADP jab/VERB with/ADP his/PRON left/ADJ fist/NOUN 

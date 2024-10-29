@@ -1,0 +1,1 @@
+a/DET figure/NOUN lift/VERB an/DET object/NOUN and/CCONJ place/VERB it/PRON back/ADV on/ADP the/DET ground/NOUN slowly/ADV then/ADV the/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN 

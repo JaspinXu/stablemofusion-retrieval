@@ -1,0 +1,1 @@
+A stick figure rotates counter-clockwise, then walks backwards and subsequently sits down. Following that, a person walks a few steps, loses their balance, and waves their arms up while moving to the side, and then takes a few more steps.

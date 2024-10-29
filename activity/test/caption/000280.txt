@@ -1,0 +1,6 @@
+[from:to(0:3s)] a person dodges something to his left, before squatting down.
+a person jumps up into the air, turns his body three quarters of the way around and lands on his feet.
+[from:to(0:3s)] a person dodges something to his left, before squatting down.
+a man jumps and spins to the left.
+[from:to(0:3s)] a person dodges something to his left, before squatting down.
+a person jumps and spins in the air.

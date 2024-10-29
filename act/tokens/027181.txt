@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON hand/NOUN from/ADP side/NOUN to/PART side/VERB above/ADP their/PRON head/NOUN then/ADV take/VERB five/NUM step/NOUN down/ADP from/ADP a/DET height/NOUN to/PART ground/VERB level/NOUN 

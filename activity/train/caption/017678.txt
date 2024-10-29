@@ -1,0 +1,12 @@
+a person walks towards an object, picks it up, turns around clockwise and walks back to the original position
+a person unscrews a jar-like object.
+a person walks towards an object, picks it up, turns around clockwise and walks back to the original position
+a person uses a screw with right hand.
+a person walks towards an object, picks it up, turns around clockwise and walks back to the original position
+a person appears to unscrew the lip from from a jar, using their left hand to hold it, and turning with the right.
+a person walks forward to open the door then turns around
+a person unscrews a jar-like object.
+a person walks forward to open the door then turns around
+a person uses a screw with right hand.
+a person walks forward to open the door then turns around
+a person appears to unscrew the lip from from a jar, using their left hand to hold it, and turning with the right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN read/VERB the/DET paper/NOUN while/SCONJ go/VERB to/ADP the/DET bathroom/NOUN then/ADV a/DET man/NOUN bend/VERB his/PRON arm/NOUN at/ADP the/DET elbow/NOUN towards/ADP the/DET front/NOUN of/ADP his/PRON body/NOUN 

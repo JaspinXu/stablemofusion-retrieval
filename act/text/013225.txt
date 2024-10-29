@@ -1,0 +1,1 @@
+A person walks right diagonally, then turns left and walks a few steps. After that, he walks back and stands facing forward, subsequently drying his right arm.

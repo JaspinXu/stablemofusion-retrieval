@@ -1,0 +1,1 @@
+a/DET model/NOUN walk/VERB down/ADP a/DET runway/NOUN then/ADV the/DET person/NOUN transition/VERB from/ADP walk/VERB to/ADP run/VERB and/CCONJ subsequently/ADV jump/VERB 

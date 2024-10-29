@@ -1,0 +1,1 @@
+The sim walks forward, making a bit of a zigzag shape, and then stumbles to the right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN then/ADV stop/VERB subsequently/ADV a/DET man/NOUN throw/VERB an/DET object/NOUN with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ then/ADV catch/VERB it/PRON with/ADP both/PRON of/ADP his/PRON hand/NOUN 

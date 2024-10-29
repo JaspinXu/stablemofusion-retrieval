@@ -1,0 +1,18 @@
+a person starts a jogging on the place
+a person walks and steps over something.
+a person starts a jogging on the place
+a man walks forward and then steps over an object.
+a person starts a jogging on the place
+a man walks and steps onto an elevated area before walking off of it.
+person starts of standing still then begins to move their arms and legs in a motion that indicates jogging forward.
+a person walks and steps over something.
+person starts of standing still then begins to move their arms and legs in a motion that indicates jogging forward.
+a man walks forward and then steps over an object.
+person starts of standing still then begins to move their arms and legs in a motion that indicates jogging forward.
+a man walks and steps onto an elevated area before walking off of it.
+person jogs in place then stops.
+a person walks and steps over something.
+person jogs in place then stops.
+a man walks forward and then steps over an object.
+person jogs in place then stops.
+a man walks and steps onto an elevated area before walking off of it.

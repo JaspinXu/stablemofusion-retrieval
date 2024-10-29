@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN half/ADJ circle/NOUN then/ADV in/ADP a/DET clockwise/NOUN half/ADJ circle/NOUN create/VERB a/DET motion/NOUN reminiscent/ADJ of/ADP a/DET tilde/NOUN follow/VERB that/SCONJ they/PRON moonwalk/VERB backward/ADV and/CCONJ then/ADV forward/ADV showcase/VERB a/DET fluid/ADJ style/NOUN of/ADP movement/NOUN 

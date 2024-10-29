@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET jogging/NOUN motion/NOUN then/ADV slowly/ADV walk/VERB in/ADP a/DET left/ADJ direction/NOUN and/CCONJ afterward/ADV make/VERB a/DET circle/NOUN 

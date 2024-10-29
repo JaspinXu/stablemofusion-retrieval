@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX stand/VERB there/ADV then/ADV one/NUM wrist/NOUN shake/VERB at/ADP the/DET left/ADJ side/NOUN of/ADP the/DET head/NOUN follow/VERB by/ADP the/DET right/ADJ wrist/NOUN shake/VERB towards/ADP the/DET head/NOUN 

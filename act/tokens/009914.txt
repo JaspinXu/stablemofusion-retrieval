@@ -1,0 +1,1 @@
+a/DET man/NOUN kick/VERB two/NUM time/NOUN in/ADP opposite/ADJ direction/NOUN at/ADP a/DET perpendicular/ADJ angle/NOUN then/ADV a/DET person/NOUN walk/VERB carefully/ADV while/SCONJ hold/VERB onto/ADP rail/NOUN on/ADP each/DET side/NOUN 

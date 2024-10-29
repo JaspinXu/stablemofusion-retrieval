@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX stand/VERB and/CCONJ hold/VERB his/PRON right/ADJ hand/NOUN out/ADP to/PART receive/VERB or/CCONJ offer/VERB something/PRON then/ADV a/DET person/NOUN walk/VERB to/ADP their/PRON right/ADJ three/NUM step/NOUN turn/VERB around/ADV walk/NOUN five/NUM step/NOUN turn/VERB around/ADV again/ADV and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB 

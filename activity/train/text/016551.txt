@@ -1,0 +1,1 @@
+A person may be moving something, then picks it up and moves it to the right, subsequently moves it back, and finally puts it down.

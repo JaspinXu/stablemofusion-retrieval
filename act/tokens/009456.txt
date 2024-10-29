@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB around/ADV on/ADP one/NUM leg/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV slowly/ADV before/ADP return/VERB again/ADV 

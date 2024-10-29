@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB by/ADP kick/VERB their/PRON foot/NOUN while/SCONJ stand/VERB still/ADV and/CCONJ then/ADV transition/NOUN to/ADP walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN 

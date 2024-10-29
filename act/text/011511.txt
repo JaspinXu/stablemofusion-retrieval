@@ -1,0 +1,1 @@
+A person runs counterclockwise, then turns around and continues running counterclockwise; afterwards, this individual walks in a U-shape, going right and then left.

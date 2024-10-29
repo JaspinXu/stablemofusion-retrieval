@@ -1,0 +1,1 @@
+A person walks towards the right side, then turns around and walks to the left side. Following that, the person steps to the left, then steps back to the last four steps before stopping.

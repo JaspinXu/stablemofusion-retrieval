@@ -1,0 +1,1 @@
+The sim walks down the plane, then puts his arms together and stops.

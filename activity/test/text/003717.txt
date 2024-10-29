@@ -1,0 +1,1 @@
+The person is walking, then running quickly in a diagonal direction for 8 steps before turning to walk back in the direction they came from.

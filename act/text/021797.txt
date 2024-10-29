@@ -1,0 +1,1 @@
+A person walks forward, turns around and sits down, then walks forward again and turns around once more. After that, they walk in a semi-circular route to the left.

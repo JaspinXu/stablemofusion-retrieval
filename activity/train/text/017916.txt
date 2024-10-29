@@ -1,0 +1,1 @@
+A person walks forward and touches an object, then walks back, subsequently moving side to side, backwards, and diagonally.

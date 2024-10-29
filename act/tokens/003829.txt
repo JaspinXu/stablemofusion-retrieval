@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ from/ADP back/ADV to/ADP front/NOUN then/ADV a/DET man/NOUN take/VERB a/DET large/ADJ jump/NOUN forwards/ADV while/SCONJ turn/VERB counterclockwise/NOUN 

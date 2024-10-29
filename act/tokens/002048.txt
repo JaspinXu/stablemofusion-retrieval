@@ -1,0 +1,1 @@
+a/DET person/NOUN curl/VERB both/DET arm/NOUN upwards/ADV at/ADP the/DET elbow/NOUN while/SCONJ stand/VERB then/ADV the/DET left/ADJ hand/NOUN go/VERB upward/ADV towards/ADP the/DET face/NOUN and/CCONJ back/ADV down/ADV to/ADP the/DET hip/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV one/NUM step/NOUN then/ADV rotate/VERB and/CCONJ walk/VERB forward/ADV next/ADV do/VERB jumping/NOUN jack/NOUN 

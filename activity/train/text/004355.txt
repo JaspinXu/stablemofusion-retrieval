@@ -1,0 +1,1 @@
+The sim walks down the plane and then makes a wiping motion with their left arm in front of them.

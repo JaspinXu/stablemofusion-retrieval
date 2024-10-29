@@ -1,0 +1,1 @@
+the/DET person/NOUN dance/VERB to/ADP the/DET left/NOUN then/ADV gracefully/ADV to/ADP the/DET right/NOUN and/CCONJ continue/VERB towards/ADP the/DET left/NOUN again/ADV after/SCONJ that/PRON the/DET person/NOUN quickly/ADV walk/VERB in/ADP a/DET figure8/NOUN then/ADV abruptly/ADV stop/VERB and/CCONJ face/VERB the/DET 8/NUM 

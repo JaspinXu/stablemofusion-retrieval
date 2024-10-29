@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB and/CCONJ bend/VERB his/PRON left/ADJ leg/NOUN then/ADV his/PRON right/ADJ leg/NOUN after/SCONJ that/PRON he/PRON take/VERB a/DET step/NOUN forward/ADV move/VERB his/PRON left/ADJ arm/NOUN from/ADP right/ADV to/ADP leave/VERB and/CCONJ subsequently/ADV take/VERB a/DET step/NOUN back/ADV 

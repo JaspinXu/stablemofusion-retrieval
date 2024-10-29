@@ -1,0 +1,2 @@
+figure moves around a circlular object off of a higher flat surface than its center.
+a man throws an object with his right arms.

@@ -1,0 +1,18 @@
+a person walks forward from one end to the other.
+a person jumps up one time.
+a person walks forward from one end to the other.
+a person is jumping with no enthusiasm.
+a person walks forward from one end to the other.
+a person stands still and then does a single hop.
+a person is walking and comes to a stop.
+a person jumps up one time.
+a person is walking and comes to a stop.
+a person is jumping with no enthusiasm.
+a person is walking and comes to a stop.
+a person stands still and then does a single hop.
+walking forward and then stopping.
+a person jumps up one time.
+walking forward and then stopping.
+a person is jumping with no enthusiasm.
+walking forward and then stopping.
+a person stands still and then does a single hop.

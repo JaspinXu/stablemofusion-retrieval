@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP subsequently/ADV stand/VERB still/ADV for/ADP 7/NUM second/NOUN before/ADP take/VERB a/DET step/NOUN to/ADP the/DET left/ADJ 

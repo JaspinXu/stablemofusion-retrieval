@@ -1,0 +1,18 @@
+person is walking up on a stair.
+a man takes a step forward, turns around right side and walks back
+person is walking up on a stair.
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.
+person is walking up on a stair.
+the man walks forward turns and walks back.
+a person walks up stairs
+a man takes a step forward, turns around right side and walks back
+a person walks up stairs
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.
+a person walks up stairs
+the man walks forward turns and walks back.
+a person climbs a set of invisible stairs, starting with their right foot and continuing with the left foot until they have climbed 4 steps.
+a man takes a step forward, turns around right side and walks back
+a person climbs a set of invisible stairs, starting with their right foot and continuing with the left foot until they have climbed 4 steps.
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.
+a person climbs a set of invisible stairs, starting with their right foot and continuing with the left foot until they have climbed 4 steps.
+the man walks forward turns and walks back.

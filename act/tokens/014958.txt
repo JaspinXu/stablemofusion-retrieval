@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX sweep/VERB the/DET floor/NOUN and/CCONJ then/ADV a/DET person/NOUN drop/VERB their/PRON arm/NOUN from/ADP shoulder/NOUN height/NOUN walk/VERB to/ADP the/DET left/ADJ turn/VERB walk/NOUN to/ADP the/DET right/ADJ turn/NOUN again/ADV and/CCONJ finally/ADV walk/VERB back/ADV to/ADP their/PRON original/ADJ location/NOUN 

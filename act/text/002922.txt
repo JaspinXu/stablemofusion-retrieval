@@ -1,0 +1,1 @@
+A person walks in a straight line towards the bottom of the screen, then stands in place and takes repeated small jumps.

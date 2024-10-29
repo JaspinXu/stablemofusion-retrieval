@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV squat/NOUN down/ADP stand/VERB back/ADV up/ADV and/CCONJ then/ADV walk/VERB back/ADV after/ADP that/PRON the/DET same/ADJ person/NOUN hop/VERB on/ADP one/NUM leg/NOUN in/ADP a/DET circle/NOUN 

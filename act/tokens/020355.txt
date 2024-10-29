@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB in/ADP a/DET loop/NOUN fashion/NOUN from/ADP one/NUM side/NOUN of/ADP the/DET plane/NOUN to/ADP the/DET other/ADJ next/ADV a/DET person/NOUN be/AUX walk/VERB around/ADV in/ADP a/DET circle/NOUN 

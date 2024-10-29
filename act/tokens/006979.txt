@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV fast/ADV then/ADV a/DET figure/NOUN walk/VERB backward/ADV a/DET few/ADJ short/ADJ step/NOUN 

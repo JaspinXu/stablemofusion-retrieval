@@ -1,0 +1,1 @@
+a/DET man/NOUN stand/VERB and/CCONJ wave/VERB his/PRON left/ADJ arm/NOUN in/ADP the/DET air/NOUN then/ADV turn/VERB 180/NUM degree/NOUN to/ADP the/DET right/ADJ walk/VERB forward/ADV and/CCONJ stand/VERB still/ADV for/ADP 2/NUM second/NOUN subsequently/ADV a/DET person/NOUN cross/VERB their/PRON leg/NOUN and/CCONJ bend/NOUN down/ADP 

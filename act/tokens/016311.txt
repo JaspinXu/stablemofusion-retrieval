@@ -1,0 +1,1 @@
+a/DET person/NOUN look/VERB like/SCONJ they/PRON re/AUX throw/VERB a/DET baseball/NOUN then/ADV catch/VERB one/NUM and/CCONJ throw/VERB it/PRON again/ADV after/SCONJ that/SCONJ they/PRON put/VERB their/PRON left/ADJ arm/NOUN in/ADP a/DET sweater/NOUN follow/VERB by/ADP the/DET right/ADJ arm/NOUN and/CCONJ then/ADV button/VERB the/DET sweater/NOUN 

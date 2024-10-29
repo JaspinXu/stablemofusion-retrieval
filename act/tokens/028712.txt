@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV sit/VERB down/ADP with/ADP their/PRON hand/NOUN in/ADP their/PRON lap/NOUN then/ADV stand/VERB up/ADP to/ADP jog/PROPN and/CCONJ hop/VERB over/ADP an/DET object/NOUN 

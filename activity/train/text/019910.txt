@@ -1,0 +1,1 @@
+A person walks in a line, starting first to the right, then moving forward, followed by a left turn for a distance, and then walking forward again. Next, the person side-steps to the right for a few steps, then sidesteps to the left for a couple of steps, continuing to go right and left before ultimately walking to the right.

@@ -1,0 +1,18 @@
+a person is walking in a circle
+a person is standing still before walking diagonally.
+a person is walking in a circle
+the person is walking to the left
+a person is walking in a circle
+a person walks downward to the right side, then when halfway turns slightly more to the right side.
+this person walks from right to left in a circle.
+a person is standing still before walking diagonally.
+this person walks from right to left in a circle.
+the person is walking to the left
+this person walks from right to left in a circle.
+a person walks downward to the right side, then when halfway turns slightly more to the right side.
+a person walks counter-clockwise in a circle.
+a person is standing still before walking diagonally.
+a person walks counter-clockwise in a circle.
+the person is walking to the left
+a person walks counter-clockwise in a circle.
+a person walks downward to the right side, then when halfway turns slightly more to the right side.

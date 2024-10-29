@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jog/VERB in/ADP place/NOUN then/ADV run/VERB to/ADP their/PRON left/NOUN then/ADV to/ADP their/PRON right/NOUN and/CCONJ finally/ADV return/VERB to/ADP the/DET starting/NOUN position/NOUN 

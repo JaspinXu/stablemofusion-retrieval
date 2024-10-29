@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET quarter/NOUN circle/NOUN to/ADP the/DET left/NOUN then/ADV continue/VERB walk/VERB while/SCONJ make/VERB a/DET left/ADJ turn/NOUN 

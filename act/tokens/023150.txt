@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB walk/VERB forward/ADV then/ADV momentarily/ADV pause/VERB before/ADP continue/VERB all/DET the/DET while/NOUN veer/VERB to/ADP their/PRON left/NOUN after/SCONJ that/SCONJ the/DET person/NOUN shift/VERB to/ADP their/PRON left/NOUN and/CCONJ right/ADJ 

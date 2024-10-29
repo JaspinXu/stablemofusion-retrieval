@@ -1,0 +1,1 @@
+A person is walking in a pattern that creates a bean shape, then walks diagonally to the right before turning around and walking diagonally to the left.

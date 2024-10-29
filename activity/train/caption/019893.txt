@@ -1,0 +1,4 @@
+a person picks up an item, then walks with item above its head.
+a person picks something up then places it on their head and walks forwards.
+a person picks up an item, then walks with item above its head.
+bending down and walking in a circle.

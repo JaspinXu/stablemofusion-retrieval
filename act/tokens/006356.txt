@@ -1,0 +1,1 @@
+a/DET man/NOUN stand/VERB on/ADP the/DET ground/NOUN and/CCONJ walk/VERB clockwise/NOUN make/VERB a/DET semicircle/NOUN before/ADP stop/VERB subsequently/ADV he/PRON lean/VERB forward/ADV to/PART pick/VERB up/ADP an/DET imaginary/ADJ item/NOUN on/ADP the/DET right/ADJ side/NOUN of/ADP the/DET screen/NOUN and/CCONJ then/ADV move/VERB it/PRON to/ADP the/DET right/NOUN 

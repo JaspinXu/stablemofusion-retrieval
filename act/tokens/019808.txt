@@ -1,0 +1,1 @@
+a/DET man/NOUN place/VERB an/DET object/NOUN on/ADP the/DET ground/NOUN to/ADP his/PRON right/NOUN then/ADV stand/VERB back/ADV up/ADV and/CCONJ walk/VERB forward/ADV for/ADP 5/NUM second/NOUN subsequently/ADV perform/VERB several/ADJ round/NOUN off/ADP kick/NOUN 

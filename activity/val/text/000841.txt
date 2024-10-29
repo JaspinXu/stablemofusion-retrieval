@@ -1,0 +1,1 @@
+A person jumps, moves around, and then jumps again. Subsequently, they walk forwards before turning right, walking in a half circle, then turning left and walking in another semi-circle, before turning back to walk forwards again.

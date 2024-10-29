@@ -1,0 +1,1 @@
+A person walks forward shortly, then continues down a given path, bends at the knees to stoop and pick something up, places an invisible item to the side, gets up, turns counterclockwise, and walks back the way they came.

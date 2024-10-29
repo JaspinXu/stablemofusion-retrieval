@@ -1,0 +1,1 @@
+a/DET person/NOUN kick/VERB forward/ADV then/ADV walk/VERB back/ADV multiple/ADJ time/NOUN follow/VERB by/ADP crouch/VERB and/CCONJ crawl/VERB from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV make/VERB a/DET uturn/PROPN to/ADP the/DET right/ADJ side/NOUN continue/VERB walk/VERB and/CCONJ stop/VERB while/SCONJ a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP the/DET right/ADJ direction/NOUN 

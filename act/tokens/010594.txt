@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB up/ADP something/PRON on/ADP the/DET lefthand/PROPN side/NOUN then/ADV another/DET individual/ADJ walk/NOUN forwards/ADV take/VERB two/NUM step/NOUN back/ADV and/CCONJ subsequently/ADV walk/VERB forwards/ADV again/ADV 

@@ -1,0 +1,1 @@
+a/DET man/NOUN turn/VERB around/ADV and/CCONJ swing/VERB an/DET object/NOUN then/ADV raise/VERB his/PRON hand/NOUN above/ADP his/PRON head/NOUN and/CCONJ walk/VERB in/ADP a/DET circle/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB and/CCONJ make/VERB a/DET left/ADJ turn/NOUN then/ADV step/VERB to/ADP the/DET left/NOUN while/SCONJ cross/VERB the/DET right/ADJ foot/NOUN behind/ADP the/DET left/ADJ foot/NOUN and/CCONJ subsequently/ADV step/VERB back/ADV to/ADP the/DET right/NOUN 

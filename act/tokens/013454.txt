@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV one/NUM step/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB over/ADP step/NOUN up/ADP and/CCONJ subsequently/ADV step/VERB down/ADP afterward/ADV the/DET man/NOUN be/AUX seat/VERB while/SCONJ drive/VERB a/DET car/NOUN 

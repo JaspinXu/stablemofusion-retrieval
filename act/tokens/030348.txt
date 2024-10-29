@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN then/ADV run/VERB get/VERB down/ADP on/ADP his/PRON knee/NOUN turn/VERB around/ADV and/CCONJ run/VERB back/ADV the/DET other/ADJ way/NOUN 

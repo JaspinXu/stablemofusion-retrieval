@@ -1,0 +1,6 @@
+a person is standing and starts walking.
+a person sidesteps to the left.
+a person is standing and starts walking.
+the person takes a quick step to the left
+a person is standing and starts walking.
+someone standing and takes a step to the left.

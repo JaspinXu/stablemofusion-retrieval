@@ -1,0 +1,1 @@
+A person jogs back and forth diagonally, then dodges hits from an attacker before stepping to return to their original position.

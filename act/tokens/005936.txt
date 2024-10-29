@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV stop/VERB next/ADP a/DET figure/NOUN walk/VERB forward/ADV drift/VERB slightly/ADV right/ADJ take/VERB six/NUM step/NOUN before/ADP halt/VERB 

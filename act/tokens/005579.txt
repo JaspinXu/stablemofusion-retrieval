@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB a/DET short/ADJ distance/NOUN forward/ADV then/ADV raise/VERB an/DET object/NOUN above/ADP their/PRON head/NOUN three/NUM time/NOUN like/ADP a/DET weightlifter/NOUN 

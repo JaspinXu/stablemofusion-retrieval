@@ -1,0 +1,12 @@
+a person walks to their right.
+a person walks in a path curving to their left.
+a person walks to their right.
+a person walks forwards and turns left.
+a person walks in a rightward half circle.
+a person walks in a path curving to their left.
+a person walks in a rightward half circle.
+a person walks forwards and turns left.
+a person walks in a clockwise circle
+a person walks in a path curving to their left.
+a person walks in a clockwise circle
+a person walks forwards and turns left.

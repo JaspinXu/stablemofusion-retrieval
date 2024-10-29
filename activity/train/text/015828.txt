@@ -1,0 +1,1 @@
+A person picks up an object in a horizontal position, then turns it vertically and places it back down horizontally. Following that, they walk to the right and then jog to the left.

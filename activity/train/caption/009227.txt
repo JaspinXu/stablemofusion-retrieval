@@ -1,0 +1,18 @@
+the person is running forward on steppingstones.
+a person walks forward a few steps, then smoothly turns on their left foot to walk the other way.
+the person is running forward on steppingstones.
+a person walks forward, spins around, and walks back.
+the person is running forward on steppingstones.
+a person moves forward and spins on their heel turning around.
+a person running at an angle
+a person walks forward a few steps, then smoothly turns on their left foot to walk the other way.
+a person running at an angle
+a person walks forward, spins around, and walks back.
+a person running at an angle
+a person moves forward and spins on their heel turning around.
+a person quickly hops around to the right and left.
+a person walks forward a few steps, then smoothly turns on their left foot to walk the other way.
+a person quickly hops around to the right and left.
+a person walks forward, spins around, and walks back.
+a person quickly hops around to the right and left.
+a person moves forward and spins on their heel turning around.

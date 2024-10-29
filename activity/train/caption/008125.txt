@@ -1,0 +1,18 @@
+a person takes four leisurely steps forward.
+a person quickly walks backwards and to the side
+a person takes four leisurely steps forward.
+this person steps backward to the right then forward to the left.
+a person takes four leisurely steps forward.
+a person loses his balance and falls to the left. he regains his balance and moves back to his original position.
+a person slowly walks forward a few paces and stops.
+a person quickly walks backwards and to the side
+a person slowly walks forward a few paces and stops.
+this person steps backward to the right then forward to the left.
+a person slowly walks forward a few paces and stops.
+a person loses his balance and falls to the left. he regains his balance and moves back to his original position.
+a person walks forward slowly.
+a person quickly walks backwards and to the side
+a person walks forward slowly.
+this person steps backward to the right then forward to the left.
+a person walks forward slowly.
+a person loses his balance and falls to the left. he regains his balance and moves back to his original position.

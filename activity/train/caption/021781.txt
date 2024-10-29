@@ -1,0 +1,4 @@
+a person slowly walks around in a rectangular shape, stopping before making a turn each time.
+figure walks forward then turns a quarter turn right and repeats two times in a rectangular space.
+a person slowly walks around in a rectangular shape, stopping before making a turn each time.
+a person walks in a near complete clockwise square.

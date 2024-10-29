@@ -1,0 +1,6 @@
+a person walks forward, spins on their foot, and walks back
+the sim walks forward, reaching the end of the plane and looping backwards again.
+this person walks forward then turns right and walks back.
+the sim walks forward, reaching the end of the plane and looping backwards again.
+person is walking then turning around and walking back.
+the sim walks forward, reaching the end of the plane and looping backwards again.

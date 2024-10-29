@@ -1,0 +1,1 @@
+A stick figure is walking back while waving its arms, then the sim continues to walk across the plane in a loop fashion before stopping near the end of the space.

@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB an/DET overhead/ADJ press/NOUN then/ADV move/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP a/DET shift/NOUN to/ADP the/DET right/NOUN and/CCONJ finally/ADV return/VERB to/ADP the/DET starting/NOUN position/NOUN with/ADP arm/NOUN straight/ADV by/ADP their/PRON side/NOUN 

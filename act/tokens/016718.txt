@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP an/DET anticlockwise/NOUN direction/NOUN start/VERB to/PART make/VERB a/DET circle/NOUN then/ADV cut/VERB across/ADV and/CCONJ make/VERB his/PRON way/NOUN back/ADV to/ADP the/DET center/NOUN of/ADP the/DET room/NOUN while/SCONJ a/DET person/NOUN flutter/VERB their/PRON hand/NOUN about/ADP randomly/ADV 

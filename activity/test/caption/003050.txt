@@ -1,0 +1,12 @@
+the person is picking up something.
+a person walks away diagonally to his right, picks something up, walks back, and then he again walks diagonally to his right and picks something up.
+the person is picking up something.
+a person walks around and stops.
+the person is picking up something.
+the person is pacing in a diagonal motion.
+using both hands, a person bends over to pat the ground.
+a person walks away diagonally to his right, picks something up, walks back, and then he again walks diagonally to his right and picks something up.
+using both hands, a person bends over to pat the ground.
+a person walks around and stops.
+using both hands, a person bends over to pat the ground.
+the person is pacing in a diagonal motion.

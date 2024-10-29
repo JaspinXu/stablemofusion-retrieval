@@ -1,0 +1,1 @@
+A person walks diagonally to the right, sets something down, then turns around 180 degrees and walks in the opposite direction, after that, the person begins jogging in a circle.

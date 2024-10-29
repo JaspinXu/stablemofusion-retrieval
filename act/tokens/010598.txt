@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV then/ADV turn/VERB to/ADP the/DET left/NOUN subsequently/ADV jump/VERB forward/ADV and/CCONJ kick/NOUN at/ADP something/PRON before/ADP move/VERB backwards/ADV 

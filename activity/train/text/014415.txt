@@ -1,0 +1,1 @@
+A stick person takes a step to the side, then turns backwards to walk a line and repeats the motion, subsequently stretching their arms out.

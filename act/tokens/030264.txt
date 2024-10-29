@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV on/ADP the/DET spot/NOUN then/ADV hop/VERB forward/ADV turn/VERB around/ADV and/CCONJ hop/VERB back/ADV past/ADV where/SCONJ they/PRON start/VERB 

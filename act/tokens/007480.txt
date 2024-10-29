@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV several/ADJ step/NOUN then/ADV turn/VERB and/CCONJ walk/VERB backwards/ADV several/ADJ step/NOUN and/CCONJ subsequently/ADV walk/VERB in/ADP a/DET half/NOUN crescent/NOUN counterclockwise/NOUN 

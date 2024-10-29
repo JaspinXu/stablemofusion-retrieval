@@ -1,0 +1,1 @@
+A person jumps, then walks forward, subsequently turning left.

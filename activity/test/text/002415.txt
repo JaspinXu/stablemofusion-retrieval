@@ -1,0 +1,1 @@
+A person walks forward one foot in front of another, then walks to the left, turns around, and walks to the right before finally returning to their starting position.

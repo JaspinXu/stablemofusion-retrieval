@@ -1,0 +1,5 @@
+a person skips several steps to the left  
+a person jogs forward
+a person throws something with their right hand
+a person steps back
+a person steps back to the original position  

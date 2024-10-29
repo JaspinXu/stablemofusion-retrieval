@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB a/DET few/ADJ time/NOUN then/ADV jump/VERB high/ADJ and/CCONJ subsequently/ADV throw/VERB a/DET baseball/NOUN with/ADP their/PRON right/ADJ arm/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET medium/ADJ pace/NOUN with/ADP his/PRON arm/NOUN sway/VERB gently/ADV move/VERB three/NUM pace/NOUN in/ADP a/DET left/ADJ right/NOUN leave/VERB right/ADV leave/VERB right/ADJ pattern/NOUN 

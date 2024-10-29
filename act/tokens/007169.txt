@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN follow/VERB that/SCONJ the/DET person/NOUN turn/VERB to/ADP the/DET side/NOUN and/CCONJ start/VERB do/VERB alternate/VERB jump/NOUN lunge/NOUN before/ADP return/VERB to/ADP a/DET normal/ADJ standing/NOUN position/NOUN 

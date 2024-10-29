@@ -1,0 +1,1 @@
+A person walks forward, then turns around and walks back, and afterwards a person who is walking in a counterclockwise direction takes eleven steps before stopping.

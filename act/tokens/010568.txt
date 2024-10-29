@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pick/VERB up/ADP an/DET object/NOUN and/CCONJ then/ADV walk/VERB back/ADV to/ADP their/PRON original/ADJ position/NOUN before/ADP hold/VERB a/DET ball/NOUN in/ADP both/CCONJ hand/NOUN and/CCONJ wind/VERB up/ADP to/PART throw/VERB it/PRON with/ADP their/PRON left/ADJ hand/NOUN 

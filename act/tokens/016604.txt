@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB on/ADP something/PRON then/ADV a/DET robot/NOUN stand/VERB on/ADP its/PRON right/ADJ leg/NOUN uplift/VERB its/PRON left/ADJ leg/NOUN while/SCONJ stretch/VERB and/CCONJ move/VERB it/PRON leave/VERB and/CCONJ right/ADJ 

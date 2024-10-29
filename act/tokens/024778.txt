@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB in/ADP a/DET tpose/NOUN then/ADV stretch/VERB their/PRON hand/NOUN upwards/ADV while/SCONJ stand/VERB still/ADV afterwards/ADV reach/VERB their/PRON left/ADJ hand/NOUN up/ADP and/CCONJ right/ADJ hand/NOUN down/ADP before/ADP swap/VERB to/PART raise/VERB their/PRON right/ADJ arm/NOUN and/CCONJ lower/VERB their/PRON left/ADJ 

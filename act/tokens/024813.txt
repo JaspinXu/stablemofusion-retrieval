@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV four/NUM step/NOUN then/ADV stumble/VERB slightly/ADV but/CCONJ return/VERB to/ADP a/DET normal/ADJ walk/NOUN 

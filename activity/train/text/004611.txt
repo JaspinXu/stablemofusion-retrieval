@@ -1,0 +1,1 @@
+A person jumps to the right, then jumps straight up, following that, the person leans to the right, falls forward, and staggers to the left.

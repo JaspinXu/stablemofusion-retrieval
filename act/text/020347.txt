@@ -1,0 +1,1 @@
+A person pivots left and then slowly walks forward.

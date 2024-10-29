@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB an/DET elbow/NOUN warmup/NOUN then/ADV run/VERB backwards/ADV turn/VERB and/CCONJ continue/VERB run/VERB forwards/ADV 

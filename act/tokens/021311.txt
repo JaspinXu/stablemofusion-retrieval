@@ -1,0 +1,1 @@
+a/DET man/NOUN jog/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ run/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN similarly/ADV to/ADP a/DET person/NOUN who/PRON run/VERB forward/ADV turn/VERB around/ADV and/CCONJ run/VERB back/ADV 

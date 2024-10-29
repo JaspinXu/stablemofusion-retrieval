@@ -1,0 +1,1 @@
+The sim steps forward using their left hand to make a swatting motion, then walks forward and takes a hop in the same direction. Following that, a man picks something up and moves his arm in front of him before running forward.

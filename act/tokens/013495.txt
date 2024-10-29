@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX fight/VERB bug/NOUN and/CCONJ then/ADV be/AUX get/VERB ready/ADJ to/PART throw/VERB a/DET ball/NOUN 

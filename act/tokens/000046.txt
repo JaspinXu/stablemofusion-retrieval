@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV skew/VERB slightly/ADV to/ADP the/DET right/ADJ side/NOUN of/ADP the/DET screen/NOUN and/CCONJ then/ADV a/DET person/NOUN grab/VERB something/PRON with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ move/VERB it/PRON slightly/ADV to/ADP the/DET right/NOUN 

@@ -1,0 +1,1 @@
+An individual turns on its axis, then follows with two rotating jumps, subsequently moving forward and backward on the floor.

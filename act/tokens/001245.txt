@@ -1,0 +1,1 @@
+the/DET person/NOUN jump/VERB 2/NUM step/NOUN forward/ADV then/ADV check/VERB their/PRON watch/NOUN 

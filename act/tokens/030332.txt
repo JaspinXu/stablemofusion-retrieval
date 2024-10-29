@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV lean/VERB down/ADP as/SCONJ if/SCONJ to/PART pick/VERB something/PRON up/ADP turn/VERB around/ADV and/CCONJ put/VERB something/PRON down/ADP on/ADP the/DET ground/NOUN follow/VERB that/SCONJ this/DET person/NOUN stand/VERB on/ADP one/NUM leg/NOUN and/CCONJ then/ADV on/ADP two/NUM leg/NOUN stretch/VERB to/ADP the/DET left/ADJ 

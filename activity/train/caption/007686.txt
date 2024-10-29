@@ -1,0 +1,12 @@
+a person picks something up and moves it to the left.
+a person walks to their right.
+a person picks something up and moves it to the left.
+a person walks in a rightward half circle.
+a person picks something up and moves it to the left.
+a person walks in a clockwise circle
+this person slowly and carefully lift something from left to right.
+a person walks to their right.
+this person slowly and carefully lift something from left to right.
+a person walks in a rightward half circle.
+this person slowly and carefully lift something from left to right.
+a person walks in a clockwise circle

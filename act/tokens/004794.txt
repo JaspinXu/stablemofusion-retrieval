@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jog/VERB forward/ADV jump/VERB over/ADP an/DET obstacle/NOUN with/ADP each/DET step/NOUN and/CCONJ then/ADV continue/VERB to/PART jog/VERB to/ADP the/DET other/ADJ side/NOUN of/ADP a/DET rectangle/NOUN 

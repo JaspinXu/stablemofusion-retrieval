@@ -1,0 +1,1 @@
+A person skips across a room and then climbs on terrain.

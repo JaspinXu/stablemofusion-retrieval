@@ -1,0 +1,1 @@
+A person walks slowly, then sprints quickly, followed by taking wide spaced steps, transitioning from a slow walking velocity in a line to a quick burst of speed while moving in a circle.

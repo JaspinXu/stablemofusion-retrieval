@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX dance/VERB in/ADP place/NOUN while/SCONJ spin/VERB around/ADP then/ADV a/DET person/NOUN walk/VERB diagonally/ADV across/ADP the/DET platform/NOUN turn/NOUN leave/VERB in/ADP a/DET 180degree/NUM motion/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV down/ADP the/DET same/ADJ path/NOUN to/ADP his/PRON initial/ADJ position/NOUN 

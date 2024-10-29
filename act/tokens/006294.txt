@@ -1,0 +1,1 @@
+the/DET figure/NOUN be/AUX kick/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV a/DET person/NOUN be/AUX walk/VERB down/ADP a/DET runway/NOUN 

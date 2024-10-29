@@ -1,0 +1,1 @@
+the/DET man/NOUN go/VERB down/ADV 4/NUM step/NOUN then/ADV a/DET person/NOUN take/VERB a/DET step/NOUN back/ADV and/CCONJ to/ADP the/DET left/NOUN sit/VERB on/ADP an/DET invisible/ADJ object/NOUN get/VERB up/ADP to/PART stand/VERB and/CCONJ subsequently/ADV take/VERB small/ADJ step/NOUN back/ADV to/ADP the/DET original/ADJ position/NOUN 

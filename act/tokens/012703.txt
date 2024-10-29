@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB sideways/ADV from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV back/ADV again/ADV next/ADV walk/VERB up/ADP turn/NOUN around/ADV sit/VERB down/ADP and/CCONJ thereafter/ADV get/VERB back/ADV up/ADP to/PART walk/VERB back/ADV 

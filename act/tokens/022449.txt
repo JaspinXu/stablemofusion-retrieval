@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN with/ADP hand/NOUN on/ADP armrest/NOUN and/CCONJ slightly/ADV move/NOUN swat/VERB with/ADP their/PRON right/ADJ hand/NOUN then/ADV the/DET person/NOUN slowly/ADV walk/VERB forwards/ADV subsequently/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET start/NOUN at/ADP the/DET same/ADJ speed/NOUN 

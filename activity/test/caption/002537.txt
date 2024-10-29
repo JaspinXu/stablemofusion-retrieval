@@ -1,0 +1,18 @@
+a person walks in a clockwise direction.
+a person looks around, steps back, then runs forward while throwing an object.
+a person walks in a clockwise direction.
+person takes a few steps backward, and then winds arm back to run forward and throw something and then walk backward a few steps
+a person walks in a clockwise direction.
+this person steps back then quickly jumps forward while throwing and then steps back.
+a person walks clockwise slowly.
+a person looks around, steps back, then runs forward while throwing an object.
+a person walks clockwise slowly.
+person takes a few steps backward, and then winds arm back to run forward and throw something and then walk backward a few steps
+a person walks clockwise slowly.
+this person steps back then quickly jumps forward while throwing and then steps back.
+the person is walking in a counter clockwise circle.
+a person looks around, steps back, then runs forward while throwing an object.
+the person is walking in a counter clockwise circle.
+person takes a few steps backward, and then winds arm back to run forward and throw something and then walk backward a few steps
+the person is walking in a counter clockwise circle.
+this person steps back then quickly jumps forward while throwing and then steps back.

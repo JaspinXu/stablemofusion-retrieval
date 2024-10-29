@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB right/ADV up/ADP a/DET step/NOUN then/ADV the/DET man/NOUN take/VERB a/DET giant/ADJ sidestep/NOUN to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+A person places items in a line up, then walks in a curve to the right, turns, and climbs several stairs.

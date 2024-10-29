@@ -1,0 +1,1 @@
+a/DET person/NOUN raise/VERB their/PRON left/ADJ hand/NOUN then/ADV turn/VERB it/PRON and/CCONJ put/VERB it/PRON down/ADP next/ADV they/PRON walk/VERB to/ADP their/PRON left/ADJ three/NUM step/NOUN turn/VERB around/ADV walk/VERB five/NUM step/NOUN turn/VERB around/ADP again/ADV and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB a/DET fourth/NOUN of/ADP a/DET circle/NOUN counterclockwise/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV assertively/ADV walk/VERB forward/ADV 

@@ -1,0 +1,2 @@
+a person runs to the right turns around and runs to the left, turns around and runs to the right
+a person turns the left then walks straight, the turn around and walks straight.

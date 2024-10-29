@@ -1,0 +1,18 @@
+the person is picking up something.
+a person walks in a counterclockwise direction.
+the person is picking up something.
+a person walks in a circle counterclockwise, stopping at the place where they started.
+the person is picking up something.
+a person walks in a circle clockwise.
+a person bending down to touch the ground.
+a person walks in a counterclockwise direction.
+a person bending down to touch the ground.
+a person walks in a circle counterclockwise, stopping at the place where they started.
+a person bending down to touch the ground.
+a person walks in a circle clockwise.
+picking something up with the left hand
+a person walks in a counterclockwise direction.
+picking something up with the left hand
+a person walks in a circle counterclockwise, stopping at the place where they started.
+picking something up with the left hand
+a person walks in a circle clockwise.

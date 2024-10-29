@@ -1,0 +1,1 @@
+a/DET man/NOUN do/VERB a/DET fancy/ADJ walk/NOUN forwards/ADV and/CCONJ backwards/ADV then/ADV turn/VERB around/ADP subsequently/ADV a/DET person/NOUN walk/VERB slightly/ADV forward/ADV turn/VERB around/ADV and/CCONJ run/VERB backward/ADV 

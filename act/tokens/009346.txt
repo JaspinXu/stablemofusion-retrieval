@@ -1,0 +1,1 @@
+the/DET right/ADJ hand/NOUN be/AUX throw/VERB forward/ADV while/SCONJ the/DET left/ADJ foot/NOUN be/AUX plant/VERB on/ADP the/DET ground/NOUN make/VERB the/DET right/ADJ foot/NOUN pop/NOUN off/ADP the/DET ground/NOUN subsequently/ADV a/DET person/NOUN raise/VERB their/PRON left/ADJ hand/NOUN and/CCONJ point/VERB forward/ADV 

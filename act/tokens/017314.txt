@@ -1,0 +1,1 @@
+a/DET person/NOUN shoot/VERB a/DET basketball/NOUN then/ADV walk/VERB back/ADV and/CCONJ subsequently/ADV throw/VERB a/DET football/NOUN while/SCONJ also/ADV walk/VERB slowly/ADV back/ADV and/CCONJ forth/ADV 

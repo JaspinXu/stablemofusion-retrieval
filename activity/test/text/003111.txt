@@ -1,0 +1,1 @@
+A person jumps forward, then turns around 90 degrees to their right and jumps again. Following that, they turn 90 degrees to their left and jump back to their starting position. Afterward, they lunge forward, bending their left knee and elbow.

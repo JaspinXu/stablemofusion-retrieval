@@ -1,0 +1,1 @@
+a/DET seated/ADJ person/NOUN uncross/VERB their/PRON leg/NOUN stand/VERB from/ADP the/DET chair/NOUN then/ADV sit/VERB back/ADV down/ADV and/CCONJ subsequently/ADV rise/VERB from/ADP the/DET chair/NOUN before/ADP walk/VERB in/ADP a/DET circle/NOUN counterclockwise/NOUN 

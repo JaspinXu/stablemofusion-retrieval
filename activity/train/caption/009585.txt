@@ -1,0 +1,6 @@
+walking in a diagonal line.
+the sim steps forward throwing an object with their right hand.
+a man walks forward and stumbles to the side.
+the sim steps forward throwing an object with their right hand.
+a person slowly walked forward in left direction
+the sim steps forward throwing an object with their right hand.

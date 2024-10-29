@@ -1,0 +1,1 @@
+a/DET robot/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP something/PRON from/ADP the/DET ground/NOUN with/ADP its/PRON left/ADJ hand/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB five/NUM step/NOUN forward/ADV in/ADP a/DET straight/ADJ line/NOUN 

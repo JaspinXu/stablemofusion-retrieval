@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB move/VERB backward/ADV from/ADP the/DET center/NOUN then/ADV move/VERB forward/ADV with/ADP its/PRON stretchy/ADJ leg/NOUN and/CCONJ begin/VERB kick/VERB follow/VERB that/SCONJ a/DET person/NOUN step/VERB backwards/ADV sit/VERB down/ADP and/CCONJ then/ADV stand/VERB back/ADV up/ADV 

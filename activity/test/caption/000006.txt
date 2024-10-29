@@ -1,0 +1,6 @@
+person appears to be running in straight line then jumps over something and continues running.
+person walks quickly down a short incline
+a person runs forward and to his left and jumps over something midway.
+person walks quickly down a short incline
+a person is running then takes big leap.
+person walks quickly down a short incline

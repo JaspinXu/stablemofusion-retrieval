@@ -1,0 +1,18 @@
+a person walks towards his left and stops.
+a person does a side step to the right
+a person walks towards his left and stops.
+a person moved in right direction
+a person walks towards his left and stops.
+the person moves one step to the left.
+a man walks a path that bends to the left.
+a person does a side step to the right
+a man walks a path that bends to the left.
+a person moved in right direction
+a man walks a path that bends to the left.
+the person moves one step to the left.
+puts walks forward, then makes slight curve to their left and continues.
+a person does a side step to the right
+puts walks forward, then makes slight curve to their left and continues.
+a person moved in right direction
+puts walks forward, then makes slight curve to their left and continues.
+the person moves one step to the left.

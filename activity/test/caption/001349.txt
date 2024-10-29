@@ -1,0 +1,6 @@
+the toon walks forward a few steps, then turns around walking back.
+a peraon walking makes a left turn.
+the toon walks forward a few steps, then turns around walking back.
+someone walks forward turn left and stop
+the toon walks forward a few steps, then turns around walking back.
+a person walks forward, then to the left and stops.

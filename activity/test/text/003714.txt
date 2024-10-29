@@ -1,0 +1,1 @@
+A person walks forward and jumps over an object, then turns around to jump over it again and walks back, subsequently walking backwards and to the side.

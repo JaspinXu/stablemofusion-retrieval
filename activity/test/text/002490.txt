@@ -1,0 +1,1 @@
+A person walks forward at an average pace, then turns ninety degrees to the left and continues walking to the edge of a grey square, before proceeding to walk forward to another edge of the same square.

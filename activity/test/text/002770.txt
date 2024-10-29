@@ -1,0 +1,1 @@
+A character stands at an angular position, making a motion as if to swing a baseball bat. Following that, a person jumps to the left, then to the right. They attempt a double jump but stumble backwards. After regaining their composure, they start walking back to the starting position.

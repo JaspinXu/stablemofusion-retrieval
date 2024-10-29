@@ -1,0 +1,1 @@
+The sim is using both left and right hands to express emotion as part of a conversation, while a person gestures and converses.

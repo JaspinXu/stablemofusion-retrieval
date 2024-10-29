@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV stop/VERB to/PART do/VERB three/NUM jump/VERB jack/NOUN before/ADP step/VERB his/PRON left/ADJ foot/NOUN to/ADP the/DET left/ADJ and/CCONJ resume/VERB his/PRON stance/NOUN with/ADP his/PRON hand/NOUN by/ADP his/PRON side/NOUN 

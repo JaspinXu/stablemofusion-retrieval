@@ -1,0 +1,1 @@
+A person picks up an item on its left, then sits it down on its right, subsequently picking something else up and placing it down.

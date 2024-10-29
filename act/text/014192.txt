@@ -1,0 +1,1 @@
+The person walks forward, then turns around and sits down, subsequently standing still for 7 seconds before taking a step to the left.

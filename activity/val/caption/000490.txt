@@ -1,0 +1,18 @@
+a person walks forwards stops then turns away and walks back
+the man is jogging on the spot
+a person walks forwards stops then turns away and walks back
+a person moves to their right and then jogs in place
+a person walks forwards stops then turns away and walks back
+a person turns to right, takes two steps forward, and then runs in place.
+a man walks forward, pivots around on his left leg and walks back to where he started.
+the man is jogging on the spot
+a man walks forward, pivots around on his left leg and walks back to where he started.
+a person moves to their right and then jogs in place
+a man walks forward, pivots around on his left leg and walks back to where he started.
+a person turns to right, takes two steps forward, and then runs in place.
+a person walks forward, turns around to his left and then walks back to where he started
+the man is jogging on the spot
+a person walks forward, turns around to his left and then walks back to where he started
+a person moves to their right and then jogs in place
+a person walks forward, turns around to his left and then walks back to where he started
+a person turns to right, takes two steps forward, and then runs in place.

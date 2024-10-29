@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backward/ADV then/ADV run/VERB forward/ADV and/CCONJ take/VERB a/DET small/ADJ jump/NOUN after/SCONJ that/SCONJ the/DET man/NOUN perform/VERB a/DET horizontal/ADJ jump/NOUN 

@@ -1,0 +1,1 @@
+A person walks forward and counterclockwise to their left, then retraces their steps back, next they walk to the left and then back to the right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB four/NUM kick/NOUN two/NUM forward/ADV and/CCONJ two/NUM go/VERB back/ADV and/CCONJ then/ADV slowly/ADV walk/VERB around/ADV in/ADP a/DET circle/NOUN slightly/ADV hunch/VERB over/ADP 

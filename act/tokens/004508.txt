@@ -1,0 +1,1 @@
+the/DET person/NOUN must/AUX push/VERB from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN while/SCONJ stay/VERB stand/VERB and/CCONJ then/ADV walk/VERB in/ADP a/DET curve/NOUN from/ADP the/DET top/ADJ right/NOUN to/ADP the/DET bottom/NOUN left/ADJ 

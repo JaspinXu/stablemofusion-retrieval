@@ -1,0 +1,18 @@
+a man walks forward turning to the right.
+the person is running in place.
+a man walks forward turning to the right.
+a person jogs in place
+a man walks forward turning to the right.
+the sim is running in place, stepping to their sides & backwards.
+a person walks forward and to the left.
+the person is running in place.
+a person walks forward and to the left.
+a person jogs in place
+a person walks forward and to the left.
+the sim is running in place, stepping to their sides & backwards.
+a person is walking counterclockwise for 90 degrees
+the person is running in place.
+a person is walking counterclockwise for 90 degrees
+a person jogs in place
+a person is walking counterclockwise for 90 degrees
+the sim is running in place, stepping to their sides & backwards.

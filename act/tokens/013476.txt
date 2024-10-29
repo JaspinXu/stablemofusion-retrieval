@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB up/ADP on/ADP the/DET stair/NOUN then/ADV turn/VERB around/ADV 180/NUM degree/NOUN and/CCONJ walk/VERB back/ADV down/ADP the/DET stair/NOUN after/SCONJ that/SCONJ a/DET man/NOUN be/AUX dig/VERB a/DET hole/NOUN 

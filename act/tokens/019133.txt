@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ and/CCONJ then/ADV turn/VERB around/ADP subsequently/ADV a/DET man/NOUN weigh/VERB enthusiastically/ADV with/ADP his/PRON left/ADJ arm/NOUN and/CCONJ then/ADV raise/VERB both/DET arm/NOUN above/ADP his/PRON head/NOUN 

@@ -1,0 +1,6 @@
+a person takes a couple of steps back.
+someone steps to the right and then recovers there original position by steping to the left.
+a person takes a couple of steps back.
+a person steps forward to the right.
+a person takes a couple of steps back.
+a person steps to the left, takes a half step back with their right foot and then steps back to the right.

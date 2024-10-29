@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB in/ADP a/DET clockwise/NOUN circle/NOUN look/VERB at/ADP his/PRON hand/NOUN after/ADP turn/VERB and/CCONJ then/ADV begin/VERB to/PART sprint/VERB forward/ADV while/SCONJ simultaneously/ADV move/VERB his/PRON left/ADJ hand/NOUN in/ADP a/DET circle/NOUN counterclockwise/NOUN 

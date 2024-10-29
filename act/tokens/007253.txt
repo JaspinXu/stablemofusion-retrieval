@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV for/ADP five/NUM pace/NOUN and/CCONJ then/ADV reach/VERB down/ADP to/PART grab/VERB something/PRON at/ADP waist/NOUN height/PROPN move/VERB from/ADP right/ADV to/ADP leave/VERB before/ADP stand/VERB straight/ADV up/ADV again/ADV 

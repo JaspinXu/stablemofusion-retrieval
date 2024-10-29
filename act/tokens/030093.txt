@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB backward/ADV to/ADP the/DET left/NOUN after/SCONJ that/SCONJ the/DET person/NOUN stare/VERB at/ADP the/DET ground/NOUN and/CCONJ then/ADV stand/VERB up/ADP straight/ADV 

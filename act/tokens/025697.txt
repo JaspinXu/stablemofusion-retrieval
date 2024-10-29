@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB an/DET army/NOUN crawl/NOUN backwards/ADV and/CCONJ then/ADV run/VERB while/SCONJ make/VERB a/DET small/ADJ circle/NOUN 

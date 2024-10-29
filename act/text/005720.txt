@@ -1,0 +1,1 @@
+A person walks in a forward-leftward diagonal, then runs forward to the edge of the platform.

@@ -1,0 +1,12 @@
+robot walking up the stairs, turned back and then walk down the stairs.
+a person turns around and limps slowly in a straight line then turns around again.
+robot walking up the stairs, turned back and then walk down the stairs.
+this person turns 60 degrees and then takes five dragging steps backwards then turns forwards.
+a person walks up a set of stairs, turns around, and walks back down.
+a person turns around and limps slowly in a straight line then turns around again.
+a person walks up a set of stairs, turns around, and walks back down.
+this person turns 60 degrees and then takes five dragging steps backwards then turns forwards.
+a person walks up and down the stairs .
+a person turns around and limps slowly in a straight line then turns around again.
+a person walks up and down the stairs .
+this person turns 60 degrees and then takes five dragging steps backwards then turns forwards.

@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP a/DET square/ADJ shape/NOUN then/ADV turn/VERB around/ADV to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV cross/VERB their/PRON foot/NOUN as/SCONJ they/PRON move/VERB 

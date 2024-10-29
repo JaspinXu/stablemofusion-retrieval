@@ -1,0 +1,2 @@
+a person walks in a diagonal direction.
+the sim runs down the plane before crouching down onto one knee.

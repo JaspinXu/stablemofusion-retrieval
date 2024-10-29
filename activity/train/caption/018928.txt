@@ -1,0 +1,4 @@
+the sim is walking in a looping fashion from left to right before stopping at the opposite end of the plane towards the center.
+a man walks in a s pattern before stopping.
+the sim is walking in a looping fashion from left to right before stopping at the opposite end of the plane towards the center.
+the person is walking back-and-forth in an s figure.

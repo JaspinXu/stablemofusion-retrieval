@@ -1,0 +1,1 @@
+This person slowly walks from right to left, then turns to go back, subsequently walking forward in a straight line before returning.

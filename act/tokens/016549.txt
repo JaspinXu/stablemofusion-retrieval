@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB around/ADV in/ADP a/DET circle/NOUN then/ADV the/DET man/NOUN walk/VERB forward/ADV pick/VERB up/ADP an/DET object/NOUN in/ADP each/DET hand/NOUN and/CCONJ subsequently/ADV put/VERB they/PRON back/ADV down/ADV 

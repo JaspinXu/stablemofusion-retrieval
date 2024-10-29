@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB to/PART move/VERB forward/ADV slowly/ADV then/ADV turn/VERB back/ADV and/CCONJ again/ADV start/VERB to/PART walk/VERB slowly/ADV follow/VERB that/SCONJ a/DET person/NOUN put/VERB their/PRON arm/NOUN out/ADP clap/NOUN walk/VERB forward/ADV and/CCONJ then/ADV proceed/VERB to/PART sit/VERB down/ADP 

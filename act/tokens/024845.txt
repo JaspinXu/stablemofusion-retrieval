@@ -1,0 +1,1 @@
+the/DET person/NOUN do/VERB a/DET hop/NOUN at/ADP a/DET 30degree/NUM angle/NOUN then/ADV crouch/VERB down/ADV and/CCONJ jump/VERB forward/ADV 

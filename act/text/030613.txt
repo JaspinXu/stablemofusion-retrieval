@@ -1,0 +1,1 @@
+A human moves backwards and forwards at an angle, using only his right leg to move forward, and then the person continues walking around back and forth.

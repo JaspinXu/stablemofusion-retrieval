@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB a/DET path/NOUN that/PRON bend/VERB to/ADP the/DET left/NOUN then/ADV a/DET person/NOUN move/VERB in/ADP the/DET right/ADJ direction/NOUN 

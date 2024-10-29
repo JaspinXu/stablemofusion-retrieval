@@ -1,0 +1,18 @@
+a person jogs to his left, then right
+a person is pacing in a circle
+a person jogs to his left, then right
+a person walking in a counter counterclockwise trajectory
+a person jogs to his left, then right
+a person walks in a wide counter counterclockwise circle
+a person jogs slowly to his left, pivots and jogs to his right, pivots and jogs to his left, back to where he started.
+a person is pacing in a circle
+a person jogs slowly to his left, pivots and jogs to his right, pivots and jogs to his left, back to where he started.
+a person walking in a counter counterclockwise trajectory
+a person jogs slowly to his left, pivots and jogs to his right, pivots and jogs to his left, back to where he started.
+a person walks in a wide counter counterclockwise circle
+a person turns to their left and jogs, then pivots and jogs the other way, then pivots one more time.
+a person is pacing in a circle
+a person turns to their left and jogs, then pivots and jogs the other way, then pivots one more time.
+a person walking in a counter counterclockwise trajectory
+a person turns to their left and jogs, then pivots and jogs the other way, then pivots one more time.
+a person walks in a wide counter counterclockwise circle

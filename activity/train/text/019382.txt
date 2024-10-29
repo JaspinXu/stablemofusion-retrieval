@@ -1,0 +1,1 @@
+A person stumbles to their right, then turns around and backs away; subsequently, they walk in a clockwise circle, go to the left a few steps, and then move to the right a few steps.

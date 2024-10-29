@@ -1,0 +1,1 @@
+A person steps each leg backwards, then strafes counterclockwise relative to the camera in one full circle, and subsequently reverses for one third of a circle while always facing toward the camera with hands held forward.

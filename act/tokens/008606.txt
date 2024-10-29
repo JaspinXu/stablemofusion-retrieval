@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON arm/NOUN and/CCONJ leg/NOUN to/ADP the/DET side/NOUN in/ADP alternate/VERB path/NOUN in/ADP a/DET dance/NOUN then/ADV walk/VERB forward/ADV diagonally/ADV to/ADP their/PRON right/NOUN 

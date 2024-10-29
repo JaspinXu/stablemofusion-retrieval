@@ -1,0 +1,1 @@
+a/DET person/NOUN catch/VERB an/DET object/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV answer/VERB a/DET mobile/ADJ phone/NOUN call/NOUN 

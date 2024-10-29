@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN then/ADV continue/VERB walk/VERB at/ADP a/DET 45degree/NUM angle/NOUN to/ADP the/DET right/NOUN 

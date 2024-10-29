@@ -1,0 +1,1 @@
+A person struts as they walk forward, then the sim runs down the plane.

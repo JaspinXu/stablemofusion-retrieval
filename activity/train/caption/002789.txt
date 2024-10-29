@@ -1,0 +1,18 @@
+he takes a book with right hand
+walks forward directly and stops
+he takes a book with right hand
+a person walks around to the left.
+he takes a book with right hand
+a person walks diagonally across the room
+a person grabs something with their right arm
+walks forward directly and stops
+a person grabs something with their right arm
+a person walks around to the left.
+a person grabs something with their right arm
+a person walks diagonally across the room
+a person lifts their right arm to check their right wrist.
+walks forward directly and stops
+a person lifts their right arm to check their right wrist.
+a person walks around to the left.
+a person lifts their right arm to check their right wrist.
+a person walks diagonally across the room

@@ -1,0 +1,1 @@
+a/DET man/NOUN lower/VERB his/PRON arm/NOUN from/ADP the/DET side/NOUN and/CCONJ push/VERB his/PRON left/ADJ arm/NOUN forward/ADV three/NUM time/NOUN next/ADV he/PRON move/VERB both/DET arm/NOUN outward/VERB three/NUM time/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN pick/VERB up/ADP something/PRON and/CCONJ then/ADV put/VERB it/PRON somewhere/ADV else/ADV 

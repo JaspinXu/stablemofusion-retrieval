@@ -1,0 +1,18 @@
+a person takes a quick step back.
+a person is walking at a normal pace
+a person takes a quick step back.
+a man walks slowly on a flat surface
+a person takes a quick step back.
+a person is walking at a normal pace.
+a man takes 1 step backward.
+a person is walking at a normal pace
+a man takes 1 step backward.
+a man walks slowly on a flat surface
+a man takes 1 step backward.
+a person is walking at a normal pace.
+person standing still moves back one step
+a person is walking at a normal pace
+person standing still moves back one step
+a man walks slowly on a flat surface
+person standing still moves back one step
+a person is walking at a normal pace.

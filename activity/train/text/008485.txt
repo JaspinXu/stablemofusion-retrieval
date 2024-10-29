@@ -1,0 +1,1 @@
+A person is hopping on one foot at a time, alternating between right and left, then walks forward and subsequently to the right.

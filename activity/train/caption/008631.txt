@@ -1,0 +1,6 @@
+a person makes a quarter circle turn to the right.
+a person takes one step forward starting with their left leg.
+a person makes a quarter circle turn to the right.
+a person takes a step forward
+a person makes a quarter circle turn to the right.
+person is still, then does a single step forward with both legs

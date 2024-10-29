@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET few/ADJ slow/ADJ step/NOUN forward/ADV start/VERB with/ADP the/DET right/ADJ leg/NOUN and/CCONJ end/VERB in/ADP a/DET standing/NOUN position/NOUN then/ADV they/PRON hop/VERB back/ADV and/CCONJ take/VERB a/DET step/NOUN sideways/ADV to/ADP their/PRON left/ADJ cross/VERB one/NUM foot/NOUN behind/ADP the/DET other/ADJ 

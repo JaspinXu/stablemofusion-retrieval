@@ -1,0 +1,1 @@
+A person jumps to the left and then stops; next, a figure walks forward, drifting slightly right, taking six steps before halting.

@@ -1,0 +1,1 @@
+A person takes one step toward an edge, then turns counterclockwise and walks to the left side before stepping up onto something.

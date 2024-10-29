@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN two/NUM and/CCONJ a/DET quarter/NOUN time/NOUN then/ADV begin/VERB dance/VERB what/PRON seem/VERB to/PART be/AUX salsa/VERB with/ADP another/DET person/NOUN move/VERB around/ADV slightly/ADV but/CCONJ remain/VERB close/ADV to/ADP the/DET same/ADJ spot/NOUN 

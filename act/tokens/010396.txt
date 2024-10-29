@@ -1,0 +1,1 @@
+he/PRON walk/VERB forward/ADV then/ADV turn/VERB backward/ADV after/SCONJ that/PRON he/PRON walk/VERB down/ADV halfway/ADV and/CCONJ make/VERB a/DET sharp/ADJ diagonal/ADJ to/ADP the/DET left/NOUN follow/VERB by/ADP a/DET sharp/ADJ diagonal/NOUN to/ADP the/DET right/NOUN in/ADP a/DET zigzag/NOUN pattern/NOUN 

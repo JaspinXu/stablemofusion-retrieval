@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB half/DET the/DET circle/NOUN in/ADP the/DET counterclockwise/NOUN direction/NOUN then/ADV start/VERB run/VERB from/ADP the/DET next/ADJ half/NOUN subsequently/ADV walk/VERB forward/ADV before/ADP turn/VERB around/ADV and/CCONJ walk/VERB forward/ADV again/ADV 

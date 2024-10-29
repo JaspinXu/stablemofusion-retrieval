@@ -1,0 +1,1 @@
+A person walks forward and then turns right to return to the starting point. Following that, they step to the right while crossing their left foot behind their right foot, and then step back to the left.

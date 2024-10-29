@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ place/VERB both/DET hand/NOUN on/ADP hip/NOUN then/ADV walk/VERB backwards/ADV subsequently/ADV move/VERB forward/ADV again/ADV to/PART make/VERB a/DET pose/NOUN 

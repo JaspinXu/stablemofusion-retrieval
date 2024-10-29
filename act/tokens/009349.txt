@@ -1,0 +1,1 @@
+while/SCONJ stand/VERB a/DET person/NOUN perform/VERB 2/NUM bicep/NOUN curl/NOUN with/ADP their/PRON right/ADJ arm/NOUN then/ADV proceed/VERB to/PART do/VERB 1/NUM bicep/VERB curl/ADJ with/ADP their/PRON left/ADJ arm/NOUN follow/VERB that/SCONJ the/DET person/NOUN make/VERB three/NUM leftfoote/VERB hop/VERB forward/ADV 

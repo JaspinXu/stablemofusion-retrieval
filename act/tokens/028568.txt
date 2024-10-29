@@ -1,0 +1,1 @@
+a/DET person/NOUN waltz/VERB back/ADV and/CCONJ forth/ADV with/ADP another/DET person/NOUN and/CCONJ then/ADV squat/VERB down/ADP to/ADP the/DET ground/NOUN pick/VERB up/ADP a/DET box/NOUN and/CCONJ subsequently/ADV stand/VERB back/ADV up/ADP to/PART place/VERB the/DET box/NOUN on/ADP a/DET high/ADJ surface/NOUN 

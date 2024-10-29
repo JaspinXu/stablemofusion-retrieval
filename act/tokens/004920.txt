@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB then/ADV perform/VERB a/DET 360/NUM tornado/NOUN kick/NOUN after/ADP that/PRON walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ return/VERB back/ADV 

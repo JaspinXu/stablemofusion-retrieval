@@ -1,0 +1,1 @@
+A person walks in a clockwise direction, then walks forward, turns, and walks towards his right.

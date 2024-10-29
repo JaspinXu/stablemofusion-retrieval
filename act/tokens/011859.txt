@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV stop/NOUN and/CCONJ then/ADV walk/VERB backward/ADV before/ADP walk/VERB forward/ADV again/ADV while/SCONJ a/DET man/NOUN walk/VERB forward/ADV slowly/ADV and/CCONJ clumsily/ADV 

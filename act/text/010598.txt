@@ -1,0 +1,1 @@
+A person walks forward diagonally, then turns to the left, subsequently jumps forward and kicks at something before moving backwards.

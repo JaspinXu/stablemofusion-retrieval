@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET circle/NOUN then/ADV a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN from/ADP their/PRON right/NOUN hold/VERB it/PRON up/ADP to/ADP their/PRON left/ADJ and/CCONJ subsequently/ADV place/VERB it/PRON back/ADV down/ADV 

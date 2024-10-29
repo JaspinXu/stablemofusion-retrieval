@@ -1,0 +1,18 @@
+a person walks downward in a semicircle to the right hand side and stands still.
+a person walks slowly in diagonal
+a person walks downward in a semicircle to the right hand side and stands still.
+robot walking forward from right and ended up at left.
+a person walks downward in a semicircle to the right hand side and stands still.
+stiffly walks down stairs with no emotion or additional movements.
+a person quickly walks to the left.
+a person walks slowly in diagonal
+a person quickly walks to the left.
+robot walking forward from right and ended up at left.
+a person quickly walks to the left.
+stiffly walks down stairs with no emotion or additional movements.
+a person walks forward in a counter-clockwise trajectory a quarter turn.
+a person walks slowly in diagonal
+a person walks forward in a counter-clockwise trajectory a quarter turn.
+robot walking forward from right and ended up at left.
+a person walks forward in a counter-clockwise trajectory a quarter turn.
+stiffly walks down stairs with no emotion or additional movements.

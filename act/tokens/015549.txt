@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB something/PRON drink/NOUN place/VERB it/PRON down/ADP and/CCONJ then/ADV turn/VERB forward/ADV after/SCONJ that/PRON a/DET man/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV run/VERB to/ADP the/DET right/NOUN before/ADP return/VERB to/ADP the/DET left/NOUN again/ADV and/CCONJ stop/VERB in/ADP the/DET middle/ADJ 

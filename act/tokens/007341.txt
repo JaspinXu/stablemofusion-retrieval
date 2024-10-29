@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV five/NUM step/NOUN down/ADP the/DET step/NOUN then/ADV pivot/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB 

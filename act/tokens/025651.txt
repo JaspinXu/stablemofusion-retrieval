@@ -1,0 +1,1 @@
+a/DET person/NOUN act/VERB out/ADP the/DET motion/NOUN for/ADP the/DET song/NOUN i/PRON m/VERB a/DET little/ADJ teapot/NOUN then/ADV a/DET man/NOUN walk/VERB two/NUM step/NOUN forward/ADV and/CCONJ backwards/ADV in/ADP a/DET semicircle/NOUN before/ADP start/VERB to/PART run/VERB 

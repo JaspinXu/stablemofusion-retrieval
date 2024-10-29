@@ -1,0 +1,1 @@
+a/DET person/NOUN face/VERB something/PRON and/CCONJ step/VERB clockwise/NOUN around/ADP it/PRON then/ADV step/VERB back/ADV around/ADP it/PRON counterclockwise/VERB subsequently/ADV with/SCONJ their/PRON left/ADJ arm/NOUN raise/VERB the/DET person/NOUN move/VERB their/PRON forearm/NOUN over/ADP their/PRON head/NOUN out/ADP in/ADP front/NOUN and/CCONJ then/ADV back/ADV 

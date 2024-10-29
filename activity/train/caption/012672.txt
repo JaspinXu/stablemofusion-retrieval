@@ -1,0 +1,18 @@
+a person side skips to their right, then they side skip a few steps to their left and back again to their right.
+a person walking up an elevated surface
+a person side skips to their right, then they side skip a few steps to their left and back again to their right.
+a person walks up stairs.
+a person side skips to their right, then they side skip a few steps to their left and back again to their right.
+a person approaches an obstacle and then steps onto the obstacle.
+a person side steps right to left and then right before returning to their starting position.
+a person walking up an elevated surface
+a person side steps right to left and then right before returning to their starting position.
+a person walks up stairs.
+a person side steps right to left and then right before returning to their starting position.
+a person approaches an obstacle and then steps onto the obstacle.
+a person sidesteps back and forth in a line
+a person walking up an elevated surface
+a person sidesteps back and forth in a line
+a person walks up stairs.
+a person sidesteps back and forth in a line
+a person approaches an obstacle and then steps onto the obstacle.

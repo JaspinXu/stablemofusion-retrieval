@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX move/VERB his/PRON leg/NOUN and/CCONJ arm/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET clockwise/NOUN loop/NOUN 

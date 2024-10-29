@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP a/DET room/NOUN first/ADV with/ADP his/PRON hand/NOUN on/ADP his/PRON waist/NOUN then/ADV release/VERB they/PRON and/CCONJ let/VERB his/PRON arm/NOUN drop/VERB down/ADP to/ADP the/DET side/NOUN subsequently/ADV the/DET right/ADJ hand/NOUN poke/VERB to/ADP the/DET left/ADJ side/NOUN right/ADJ side/NOUN and/CCONJ the/DET middle/ADJ 

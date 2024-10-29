@@ -1,0 +1,1 @@
+A person side steps to their left, then side steps to their right, and subsequently walks in a circular path.

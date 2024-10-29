@@ -1,0 +1,18 @@
+a person runs forward and jumps over something, then turns around and jumps back over it.
+a person walks back and forth from left to right, stops, and stands in one place.
+a person runs forward and jumps over something, then turns around and jumps back over it.
+a person walks to the left, then to the right, then back to the left finishing in the center.
+a person runs forward and jumps over something, then turns around and jumps back over it.
+the person walks side to side
+a man slowly leaps forward, turns around and leaps again and then repeats the forward leap.
+a person walks back and forth from left to right, stops, and stands in one place.
+a man slowly leaps forward, turns around and leaps again and then repeats the forward leap.
+a person walks to the left, then to the right, then back to the left finishing in the center.
+a man slowly leaps forward, turns around and leaps again and then repeats the forward leap.
+the person walks side to side
+a person jogs and hops over object.
+a person walks back and forth from left to right, stops, and stands in one place.
+a person jogs and hops over object.
+a person walks to the left, then to the right, then back to the left finishing in the center.
+a person jogs and hops over object.
+the person walks side to side

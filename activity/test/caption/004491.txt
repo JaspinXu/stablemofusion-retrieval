@@ -1,0 +1,6 @@
+person jumps to the left, then jumps to the right, then turns around and walks back to the start before jumping once again.
+a person walks a few steps, then begins to jog or run.
+a person sidesteps to his left, to his right, walks back and repeats this.
+a person walks a few steps, then begins to jog or run.
+person is hopping back and forth
+a person walks a few steps, then begins to jog or run.

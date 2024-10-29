@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET cane/NOUN then/ADV pick/VERB up/ADP a/DET cloth/NOUN with/ADP the/DET left/ADJ hand/NOUN and/CCONJ an/DET item/NOUN with/ADP the/DET right/ADJ hand/NOUN subsequently/ADV wipe/VERB it/PRON 

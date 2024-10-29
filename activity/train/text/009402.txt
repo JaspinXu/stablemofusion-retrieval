@@ -1,0 +1,1 @@
+The man walks forward 5 steps and then turns left while walking.

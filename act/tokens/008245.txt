@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV swing/VERB around/ADV and/CCONJ walk/VERB back/ADV while/SCONJ the/DET person/NOUN be/AUX hold/VERB onto/ADP the/DET rail/NOUN as/SCONJ they/PRON walk/VERB downstairs/ADV 

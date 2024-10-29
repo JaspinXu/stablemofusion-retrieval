@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB down/ADP while/SCONJ possibly/ADV hold/VERB onto/ADP a/DET handrail/NOUN then/ADV a/DET man/NOUN raise/VERB his/PRON left/ADJ hand/NOUN to/PART grab/VERB onto/ADP a/DET stair/NOUN railing/NOUN and/CCONJ subsequently/ADV lift/VERB his/PRON foot/NOUN one/NUM at/ADP a/DET time/NOUN to/PART climb/VERB up/ADP the/DET stair/NOUN 

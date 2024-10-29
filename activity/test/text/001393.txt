@@ -1,0 +1,1 @@
+The sim walks down the plane in a wobbly fashion, then a man walks forward, picks up an object with his left hand, puts it back down, and subsequently steps backward.

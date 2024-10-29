@@ -1,0 +1,1 @@
+A figure walks forward, then zags to the left, before walking right. Following that, this person walks forward, picks something up, and then walks back.

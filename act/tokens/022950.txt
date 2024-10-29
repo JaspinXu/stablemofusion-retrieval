@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV trip/NOUN and/CCONJ then/ADV keep/VERB walk/VERB subsequently/ADV the/DET man/NOUN take/VERB 2/NUM step/NOUN to/ADP the/DET left/ADJ walk/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/ADJ 

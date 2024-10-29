@@ -1,0 +1,1 @@
+A figure lifts an object and places it back on the ground slowly, then the man walks in a counterclockwise direction.

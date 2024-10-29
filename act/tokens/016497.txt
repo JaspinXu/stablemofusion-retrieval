@@ -1,0 +1,1 @@
+from/ADP a/DET leftleaning/ADJ position/NOUN someone/PRON slowly/ADV pace/VERB around/ADP in/ADP a/DET slow/ADJ circle/NOUN while/SCONJ look/VERB around/ADV then/ADV a/DET man/NOUN look/VERB around/ADV and/CCONJ also/ADV walk/VERB in/ADP a/DET circle/NOUN 

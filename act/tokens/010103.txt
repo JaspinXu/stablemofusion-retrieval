@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB on/ADP one/NUM foot/NOUN then/ADV land/VERB on/ADP two/NUM foot/NOUN twice/ADV next/ADJ turn/VERB around/ADV and/CCONJ subsequently/ADV take/VERB four/NUM step/NOUN downhill/ADV before/ADP stop/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN raise/VERB their/PRON left/ADJ arm/NOUN and/CCONJ strum/VERB something/PRON with/ADP their/PRON right/ADJ arm/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV make/VERB a/DET counterclockwise/NOUN turn/NOUN pivot/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV adjacent/ADJ to/ADP their/PRON original/ADJ starting/NOUN point/NOUN 

@@ -1,0 +1,1 @@
+A person jumps clockwise, then rotates clockwise again at 90 degrees, and follows that with a counterclockwise circle, while standing still and slightly swaying their right and left arms.

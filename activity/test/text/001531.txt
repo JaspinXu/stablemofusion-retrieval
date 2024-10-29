@@ -1,0 +1,1 @@
+A person walks while turning left, takes four steps forward, and then turns again to end up facing to their left.

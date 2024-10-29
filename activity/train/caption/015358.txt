@@ -1,0 +1,18 @@
+person walks right to left, in zigzag
+a person walks back and forth from left to right, then stops in the middle.
+person walks right to left, in zigzag
+person turns and walks to their right, reaches the edge of the platform, then turns around and walks all the way to their left, then they repeat this process.
+person walks right to left, in zigzag
+a person walks to the right, then to the left, then back to the starting position.
+a person walks in an s-curve pattern.
+a person walks back and forth from left to right, then stops in the middle.
+a person walks in an s-curve pattern.
+person turns and walks to their right, reaches the edge of the platform, then turns around and walks all the way to their left, then they repeat this process.
+a person walks in an s-curve pattern.
+a person walks to the right, then to the left, then back to the starting position.
+a person is walking around in a snakey motion
+a person walks back and forth from left to right, then stops in the middle.
+a person is walking around in a snakey motion
+person turns and walks to their right, reaches the edge of the platform, then turns around and walks all the way to their left, then they repeat this process.
+a person is walking around in a snakey motion
+a person walks to the right, then to the left, then back to the starting position.

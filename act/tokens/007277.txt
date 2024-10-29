@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN on/ADP its/PRON right/NOUN then/ADV sit/VERB the/DET item/NOUN down/ADP on/ADP its/PRON left/NOUN while/SCONJ move/VERB their/PRON hand/NOUN side/NOUN to/PART side/VERB 

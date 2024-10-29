@@ -1,0 +1,1 @@
+A person goes and sits down, then starts to jog in place, turns to their right, and runs to the edge. After that, they turn and run all the way to their left, and subsequently repeat this jogging pattern.

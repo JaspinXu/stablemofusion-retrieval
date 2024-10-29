@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV walk/VERB up/ADP a/DET staircase/NOUN and/CCONJ afterward/ADV he/PRON walk/VERB around/ADV like/ADP a/DET chicken/NOUN 

@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX walk/VERB in/ADP a/DET loop/VERB fashion/NOUN from/ADP left/ADJ to/ADP right/ADV before/ADP stop/VERB at/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET plane/NOUN towards/ADP the/DET center/NOUN and/CCONJ then/ADV a/DET man/NOUN walk/VERB in/ADP an/DET s/PROPN pattern/NOUN before/ADP stop/VERB 

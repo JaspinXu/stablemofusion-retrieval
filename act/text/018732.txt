@@ -1,0 +1,1 @@
+A person jogs for 3 seconds, then stands still for a moment, and subsequently runs full speed for 3 seconds before stopping. Following that, the person crouches down to sit on their heels, and then they slowly walk forward before turning around.

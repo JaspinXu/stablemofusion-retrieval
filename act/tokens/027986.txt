@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB around/ADP then/ADV the/DET man/NOUN take/VERB two/NUM step/NOUN forward/ADV swing/NOUN around/ADV and/CCONJ walk/VERB back/ADV 

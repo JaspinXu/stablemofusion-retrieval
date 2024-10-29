@@ -1,0 +1,12 @@
+a person walks forward, backward, and forward again.
+the person turns to the left, walks, then walks up something.
+a person walks forward, backward, and forward again.
+a person walks around to the left on uneven ground.
+a man walkinds in a clockwise circle motion.
+the person turns to the left, walks, then walks up something.
+a man walkinds in a clockwise circle motion.
+a person walks around to the left on uneven ground.
+person walks forward, then walks backwards, then walks in zig zag pattern
+the person turns to the left, walks, then walks up something.
+person walks forward, then walks backwards, then walks in zig zag pattern
+a person walks around to the left on uneven ground.

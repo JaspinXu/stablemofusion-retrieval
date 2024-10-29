@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB five/NUM step/NOUN backwards/ADV start/VERB with/ADP their/PRON right/ADJ leg/NOUN and/CCONJ finish/VERB with/ADP their/PRON leg/NOUN together/ADV then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN towards/ADP the/DET right/ADJ side/NOUN of/ADP his/PRON body/NOUN 

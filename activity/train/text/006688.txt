@@ -1,0 +1,1 @@
+A person walks downward in a semicircle to the left-hand side and stands still, then a robot walks forward from the left and ends up on the right.

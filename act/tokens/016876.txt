@@ -1,0 +1,1 @@
+a/DET person/NOUN drink/VERB from/ADP a/DET glass/NOUN then/ADV a/DET man/NOUN get/VERB up/ADP from/ADP lie/VERB on/ADP the/DET ground/NOUN walk/VERB in/ADP a/DET complete/ADJ clockwise/NOUN circle/NOUN and/CCONJ subsequently/ADV lay/VERB back/ADV down/ADV in/ADP the/DET same/ADJ position/NOUN he/PRON get/VERB up/ADP from/ADP 

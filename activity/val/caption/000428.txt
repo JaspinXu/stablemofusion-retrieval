@@ -1,0 +1,18 @@
+a person jumps backwards and has to steady themselves.
+a man walks forward and then comes to a stop.
+a person jumps backwards and has to steady themselves.
+a walking man makes a right hand turn.
+a person jumps backwards and has to steady themselves.
+a person walks from the back right of a location to the top left of the same location in a smooth circular motion
+someone pushes himself up and takes a step back
+a man walks forward and then comes to a stop.
+someone pushes himself up and takes a step back
+a walking man makes a right hand turn.
+someone pushes himself up and takes a step back
+a person walks from the back right of a location to the top left of the same location in a smooth circular motion
+a person jumps backward onto an object.
+a man walks forward and then comes to a stop.
+a person jumps backward onto an object.
+a walking man makes a right hand turn.
+a person jumps backward onto an object.
+a person walks from the back right of a location to the top left of the same location in a smooth circular motion

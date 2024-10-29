@@ -1,0 +1,4 @@
+the stick figure moves his left hand slightly to the left  
+a board under the stick figure's feet moves left and right
+a stick figure moves across to the right  
+a person jumps up and down twice  

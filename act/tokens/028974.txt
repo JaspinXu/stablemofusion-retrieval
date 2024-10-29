@@ -1,0 +1,1 @@
+a/DET person/NOUN open/VERB a/DET cabinet/NOUN on/ADP the/DET ground/NOUN and/CCONJ then/ADV perform/VERB a/DET ballet/NOUN dance/NOUN move/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 5/NUM slow/ADJ step/NOUN forward/ADV then/ADV move/VERB back/ADV sit/VERB down/ADP and/CCONJ subsequently/ADV get/VERB up/ADP to/PART move/VERB forward/ADV again/ADV 

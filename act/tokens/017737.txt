@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP an/DET 8/NUM pattern/NOUN then/ADV act/VERB like/ADP a/DET human/ADJ elephant/NOUN 

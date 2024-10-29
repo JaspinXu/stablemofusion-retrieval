@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB on/ADP the/DET floor/NOUN move/VERB from/ADP one/NUM place/NOUN to/ADP another/PRON to/PART create/VERB a/DET box/NOUN then/ADV the/DET individual/NOUN turn/VERB to/ADP the/DET right/ADJ walk/VERB forward/ADV step/NOUN back/ADV and/CCONJ pick/VERB something/PRON up/ADP off/ADP the/DET ground/NOUN 

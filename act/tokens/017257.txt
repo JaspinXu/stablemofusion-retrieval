@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB in/ADP an/DET oval/NOUN on/ADP the/DET floor/NOUN then/ADV he/PRON walk/VERB slightly/ADV to/ADP the/DET right/ADJ and/CCONJ forward/ADV subsequently/ADV walk/VERB backwards/ADV to/ADP the/DET same/ADJ spot/NOUN and/CCONJ after/ADP that/PRON take/VERB side/NOUN step/NOUN to/ADP the/DET right/NOUN 

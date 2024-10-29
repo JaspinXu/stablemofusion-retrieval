@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB two/NUM step/NOUN forward/ADV first/ADV with/ADP the/DET right/ADJ leg/NOUN and/CCONJ then/ADV with/ADP the/DET left/ADJ and/CCONJ subsequently/ADV walk/VERB forward/ADV to/PART come/VERB to/ADP a/DET stop/NOUN 

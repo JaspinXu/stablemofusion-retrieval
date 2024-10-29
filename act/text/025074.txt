@@ -1,0 +1,1 @@
+A stick person walks from side to side, then pivots on their left foot to spin around and subsequently walks back the way they came.

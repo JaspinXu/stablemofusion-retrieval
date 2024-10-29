@@ -1,0 +1,1 @@
+A person runs forward over an object and then walks forward, subsequently starting to walk up something.

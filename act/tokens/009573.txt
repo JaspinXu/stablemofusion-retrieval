@@ -1,0 +1,1 @@
+the/DET toon/NOUN be/AUX walk/VERB at/ADP a/DET moderate/ADJ speed/NOUN slightly/ADV limp/VERB toward/ADP the/DET end/NOUN of/ADP the/DET plane/NOUN then/ADV a/DET person/NOUN bounce/VERB a/DET ball/NOUN three/NUM time/NOUN and/CCONJ take/VERB a/DET shot/NOUN 

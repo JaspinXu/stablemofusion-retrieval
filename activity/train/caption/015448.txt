@@ -1,0 +1,18 @@
+a person walks at a diagonal, downwards and to the right.
+the person is jogging back and forth.
+a person walks at a diagonal, downwards and to the right.
+person runs left to right twice then to right and moves standing still in middle facing forward
+a person walks at a diagonal, downwards and to the right.
+a person jogs back and forth once then walks back to the start
+a person walks forward and steps over something
+the person is jogging back and forth.
+a person walks forward and steps over something
+person runs left to right twice then to right and moves standing still in middle facing forward
+a person walks forward and steps over something
+a person jogs back and forth once then walks back to the start
+a person walks towards left side and climb up and down and walks forward.
+the person is jogging back and forth.
+a person walks towards left side and climb up and down and walks forward.
+person runs left to right twice then to right and moves standing still in middle facing forward
+a person walks towards left side and climb up and down and walks forward.
+a person jogs back and forth once then walks back to the start

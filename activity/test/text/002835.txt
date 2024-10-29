@@ -1,0 +1,1 @@
+A person is walking from left to right, then back to left, and subsequently to the right. After that, they pick something up with both hands, move it to the side, and then place it back down.

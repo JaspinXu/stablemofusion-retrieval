@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX jog/VERB forward/ADV then/ADV a/DET robot/NOUN move/VERB from/ADP leave/VERB to/ADP right/NOUN and/CCONJ turn/VERB its/PRON body/NOUN towards/ADP the/DET right/NOUN 

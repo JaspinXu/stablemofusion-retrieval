@@ -1,0 +1,1 @@
+A person walks forward, then turns around and walks a few more steps; subsequently, they walk around to the right, take a few steps forward, stop, and finally walk backwards to the place where they started.

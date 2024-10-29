@@ -1,0 +1,1 @@
+the/DET man/NOUN crab/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV roll/VERB around/ADV a/DET few/ADJ time/NOUN next/ADV he/PRON walk/VERB forward/ADV a/DET few/ADJ step/NOUN raise/VERB his/PRON left/ADJ hand/NOUN to/ADP his/PRON face/NOUN and/CCONJ then/ADV continue/VERB walk/VERB in/ADP a/DET circle/NOUN 

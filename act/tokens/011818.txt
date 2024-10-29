@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV in/ADP a/DET slow/ADJ clockwise/NOUN circle/NOUN stop/VERB in/ADP a/DET standing/NOUN position/NOUN then/ADV a/DET person/NOUN hurry/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV hurry/VERB back/ADV to/ADP the/DET right/NOUN 

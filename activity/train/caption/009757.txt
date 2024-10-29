@@ -1,0 +1,2 @@
+a person standing still does nothing.
+the sim walks down the plane, begins to climb up stairs.

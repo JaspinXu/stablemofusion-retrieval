@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB moderately/ADV forward/ADV then/ADV a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV turn/VERB counterclockwise/NOUN and/CCONJ turn/VERB around/ADP 

@@ -1,0 +1,1 @@
+A person walks around in a circle, next takes a couple of steps forward, pauses, turns, and jogs to the left, then jogs to the right, and finally jogs back to where he started.

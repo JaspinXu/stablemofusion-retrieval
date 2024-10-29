@@ -1,0 +1,1 @@
+The man is making gestures, then walks forward, turns anti counterclockwise, and walks back the other way. After that, he pauses, takes three steps backward, and subsequently walks diagonally forward for three steps, pauses again, and takes one step backward.

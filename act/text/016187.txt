@@ -1,0 +1,1 @@
+A person climbs up and down steps in a square, then walks in a square shape while going up and down on objects.

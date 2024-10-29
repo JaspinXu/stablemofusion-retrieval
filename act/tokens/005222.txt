@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB ballet/NOUN leap/NOUN then/ADV take/VERB one/NUM step/NOUN forward/ADV hesitate/NOUN and/CCONJ subsequently/ADV take/VERB a/DET step/NOUN backward/ADV before/ADP continue/VERB with/ADP more/ADJ leap/NOUN 

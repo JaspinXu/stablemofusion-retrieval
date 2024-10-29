@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV normally/ADV then/ADV take/VERB two/NUM step/NOUN slip/NOUN and/CCONJ slide/NOUN to/ADP his/PRON left/NOUN but/CCONJ recover/NOUN and/CCONJ walk/VERB to/ADP his/PRON right/NOUN 

@@ -1,0 +1,1 @@
+The body jumps forward, then stops, subsequently walking in a slight bend from left to right.

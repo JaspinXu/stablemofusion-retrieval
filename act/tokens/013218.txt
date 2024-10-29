@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX sit/VERB down/ADP check/VERB their/PRON shoe/NOUN then/ADV sidestep/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ finally/ADV return/VERB back/ADV to/ADP center/NOUN 

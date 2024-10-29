@@ -1,0 +1,1 @@
+A person walks forward and then, when they get shot, moves back into the first position. Following that, they crouch slightly to pick up an object, horizontally flip it vertically, and then place it back in a horizontal manner.

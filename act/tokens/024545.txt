@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB then/ADV sit/VERB on/ADP the/DET ground/NOUN get/VERB up/ADP again/ADV and/CCONJ walk/VERB off/ADP follow/VERB that/SCONJ the/DET person/NOUN be/AUX happy/ADJ while/SCONJ dance/VERB with/ADP the/DET baby/NOUN 

@@ -1,0 +1,4 @@
+the sim walks forward making a bit of a zig zag shape.
+a person walks forward, shuffles to the right, the walks to the left.
+the sim walks forward making a bit of a zig zag shape.
+walking forward and having a stumble to the left

@@ -1,0 +1,12 @@
+a man takes a step forward, turns around right side and walks back
+a person hesitates in place and then walks forward.
+a man takes a step forward, turns around right side and walks back
+the person takes a few steps forwards.
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.
+a person hesitates in place and then walks forward.
+a person takes two steps forward and turns aroudn 180 degrees and returns to his starting postion.
+the person takes a few steps forwards.
+the man walks forward turns and walks back.
+a person hesitates in place and then walks forward.
+the man walks forward turns and walks back.
+the person takes a few steps forwards.

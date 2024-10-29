@@ -1,0 +1,1 @@
+A person walks in a quarter turn clockwise arc, then slowly jogs forward.

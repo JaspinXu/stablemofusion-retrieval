@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN in/ADP a/DET zigzag/PROPN motion/NOUN subsequently/ADV move/VERB with/ADP open/ADJ hand/NOUN in/ADP front/NOUN of/ADP he/PRON do/VERB a/DET march/VERB motion/NOUN with/ADP his/PRON arm/NOUN and/CCONJ then/ADV search/VERB with/ADP his/PRON left/ADJ hand/NOUN 

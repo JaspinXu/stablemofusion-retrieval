@@ -1,0 +1,1 @@
+a/DET person/NOUN practice/VERB a/DET sequence/NOUN of/ADP karate/ADJ move/NOUN first/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ after/ADP that/SCONJ they/PRON lift/VERB both/DET arm/NOUN out/ADP to/ADP their/PRON side/NOUN before/ADP return/VERB they/PRON to/ADP their/PRON thigh/NOUN while/SCONJ sit/VERB 

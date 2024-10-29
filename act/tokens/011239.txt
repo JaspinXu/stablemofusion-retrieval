@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB four/NUM step/NOUN forward/ADV then/ADV stop/VERB and/CCONJ subsequently/ADV a/DET person/NOUN walk/VERB forward/ADV while/SCONJ curve/VERB to/ADP their/PRON left/ADJ 

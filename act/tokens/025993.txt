@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX act/VERB like/ADP a/DET dinosaur/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV spin/NOUN around/ADP counterclockwise/NOUN on/ADP his/PRON left/ADJ foot/NOUN walk/VERB back/ADV to/ADP where/SCONJ he/PRON come/VERB from/ADP spin/NOUN counterclockwise/VERB on/ADP his/PRON left/ADJ foot/NOUN again/ADV and/CCONJ walk/VERB forwards/ADV 

@@ -1,0 +1,1 @@
+the/DET person/NOUN run/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN twice/ADV then/ADV kick/VERB two/NUM time/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP two/NUM forward/ADJ kick/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV perform/VERB a/DET karatetype/NOUN motion/NOUN move/VERB forward/ADV and/CCONJ then/ADV backward/ADV and/CCONJ subsequently/ADV walk/VERB slowly/ADV in/ADP a/DET 34/NUM circle/NOUN 

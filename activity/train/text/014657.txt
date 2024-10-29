@@ -1,0 +1,1 @@
+A person moves to his right, then takes a large step towards that direction.

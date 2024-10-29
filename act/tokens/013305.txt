@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB horizontal/ADJ jump/NOUN backandforth/NOUN and/CCONJ then/ADV walk/VERB forward/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ 

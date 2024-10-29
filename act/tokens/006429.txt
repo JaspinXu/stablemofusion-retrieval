@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV backwards/ADV then/ADV raise/VERB both/DET hand/NOUN towards/ADP one/NUM another/DET to/ADP their/PRON chest/NOUN and/CCONJ subsequently/ADV lower/VERB their/PRON hand/NOUN back/ADV to/ADP a/DET "/PUNCT normal/ADJ "/PUNCT position/NOUN 

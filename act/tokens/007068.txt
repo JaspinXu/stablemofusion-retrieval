@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM quick/ADJ step/NOUN backward/ADV then/ADV jump/VERB up/ADP and/CCONJ down/ADP 

@@ -1,0 +1,18 @@
+person walks forwards then takes a large step over something
+robot started to move forward and stopped
+person walks forwards then takes a large step over something
+a person walks forward while swinging their arms.
+person walks forwards then takes a large step over something
+a person walks forward and then stops.
+a person takes long strides forward and takes an even longer stride using their right foot to jump over something.
+robot started to move forward and stopped
+a person takes long strides forward and takes an even longer stride using their right foot to jump over something.
+a person walks forward while swinging their arms.
+a person takes long strides forward and takes an even longer stride using their right foot to jump over something.
+a person walks forward and then stops.
+a person walks forward then lunges forward
+robot started to move forward and stopped
+a person walks forward then lunges forward
+a person walks forward while swinging their arms.
+a person walks forward then lunges forward
+a person walks forward and then stops.

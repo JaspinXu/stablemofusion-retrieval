@@ -1,0 +1,1 @@
+A person steps forward, then moves side to side, followed by stepping forward again, then side to side once more. After that, the person walks two steps forward and then performs a full turn.

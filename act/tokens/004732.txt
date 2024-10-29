@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB two/NUM jump/VERB jack/NOUN then/ADV sit/VERB down/ADP and/CCONJ get/VERB up/ADV 

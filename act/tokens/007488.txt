@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADV then/ADV raise/VERB his/PRON hand/NOUN overhead/ADV before/ADP step/VERB up/ADP onto/ADP a/DET beam/NOUN after/ADP walk/VERB on/ADP the/DET beam/NOUN he/PRON step/VERB down/ADP off/ADP the/DET beam/NOUN 

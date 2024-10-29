@@ -1,0 +1,1 @@
+A man picks something up, then puts it back, and subsequently moves an item from right to left before returning to pick up another.

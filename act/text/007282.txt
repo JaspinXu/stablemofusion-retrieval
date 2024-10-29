@@ -1,0 +1,1 @@
+A person jumps several times, but then during the last jump, he doesn't raise his feet off the ground. Following that, he walks two steps forward, pivots on his left leg until he completes a half turn, and then walks two steps back to where he started from.

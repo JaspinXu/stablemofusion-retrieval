@@ -1,0 +1,1 @@
+a/DET person/NOUN hold/VERB their/PRON arm/NOUN out/ADP then/ADV put/VERB they/PRON down/ADP and/CCONJ subsequently/ADV kick/VERB each/DET leg/NOUN backward/ADV one/NUM at/ADP a/DET time/NOUN while/SCONJ also/ADV move/VERB their/PRON right/ADJ arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN 

@@ -1,0 +1,1 @@
+the/DET person/NOUN bend/VERB down/ADP and/CCONJ get/VERB on/ADP their/PRON knee/NOUN then/ADV a/DET person/NOUN step/VERB forward/ADV to/PART interact/VERB with/ADP an/DET item/NOUN and/CCONJ after/ADP that/DET step/NOUN back/ADV without/ADP the/DET item/NOUN 

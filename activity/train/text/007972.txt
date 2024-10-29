@@ -1,0 +1,1 @@
+The figure, facing forward, takes two steps in that direction; it then turns right and takes an additional two steps. After that, a person grabs something to his left and then steps forward several steps into a grey box.

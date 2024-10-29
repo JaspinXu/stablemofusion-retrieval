@@ -1,0 +1,18 @@
+a person is walking forward from one end to the other and then turns around and returns.
+a person is running on the spot.
+a person is walking forward from one end to the other and then turns around and returns.
+a person jogs in place.
+a person is walking forward from one end to the other and then turns around and returns.
+a man jogs on the spot for a few seconds.
+he turns left forward directally
+a person is running on the spot.
+he turns left forward directally
+a person jogs in place.
+he turns left forward directally
+a man jogs on the spot for a few seconds.
+a person walks and turns left to walk back the same way.
+a person is running on the spot.
+a person walks and turns left to walk back the same way.
+a person jogs in place.
+a person walks and turns left to walk back the same way.
+a man jogs on the spot for a few seconds.

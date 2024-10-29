@@ -1,0 +1,1 @@
+A person pivots 90 degrees to the left, then jumps forward with both feet, landing and walking forward one step with the left and right foot. Following that, they turn around 180 degrees and take 3 steps forward starting with the left foot, before finally jogging forward a couple of feet.

@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB backwards/ADV and/CCONJ then/ADV a/DET man/NOUN jump/VERB in/ADP the/DET air/NOUN perform/VERB a/DET 360degree/PROPN turn/NOUN land/NOUN and/CCONJ subsequently/ADV do/VERB the/DET same/ADJ action/NOUN again/ADV 

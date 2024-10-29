@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV walk/VERB back/ADV to/ADP the/DET right/ADJ before/ADP finally/ADV walk/VERB forward/ADV while/SCONJ step/VERB carefully/ADV 

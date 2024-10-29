@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV as/SCONJ if/SCONJ his/PRON leg/NOUN hurt/VERB then/ADV he/PRON stand/VERB on/ADP the/DET ground/NOUN move/NOUN counterclockwise/NOUN in/ADP a/DET semicircle/NOUN and/CCONJ subsequently/ADV stop/VERB 

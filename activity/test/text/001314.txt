@@ -1,0 +1,1 @@
+A person is walking, then turning around and walking back, while the sim walks forward, reaching the end of the plane and subsequently looping backwards again.

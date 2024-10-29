@@ -1,0 +1,1 @@
+a/DET person/NOUN shuffle/NOUN to/ADP the/DET left/ADJ then/ADV shuffle/VERB to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV sit/VERB in/ADP a/DET chair/NOUN 

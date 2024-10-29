@@ -1,0 +1,1 @@
+A person walks diagonally to the left, then climbs a ladder, after that climbs down and subsequently walks in place for several steps.

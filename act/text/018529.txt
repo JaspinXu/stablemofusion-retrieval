@@ -1,0 +1,1 @@
+A person walks forward, then appears to climb up 3 steps of a ladder, goes back down the 3 steps, and turns back towards the direction they came from. After that, the person walks stationary on a treadmill.

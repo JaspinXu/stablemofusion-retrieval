@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pause/NOUN and/CCONJ turn/VERB right/ADJ then/ADV proceed/VERB forward/ADV and/CCONJ spin/NOUN in/ADP a/DET circle/NOUN next/ADP the/DET person/NOUN clap/NOUN once/ADV walk/VERB forward/ADV again/ADV and/CCONJ finally/ADV sit/VERB down/ADP 

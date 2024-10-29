@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV and/CCONJ then/ADV spin/VERB counterclockwise/VERB subsequently/ADV a/DET man/NOUN walk/VERB forward/ADV but/CCONJ be/AUX push/VERB backwards/ADV after/SCONJ that/PRON he/PRON recover/VERB quickly/ADV and/CCONJ continue/VERB to/PART walk/VERB forward/ADV 

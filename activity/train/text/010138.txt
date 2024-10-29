@@ -1,0 +1,1 @@
+A person walks forward, skips, and continues walking side to side, then walks forward and subsequently walks back.

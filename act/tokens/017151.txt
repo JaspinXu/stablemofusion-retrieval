@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB around/ADP counterclockwise/NOUN walk/VERB forward/ADV and/CCONJ up/ADP something/PRON then/ADV turn/VERB around/ADP clockwise/NOUN and/CCONJ subsequently/ADV bend/VERB down/ADP to/PART take/VERB off/ADP a/DET boot/NOUN 

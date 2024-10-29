@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB to/PART walk/VERB slowly/ADV forward/ADV then/ADV head/VERB toward/ADP the/DET right/NOUN and/CCONJ continue/VERB walk/VERB forward/ADV in/ADP that/DET direction/NOUN 

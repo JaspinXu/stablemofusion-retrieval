@@ -1,0 +1,12 @@
+a person walks forward at a normal pace.
+a person walks over rough terrain.
+a person walks forward at a normal pace.
+the person is walking in a zigzag shape.
+a person walks forward at a normal speed then stops.
+a person walks over rough terrain.
+a person walks forward at a normal speed then stops.
+the person is walking in a zigzag shape.
+the person walks forward at a steady pace
+a person walks over rough terrain.
+the person walks forward at a steady pace
+the person is walking in a zigzag shape.

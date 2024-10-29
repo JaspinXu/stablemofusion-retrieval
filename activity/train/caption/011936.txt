@@ -1,0 +1,18 @@
+a person appears to be looking around.
+a person walks in a left bend direction.
+a person appears to be looking around.
+the person walks in a curve
+a person appears to be looking around.
+a person walks while turning to the left.
+a person looks right and left.
+a person walks in a left bend direction.
+a person looks right and left.
+the person walks in a curve
+a person looks right and left.
+a person walks while turning to the left.
+a person standing still and looking forward, looks right, looks left, and then returns to looking forward.
+a person walks in a left bend direction.
+a person standing still and looking forward, looks right, looks left, and then returns to looking forward.
+the person walks in a curve
+a person standing still and looking forward, looks right, looks left, and then returns to looking forward.
+a person walks while turning to the left.

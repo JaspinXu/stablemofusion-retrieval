@@ -1,0 +1,1 @@
+A person recovers from being pushed while walking, then continues to walk forward, turns around, and walks a few more steps.

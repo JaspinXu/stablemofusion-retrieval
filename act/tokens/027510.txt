@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV make/VERB a/DET 90degree/NUM turn/NOUN to/ADP the/DET left/NOUN at/ADP a/DET gradual/ADJ angle/NOUN 

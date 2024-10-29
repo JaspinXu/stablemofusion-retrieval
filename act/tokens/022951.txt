@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB to/ADP the/DET right/ADJ then/ADV walk/VERB to/ADP the/DET left/ADJ turn/VERB and/CCONJ retrace/VERB his/PRON step/NOUN back/ADV to/ADP the/DET starting/NOUN point/NOUN while/SCONJ the/DET man/NOUN simultaneously/ADV move/VERB his/PRON hand/NOUN 

@@ -1,0 +1,1 @@
+the/DET man/NOUN start/VERB walk/VERB then/ADV turn/VERB around/ADV and/CCONJ begin/VERB run/VERB but/CCONJ then/ADV stop/VERB quickly/ADV follow/VERB that/SCONJ a/DET person/NOUN walk/VERB slowly/ADV forward/ADV with/ADP their/PRON arm/NOUN swinge/VERB slightly/ADV 

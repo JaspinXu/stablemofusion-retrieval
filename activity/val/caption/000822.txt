@@ -1,0 +1,18 @@
+a person walks in a clockwise direction.
+a person walked i left and right direction
+a person walks in a clockwise direction.
+a person paces to the left then the right , and left again to return to start position.
+a person walks in a clockwise direction.
+a person walks back and forth
+a person walks in a circle clockwise, stopping at the place where they started.
+a person walked i left and right direction
+a person walks in a circle clockwise, stopping at the place where they started.
+a person paces to the left then the right , and left again to return to start position.
+a person walks in a circle clockwise, stopping at the place where they started.
+a person walks back and forth
+a person walks in a circle counter-clockwise.
+a person walked i left and right direction
+a person walks in a circle counter-clockwise.
+a person paces to the left then the right , and left again to return to start position.
+a person walks in a circle counter-clockwise.
+a person walks back and forth

@@ -1,0 +1,1 @@
+someone/PRON walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN then/ADV a/DET man/NOUN follow/VERB by/ADP walk/VERB counterclockwise/NOUN in/ADP the/DET same/ADJ circular/ADJ path/NOUN 

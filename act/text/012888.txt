@@ -1,0 +1,1 @@
+A person walks forward, then turns to the left, jogs a few steps, and subsequently pivots to the right before jogging a few more steps, finally returning to the start point.

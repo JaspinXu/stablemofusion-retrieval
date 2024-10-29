@@ -1,0 +1,1 @@
+this/DET person/NOUN take/VERB two/NUM small/ADJ step/NOUN forward/ADV grab/VERB something/PRON then/ADV push/VERB two/NUM item/NOUN away/ADV from/ADP he/PRON follow/VERB by/ADP a/DET man/NOUN pass/VERB from/ADP left/ADJ to/ADP right/NOUN 

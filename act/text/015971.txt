@@ -1,0 +1,1 @@
+A person bends down and touches their left foot, then jogs in place for a moment, stops, and subsequently turns to their left to jog in a counterclockwise ellipse, returning to the point they started from.

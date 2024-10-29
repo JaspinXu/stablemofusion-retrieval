@@ -1,0 +1,12 @@
+a person walks in a large circle.
+a person walks up stairs slowly
+a person walks in a large circle.
+a person takes two steps forward and then marches slowly back to the original position.
+a person walks in a slow clockwise circle, stopping in a standing position.
+a person walks up stairs slowly
+a person walks in a slow clockwise circle, stopping in a standing position.
+a person takes two steps forward and then marches slowly back to the original position.
+a person walks in a clockwise circle.
+a person walks up stairs slowly
+a person walks in a clockwise circle.
+a person takes two steps forward and then marches slowly back to the original position.

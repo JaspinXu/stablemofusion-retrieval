@@ -1,0 +1,1 @@
+A person attempts to walk forward in a straight line, then wobbles while moving forward on the left side.

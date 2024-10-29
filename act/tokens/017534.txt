@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB something/PRON then/ADV move/VERB to/ADP the/DET left/ADJ one/NUM foot/NOUN forward/ADV and/CCONJ one/NUM foot/NOUN backward/ADV repeat/VERB this/DET five/NUM time/NOUN after/SCONJ that/PRON the/DET person/NOUN take/VERB three/NUM sideways/ADJ step/NOUN back/ADV to/ADP the/DET right/NOUN 

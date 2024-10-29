@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV squat/NOUN then/ADV get/VERB back/ADV up/ADP subsequently/ADV walk/VERB forward/ADV again/ADV while/SCONJ a/DET person/NOUN cross/VERB and/CCONJ then/ADV uncross/VERB their/PRON arm/NOUN 

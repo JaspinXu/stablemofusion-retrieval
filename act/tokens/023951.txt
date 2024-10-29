@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX dance/VERB in/ADP a/DET square/ADJ pattern/NOUN then/ADV walk/VERB in/ADP a/DET left/ADJ direction/NOUN and/CCONJ subsequently/ADV in/ADP a/DET right/ADJ direction/NOUN 

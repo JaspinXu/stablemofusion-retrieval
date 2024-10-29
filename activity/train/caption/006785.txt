@@ -1,0 +1,18 @@
+a person runs in place at varying speeds
+the person walks straight then turns left
+a person runs in place at varying speeds
+he bends left then stops
+a person runs in place at varying speeds
+a person walks forward then makes a left turn and stops
+a figure begins running in place, his speed increasing until he suddenly stops
+the person walks straight then turns left
+a figure begins running in place, his speed increasing until he suddenly stops
+he bends left then stops
+a figure begins running in place, his speed increasing until he suddenly stops
+a person walks forward then makes a left turn and stops
+a person faces forward and progressively runs faster while alternating arm bends at the elbow.
+the person walks straight then turns left
+a person faces forward and progressively runs faster while alternating arm bends at the elbow.
+he bends left then stops
+a person faces forward and progressively runs faster while alternating arm bends at the elbow.
+a person walks forward then makes a left turn and stops

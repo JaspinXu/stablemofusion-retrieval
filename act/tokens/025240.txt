@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forwards/ADV then/ADV spin/VERB around/ADP clockwise/NOUN on/ADP one/NUM leg/NOUN and/CCONJ walk/VERB the/DET other/ADJ way/NOUN follow/VERB that/SCONJ a/DET person/NOUN who/PRON be/AUX also/ADV walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN take/VERB eleven/NUM step/NOUN before/ADP stop/VERB 

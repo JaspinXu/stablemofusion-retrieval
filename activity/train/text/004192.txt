@@ -1,0 +1,1 @@
+The toon walks across the plane at a normal speed, then a person standing loses balance and falls to the left but subsequently recovers to stand upright.

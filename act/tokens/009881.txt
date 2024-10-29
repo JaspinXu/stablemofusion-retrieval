@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB upstairs/ADV forward/ADV then/ADV a/DET man/NOUN walk/VERB forward/ADV open/VERB a/DET door/NOUN and/CCONJ subsequently/ADV step/VERB back/ADV 

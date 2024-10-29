@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP on/ADP the/DET floor/NOUN then/ADV run/VERB to/ADP the/DET right/ADJ subsequently/ADV run/VERB to/ADP the/DET left/ADJ turn/VERB to/ADP the/DET right/NOUN and/CCONJ finally/ADV go/VERB back/ADV to/ADP the/DET middle/ADJ 

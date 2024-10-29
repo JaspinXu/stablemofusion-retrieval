@@ -1,0 +1,1 @@
+A person walks forward, then pivots on their right foot to spin around, subsequently walking back the way they came. After that, they walk forward again and come to a stop.

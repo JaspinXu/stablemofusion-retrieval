@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB while/SCONJ slightly/ADV turn/VERB clockwise/NOUN next/ADV strafe/VERB right/ADJ and/CCONJ then/ADV to/ADP the/DET left/ADJ 

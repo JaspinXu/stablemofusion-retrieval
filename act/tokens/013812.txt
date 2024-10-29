@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP a/DET circle/NOUN then/ADV walk/VERB forward/ADV in/ADP a/DET zigzag/NOUN step/NOUN back/ADV and/CCONJ continue/VERB walk/VERB forward/ADV in/ADP a/DET zigzag/NOUN 

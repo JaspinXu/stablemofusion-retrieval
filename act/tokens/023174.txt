@@ -1,0 +1,1 @@
+a/DET person/NOUN lower/NOUN and/CCONJ raise/VERB their/PRON arm/NOUN perpendicular/ADJ to/ADP their/PRON body/NOUN to/ADP 90/NUM degree/NOUN and/CCONJ then/ADV walk/VERB on/ADP uneven/ADJ terrain/NOUN 

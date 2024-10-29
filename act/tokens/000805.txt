@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET brisk/ADJ pace/NOUN then/ADV start/VERB in/ADP a/DET left/ADJ forward/ADJ lunge/NOUN and/CCONJ turn/VERB to/PART sit/VERB down/ADP as/SCONJ if/SCONJ sit/VERB in/ADP a/DET chair/NOUN 

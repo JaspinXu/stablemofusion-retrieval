@@ -1,0 +1,1 @@
+A person walks from the top left to the bottom right of the screen, then pivots on their right foot and goes back to where they started, subsequently jumping forward quickly and then stopping.

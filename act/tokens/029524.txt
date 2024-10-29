@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB a/DET small/ADJ object/NOUN from/ADP the/DET ground/NOUN then/ADV pick/VERB up/ADP two/NUM object/NOUN and/CCONJ begin/VERB perform/VERB a/DET motion/VERB action/NOUN with/ADP both/PRON 

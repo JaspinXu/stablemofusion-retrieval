@@ -1,0 +1,1 @@
+A person is walking to the right and then to the left, then leans right, next leans left, thereafter leans to the right again, and finally turns to the right before taking one step back.

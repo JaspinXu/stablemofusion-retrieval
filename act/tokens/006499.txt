@@ -1,0 +1,1 @@
+a/DET person/NOUN hold/VERB both/CCONJ hand/NOUN up/ADP and/CCONJ stand/VERB with/ADP the/DET right/ADJ foot/NOUN forward/ADV then/ADV switch/VERB position/NOUN to/PART have/VERB the/DET left/ADJ foot/NOUN forward/ADV and/CCONJ then/ADV go/VERB back/ADV follow/VERB that/SCONJ the/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB around/ADV and/CCONJ walk/VERB back/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backward/ADV in/ADP a/DET careful/ADJ manner/NOUN then/ADV walk/VERB forward/ADV and/CCONJ back/VERB into/ADP a/DET chair/NOUN to/PART sit/VERB down/ADP 

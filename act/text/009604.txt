@@ -1,0 +1,1 @@
+A person walks forward and picks up an item, then places the item back before walking back to the starting point. Following that, the toon walks forward at a normal pace.

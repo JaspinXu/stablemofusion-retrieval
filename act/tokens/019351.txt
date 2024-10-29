@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ lean/VERB both/DET hand/NOUN on/ADP the/DET table/NOUN then/ADV move/VERB forward/ADV and/CCONJ begin/VERB dance/VERB with/ADP an/DET unseen/ADJ partner/NOUN 

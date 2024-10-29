@@ -1,0 +1,1 @@
+A person walks back and forth in a semi-circle path, then slowly moves downstairs and returns.

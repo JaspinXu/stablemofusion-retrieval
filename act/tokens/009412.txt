@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB in/ADP place/NOUN then/ADV begin/VERB to/PART walk/VERB forward/ADV when/SCONJ push/VERB to/ADP the/DET right/NOUN and/CCONJ finally/ADV move/VERB back/ADV to/ADP the/DET initial/ADJ line/NOUN of/ADP walk/VERB 

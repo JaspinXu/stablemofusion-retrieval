@@ -1,0 +1,1 @@
+A person walks slightly to the right in six steps, then walks diagonally in a forward motion, turns on their right foot to face backward, and subsequently stops.

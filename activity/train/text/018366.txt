@@ -1,0 +1,1 @@
+The sim walks to the end of the plane, then slowly turns around and walks back to the opposite end, and afterwards a person walks slowly and stops.

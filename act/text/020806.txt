@@ -1,0 +1,1 @@
+A stick figure walks forward, then continues walking counterclockwise. Subsequently, it stands still, sticks its arms straight out, and spins its upper body and arms in a counterclockwise motion. Following that, a person walks towards something and then throws an object.

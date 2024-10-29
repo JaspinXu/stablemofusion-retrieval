@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV on/ADP a/DET beam/NOUN with/ADP his/PRON heel/NOUN touch/VERB his/PRON toe/NOUN then/ADV he/PRON continue/VERB his/PRON motion/NOUN by/ADP walk/VERB counterclockwise/NOUN make/VERB almost/ADV a/DET full/ADJ circle/NOUN 

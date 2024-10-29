@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB walk/VERB backwards/ADV then/ADV stop/VERB and/CCONJ turn/VERB around/ADV next/ADV they/PRON walk/VERB backwards/ADV again/ADV and/CCONJ after/ADP that/PRON they/PRON walk/VERB to/ADP their/PRON right/NOUN and/CCONJ twist/VERB something/PRON with/ADP their/PRON left/ADJ hand/NOUN 

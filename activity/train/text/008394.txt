@@ -1,0 +1,1 @@
+A person is hopping on one foot at a time, alternating between left and right, and then walking in a half circle.

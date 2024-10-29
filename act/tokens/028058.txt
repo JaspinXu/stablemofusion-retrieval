@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV curve/NOUN towards/ADP the/DET left/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV create/VERB a/DET circle/NOUN on/ADP the/DET floor/NOUN 

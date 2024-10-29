@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX tilt/VERB something/PRON to/ADP the/DET left/NOUN and/CCONJ then/ADV a/DET man/NOUN pick/VERB up/ADP a/DET flat/ADJ object/NOUN with/ADP both/DET hand/NOUN after/SCONJ that/PRON he/PRON pick/VERB up/ADP another/DET object/NOUN with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ then/ADV put/VERB it/PRON back/ADV down/ADV 

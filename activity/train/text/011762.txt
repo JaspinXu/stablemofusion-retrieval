@@ -1,0 +1,1 @@
+The figure in the animation did not move at all; however, a person walks forward, then turns left and continues to walk, next turns left again and continues to walk.

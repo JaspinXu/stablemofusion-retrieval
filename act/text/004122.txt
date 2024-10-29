@@ -1,0 +1,1 @@
+A character is walking at a normal pace, then speeds up, hopping several times; subsequently, a person standing nearby gets pushed from behind, which makes them stumble forward.

@@ -1,0 +1,1 @@
+A person walks forward, then turns and walks diagonally. After that, they turn around and walk back, while another individual is walking straight on uneven terrain before also turning around and going back.

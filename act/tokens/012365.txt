@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB straight/ADV ahead/ADV while/SCONJ another/DET person/NOUN shakily/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN backwards/ADV 

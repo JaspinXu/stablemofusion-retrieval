@@ -1,0 +1,18 @@
+robot started moving backward and then stopped.
+a person tilts cautiously to the side then walks forward.
+robot started moving backward and then stopped.
+a person leans to the right and walks forward.
+robot started moving backward and then stopped.
+a person walks forward with slight body lean to the right.
+person is walking backwards.
+a person tilts cautiously to the side then walks forward.
+person is walking backwards.
+a person leans to the right and walks forward.
+person is walking backwards.
+a person walks forward with slight body lean to the right.
+a person walks backward on their toes while crouching.
+a person tilts cautiously to the side then walks forward.
+a person walks backward on their toes while crouching.
+a person leans to the right and walks forward.
+a person walks backward on their toes while crouching.
+a person walks forward with slight body lean to the right.

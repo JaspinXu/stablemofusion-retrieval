@@ -1,0 +1,1 @@
+The person is walking back-and-forth in an S shape; then, he turns around and starts to walk backwards towards the screen. Following that, he faces us and continues to walk backwards.

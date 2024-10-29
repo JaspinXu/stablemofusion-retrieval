@@ -1,0 +1,1 @@
+A person runs forward, then runs to their left, followed by walking forward in a counterclockwise semi-circle.

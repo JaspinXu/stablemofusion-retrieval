@@ -1,0 +1,1 @@
+A person steps forwards while turning to his right, then spins around to face where he originally started. He then steps forwards once, steps backwards once, and shuffles to the left while moving something to the right.

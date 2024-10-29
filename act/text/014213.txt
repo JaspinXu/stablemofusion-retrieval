@@ -1,0 +1,1 @@
+A person jumps once, then walks forward and subsequently continues walking in a counterclockwise circle.

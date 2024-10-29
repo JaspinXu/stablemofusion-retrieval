@@ -1,0 +1,18 @@
+a person takes a step backwards to the left.
+the person is running forward.
+a person takes a step backwards to the left.
+a person jogs forward and then stops.
+a person takes a step backwards to the left.
+a person running at a steady speed
+the person is backing up from being hit.
+the person is running forward.
+the person is backing up from being hit.
+a person jogs forward and then stops.
+the person is backing up from being hit.
+a person running at a steady speed
+a person stands still and then takes one step back and to the left
+the person is running forward.
+a person stands still and then takes one step back and to the left
+a person jogs forward and then stops.
+a person stands still and then takes one step back and to the left
+a person running at a steady speed

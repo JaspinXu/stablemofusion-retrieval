@@ -1,0 +1,18 @@
+a person walks forward and stops
+a person walks in a curve to their left.
+a person walks forward and stops
+a person walks turning to the left.
+a person walks forward and stops
+a person starts walking and turns to his left.
+a man walks down some stairs, ending in a standing position.
+a person walks in a curve to their left.
+a man walks down some stairs, ending in a standing position.
+a person walks turning to the left.
+a man walks down some stairs, ending in a standing position.
+a person starts walking and turns to his left.
+the person is walking downstairs.
+a person walks in a curve to their left.
+the person is walking downstairs.
+a person walks turning to the left.
+the person is walking downstairs.
+a person starts walking and turns to his left.

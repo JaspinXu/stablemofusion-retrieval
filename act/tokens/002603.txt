@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ down/ADP a/DET hill/NOUN and/CCONJ then/ADV jump/VERB up/ADP and/CCONJ down/ADP 

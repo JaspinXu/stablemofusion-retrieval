@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV open/VERB the/DET door/NOUN and/CCONJ then/ADV walk/VERB backwards/ADV to/ADP where/SCONJ he/PRON start/VERB follow/VERB that/SCONJ the/DET person/NOUN cross/VERB their/PRON leg/NOUN and/CCONJ sit/VERB down/ADP 

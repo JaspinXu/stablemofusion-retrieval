@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB forward/ADV hold/VERB an/DET object/NOUN to/ADP his/PRON head/NOUN with/ADP his/PRON left/ADJ hand/NOUN next/PROPN a/DET person/NOUN who/PRON be/AUX stand/VERB lift/VERB his/PRON hand/NOUN and/CCONJ clap/VERB they/PRON four/NUM time/NOUN 

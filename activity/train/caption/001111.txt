@@ -1,0 +1,6 @@
+animation is walking in downwards direction diagonally to the right
+a person takes a small jump forward with their arms stationed at their side.
+animation is walking in downwards direction diagonally to the right
+the man uses his legs to jump a small distance forward then stops.
+animation is walking in downwards direction diagonally to the right
+a person is hopping forward.

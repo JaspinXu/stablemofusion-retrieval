@@ -1,0 +1,1 @@
+a/DET person/NOUN sway/VERB from/ADP foot/NOUN to/ADP foot/NOUN while/SCONJ hold/VERB something/PRON up/ADP to/ADP his/PRON face/NOUN in/ADP his/PRON left/ADJ hand/NOUN then/ADV switch/VERB to/ADP his/PRON right/ADJ hand/NOUN after/SCONJ that/PRON a/DET man/NOUN walk/VERB forward/ADV stop/NOUN and/CCONJ move/VERB an/DET object/NOUN with/ADP his/PRON left/ADJ hand/NOUN 

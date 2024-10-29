@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB four/NUM step/NOUN down/ADP and/CCONJ stop/VERB then/ADV pick/VERB up/ADP something/PRON with/ADP both/CCONJ hand/NOUN and/CCONJ move/VERB it/PRON a/DET bit/NOUN over/ADP to/ADP the/DET left/NOUN before/ADP place/VERB it/PRON back/ADV down/ADV 

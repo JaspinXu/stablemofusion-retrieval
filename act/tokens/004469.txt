@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET counterclockwise/NOUN direction/NOUN for/ADP about/ADV a/DET quarter/NOUN of/ADP a/DET circle/NOUN and/CCONJ then/ADV walk/VERB forward/ADV 

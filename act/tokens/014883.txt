@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV slowly/ADV walk/VERB up/ADP a/DET set/NOUN of/ADP stair/NOUN one/NUM foot/NOUN at/ADP a/DET time/NOUN while/SCONJ concurrently/ADV a/DET worker/NOUN use/VERB their/PRON arm/NOUN to/PART direct/VERB the/DET plane/NOUN 

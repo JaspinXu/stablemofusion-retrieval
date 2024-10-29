@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET complete/ADJ circle/NOUN and/CCONJ then/ADV sit/VERB down/ADP afterward/ADV they/PRON step/VERB to/ADP a/DET stool/NOUN turn/NOUN clockwise/NOUN sit/VERB down/ADP put/VERB their/PRON foot/NOUN on/ADP the/DET rung/NOUN and/CCONJ then/ADV place/VERB their/PRON hand/NOUN in/ADP their/PRON lap/NOUN 

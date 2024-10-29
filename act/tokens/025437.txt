@@ -1,0 +1,1 @@
+a/DET person/NOUN open/VERB a/DET drawer/NOUN and/CCONJ put/VERB something/PRON in/ADP it/PRON then/ADV proceed/VERB to/PART walk/VERB in/ADP a/DET circle/NOUN anticlockwise/NOUN 

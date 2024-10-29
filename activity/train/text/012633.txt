@@ -1,0 +1,1 @@
+A person side steps left to right and then left before returning to their starting position. After that, they approach an obstacle and step onto it.

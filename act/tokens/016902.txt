@@ -1,0 +1,1 @@
+the/DET person/NOUN start/VERB to/PART jog/VERB to/ADP the/DET left/NOUN for/ADP a/DET few/ADJ step/NOUN then/ADV turn/VERB around/ADV and/CCONJ jog/VERB to/ADP the/DET right/ADJ afterward/ADV they/PRON jog/VERB back/ADV to/ADP their/PRON starting/NOUN point/NOUN all/PRON while/SCONJ a/DET nearby/ADJ individual/ADJ crosse/NOUN their/PRON arm/NOUN in/ADP fear/NOUN 

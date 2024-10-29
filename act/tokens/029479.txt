@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pick/VERB up/ADP an/DET item/NOUN and/CCONJ then/ADV walk/VERB to/ADP the/DET back/NOUN to/PART set/VERB the/DET item/NOUN down/ADP after/ADP that/PRON they/PRON bent/VERB their/PRON arm/NOUN with/ADP their/PRON hand/NOUN under/ADP their/PRON armpit/NOUN and/CCONJ flap/VERB their/PRON arm/NOUN like/ADP wing/NOUN 

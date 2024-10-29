@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB backandforth/NOUN to/ADP the/DET left/NOUN and/CCONJ to/ADP the/DET right/ADJ then/ADV catch/NOUN and/CCONJ throw/NOUN as/ADP if/SCONJ play/VERB baseball/NOUN 

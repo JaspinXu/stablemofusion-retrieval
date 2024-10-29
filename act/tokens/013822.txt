@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB in/ADP a/DET tight/ADJ counterclockwise/NOUN circle/NOUN then/ADV walk/VERB in/ADP a/DET full/ADJ circle/NOUN anti/NOUN counterclockwise/PROPN 

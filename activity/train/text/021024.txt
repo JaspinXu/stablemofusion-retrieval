@@ -1,0 +1,1 @@
+A person walks in an 's' motion with their arms slightly bent, then they stand up and bend over to touch the floor with their hands. After that, they stand up straight and rotate to the left once, followed by a rotation to the right, then they bend left once and finally bend right once.

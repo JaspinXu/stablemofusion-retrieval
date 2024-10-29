@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB generally/ADV forward/ADV along/ADP a/DET somewhat/ADV curved/ADJ path/NOUN then/ADV make/VERB a/DET circle/NOUN in/ADP front/NOUN of/ADP they/PRON with/ADP their/PRON right/ADJ hand/NOUN 

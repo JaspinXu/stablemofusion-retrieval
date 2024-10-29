@@ -1,0 +1,18 @@
+a person walks straight forward at a slow pace.
+a person walks in a semi circle to the left.
+a person walks straight forward at a slow pace.
+a person walks to the left.
+a person walks straight forward at a slow pace.
+a person moves slightly to the left, takes two steps forward and then two steps to the left.
+a person walking slowly in a straight line
+a person walks in a semi circle to the left.
+a person walking slowly in a straight line
+a person walks to the left.
+a person walking slowly in a straight line
+a person moves slightly to the left, takes two steps forward and then two steps to the left.
+a person walks forward slowly at an angle
+a person walks in a semi circle to the left.
+a person walks forward slowly at an angle
+a person walks to the left.
+a person walks forward slowly at an angle
+a person moves slightly to the left, takes two steps forward and then two steps to the left.

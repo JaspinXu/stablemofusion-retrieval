@@ -1,0 +1,1 @@
+a/DET person/NOUN act/VERB as/SCONJ if/SCONJ they/PRON be/AUX pick/VERB an/DET object/NOUN up/ADP and/CCONJ place/VERB it/PRON somewhere/ADV else/ADV then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET slow/ADJ curve/NOUN to/ADP his/PRON left/ADJ 

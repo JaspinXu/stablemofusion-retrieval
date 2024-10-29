@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN on/ADP their/PRON tippy/ADJ toe/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV in/ADP the/DET same/ADJ fashion/NOUN after/SCONJ that/SCONJ the/DET person/NOUN walk/VERB backwards/ADV turn/VERB around/ADV and/CCONJ then/ADV walk/VERB backwards/ADV in/ADP the/DET other/ADJ direction/NOUN 

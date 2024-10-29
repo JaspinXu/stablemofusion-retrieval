@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV make/VERB a/DET big/ADJ bow/NOUN to/ADP their/PRON front/NOUN and/CCONJ then/ADV two/NUM small/ADJ bow/NOUN to/ADP their/PRON right/ADJ after/SCONJ that/PRON they/PRON take/VERB two/NUM step/NOUN to/ADP the/DET right/ADJ while/SCONJ move/VERB their/PRON hand/NOUN side/NOUN to/PART side/VERB in/ADP sync/NOUN 

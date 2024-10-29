@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADV in/ADP circle/NOUN while/SCONJ hold/VERB something/PRON in/ADP their/PRON hand/NOUN then/ADV pick/VERB up/ADP something/PRON from/ADP the/DET ground/NOUN stand/VERB up/ADP and/CCONJ subsequently/ADV walk/VERB in/ADP a/DET circle/NOUN before/ADP return/VERB to/PART pick/VERB up/ADP something/PRON else/ADV 

@@ -1,0 +1,18 @@
+a person walks forward at moderate pace.
+a person at a standstill starts running, then stops.
+a person walks forward at moderate pace.
+the person is jumping in place.
+a person walks forward at moderate pace.
+a man jogs without moving his position.
+a person walks downwards in a straight line and stops in a slightly brisk manner.
+a person at a standstill starts running, then stops.
+a person walks downwards in a straight line and stops in a slightly brisk manner.
+the person is jumping in place.
+a person walks downwards in a straight line and stops in a slightly brisk manner.
+a man jogs without moving his position.
+the man moves forward at a normal pace
+a person at a standstill starts running, then stops.
+the man moves forward at a normal pace
+the person is jumping in place.
+the man moves forward at a normal pace
+a man jogs without moving his position.

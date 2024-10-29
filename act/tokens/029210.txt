@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB to/ADP the/DET right/ADJ three/NUM time/NOUN then/ADV step/VERB to/ADP the/DET left/ADJ four/NUM time/NOUN and/CCONJ subsequently/ADV a/DET man/NOUN step/VERB in/ADP a/DET circular/ADJ motion/NOUN use/VERB both/DET hand/NOUN simultaneously/ADV to/PART point/VERB at/ADP someone/PRON as/SCONJ if/SCONJ they/PRON be/AUX have/VERB a/DET conversation/NOUN 

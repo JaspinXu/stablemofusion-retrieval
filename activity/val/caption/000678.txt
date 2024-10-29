@@ -1,0 +1,6 @@
+a person walks left, then right, then left again, facing perpendicular to their walking dorection and crossing over their feet with each stride.
+the body squats, steps to its left, and squats again
+figure strafes 2 steps right, 4 steps left and 2 steps right again, stopping and starting in same position.
+the body squats, steps to its left, and squats again
+the character side-steps to the left end of the rectangle, then side-steps to the right end of the rectangle before making its way back to the center.
+the body squats, steps to its left, and squats again

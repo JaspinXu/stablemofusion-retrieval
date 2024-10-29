@@ -1,0 +1,4 @@
+a man walks forward
+a man picks up an item with his left hand
+a man hops forward  
+a man rotates his arm above head level  

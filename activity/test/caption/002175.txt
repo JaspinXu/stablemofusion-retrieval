@@ -1,0 +1,18 @@
+a person is walking slowly forward.
+a man paces back and forth.
+a person is walking slowly forward.
+a person walks diagonally to his left, turns around, and walks halfway in the other direction.
+a person is walking slowly forward.
+a person turns to their left, walks forward then turns back around and walks halfway back to their starting point before stopping.
+a man walks forward slowly.
+a man paces back and forth.
+a man walks forward slowly.
+a person walks diagonally to his left, turns around, and walks halfway in the other direction.
+a man walks forward slowly.
+a person turns to their left, walks forward then turns back around and walks halfway back to their starting point before stopping.
+a person walking in a straight line
+a man paces back and forth.
+a person walking in a straight line
+a person walks diagonally to his left, turns around, and walks halfway in the other direction.
+a person walking in a straight line
+a person turns to their left, walks forward then turns back around and walks halfway back to their starting point before stopping.

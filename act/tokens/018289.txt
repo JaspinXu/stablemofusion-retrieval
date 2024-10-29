@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET casual/ADJ manner/NOUN then/ADV a/DET man/NOUN walk/VERB briskly/ADV forward/ADV a/DET few/ADJ step/NOUN come/VERB to/ADP a/DET stop/NOUN raise/VERB his/PRON right/ADJ hand/NOUN to/PART wave/VERB and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV 

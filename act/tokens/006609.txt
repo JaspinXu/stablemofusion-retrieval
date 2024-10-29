@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB to/ADP the/DET left/NOUN in/ADP a/DET curve/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV and/CCONJ climb/VERB the/DET stair/NOUN 

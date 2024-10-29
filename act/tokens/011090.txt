@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN forward/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN at/ADP a/DET medium/ADJ pace/NOUN while/SCONJ swinge/VERB his/PRON arm/NOUN 

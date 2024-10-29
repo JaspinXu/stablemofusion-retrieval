@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV move/VERB diagonally/ADV from/ADP the/DET top/NOUN leave/VERB to/ADP the/DET bottom/ADJ right/ADV and/CCONJ subsequently/ADV a/DET kneeling/NOUN person/NOUN stand/VERB up/ADP before/ADP kneel/VERB back/ADV on/ADP one/NUM knee/NOUN 

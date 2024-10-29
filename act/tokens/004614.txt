@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB quickly/ADV pivot/VERB 180/NUM degree/NOUN and/CCONJ then/ADV walk/VERB back/ADV subsequently/ADV a/DET man/NOUN rub/VERB his/PRON head/NOUN 

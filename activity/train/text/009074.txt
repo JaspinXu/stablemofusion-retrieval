@@ -1,0 +1,1 @@
+A person walks while slightly turning clockwise, next strafes right and then to the left.

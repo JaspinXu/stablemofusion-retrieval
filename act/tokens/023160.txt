@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ step/NOUN on/ADP an/DET object/NOUN then/ADV step/VERB off/ADP of/ADP it/PRON after/ADP that/PRON they/PRON turn/VERB and/CCONJ get/VERB back/ADV on/ADP the/DET object/NOUN only/ADV to/PART get/VERB back/ADV off/ADP it/PRON again/ADV follow/VERB that/SCONJ the/DET person/NOUN crawl/VERB across/ADP the/DET floor/NOUN 

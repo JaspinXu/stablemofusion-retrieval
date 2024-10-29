@@ -1,0 +1,1 @@
+A person walks forward starting with their left foot, taking four steps, and then continues to walk forward at a normal pace.

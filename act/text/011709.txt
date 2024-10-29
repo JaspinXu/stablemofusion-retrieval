@@ -1,0 +1,1 @@
+A person slowly walks forward, then a man walks two paces forward, turns around counter-clockwise, and walks two paces back to where he started.

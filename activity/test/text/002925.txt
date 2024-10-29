@@ -1,0 +1,1 @@
+A person walks up the stairs, then turns left and walks back down the stairs, subsequently walking forward, picking something up, and then walking back to put it down.

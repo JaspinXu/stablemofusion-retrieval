@@ -1,0 +1,1 @@
+the/DET body/NOUN move/VERB in/ADP counterclock/NOUN motion/NOUN once/ADV then/ADV jump/VERB into/ADP counterclock/NOUN motion/NOUN twice/ADV while/SCONJ leave/VERB a/DET mark/NOUN on/ADP the/DET floor/NOUN follow/VERB that/SCONJ a/DET man/NOUN wind/VERB his/PRON arm/NOUN up/ADP and/CCONJ throw/VERB something/PRON 

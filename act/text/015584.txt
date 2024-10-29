@@ -1,0 +1,1 @@
+The sim is standing still, appearing to be grabbing an object before replacing it, then a person is sitting low in a seat, controlling a steering wheel in his hands.

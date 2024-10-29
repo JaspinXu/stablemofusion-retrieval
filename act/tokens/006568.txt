@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV spin/NOUN right/ADV and/CCONJ then/ADV walk/VERB back/ADV while/SCONJ someone/PRON else/ADV put/VERB their/PRON hand/NOUN on/ADP their/PRON chin/NOUN and/CCONJ look/VERB right/ADV then/ADV leave/VERB 

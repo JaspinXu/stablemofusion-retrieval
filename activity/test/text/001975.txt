@@ -1,0 +1,1 @@
+A person takes a few steps forward, then stops, after that, they walk forward again, changing direction to the left and right.

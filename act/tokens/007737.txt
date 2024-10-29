@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX throw/VERB the/DET volleyball/NOUN diagonally/ADV from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV catch/VERB it/PRON back/ADV subsequently/ADV lift/VERB the/DET ball/NOUN up/ADP from/ADP the/DET right/NOUN and/CCONJ put/VERB it/PRON back/ADV down/ADV to/ADP the/DET left/ADJ 

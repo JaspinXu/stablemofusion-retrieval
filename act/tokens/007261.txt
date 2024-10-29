@@ -1,0 +1,1 @@
+a/DET man/NOUN pull/VERB an/DET object/NOUN from/ADP the/DET left/ADJ side/NOUN towards/ADP the/DET right/ADJ side/NOUN then/ADV a/DET person/NOUN lean/VERB to/ADP their/PRON left/NOUN and/CCONJ clap/VERB their/PRON hand/NOUN together/ADV out/ADV and/CCONJ to/ADP the/DET left/NOUN as/SCONJ if/SCONJ to/PART squish/VERB a/DET bug/NOUN 

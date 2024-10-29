@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET box/NOUN from/ADP the/DET right/ADJ side/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN next/SCONJ a/DET man/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV stop/VERB in/ADP a/DET standing/NOUN position/NOUN 

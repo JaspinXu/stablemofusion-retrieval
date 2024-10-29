@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV as/SCONJ if/SCONJ to/PART jump/VERB rope/NOUN then/ADV follow/VERB that/SCONJ a/DET man/NOUN get/VERB up/ADP from/ADP a/DET chair/NOUN walk/VERB forward/ADV do/VERB a/DET 180/NUM and/CCONJ return/VERB to/ADP his/PRON seat/NOUN 

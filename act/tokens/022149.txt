@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB run/VERB in/ADP a/DET circle/NOUN then/ADV walk/VERB from/ADP one/NUM end/NOUN of/ADP the/DET plane/NOUN to/ADP the/DET other/ADJ to/PART grab/VERB an/DET object/NOUN after/SCONJ that/PRON turn/VERB around/ADV and/CCONJ walk/VERB back/ADV and/CCONJ forth/ADV 

@@ -1,0 +1,1 @@
+the/DET person/NOUN march/VERB straight/ADV forward/ADV and/CCONJ then/ADV the/DET robot/NOUN start/VERB to/PART move/VERB in/ADP a/DET zigzag/PROPN motion/NOUN 

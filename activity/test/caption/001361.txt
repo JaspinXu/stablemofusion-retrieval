@@ -1,0 +1,6 @@
+a person takes 3 steps backwards
+the sim walks forward making a bit of a zig zag shape.
+person is walking backwards.
+the sim walks forward making a bit of a zig zag shape.
+the person walks backwards and stops.
+the sim walks forward making a bit of a zig zag shape.

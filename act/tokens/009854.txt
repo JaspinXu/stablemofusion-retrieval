@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV while/SCONJ a/DET man/NOUN be/AUX stand/VERB up/ADP bring/VERB his/PRON left/ADJ hand/NOUN to/ADP his/PRON chest/NOUN and/CCONJ subsequently/ADV use/VERB the/DET same/ADJ hand/NOUN to/PART lather/NOUN and/CCONJ wash/VERB his/PRON chest/NOUN in/ADP a/DET circular/ADJ motion/NOUN 

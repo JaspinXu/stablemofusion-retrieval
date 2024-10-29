@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB an/DET item/NOUN up/ADP off/ADP the/DET ground/NOUN and/CCONJ put/VERB it/PRON over/ADP both/DET shoulder/NOUN start/VERB with/ADP the/DET right/ADJ then/ADV bend/VERB down/ADP to/ADP cough/NOUN and/CCONJ subsequently/ADV resume/VERB posture/NOUN while/SCONJ walk/VERB in/ADP a/DET semicircle/NOUN 

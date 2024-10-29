@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB sideways/ADV lead/VERB with/ADP the/DET left/ADJ leg/NOUN and/CCONJ then/ADV follow/VERB by/ADP the/DET right/ADJ leg/NOUN thereby/ADV create/VERB a/DET consistent/ADJ sideways/NOUN pattern/NOUN 

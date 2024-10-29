@@ -1,0 +1,1 @@
+A person walks at a leisurely pace in a counterclockwise circle, then takes hop steps to their left and subsequently returns back to their original position.

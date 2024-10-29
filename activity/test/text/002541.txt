@@ -1,0 +1,1 @@
+A stick figure stands an object up and holds it for a few seconds before setting it back down. Subsequently, the person facing forwards takes a step backwards with the red foot, then the blue foot, repeating this pattern with the red and blue feet before stopping.

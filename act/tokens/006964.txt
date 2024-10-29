@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB at/ADP an/DET angle/NOUN from/ADP right/ADV to/ADP leave/VERB in/ADP a/DET curvy/ADJ line/NOUN and/CCONJ then/ADV the/DET sim/NOUN stand/VERB with/ADP their/PRON left/ADJ foot/NOUN in/ADP front/NOUN appear/VERB to/PART balance/VERB while/SCONJ bend/VERB down/ADP towards/ADP the/DET floor/NOUN 

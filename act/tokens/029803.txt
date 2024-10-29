@@ -1,0 +1,1 @@
+a/DET person/NOUN on/ADP hand/NOUN and/CCONJ knee/NOUN move/VERB forward/ADV five/NUM pace/NOUN then/ADV get/VERB up/ADP and/CCONJ jog/VERB forward/ADV diagonally/ADV 

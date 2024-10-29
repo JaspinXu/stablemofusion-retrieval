@@ -1,0 +1,1 @@
+a/DET person/NOUN skip/VERB forward/ADV on/ADP one/NUM leg/NOUN then/ADV turn/VERB left/ADJ and/CCONJ repeat/VERB this/DET four/NUM time/NOUN after/ADP that/PRON he/PRON walk/VERB forward/ADV pick/VERB something/PRON up/ADP off/ADP the/DET ground/NOUN and/CCONJ place/VERB it/PRON on/ADP a/DET high/ADJ object/NOUN 

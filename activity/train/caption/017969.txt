@@ -1,0 +1,4 @@
+the sim walks from one end of the plane to the other, reaching to grab an object before turning around walking back & forth.
+a man walks forward and turns left and coming back and taking something from front
+the sim walks from one end of the plane to the other, reaching to grab an object before turning around walking back & forth.
+a person walks around the room and stops.

@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV and/CCONJ back/ADV then/ADV a/DET person/NOUN open/VERB a/DET bottle/NOUN and/CCONJ drink/NOUN from/ADP it/PRON 

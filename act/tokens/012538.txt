@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB very/ADV slowly/ADV then/ADV walk/VERB sideways/ADV to/ADP the/DET right/NOUN and/CCONJ afterward/ADV move/NOUN back/ADV to/ADP the/DET left/ADJ 

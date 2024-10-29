@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM side/NOUN step/NOUN to/ADP the/DET right/ADJ then/ADV four/NUM to/ADP the/DET left/ADJ and/CCONJ finally/ADV two/NUM back/ADV to/ADP the/DET right/ADJ subsequently/PROPN the/DET man/NOUN walk/VERB forwards/ADV then/ADV backwards/ADV and/CCONJ finally/ADV sideway/VERB to/PART complete/VERB a/DET circle/NOUN 

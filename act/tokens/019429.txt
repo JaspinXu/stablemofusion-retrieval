@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB very/ADV slowly/ADV forward/ADV then/ADV stop/VERB afterward/ADV a/DET person/NOUN jump/VERB over/ADP a/DET rope/NOUN and/CCONJ then/ADV spin/VERB sometimes/ADV jump/VERB over/ADP the/DET rope/NOUN as/SCONJ it/PRON spin/VERB two/NUM time/NOUN between/ADP jump/NOUN 

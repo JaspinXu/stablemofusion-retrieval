@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ motion/NOUN but/CCONJ do/AUX not/PART complete/VERB a/DET full/ADJ circle/NOUN then/ADV they/PRON take/VERB 4/NUM step/NOUN forward/ADV 3/NUM step/NOUN back/ADV quickly/ADV and/CCONJ afterwards/ADV walk/VERB forward/ADV 5/NUM more/ADJ step/NOUN 

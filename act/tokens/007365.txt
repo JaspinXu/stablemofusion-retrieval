@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/NOUN then/ADV a/DET person/NOUN walk/VERB backward/ADV and/CCONJ subsequently/ADV move/VERB forward/ADV while/SCONJ lunge/VERB 

@@ -1,0 +1,1 @@
+A person moves backwards five steps and then walks forward slightly, followed by turning to the left as they continue to walk.

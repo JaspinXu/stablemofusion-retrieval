@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB from/ADP side/NOUN to/PART side/NOUN and/CCONJ then/ADV the/DET sim/NOUN appear/VERB to/PART run/VERB and/CCONJ step/VERB perform/VERB a/DET side/NOUN jump/NOUN over/ADP an/DET object/NOUN 

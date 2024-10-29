@@ -1,0 +1,1 @@
+A stick figure walks backwards, then jumps in place, and subsequently walks forwards, with a person also walking forward, arms swinging slightly.

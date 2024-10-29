@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET left/ADJ turn/NOUN and/CCONJ subsequently/ADV head/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN 

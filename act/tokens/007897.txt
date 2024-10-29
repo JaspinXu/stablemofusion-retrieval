@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET left/ADJ turn/NOUN and/CCONJ then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN 

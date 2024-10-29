@@ -1,0 +1,18 @@
+person start is t, lowers arms to side, and resumes t position
+the person is walking straight forward.
+person start is t, lowers arms to side, and resumes t position
+person slowly takes seven steps forward
+person start is t, lowers arms to side, and resumes t position
+a person walks in a straight line
+quarter squat position with arms straight out, lowers arms, and then raises them out again.
+the person is walking straight forward.
+quarter squat position with arms straight out, lowers arms, and then raises them out again.
+person slowly takes seven steps forward
+quarter squat position with arms straight out, lowers arms, and then raises them out again.
+a person walks in a straight line
+person standing with legs slightly bent, arms stretched outwards, lowers both hands to both knees then both arms returns to outward position
+the person is walking straight forward.
+person standing with legs slightly bent, arms stretched outwards, lowers both hands to both knees then both arms returns to outward position
+person slowly takes seven steps forward
+person standing with legs slightly bent, arms stretched outwards, lowers both hands to both knees then both arms returns to outward position
+a person walks in a straight line

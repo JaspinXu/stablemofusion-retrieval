@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB their/PRON left/ADJ hand/NOUN and/CCONJ right/ADJ leg/NOUN to/PART kneel/VERB and/CCONJ get/VERB up/ADP off/ADP the/DET ground/NOUN then/ADV the/DET man/NOUN step/VERB forward/ADV diagonally/ADV one/NUM step/NOUN at/ADP a/DET time/NOUN 

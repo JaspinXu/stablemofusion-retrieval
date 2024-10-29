@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV four/NUM step/NOUN start/VERB with/ADP his/PRON right/ADJ foot/NOUN then/ADV sit/VERB down/ADP on/ADP a/DET bench/NOUN and/CCONJ finally/ADV stand/VERB up/ADP 

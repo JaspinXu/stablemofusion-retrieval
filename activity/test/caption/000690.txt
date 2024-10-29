@@ -1,0 +1,12 @@
+a person walks forward and stumbles a bit
+a person jumps to his right.
+a person walks forward and stumbles a bit
+a person jumps to the right.
+a person stumbles a little while walking.
+a person jumps to his right.
+a person stumbles a little while walking.
+a person jumps to the right.
+a person walks from back to front, hops on left leg and then stops.
+a person jumps to his right.
+a person walks from back to front, hops on left leg and then stops.
+a person jumps to the right.

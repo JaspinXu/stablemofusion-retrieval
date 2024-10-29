@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP look/VERB scared/ADJ then/ADV a/DET man/NOUN walk/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV start/VERB to/PART walk/VERB to/ADP the/DET right/NOUN 

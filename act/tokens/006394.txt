@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB in/ADP place/NOUN while/SCONJ move/VERB his/PRON arm/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ turn/VERB around/ADV and/CCONJ go/VERB back/ADV to/ADP the/DET original/ADJ side/NOUN 

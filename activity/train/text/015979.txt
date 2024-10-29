@@ -1,0 +1,1 @@
+A person walks forward in a zigzag pattern that gets wider towards the end, then stops to the left of where they began. After that, the person paces back and forth at a medium pace.

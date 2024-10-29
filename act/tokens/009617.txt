@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV use/VERB both/DET leg/NOUN while/SCONJ another/DET person/NOUN stand/VERB still/ADV and/CCONJ do/VERB nothing/PRON 

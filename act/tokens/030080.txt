@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV while/SCONJ extend/VERB their/PRON left/ADJ arm/NOUN out/ADP from/ADP the/DET body/NOUN at/ADP a/DET 90degree/NUM angle/NOUN rotate/VERB it/PRON circularly/ADV both/PRON counterclockwise/NOUN and/CCONJ clockwise/NOUN then/ADV place/VERB something/PRON on/ADP the/DET ground/NOUN 

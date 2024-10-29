@@ -1,0 +1,1 @@
+a/DET person/NOUN quickly/ADV take/VERB three/NUM step/NOUN down/ADP then/ADV start/VERB to/PART jog/VERB slowly/ADV before/ADP begin/VERB to/PART slow/VERB down/ADP even/ADV more/ADV to/ADP a/DET walk/NOUN ultimately/ADV come/VERB to/ADP a/DET complete/ADJ stop/NOUN 

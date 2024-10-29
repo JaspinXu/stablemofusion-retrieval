@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forwards/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN before/ADP return/VERB back/ADV to/ADP the/DET center/NOUN where/SCONJ he/PRON start/VERB 

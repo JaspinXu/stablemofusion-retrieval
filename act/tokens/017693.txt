@@ -1,0 +1,1 @@
+this/DET person/NOUN jump/VERB as/SCONJ if/SCONJ to/PART touch/VERB something/PRON high/ADJ then/ADV take/VERB a/DET step/NOUN backward/ADV subsequently/ADV walk/VERB forward/ADV one/NUM step/NOUN and/CCONJ do/VERB an/DET exercise/NOUN 

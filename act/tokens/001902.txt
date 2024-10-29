@@ -1,0 +1,1 @@
+a/DET person/NOUN stay/VERB in/ADP one/NUM place/NOUN cross/VERB his/PRON arm/NOUN and/CCONJ then/ADV begin/VERB lift/VERB dumbbell/NOUN in/ADP both/DET hand/NOUN 

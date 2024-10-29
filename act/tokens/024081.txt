@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV and/CCONJ backwards/ADV then/ADV stand/VERB up/ADP and/CCONJ bend/VERB their/PRON knee/NOUN to/PART form/VERB a/DET 90degree/NUM angle/NOUN before/ADP move/VERB their/PRON body/NOUN back/ADV to/ADP a/DET normal/ADJ position/NOUN 

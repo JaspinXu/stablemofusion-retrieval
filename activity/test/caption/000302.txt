@@ -1,0 +1,6 @@
+a person strafes one step to the right, our left.
+a person runs forward and then to the right.
+a person strafes one step to the right, our left.
+a person runs forward then abruptly turns to the left and continues running
+a person strafes one step to the right, our left.
+runs at a bend going left to right and increasing the speed along the way.

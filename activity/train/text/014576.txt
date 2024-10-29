@@ -1,0 +1,1 @@
+A stick figure walks in a line before rotating counterclockwise and then walks back, subsequently maintaining balance as it walks on a balance beam.

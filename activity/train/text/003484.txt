@@ -1,0 +1,1 @@
+The sim is walking, then turns left, following that a person shakes with his left arm up, then puts it down and shakes with his right arm up.

@@ -1,0 +1,1 @@
+a/DET figure/NOUN appear/VERB to/PART be/AUX move/VERB an/DET item/NOUN from/ADP left/ADJ to/ADP right/NOUN and/CCONJ subsequently/ADV this/DET person/NOUN appear/VERB to/PART be/AUX drag/VERB to/ADP the/DET right/NOUN 

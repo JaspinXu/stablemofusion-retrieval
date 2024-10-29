@@ -1,0 +1,1 @@
+a/DET man/NOUN dance/VERB forward/ADV and/CCONJ then/ADV back/ADV while/SCONJ a/DET person/NOUN be/AUX also/ADV engage/VERB in/ADP the/DET same/ADJ dance/NOUN 

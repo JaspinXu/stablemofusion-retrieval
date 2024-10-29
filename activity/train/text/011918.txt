@@ -1,0 +1,1 @@
+A person steps over an object, then makes a leftward u-turn before stepping down, subsequently walking forward slowly, beginning with their right foot.

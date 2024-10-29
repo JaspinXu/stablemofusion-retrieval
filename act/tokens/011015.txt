@@ -1,0 +1,1 @@
+someone/PRON jump/VERB on/ADP one/NUM leg/NOUN first/ADV on/ADP the/DET right/ADJ leg/NOUN and/CCONJ then/ADV on/ADP the/DET left/ADJ leg/NOUN next/ADP a/DET person/NOUN appear/VERB to/PART be/AUX walk/VERB on/ADP a/DET single/ADJ line/NOUN with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ 

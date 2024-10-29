@@ -1,0 +1,1 @@
+a/DET man/NOUN waltz/VERB alone/ADJ in/ADP a/DET clockwise/NOUN pattern/NOUN then/ADV a/DET person/NOUN jog/VERB right/ADV left/ADJ and/CCONJ then/ADV right/ADV again/ADV 

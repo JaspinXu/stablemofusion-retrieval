@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV walk/VERB to/ADP the/DET right/ADV again/ADV look/VERB like/SCONJ they/PRON might/AUX be/AUX warm/VERB up/ADP for/ADP a/DET pingpong/NOUN or/CCONJ tennis/NOUN match/NOUN 

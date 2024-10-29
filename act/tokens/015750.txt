@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB upstairs/ADV then/ADV walk/VERB back/ADV downstairs/ADV follow/VERB by/ADP another/DET individual/NOUN who/PRON walk/VERB backwards/ADV and/CCONJ climb/VERB stair/NOUN in/ADP reverse/NOUN 

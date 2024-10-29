@@ -1,0 +1,1 @@
+A person walks forward a couple of steps, then turns to the left 90 degrees and continues walking forward, next turning left again and walking forward, followed by another left turn to walk forward before stopping. After that, the same person gets down on their hands and knees and crawls forward on the floor.

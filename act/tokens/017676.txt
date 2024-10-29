@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB something/PRON up/ADP then/ADV walk/VERB backwards/ADV and/CCONJ put/VERB it/PRON down/ADP follow/VERB that/SCONJ the/DET person/NOUN run/VERB in/ADP place/NOUN at/ADP different/ADJ speed/NOUN 

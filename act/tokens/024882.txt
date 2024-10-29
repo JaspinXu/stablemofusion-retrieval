@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ move/VERB something/PRON from/ADP his/PRON left/NOUN to/ADP his/PRON right/NOUN then/ADV he/PRON hit/VERB another/DET object/NOUN with/ADP his/PRON left/ADJ arm/NOUN and/CCONJ subsequently/ADV catch/VERB something/PRON with/ADP both/DET arm/NOUN 

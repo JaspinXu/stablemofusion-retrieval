@@ -1,0 +1,1 @@
+A person is standing, then steps twice onto a plane with their left leg, shuffles, and steps down onto the plane. Following that, they shuffle again and step over an object. After that, the person climbs two steps, turns, steps down one stair, turns again, and finally steps over an obstacle.

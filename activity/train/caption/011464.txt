@@ -1,0 +1,2 @@
+an upleft person walks forwards, stumbling in a clumsy manner.
+a standing person walks forward for 3 seconds, does a little hop, then continues walkiing.

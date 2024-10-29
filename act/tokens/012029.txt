@@ -1,0 +1,1 @@
+a/DET person/NOUN appear/VERB to/PART play/VERB a/DET violin/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN but/CCONJ hurt/VERB their/PRON leg/NOUN 

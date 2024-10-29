@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB on/ADP uneven/ADJ terrain/NOUN by/ADP step/VERB up/ADP turn/VERB right/ADV and/CCONJ then/ADV step/VERB down/ADP after/ADP that/PRON the/DET same/ADJ person/NOUN grab/VERB something/PRON and/CCONJ give/VERB it/PRON to/ADP someone/PRON else/ADV 

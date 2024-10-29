@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP something/PRON while/SCONJ hold/VERB an/DET object/NOUN in/ADP its/PRON left/ADJ hand/NOUN then/ADV walk/VERB to/ADP his/PRON left/ADJ and/CCONJ subsequently/ADV to/ADP his/PRON right/NOUN 

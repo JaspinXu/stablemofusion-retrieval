@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX stand/VERB still/ADV sway/VERB then/ADV walk/VERB slowly/ADV towards/ADP the/DET 1/NUM oclock/NOUN after/SCONJ that/SCONJ a/DET person/NOUN kick/VERB with/ADP their/PRON right/ADJ leg/NOUN shuffle/NOUN backwards/ADV then/ADV forward/ADV punch/VERB right/ADJ and/CCONJ subsequently/ADV shuffle/VERB back/ADV to/PART punch/VERB left/ADJ 

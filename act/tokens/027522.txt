@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB and/CCONJ make/VERB a/DET left/ADJ turn/NOUN then/ADV work/VERB for/ADP a/DET uturn/PROPN and/CCONJ walk/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN 

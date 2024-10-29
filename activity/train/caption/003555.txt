@@ -1,0 +1,18 @@
+the sim is walking, then turns right.
+a person shakes with his right arm up, then puts it down and shakes with his left arm up
+the sim is walking, then turns right.
+person is standing still and bending arms up and down alternating
+the sim is walking, then turns right.
+a person shaking both left and right hands in the air.
+a person walks forward turns right and walks back.
+a person shakes with his right arm up, then puts it down and shakes with his left arm up
+a person walks forward turns right and walks back.
+person is standing still and bending arms up and down alternating
+a person walks forward turns right and walks back.
+a person shaking both left and right hands in the air.
+a person takes two steps forward, pivots then returns to original position
+a person shakes with his right arm up, then puts it down and shakes with his left arm up
+a person takes two steps forward, pivots then returns to original position
+person is standing still and bending arms up and down alternating
+a person takes two steps forward, pivots then returns to original position
+a person shaking both left and right hands in the air.

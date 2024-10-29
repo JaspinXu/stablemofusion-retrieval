@@ -1,0 +1,1 @@
+A person turns left, then walks forward and subsequently stops.

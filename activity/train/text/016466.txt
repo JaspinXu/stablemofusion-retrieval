@@ -1,0 +1,1 @@
+A person is taking something and then throwing it; subsequently, they walk forward over an object, move to the right, turn around, and walk back over the same object.

@@ -1,0 +1,1 @@
+A person walks forward, then pivots and turns 180 degrees to the right, after that, takes a right step forward and then returns to the same spot.

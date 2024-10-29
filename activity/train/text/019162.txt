@@ -1,0 +1,1 @@
+A person washes something, then walks forward, jumps to the right, jumps to the left, and finally makes one last jump.

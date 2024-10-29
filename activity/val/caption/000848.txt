@@ -1,0 +1,18 @@
+a person walks forward, leans forward and grabs something with their left hand, then moves back to starting position.
+a person walking forward, avoiding obstacles on the floor.
+a person walks forward, leans forward and grabs something with their left hand, then moves back to starting position.
+a person walks forward slowly, on a zig-zag trajectory.
+a person walks forward, leans forward and grabs something with their left hand, then moves back to starting position.
+a man takes some slow creeping steps forwards, then some further creeping steps slightly out to his front-right, and then to his front-left.
+a person walks forward, reaches down and  picks something up with their left hand and places it somewhere else then steps back again.
+a person walking forward, avoiding obstacles on the floor.
+a person walks forward, reaches down and  picks something up with their left hand and places it somewhere else then steps back again.
+a person walks forward slowly, on a zig-zag trajectory.
+a person walks forward, reaches down and  picks something up with their left hand and places it somewhere else then steps back again.
+a man takes some slow creeping steps forwards, then some further creeping steps slightly out to his front-right, and then to his front-left.
+a person steps forwards, picks an object up with their left hand, and then steps back.
+a person walking forward, avoiding obstacles on the floor.
+a person steps forwards, picks an object up with their left hand, and then steps back.
+a person walks forward slowly, on a zig-zag trajectory.
+a person steps forwards, picks an object up with their left hand, and then steps back.
+a man takes some slow creeping steps forwards, then some further creeping steps slightly out to his front-right, and then to his front-left.

@@ -1,0 +1,18 @@
+a person walks in place slowly.
+a person steps to his right.
+a person walks in place slowly.
+a person steps to their right side.
+a person walks in place slowly.
+a person takes a quick step forward and to the right diagonally.
+walking forward in place slowly.
+a person steps to his right.
+walking forward in place slowly.
+a person steps to their right side.
+walking forward in place slowly.
+a person takes a quick step forward and to the right diagonally.
+he does a normal walk
+a person steps to his right.
+he does a normal walk
+a person steps to their right side.
+he does a normal walk
+a person takes a quick step forward and to the right diagonally.

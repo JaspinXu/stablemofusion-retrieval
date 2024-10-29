@@ -1,0 +1,1 @@
+A person steps left, then sits down and returns to their original position, after that walks forward, stumbles to their left, and subsequently regains balance.

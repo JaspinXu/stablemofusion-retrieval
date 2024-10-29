@@ -1,0 +1,1 @@
+A person walks to the left and starts to jog, then reverses and runs back in the opposite direction, subsequently repeating this sequence two more times. Following that, they raise their arms out to their sides, then extend them out to the front, and finally bring them back out to their sides.

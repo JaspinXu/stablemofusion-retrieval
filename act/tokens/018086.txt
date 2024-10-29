@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB in/ADP a/DET circle/NOUN then/ADV perform/VERB martial/ADJ art/NOUN by/ADP block/VERB four/NUM time/NOUN at/ADP a/DET high/ADJ level/NOUN with/ADP his/PRON left/ADJ arm/NOUN follow/VERB by/ADP one/NUM block/NOUN at/ADP a/DET mid/ADJ level/NOUN and/CCONJ finally/ADV one/NUM block/NOUN at/ADP a/DET low/ADJ level/NOUN 

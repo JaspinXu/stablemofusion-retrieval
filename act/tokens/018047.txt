@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB across/ADP the/DET room/NOUN then/ADV seemingly/ADV walk/VERB on/ADP a/DET thin/ADJ line/NOUN in/ADP a/DET u/PROPN shape/NOUN from/ADP left/ADJ to/ADP right/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV two/NUM step/NOUN confidently/ADV then/ADV bend/NOUN at/ADP the/DET knee/NOUN and/CCONJ waist/NOUN as/SCONJ if/SCONJ pick/VERB something/PRON up/ADP after/ADP that/PRON they/PRON stand/VERB up/ADP and/CCONJ return/VERB to/ADP the/DET starting/NOUN position/NOUN 

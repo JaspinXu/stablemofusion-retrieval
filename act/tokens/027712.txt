@@ -1,0 +1,1 @@
+the/DET person/NOUN hop/VERB a/DET big/ADJ step/NOUN to/ADP the/DET left/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV with/ADP his/PRON arm/NOUN at/ADP his/PRON side/NOUN 

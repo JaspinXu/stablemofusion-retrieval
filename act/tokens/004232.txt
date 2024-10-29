@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN then/ADV pick/VERB up/ADP another/DET object/NOUN with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ subsequently/ADV skip/VERB backwards/ADV with/ADP their/PRON hand/NOUN near/ADP their/PRON hip/NOUN look/VERB energetic/ADJ 

@@ -1,0 +1,1 @@
+A figure runs in place, then someone walks forward but is pushed backwards; afterward, they recover and continue walking forward.

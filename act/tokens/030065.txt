@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV ankle/NOUN to/ADP toe/NOUN while/SCONJ hold/VERB both/DET arm/NOUN out/ADP to/ADP the/DET side/NOUN and/CCONJ steady/VERB themself/NOUN against/ADP the/DET wall/NOUN then/ADV they/PRON continue/VERB to/PART walk/VERB to/ADP the/DET right/ADJ moving/NOUN like/ADP a/DET robot/NOUN 

@@ -1,0 +1,1 @@
+A person walks a couple of steps forward, then runs to the left and then to the right, ultimately ending up in the original spot.

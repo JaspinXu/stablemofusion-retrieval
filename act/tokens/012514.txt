@@ -1,0 +1,1 @@
+the/DET man/NOUN sit/VERB then/ADV move/VERB forward/ADV and/CCONJ after/ADP that/PRON the/DET person/NOUN back/VERB up/ADP to/PART perform/VERB a/DET karate/ADJ kick/NOUN 

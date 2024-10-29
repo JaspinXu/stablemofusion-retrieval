@@ -1,0 +1,1 @@
+a/DET stand/VERB person/NOUN walk/VERB forward/ADV then/ADV do/AUX a/DET turn/NOUN and/CCONJ walk/VERB back/ADV follow/VERB by/ADP another/DET turn/NOUN and/CCONJ walk/VERB forward/ADV again/ADV after/SCONJ that/PRON a/DET person/NOUN perform/VERB explosive/ADJ inplace/NOUN lunge/NOUN 

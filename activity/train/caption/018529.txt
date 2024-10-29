@@ -1,0 +1,18 @@
+a person walks diagonally to the right, climbs a ladder then climbs down
+a person is walking in place.
+a person walks diagonally to the right, climbs a ladder then climbs down
+the person walks in place for several steps.
+a person walks diagonally to the right, climbs a ladder then climbs down
+a person walks stationary on a treadmill.
+a climbs up a ladder and then after a moment they climb back down
+a person is walking in place.
+a climbs up a ladder and then after a moment they climb back down
+the person walks in place for several steps.
+a climbs up a ladder and then after a moment they climb back down
+a person walks stationary on a treadmill.
+a person walks forward, appears to climb up 3 steps of a ladder, goes back down the 3 steps and turns back towards the direction they came from.
+a person is walking in place.
+a person walks forward, appears to climb up 3 steps of a ladder, goes back down the 3 steps and turns back towards the direction they came from.
+the person walks in place for several steps.
+a person walks forward, appears to climb up 3 steps of a ladder, goes back down the 3 steps and turns back towards the direction they came from.
+a person walks stationary on a treadmill.

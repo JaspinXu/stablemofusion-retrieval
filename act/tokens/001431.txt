@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP a/DET wide/ADJ gait/NOUN seem/VERB confident/ADJ and/CCONJ aggressive/ADJ then/ADV continue/VERB to/PART walk/VERB confidently/ADV in/ADP a/DET straight/ADJ line/NOUN 

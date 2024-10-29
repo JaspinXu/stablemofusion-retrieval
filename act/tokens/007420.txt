@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 5/NUM curved/ADJ step/NOUN then/ADV move/VERB to/ADP the/DET left/ADJ side/NOUN on/ADP the/DET floor/NOUN 

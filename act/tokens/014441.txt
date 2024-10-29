@@ -1,0 +1,1 @@
+a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET origin/NOUN while/SCONJ shuffle/VERB with/ADP one/NUM foot/NOUN 

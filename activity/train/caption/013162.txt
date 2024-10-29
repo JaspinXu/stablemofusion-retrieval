@@ -1,0 +1,6 @@
+a person walks in a counterclockwise circle, before stopping.
+the sim walks in a large "s" shape before reaching the other end of the plane & turning to that side facing their back.
+a person walks in a counter clockwise circle.
+the sim walks in a large "s" shape before reaching the other end of the plane & turning to that side facing their back.
+the sim is walking in a circle shape, counter clockwise.
+the sim walks in a large "s" shape before reaching the other end of the plane & turning to that side facing their back.

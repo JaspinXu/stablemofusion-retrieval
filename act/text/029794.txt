@@ -1,0 +1,1 @@
+A character quickly walks forward in a diagonal motion, then turns around and walks back to where they started. Following that, a man energetically walks backwards in a counterclockwise circle, then turns sharply and continues backpedalling.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV spin/NOUN around/ADV on/ADP his/PRON left/ADJ leg/NOUN anticlockwise/PROPN then/ADV walk/VERB back/ADV into/ADP the/DET direction/NOUN he/PRON come/VERB from/ADP and/CCONJ after/ADP that/PRON he/PRON begin/VERB to/PART move/VERB something/PRON with/ADP his/PRON hand/NOUN 

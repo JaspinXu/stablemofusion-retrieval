@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB up/ADP in/ADP place/NOUN three/NUM time/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV and/CCONJ subsequently/ADV move/VERB off/ADP to/ADP the/DET left/NOUN before/ADP stop/VERB 

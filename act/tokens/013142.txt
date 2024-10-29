@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB to/ADP one/NUM side/NOUN then/ADV turn/VERB around/ADV and/CCONJ jog/VERB to/ADP the/DET other/ADJ side/NOUN follow/VERB that/SCONJ they/PRON turn/VERB around/ADV and/CCONJ jog/VERB back/ADV to/ADP their/PRON original/ADJ position/NOUN while/SCONJ be/AUX push/VERB from/ADP the/DET right/ADJ side/NOUN 

@@ -1,0 +1,1 @@
+A person sits in place on an object, then steps right a few steps, followed by stepping left a few steps, and finally returns back towards the right to the starting point.

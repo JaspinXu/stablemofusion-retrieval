@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV while/SCONJ hold/VERB arm/NOUN out/ADP to/ADP each/DET side/NOUN and/CCONJ rotate/VERB at/ADP the/DET elbow/NOUN then/ADV the/DET person/NOUN transition/VERB to/ADP climb/VERB and/CCONJ walk/VERB on/ADP uneven/ADJ terrain/NOUN 

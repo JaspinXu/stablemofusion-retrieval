@@ -1,0 +1,4 @@
+a person move backwards
+a person is standing before being pushed back and to the right slightly.
+a person move backwards
+a standing person steps backwards.

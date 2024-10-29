@@ -1,0 +1,1 @@
+A person walks towards the right side, then runs sideways to the right, followed by a quick movement to the left, and subsequently returns to the center.

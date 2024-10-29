@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB on/ADP the/DET right/ADJ foot/NOUN for/ADP half/DET a/DET circle/NOUN then/ADV switch/VERB to/ADP the/DET left/ADJ foot/NOUN to/PART complete/VERB the/DET circle/NOUN of/ADP hop/VERB on/ADP one/NUM foot/NOUN after/SCONJ that/SCONJ the/DET person/NOUN walk/VERB down/ADP and/CCONJ try/VERB to/PART carry/VERB something/PRON 

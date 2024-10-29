@@ -1,0 +1,4 @@
+figure walks forward and to the right walking in a circular motion
+a person walks at normal pace.
+figure walks forward and to the right walking in a circular motion
+a person is walking in place.

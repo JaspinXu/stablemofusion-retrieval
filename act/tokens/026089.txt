@@ -1,0 +1,1 @@
+the/DET person/NOUN place/VERB his/PRON left/ADJ hand/NOUN on/ADP a/DET seat/NOUN and/CCONJ sit/VERB down/ADP next/ADV a/DET man/NOUN grab/VERB an/DET object/NOUN above/ADP his/PRON head/NOUN with/ADP his/PRON right/ADJ hand/NOUN 

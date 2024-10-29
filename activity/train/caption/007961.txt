@@ -1,0 +1,18 @@
+a man walks forwards and turns left in a semicircle.
+a person runs forwards in a vaguely straight line.
+a man walks forwards and turns left in a semicircle.
+a person runs forwards and comes to a slow stop.
+a man walks forwards and turns left in a semicircle.
+a person runs forward then stops.
+a person walks forward and then turns 90 degrees left and stops.
+a person runs forwards in a vaguely straight line.
+a person walks forward and then turns 90 degrees left and stops.
+a person runs forwards and comes to a slow stop.
+a person walks forward and then turns 90 degrees left and stops.
+a person runs forward then stops.
+a person walking in a curved line to the left.
+a person runs forwards in a vaguely straight line.
+a person walking in a curved line to the left.
+a person runs forwards and comes to a slow stop.
+a person walking in a curved line to the left.
+a person runs forward then stops.

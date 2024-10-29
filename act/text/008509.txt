@@ -1,0 +1,1 @@
+A figure crouches, touches the ground, stands up, and then walks forward slowly after getting pushed slightly.

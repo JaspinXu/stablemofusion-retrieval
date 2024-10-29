@@ -1,0 +1,1 @@
+a/DET robot/NOUN be/AUX sit/VERB with/ADP crossed/ADJ leg/NOUN and/CCONJ then/ADV decide/VERB to/PART stand/VERB up/ADP and/CCONJ sit/VERB again/ADV with/ADP cross/VERB leg/NOUN follow/VERB that/SCONJ a/DET person/NOUN be/AUX sit/VERB throw/VERB twice/ADV and/CCONJ then/ADV stand/VERB up/ADP to/PART throw/VERB something/PRON again/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV while/SCONJ look/VERB upwards/ADV before/ADP turn/VERB around/ADV to/PART face/VERB the/DET back/NOUN and/CCONJ then/ADV a/DET man/NOUN teeter/NOUN back/ADV and/CCONJ forth/ADV on/ADP either/PRON of/ADP his/PRON two/NUM foot/NOUN 

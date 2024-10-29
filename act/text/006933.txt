@@ -1,0 +1,1 @@
+A person acts as if they are picking an object up and placing it somewhere else, then a man walks forward in an arc toward the left of the screen and stops when he reaches the end of the platform.

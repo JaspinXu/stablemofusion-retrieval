@@ -1,0 +1,1 @@
+This person walks in a zigzag motion from back to front, then a man walks forward, stops, and turns in a circle before walking forward again to pick something up. After that, he turns in another circle and continues walking forward.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ turn/VERB 90/NUM degree/NOUN to/ADP the/DET left/NOUN then/ADV push/VERB something/PRON forward/ADV and/CCONJ subsequently/ADV pull/VERB it/PRON back/ADV 

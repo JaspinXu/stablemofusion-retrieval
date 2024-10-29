@@ -1,0 +1,1 @@
+A person runs forward in a straight diagonal line, then walks forward and to their right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB an/DET object/NOUN to/ADP their/PRON left/NOUN with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ then/ADV catch/VERB an/DET object/NOUN that/PRON be/AUX throw/VERB at/ADP they/PRON subsequently/ADV try/VERB to/PART recover/VERB from/ADP a/DET push/NOUN 

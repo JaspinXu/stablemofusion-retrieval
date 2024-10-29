@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV stumble/NOUN slightly/ADV but/CCONJ then/ADV return/VERB to/ADP a/DET normal/ADJ walk/NOUN while/SCONJ a/DET man/NOUN walk/VERB forward/ADV with/ADP his/PRON right/ADJ hand/NOUN on/ADP the/DET railing/NOUN and/CCONJ his/PRON left/ADJ hand/NOUN at/ADP his/PRON side/NOUN 

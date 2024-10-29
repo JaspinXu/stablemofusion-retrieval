@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB sideways/ADV from/ADP right/NOUN to/ADP left/NOUN and/CCONJ then/ADV from/ADP left/ADJ to/ADP right/ADJ and/CCONJ subsequently/ADV jump/VERB rope/NOUN successfully/ADV 

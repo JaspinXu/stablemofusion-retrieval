@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV bow/NOUN with/ADP the/DET left/ADJ foot/NOUN and/CCONJ leave/VERB arm/NOUN forward/ADV and/CCONJ then/ADV walk/VERB back/ADV to/PART stand/VERB in/ADP place/NOUN subsequently/ADV with/ADP the/DET left/ADJ hand/NOUN the/DET person/NOUN hit/VERB a/DET drum/NOUN they/PRON be/AUX hold/VERB in/ADP their/PRON right/ADJ hand/NOUN 

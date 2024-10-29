@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP an/DET item/NOUN with/ADP his/PRON left/ADJ hand/NOUN then/ADV perform/VERB a/DET hop/NOUN and/CCONJ turn/VERB right/ADJ 270/NUM degree/NOUN in/ADP the/DET air/NOUN 

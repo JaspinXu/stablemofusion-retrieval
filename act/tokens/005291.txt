@@ -1,0 +1,1 @@
+the/DET man/NOUN place/VERB the/DET ball/NOUN on/ADP the/DET floor/NOUN and/CCONJ then/ADV lift/VERB his/PRON left/ADJ arm/NOUN above/ADP his/PRON head/NOUN 

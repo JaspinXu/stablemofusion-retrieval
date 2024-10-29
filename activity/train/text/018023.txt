@@ -1,0 +1,1 @@
+A person jumps twisting to the right, then runs from the top left of the screen to the bottom right and subsequently returns to walk back.

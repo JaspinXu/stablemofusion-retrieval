@@ -1,0 +1,1 @@
+A person navigates going up a set of stairs and then walks forward before turning 180 degrees.

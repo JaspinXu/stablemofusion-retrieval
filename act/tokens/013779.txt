@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB to/ADP the/DET right/ADJ then/ADV a/DET person/NOUN move/VERB from/ADP side/NOUN to/PART side/VERB in/ADP a/DET dance/NOUN motion/NOUN 

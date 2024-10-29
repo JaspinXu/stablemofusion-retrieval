@@ -1,0 +1,1 @@
+a/DET person/NOUN crawl/VERB around/ADP on/ADP the/DET floor/NOUN then/ADV alternate/VERB one/NUM step/NOUN forward/ADV and/CCONJ one/NUM step/NOUN backward/ADV 

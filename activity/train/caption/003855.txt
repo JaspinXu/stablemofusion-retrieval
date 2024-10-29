@@ -1,0 +1,18 @@
+person stomps their right foot once.
+a fast walk forward with multiple steps.
+person stomps their right foot once.
+a person jogs a short distance forward
+person stomps their right foot once.
+the person runs and comes to a stop.
+person stomps their left foot.
+a fast walk forward with multiple steps.
+person stomps their left foot.
+a person jogs a short distance forward
+person stomps their left foot.
+the person runs and comes to a stop.
+person lifts right foot and stomps onto ground
+a fast walk forward with multiple steps.
+person lifts right foot and stomps onto ground
+a person jogs a short distance forward
+person lifts right foot and stomps onto ground
+the person runs and comes to a stop.

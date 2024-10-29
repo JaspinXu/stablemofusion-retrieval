@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON hand/NOUN up/ADP to/ADP mid/ADJ chest/NOUN level/NOUN then/ADV move/VERB it/PRON to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ before/ADP turn/VERB around/ADV and/CCONJ return/VERB 

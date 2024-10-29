@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB a/DET heavy/ADJ object/NOUN and/CCONJ move/VERB it/PRON to/ADP his/PRON left/ADJ side/NOUN then/ADV a/DET person/NOUN walk/VERB cautiously/ADV with/ADP the/DET help/NOUN of/ADP railing/NOUN 

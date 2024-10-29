@@ -1,0 +1,1 @@
+The person walks forward somewhat slowly, then takes two steps forward, spins around counterclockwise in the opposite direction, and finally takes two steps back.

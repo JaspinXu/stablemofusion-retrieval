@@ -1,0 +1,1 @@
+a/DET person/NOUN may/AUX be/AUX grab/VERB something/PRON then/ADV open/VERB a/DET door/NOUN slide/VERB it/PRON to/ADP the/DET right/ADJ select/NOUN an/DET item/NOUN from/ADP the/DET top/ADJ section/NOUN and/CCONJ move/VERB it/PRON to/ADP a/DET low/ADJ section/NOUN 

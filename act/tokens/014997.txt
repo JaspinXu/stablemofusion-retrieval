@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET decent/ADJ pace/NOUN back/ADV and/CCONJ forth/ADV in/ADP a/DET diagonal/ADJ line/NOUN then/ADV a/DET man/NOUN follow/VERB by/ADP walk/VERB in/ADP a/DET wind/VERB path/NOUN make/VERB semicircular/ADJ unclosed/ADJ loop/NOUN while/SCONJ keep/VERB his/PRON hand/NOUN low/ADJ at/ADP his/PRON side/NOUN 

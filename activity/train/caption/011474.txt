@@ -1,0 +1,2 @@
+the toon walks forward, sways a bit, then walks back before stopping.
+a man walks clockwise in a circle.

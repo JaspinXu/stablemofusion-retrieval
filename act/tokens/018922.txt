@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET ballerina/NOUN dance/NOUN and/CCONJ then/ADV while/SCONJ dance/VERB they/PRON move/VERB their/PRON arm/NOUN in/ADP circular/ADJ motion/NOUN both/CCONJ forward/ADV and/CCONJ backward/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET left/ADJ hand/NOUN circle/NOUN then/ADV stretch/VERB their/PRON arm/NOUN subsequently/ADV the/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN and/CCONJ sit/VERB down/ADP 

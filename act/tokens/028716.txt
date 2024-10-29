@@ -1,0 +1,1 @@
+a/DET man/NOUN move/VERB something/PRON from/ADP one/NUM spot/NOUN to/ADP another/PRON then/ADV a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET backwards/ADJ chair/NOUN sit/VERB down/ADP on/ADP it/PRON with/ADP leg/NOUN outstretche/VERB and/CCONJ subsequently/ADV stand/VERB back/ADV up/ADV 

@@ -1,0 +1,1 @@
+Someone walks forward, drifting slightly to the right, then is pushed from the right but does not fall down.

@@ -1,0 +1,1 @@
+a/DET man/NOUN slowly/ADV leap/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ leap/VERB again/ADV subsequently/ADV repeat/VERB the/DET forward/ADJ leap/NOUN meanwhile/ADV a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ finally/ADV back/ADV to/ADP the/DET left/ADJ finish/VERB in/ADP the/DET center/NOUN 

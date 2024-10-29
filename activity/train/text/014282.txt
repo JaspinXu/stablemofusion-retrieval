@@ -1,0 +1,1 @@
+A figure climbs up steps backward slowly, then turns and walks forward down those same steps. After that, the figure squats up and down with arms forward, doing a tiny jump with each squat as they move upward.

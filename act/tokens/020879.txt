@@ -1,0 +1,1 @@
+a/DET person/NOUN walks/AUX slowly/ADV counterclockwise/VERB in/ADP the/DET pattern/NOUN of/ADP a/DET semicircle/NOUN and/CCONJ then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET line/NOUN 

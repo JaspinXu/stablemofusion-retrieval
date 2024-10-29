@@ -1,0 +1,1 @@
+A person is walking back-and-forth from right to left and then finally moves forward and backward, ultimately arriving at the same place.

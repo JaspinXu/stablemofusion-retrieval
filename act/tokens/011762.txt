@@ -1,0 +1,1 @@
+the/DET figure/NOUN in/ADP the/DET animation/NOUN do/AUX not/PART move/VERB at/ADV all/ADV however/ADV a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB leave/VERB and/CCONJ continue/VERB to/PART walk/VERB next/ADJ turn/NOUN leave/VERB again/ADV and/CCONJ continue/VERB to/PART walk/VERB 

@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB around/ADV in/ADP a/DET circle/NOUN and/CCONJ subsequently/ADV another/DET person/NOUN walk/VERB in/ADP a/DET similar/ADJ circular/ADJ motion/NOUN 

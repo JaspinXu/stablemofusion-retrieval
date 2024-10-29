@@ -1,0 +1,1 @@
+the/DET left/ADJ hand/NOUN make/VERB a/DET sort/NOUN of/ADP cross/NOUN gesture/VERB twice/ADV rather/ADV sloppily/ADV go/VERB down/ADP from/ADP the/DET head/NOUN then/ADV up/ADP to/ADP the/DET right/NOUN across/ADP to/ADP the/DET left/NOUN and/CCONJ then/ADV the/DET gesture/ADJ repeat/VERB after/SCONJ that/PRON the/DET person/NOUN turn/VERB around/ADV and/CCONJ sit/VERB down/ADP 

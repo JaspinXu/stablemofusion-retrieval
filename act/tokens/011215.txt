@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB back/ADV and/CCONJ forth/ADV between/ADP two/NUM point/NOUN then/ADV step/NOUN backwards/ADV and/CCONJ lean/VERB on/ADP an/DET object/NOUN 

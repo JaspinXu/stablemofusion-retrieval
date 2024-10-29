@@ -1,0 +1,12 @@
+a person walks to the left, sits down on an object, then stands up again.
+a person who is running takes four steps forward and to his left, stops, turns 180 degrees, takes five steps the other way, turns 180 degrees and takes two steps to his left.
+a person walks to the left, sits down on an object, then stands up again.
+a person runs back and forth in a half a circle
+this person walks over to the right to sit then gets up and walks to the left.
+a person who is running takes four steps forward and to his left, stops, turns 180 degrees, takes five steps the other way, turns 180 degrees and takes two steps to his left.
+this person walks over to the right to sit then gets up and walks to the left.
+a person runs back and forth in a half a circle
+a person turns and steps to his right, sits down on something, then stands up and returns to their original position.
+a person who is running takes four steps forward and to his left, stops, turns 180 degrees, takes five steps the other way, turns 180 degrees and takes two steps to his left.
+a person turns and steps to his right, sits down on something, then stands up and returns to their original position.
+a person runs back and forth in a half a circle

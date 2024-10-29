@@ -1,0 +1,1 @@
+A person slowly walks around in a rectangular shape, stopping before making a turn each time, then continues to walk in a near complete clockwise square.

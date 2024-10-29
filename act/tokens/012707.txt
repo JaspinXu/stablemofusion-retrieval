@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV 4/NUM pace/NOUN and/CCONJ slightly/ADV to/ADP his/PRON left/NOUN then/ADV stop/VERB after/ADP which/PRON a/DET person/NOUN be/AUX push/VERB slightly/ADV to/ADP their/PRON left/ADJ catch/VERB themselves/PRON with/ADP their/PRON left/ADJ foot/NOUN 

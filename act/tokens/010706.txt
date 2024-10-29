@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET counterclockwise/NOUN 180degree/PROPN turn/VERB then/ADV walk/VERB away/ADV follow/VERB that/SCONJ they/PRON walk/VERB back/ADV and/CCONJ assume/VERB a/DET tpose/PROPN afterward/PROPN they/PRON pivot/VERB on/ADP their/PRON right/ADJ foot/NOUN four/NUM time/NOUN in/ADP various/ADJ direction/NOUN 

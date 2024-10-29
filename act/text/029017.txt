@@ -1,0 +1,1 @@
+A figure walks forward in a zigzag pattern, stepping over something along the way, then jumps up once and subsequently sidesteps to the right.

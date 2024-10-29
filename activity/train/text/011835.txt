@@ -1,0 +1,1 @@
+A man walks around in a circle before stopping, then he walks forward, reaches the edge of the shaded area, and halts.

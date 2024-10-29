@@ -1,0 +1,1 @@
+A person walks forward, then turns at a 45-degree angle to their left; they then walk backwards for the same distance as they walked forward. Next, they sidestep to the left and take another step forward. Following that, a man walks to the right and then starts to walk to the left.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV two/NUM step/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN after/SCONJ that/PRON start/VERB out/ADP stand/VERB lean/NOUN to/ADP the/DET right/NOUN and/CCONJ stomp/VERB his/PRON left/ADJ foot/NOUN 

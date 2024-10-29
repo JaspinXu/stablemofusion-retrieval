@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB an/DET imaginary/ADJ item/NOUN flip/VERB it/PRON 90/NUM degree/NOUN then/ADV put/VERB it/PRON back/ADV follow/VERB by/ADP pour/VERB out/ADP a/DET bucket/NOUN to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+someone/PRON walk/VERB forward/ADV two/NUM step/NOUN then/ADV kick/VERB their/PRON left/ADJ leg/NOUN up/ADP to/PART turn/VERB around/ADV and/CCONJ walk/VERB two/NUM step/NOUN back/ADV follow/VERB that/SCONJ another/DET person/NOUN walk/VERB forward/ADV twirl/NOUN around/ADV and/CCONJ then/ADV walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB 

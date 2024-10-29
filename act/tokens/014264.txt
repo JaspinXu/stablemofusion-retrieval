@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV lean/NOUN on/ADP something/PRON for/ADP a/DET moment/NOUN then/ADV walk/VERB backward/ADV to/ADP his/PRON starting/NOUN position/NOUN follow/VERB that/SCONJ he/PRON walk/VERB backwards/ADV in/ADP a/DET clockwise/NOUN direction/NOUN to/PART form/VERB a/DET circle/NOUN in/ADP the/DET center/NOUN of/ADP the/DET platform/NOUN 

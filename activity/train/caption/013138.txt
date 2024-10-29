@@ -1,0 +1,8 @@
+a person walks left diagonally, turns right walks a few steps then walks back and stands facing forward.
+a person dries right arm.
+a person walks left diagonally, turns right walks a few steps then walks back and stands facing forward.
+the person is drying his left arm.
+the person paces back and forth from left to right
+a person dries right arm.
+the person paces back and forth from left to right
+the person is drying his left arm.

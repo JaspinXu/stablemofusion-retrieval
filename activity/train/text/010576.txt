@@ -1,0 +1,1 @@
+The body walks forward a few steps, then backwards a few steps, and subsequently walks forward again, while a person is also walking straight forward.

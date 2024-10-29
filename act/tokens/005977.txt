@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV down/ADP several/ADJ stair/NOUN then/ADV a/DET robot/NOUN start/VERB walk/VERB forward/ADV while/SCONJ touch/VERB the/DET handrail/NOUN with/ADP its/PRON left/ADJ hand/NOUN 

@@ -1,0 +1,1 @@
+A person walks clockwise, then steps side-to-side, subsequently moves forward and turns back to face the front.

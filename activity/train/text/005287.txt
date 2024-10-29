@@ -1,0 +1,1 @@
+A person walks forward while turning 90 degrees to the left, then pushes something forward and subsequently pulls it back.

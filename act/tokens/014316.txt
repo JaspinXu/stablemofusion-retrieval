@@ -1,0 +1,1 @@
+in/ADP the/DET video/NOUN the/DET person/NOUN walk/VERB in/ADP a/DET figure/NOUN eight/NUM pattern/NOUN and/CCONJ then/ADV transition/NOUN to/ADP walk/VERB straight/ADV forward/ADV raise/VERB both/DET hand/NOUN in/ADP the/DET air/NOUN before/ADP place/VERB they/PRON back/ADV at/ADP their/PRON side/NOUN 

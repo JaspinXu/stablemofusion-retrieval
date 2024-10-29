@@ -1,0 +1,12 @@
+person quickly walks forward and stumbles
+a person walks forward and stops.
+person quickly walks forward and stumbles
+the man takes 5 steps.
+a person walks forward leaning left and then right.
+a person walks forward and stops.
+a person walks forward leaning left and then right.
+the man takes 5 steps.
+a person walks forward and is pushed forward.
+a person walks forward and stops.
+a person walks forward and is pushed forward.
+the man takes 5 steps.

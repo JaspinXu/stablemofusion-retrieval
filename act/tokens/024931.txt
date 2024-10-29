@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV stop/VERB before/ADP proceed/VERB to/PART walk/VERB down/ADP the/DET stair/NOUN while/SCONJ use/VERB their/PRON left/ADJ hand/NOUN for/ADP support/NOUN on/ADP the/DET handrail/NOUN 

@@ -1,0 +1,1 @@
+A person gets pushed from the left while walking, then spins left and continues walking forward.

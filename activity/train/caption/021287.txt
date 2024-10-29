@@ -1,0 +1,18 @@
+a person jogs in a circle to the right.
+a person walks forward and then back around to the starting point.
+a person jogs in a circle to the right.
+a person walks from upper left to lower right and back in a counterclockwise circle.
+a person jogs in a circle to the right.
+a person walks in a counterclockwise circle
+a person slowly runs in a circle.
+a person walks forward and then back around to the starting point.
+a person slowly runs in a circle.
+a person walks from upper left to lower right and back in a counterclockwise circle.
+a person slowly runs in a circle.
+a person walks in a counterclockwise circle
+a person is jogging in circles
+a person walks forward and then back around to the starting point.
+a person is jogging in circles
+a person walks from upper left to lower right and back in a counterclockwise circle.
+a person is jogging in circles
+a person walks in a counterclockwise circle

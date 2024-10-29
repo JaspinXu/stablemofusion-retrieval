@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB left/ADJ and/CCONJ walk/VERB back/ADV subsequently/ADV the/DET sim/NOUN walk/VERB forward/ADV reach/VERB the/DET end/NOUN of/ADP the/DET plane/NOUN and/CCONJ loop/VERB backwards/ADV again/ADV 

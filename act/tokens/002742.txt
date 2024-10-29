@@ -1,0 +1,1 @@
+a/DET person/NOUN trip/VERB forward/ADV slightly/ADV then/ADV a/DET man/NOUN punch/VERB the/DET air/NOUN at/ADP chin/PROPN height/NOUN with/ADP his/PRON right/ADJ arm/NOUN while/SCONJ keep/VERB his/PRON left/ADJ arm/NOUN at/ADP his/PRON side/NOUN 

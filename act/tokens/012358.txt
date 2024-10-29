@@ -1,0 +1,1 @@
+a/DET person/NOUN do/AUX a/DET small/ADJ jump/NOUN before/ADP walk/VERB up/ADP some/DET stair/NOUN then/ADV the/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN stop/VERB push/VERB back/ADV a/DET few/ADJ step/NOUN and/CCONJ subsequently/ADV walk/VERB forward/ADV again/ADV 

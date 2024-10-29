@@ -1,0 +1,1 @@
+A person slowly walks forward, then stops and stands. Following that, the figure faces straight, turns to the left, jogs 2 steps, then turns to the right and jogs over 4 steps. Afterward, he faces forward and jogs 3 steps to the left before coming to a stop.

@@ -1,0 +1,4 @@
+a person walks forward drifting slightly to their right.
+a person walks forward normally
+a person walks forward drifting slightly to their right.
+the person is walking normally forward.

@@ -1,0 +1,1 @@
+A person walks diagonally towards the right side, then walks and stops.

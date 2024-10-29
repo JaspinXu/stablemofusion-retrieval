@@ -1,0 +1,1 @@
+The person slowly walks forward, as if they are trying to keep their balance, then walks straightforward from edge to edge of the rectangle and subsequently stops.

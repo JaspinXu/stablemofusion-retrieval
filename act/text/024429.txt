@@ -1,0 +1,1 @@
+A man walks clockwise, then turns back counterclockwise and walks forward in a C-shape. After stopping, he turns back and walks again. Subsequently, he lifts his right leg and kicks the air once. Next, he stretches it to his left, bending the knee as he twists it, and then stretches it back out to kick the air several more times.

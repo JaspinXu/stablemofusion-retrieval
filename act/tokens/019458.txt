@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN and/CCONJ then/ADV walk/VERB low/ADV to/ADP the/DET ground/NOUN in/ADP a/DET clockwise/NOUN circle/NOUN 

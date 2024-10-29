@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB downward/ADV in/ADP a/DET semicircle/NOUN to/ADP the/DET lefthand/PROPN side/NOUN and/CCONJ stand/VERB still/ADV then/ADV a/DET robot/NOUN walk/VERB forward/ADV from/ADP the/DET left/NOUN and/CCONJ end/VERB up/ADP on/ADP the/DET right/NOUN 

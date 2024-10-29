@@ -1,0 +1,1 @@
+A figure side-steps forward and to the left, then takes one step backward to the right, subsequently walking towards the left.

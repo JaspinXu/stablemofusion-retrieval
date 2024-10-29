@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV crawl/VERB forwards/ADV next/SCONJ a/DET man/NOUN look/VERB behind/ADP he/PRON walk/VERB backwards/ADV then/ADV squat/NOUN and/CCONJ return/NOUN to/ADP a/DET standing/NOUN position/NOUN 

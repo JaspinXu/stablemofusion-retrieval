@@ -1,0 +1,12 @@
+person is picking up or moving things.
+a man walks in a forward arc to his right, then returns to his original start.
+person is picking up or moving things.
+someone walks in an arc, forward and to the right.
+person is picking up or moving things.
+a person walks fowrad to their right in a curve, stops, then curves back to where they started.
+the person picks a few objects up in random spots, and puts them into some sort of bin.
+a man walks in a forward arc to his right, then returns to his original start.
+the person picks a few objects up in random spots, and puts them into some sort of bin.
+someone walks in an arc, forward and to the right.
+the person picks a few objects up in random spots, and puts them into some sort of bin.
+a person walks fowrad to their right in a curve, stops, then curves back to where they started.

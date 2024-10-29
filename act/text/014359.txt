@@ -1,0 +1,1 @@
+A standing person steps forward to interact with an item, then steps back without the item.

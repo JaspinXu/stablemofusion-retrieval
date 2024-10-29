@@ -1,0 +1,1 @@
+a/DET robot/NOUN pick/VERB up/ADP something/PRON with/ADP his/PRON right/ADJ hand/NOUN from/ADP his/PRON left/ADJ side/NOUN and/CCONJ place/VERB it/PRON on/ADP his/PRON right/ADJ side/NOUN subsequently/ADV uplift/VERB his/PRON right/ADJ arm/NOUN while/SCONJ a/DET person/NOUN crawl/VERB on/ADP their/PRON back/NOUN and/CCONJ then/ADV slowly/ADV stand/VERB up/ADP 

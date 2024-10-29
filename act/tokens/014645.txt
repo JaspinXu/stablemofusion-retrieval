@@ -1,0 +1,1 @@
+a/DET person/NOUN place/VERB a/DET cup/NOUN into/ADP a/DET bowl/NOUN then/ADV walk/VERB from/ADP side/NOUN to/PART side/VERB 

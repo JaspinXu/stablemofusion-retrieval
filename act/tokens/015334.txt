@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET glass/NOUN and/CCONJ drink/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN forward/ADV bend/VERB at/ADP the/DET waist/NOUN before/ADP extend/VERB his/PRON arm/NOUN forward/ADV and/CCONJ walk/VERB backwards/ADV a/DET step/NOUN bend/VERB at/ADP the/DET waist/NOUN again/ADV and/CCONJ finally/ADV drop/VERB his/PRON arm/NOUN 

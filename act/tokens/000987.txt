@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB a/DET pepsi/PROPN bottle/NOUN open/VERB it/PRON and/CCONJ then/ADV lift/VERB it/PRON to/ADP his/PRON mouth/NOUN with/ADP his/PRON left/ADJ hand/NOUN to/PART drink/VERB it/PRON follow/VERB that/SCONJ a/DET person/NOUN grab/VERB both/DET hand/NOUN and/CCONJ make/VERB some/DET gesture/NOUN 

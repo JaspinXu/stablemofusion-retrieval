@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB downstairs/ADV while/SCONJ hold/VERB onto/ADP the/DET handrail/NOUN then/ADV be/AUX seat/VERB with/ADP knee/NOUN bent/ADJ and/CCONJ hand/NOUN in/ADP front/NOUN elbow/VERB bent/ADJ move/VERB their/PRON hand/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ then/ADV a/DET clockwise/NOUN circle/NOUN 

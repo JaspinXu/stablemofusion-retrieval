@@ -1,0 +1,1 @@
+A person is standing, then takes a jump, subsequently walks forward, and then stops.

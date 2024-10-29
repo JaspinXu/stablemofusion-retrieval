@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX play/VERB the/DET guitar/NOUN with/ADP his/PRON left/ADJ hand/NOUN then/ADV he/PRON take/VERB two/NUM large/ADJ step/NOUN forward/ADV pivot/VERB on/ADP his/PRON left/ADJ leg/NOUN and/CCONJ subsequently/ADV take/VERB several/ADJ step/NOUN back/ADV to/ADP the/DET starting/NOUN position/NOUN 

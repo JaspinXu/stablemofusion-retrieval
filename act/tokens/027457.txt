@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 4/NUM step/NOUN backwards/ADV while/SCONJ a/DET person/NOUN be/AUX walk/VERB around/ADP the/DET room/NOUN 

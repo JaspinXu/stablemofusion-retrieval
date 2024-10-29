@@ -1,0 +1,1 @@
+a/DET man/NOUN limp/VERB to/ADP the/DET right/ADJ side/NOUN of/ADP the/DET room/NOUN then/ADV run/VERB back/ADV to/ADP the/DET left/ADJ side/NOUN subsequently/ADV a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN with/ADP a/DET limp/ADJ and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ sprint/NOUN back/ADV to/ADP where/SCONJ he/PRON start/VERB 

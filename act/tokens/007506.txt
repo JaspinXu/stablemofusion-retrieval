@@ -1,0 +1,1 @@
+a/DET person/NOUN eat/VERB with/ADP both/DET hand/NOUN while/SCONJ sit/VERB down/ADP then/ADV a/DET man/NOUN walk/VERB forward/ADV two/NUM step/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV 

@@ -1,0 +1,1 @@
+someone/PRON walk/VERB down/ADP the/DET street/NOUN then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN 

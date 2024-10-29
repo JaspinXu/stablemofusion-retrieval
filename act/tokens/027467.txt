@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB seven/NUM step/NOUN to/ADP the/DET right/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV walk/VERB forward/ADV turn/NOUN and/CCONJ walk/VERB back/ADV 

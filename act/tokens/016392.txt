@@ -1,0 +1,1 @@
+this/DET person/NOUN be/AUX exercise/VERB their/PRON arm/NOUN first/ADV by/ADP rotate/VERB the/DET right/NOUN and/CCONJ then/ADV the/DET left/ADJ next/ADV walk/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN and/CCONJ they/PRON repeat/VERB the/DET motion/NOUN 

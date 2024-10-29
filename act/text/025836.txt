@@ -1,0 +1,1 @@
+This person walks from right to left, stops, and walks to the back, then walks left. Following that, the sim begins to walk in a figure 8 formation.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB quickly/ADV forward/ADV for/ADP 2/NUM stride/NOUN and/CCONJ then/ADV stop/VERB next/SCONJ the/DET person/NOUN walk/VERB forward/ADV again/ADV increase/VERB their/PRON pace/NOUN and/CCONJ then/ADV leap/VERB into/ADP the/DET air/NOUN 

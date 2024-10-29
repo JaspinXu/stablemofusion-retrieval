@@ -1,0 +1,1 @@
+A person takes forward and backward steps, moving to the back, then to their right, and lastly forward, turning 180 degrees. After that, they walk in a small circle, counterclockwise, and then stop.

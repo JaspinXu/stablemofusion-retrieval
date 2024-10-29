@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB a/DET few/ADJ step/NOUN down/ADP the/DET plane/NOUN then/ADV continually/ADV jump/VERB from/ADP one/NUM foot/NOUN to/ADP the/DET other/ADJ 

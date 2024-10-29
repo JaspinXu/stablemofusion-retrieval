@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV on/ADP the/DET treadmill/NOUN then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET circular/ADJ fashion/NOUN gesture/VERB in/ADP an/DET aggravated/ADJ manner/NOUN 

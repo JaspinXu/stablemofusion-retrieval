@@ -1,0 +1,1 @@
+this/DET person/NOUN be/AUX dance/VERB just/ADV like/ADP michael/PROPN jackson/PROPN perform/VERB three/NUM sidestep/NOUN to/ADP the/DET right/ADJ then/ADV three/NUM sidestep/NOUN to/ADP the/DET left/NOUN and/CCONJ finish/VERB with/ADP a/DET small/ADJ step/NOUN back/ADV 

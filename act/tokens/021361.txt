@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB casually/ADV in/ADP a/DET diagonal/ADJ direction/NOUN then/ADV turn/VERB around/ADP clockwise/NOUN and/CCONJ continue/VERB walk/VERB forward/ADV at/ADP an/DET even/ADJ pace/NOUN 

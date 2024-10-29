@@ -1,0 +1,2 @@
+a standing person walks forward for 3 seconds, does a little hop, then continues walkiing.
+a person back up two steps sits down on something and the stands up again.

@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB by/ADP walk/VERB around/ADV in/ADP a/DET clockwise/NOUN circle/NOUN with/ADP their/PRON right/ADJ hand/NOUN on/ADP their/PRON head/NOUN then/ADV they/PRON transition/VERB to/ADP walk/VERB in/ADP an/DET oval/NOUN shape/NOUN start/VERB with/ADP their/PRON right/ADJ foot/NOUN 

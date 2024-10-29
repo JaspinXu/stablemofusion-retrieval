@@ -1,0 +1,18 @@
+a person is walking forward, bends down, touches something, gets back up, turns around and walks back into the direction he came from
+a person walks in a clockwise circle
+a person is walking forward, bends down, touches something, gets back up, turns around and walks back into the direction he came from
+a person looks to be walking in a counterclockwise circle.
+a person is walking forward, bends down, touches something, gets back up, turns around and walks back into the direction he came from
+a person walks in a counterclockwise circle, then stops.
+a person slowly walked forward and grabbed something
+a person walks in a clockwise circle
+a person slowly walked forward and grabbed something
+a person looks to be walking in a counterclockwise circle.
+a person slowly walked forward and grabbed something
+a person walks in a counterclockwise circle, then stops.
+a man walks to the opposite end of the room, picks up an object, puts it down then walks back to the original place.
+a person walks in a clockwise circle
+a man walks to the opposite end of the room, picks up an object, puts it down then walks back to the original place.
+a person looks to be walking in a counterclockwise circle.
+a man walks to the opposite end of the room, picks up an object, puts it down then walks back to the original place.
+a person walks in a counterclockwise circle, then stops.

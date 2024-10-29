@@ -1,0 +1,1 @@
+A person walks forward in the left direction, then returns back and continues walking slowly. Following that, the person bends down and places their right hand on their stomach.

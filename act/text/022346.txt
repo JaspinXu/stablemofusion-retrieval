@@ -1,0 +1,1 @@
+A person walks forward following an "s" path, then continues to walk in a clockwise circle before jumping back.

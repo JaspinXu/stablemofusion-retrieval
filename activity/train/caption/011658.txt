@@ -1,0 +1,8 @@
+the body walks in a clockwise circle.
+a person walks forward, turns and walks towards his right.
+the body walks in a clockwise circle.
+a man walks forwards, turns to the right, and walks forwards again.
+a person walks in a clockwise direction.
+a person walks forward, turns and walks towards his right.
+a person walks in a clockwise direction.
+a man walks forwards, turns to the right, and walks forwards again.

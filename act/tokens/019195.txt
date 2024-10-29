@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB a/DET ballet/NOUN dance/NOUN and/CCONJ then/ADV another/DET person/NOUN seem/VERB to/PART be/AUX describe/VERB the/DET beauty/NOUN and/CCONJ intricacy/NOUN of/ADP the/DET performance/NOUN 

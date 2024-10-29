@@ -1,0 +1,1 @@
+The sim jumps, making a 90-degree turn, and then a person takes a jump back.

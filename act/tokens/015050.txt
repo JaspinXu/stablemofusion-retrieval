@@ -1,0 +1,1 @@
+the/DET person/NOUN pick/VERB a/DET few/ADJ object/NOUN up/ADP in/ADP random/ADJ spot/NOUN and/CCONJ put/VERB they/PRON into/ADP some/DET sort/NOUN of/ADP bin/PROPN then/ADV walk/VERB forward/ADV in/ADP a/DET curve/NOUN to/ADP their/PRON right/ADJ stop/NOUN and/CCONJ subsequently/ADV curve/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB 

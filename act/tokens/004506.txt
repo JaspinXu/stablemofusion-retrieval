@@ -1,0 +1,1 @@
+the/DET person/NOUN stand/VERB still/ADV be/AUX get/VERB ready/ADJ to/PART run/VERB and/CCONJ then/ADV he/PRON look/VERB like/SCONJ he/PRON be/AUX walk/VERB down/ADV four/NUM stair/NOUN first/ADV step/VERB with/ADP his/PRON left/ADJ foot/NOUN then/ADV his/PRON right/NOUN and/CCONJ continue/VERB this/DET pattern/NOUN until/SCONJ he/PRON finally/ADV stop/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ speed/NOUN then/ADV jog/VERB in/ADP place/NOUN at/ADP a/DET quick/ADJ motion/NOUN 

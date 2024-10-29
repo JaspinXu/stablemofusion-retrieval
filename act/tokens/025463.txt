@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB each/DET leg/NOUN backwards/ADV then/ADV strafe/VERB counterclockwise/VERB relative/ADJ to/ADP the/DET camera/NOUN in/ADP one/NUM full/ADJ circle/NOUN and/CCONJ subsequently/ADV reverse/VERB for/ADP one/NUM third/NOUN of/ADP a/DET circle/NOUN while/SCONJ always/ADV face/VERB toward/ADP the/DET camera/NOUN with/ADP hand/NOUN hold/VERB forward/ADV 

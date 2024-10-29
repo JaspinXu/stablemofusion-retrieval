@@ -1,0 +1,2 @@
+a individual walks backward a few steps.
+the sim walks down the plane.

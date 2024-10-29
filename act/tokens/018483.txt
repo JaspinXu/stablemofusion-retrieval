@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV walk/VERB forward/ADV subsequently/ADV walk/VERB to/ADP the/DET left/NOUN and/CCONJ continue/VERB walk/VERB forward/ADV while/SCONJ wave/VERB their/PRON right/ADJ arm/NOUN in/ADP front/NOUN of/ADP their/PRON face/NOUN and/CCONJ wiggle/VERB their/PRON body/NOUN 

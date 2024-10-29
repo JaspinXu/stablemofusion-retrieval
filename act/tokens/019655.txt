@@ -1,0 +1,1 @@
+a/DET man/NOUN start/VERB walk/VERB to/ADP the/DET right/NOUN then/ADV step/VERB up/ADP subsequently/ADV step/NOUN down/ADP and/CCONJ turn/VERB to/ADP the/DET left/NOUN to/PART start/VERB walk/VERB again/ADV while/SCONJ a/DET person/NOUN stay/VERB in/ADP place/NOUN 

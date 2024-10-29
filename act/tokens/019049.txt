@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sit/VERB on/ADP the/DET ground/NOUN then/ADV stand/VERB up/ADP and/CCONJ walk/VERB in/ADP a/DET complete/ADJ clockwise/NOUN circle/NOUN before/ADP finally/ADV sit/VERB down/ADP again/ADV at/ADP the/DET starting/NOUN point/NOUN while/SCONJ a/DET man/NOUN be/AUX try/VERB to/PART signal/VERB basketball/NOUN 

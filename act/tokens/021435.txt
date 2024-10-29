@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB from/ADP the/DET back/ADJ center/NOUN to/ADP the/DET front/NOUN leave/VERB then/ADV move/VERB back/ADV one/NUM step/NOUN and/CCONJ lean/VERB forward/ADV next/ADV they/PRON use/VERB their/PRON arm/NOUN to/PART help/VERB sit/VERB down/ADP leg/NOUN kick/VERB up/ADP a/DET bit/NOUN and/CCONJ then/ADV get/VERB up/ADP to/PART walk/VERB away/ADV 

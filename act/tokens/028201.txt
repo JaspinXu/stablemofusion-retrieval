@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV walk/VERB in/ADP a/DET circle/NOUN counterclockwise/NOUN and/CCONJ return/NOUN to/ADP their/PRON original/ADJ position/NOUN then/ADV proceed/VERB to/PART walk/VERB in/ADP an/DET sshape/NOUN before/ADP come/VERB to/ADP a/DET stop/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN try/VERB to/PART place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ as/SCONJ they/PRON move/VERB in/ADP a/DET mostly/ADV straight/ADJ line/NOUN then/ADV continue/VERB by/ADP drag/VERB something/PRON heavy/ADJ around/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN 

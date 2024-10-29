@@ -1,0 +1,1 @@
+A person walks, then quickly moves to the left; subsequently, they walk forward, dodge to the right, and then move to the left again.

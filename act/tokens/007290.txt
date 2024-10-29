@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB across/ADP the/DET plane/NOUN in/ADP a/DET loop/NOUN fashion/NOUN then/ADV a/DET person/NOUN jog/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN before/SCONJ both/PRON come/VERB to/ADP a/DET stop/NOUN near/ADP the/DET end/NOUN of/ADP the/DET space/NOUN 

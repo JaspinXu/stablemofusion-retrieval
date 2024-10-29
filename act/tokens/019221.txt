@@ -1,0 +1,1 @@
+a/DET man/NOUN hold/VERB an/DET object/NOUN to/ADP his/PRON face/NOUN with/ADP his/PRON left/ADJ hand/NOUN while/SCONJ wave/VERB with/ADP his/PRON right/ADJ hand/NOUN then/ADV stand/VERB on/ADP his/PRON right/ADJ leg/NOUN and/CCONJ subsequently/ADV shift/NOUN to/ADP his/PRON left/ADJ leg/NOUN 

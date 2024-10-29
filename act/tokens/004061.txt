@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX do/VERB a/DET normal/ADJ walk/NOUN while/SCONJ the/DET stickperson/NOUN be/AUX position/VERB at/ADP a/DET certain/ADJ angle/NOUN 

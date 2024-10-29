@@ -1,0 +1,1 @@
+a/DET person/NOUN bend/VERB over/ADP and/CCONJ pick/VERB something/PRON up/ADP then/ADV walk/VERB forward/ADV to/PART pick/VERB up/ADP a/DET second/ADJ item/NOUN after/ADP turn/VERB 180/NUM degree/NOUN the/DET individual/NOUN begin/VERB to/PART walk/VERB away/ADV and/CCONJ later/ADV continue/VERB forward/ADV to/PART drink/VERB water/NOUN 

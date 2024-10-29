@@ -1,0 +1,18 @@
+a person takes a couple steps back.
+a person takes one step forward, then turns and walks to the left.
+a person takes a couple steps back.
+a person walks in a bend to the left.
+a person takes a couple steps back.
+person walks forward to their left.
+a person stumbles backwards quickly.
+a person takes one step forward, then turns and walks to the left.
+a person stumbles backwards quickly.
+a person walks in a bend to the left.
+a person stumbles backwards quickly.
+person walks forward to their left.
+this person quickly walks backwards.
+a person takes one step forward, then turns and walks to the left.
+this person quickly walks backwards.
+a person walks in a bend to the left.
+this person quickly walks backwards.
+person walks forward to their left.

@@ -1,0 +1,1 @@
+a/DET man/NOUN step/NOUN and/CCONJ almost/ADV fall/VERB but/CCONJ manage/VERB to/PART stand/VERB on/ADP one/NUM leg/NOUN then/ADV he/PRON put/VERB the/DET other/ADJ leg/NOUN down/ADP next/ADV a/DET person/NOUN twist/VERB their/PRON leg/NOUN while/SCONJ hold/VERB their/PRON hand/NOUN near/ADP their/PRON head/NOUN 

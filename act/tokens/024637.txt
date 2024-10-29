@@ -1,0 +1,1 @@
+from/ADP a/DET standstill/ADJ position/NOUN a/DET person/NOUN seem/VERB to/PART make/VERB the/DET motion/NOUN of/ADP throw/VERB a/DET ball/NOUN with/ADP their/PRON right/ADJ hand/NOUN then/ADV raise/VERB their/PRON right/ADJ arm/NOUN before/ADP bring/VERB it/PRON back/ADV to/ADP their/PRON waist/NOUN 

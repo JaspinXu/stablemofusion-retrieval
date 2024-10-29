@@ -1,0 +1,1 @@
+The sim steps forward to the right and then stops, subsequently, they appear to be boxing with both their left and right arms.

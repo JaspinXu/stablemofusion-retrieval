@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV to/ADP the/DET left/NOUN then/ADV proceed/VERB one/NUM step/NOUN backwards/ADV to/ADP the/DET right/NOUN and/CCONJ follow/VERB that/SCONJ a/DET man/NOUN do/VERB two/NUM jump/VERB jack/NOUN before/ADP lunge/VERB forward/ADV to/PART push/VERB an/DET invisible/ADJ object/NOUN 

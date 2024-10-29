@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB forward/ADV then/ADV arc/VERB 45/NUM degree/NOUN to/ADP the/DET left/NOUN and/CCONJ step/NOUN forward/ADV afterward/ADV a/DET person/NOUN throw/VERB something/PRON with/ADP their/PRON right/ADJ hand/NOUN 

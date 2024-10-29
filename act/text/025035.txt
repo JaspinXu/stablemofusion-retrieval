@@ -1,0 +1,1 @@
+A person slow walks forward, then turns left, and subsequently walks back to where he started after turning around.

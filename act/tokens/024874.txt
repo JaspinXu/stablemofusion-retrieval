@@ -1,0 +1,1 @@
+a/DET person/NOUN transition/NOUN from/ADP an/DET open/ADJ pose/NOUN to/ADP a/DET closedoff/NOUN pose/NOUN then/ADV walk/VERB forward/ADV and/CCONJ stop/VERB 

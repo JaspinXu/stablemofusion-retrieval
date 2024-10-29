@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET curve/NOUN to/ADP the/DET left/NOUN then/ADV proceed/VERB to/PART walk/VERB forward/ADV and/CCONJ veer/NOUN to/ADP the/DET right/NOUN 

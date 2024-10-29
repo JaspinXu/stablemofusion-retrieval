@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB in/ADP a/DET semicircle/NOUN then/ADV crouch/VERB with/ADP one/NUM leg/NOUN bent/NOUN stand/VERB up/ADP and/CCONJ bring/VERB their/PRON hand/NOUN to/ADP their/PRON face/NOUN before/ADP walk/VERB back/ADV in/ADP the/DET same/ADJ semicircle/NOUN to/ADP where/SCONJ they/PRON start/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB casually/ADV in/ADP a/DET circular/ADJ motion/NOUN then/ADV rotate/VERB their/PRON torso/NOUN counterclockwise/NOUN and/CCONJ subsequently/ADV rotate/VERB their/PRON hip/NOUN clockwise/NOUN 

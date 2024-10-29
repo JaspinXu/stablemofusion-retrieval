@@ -1,0 +1,1 @@
+A sim walks from one end of the plane to the other, several times stopping near the far side, and then a person slowly walks forward.

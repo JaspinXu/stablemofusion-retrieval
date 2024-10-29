@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN half/NOUN circle/NOUN then/ADV in/ADP an/DET anticlockwise/NOUN half/ADJ circle/NOUN follow/VERB by/ADP moonwalke/VERB backward/ADJ and/CCONJ then/ADV forward/ADV 

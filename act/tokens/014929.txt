@@ -1,0 +1,1 @@
+a/DET person/NOUN crouch/NOUN low/ADJ like/ADP a/DET gorilla/NOUN and/CCONJ walk/VERB on/ADP all/DET four/NOUN from/ADP right/ADV to/ADP left/VERB then/ADV step/VERB sideways/ADV up/ADP to/ADP the/DET left/ADJ and/CCONJ back/ADV down/ADV to/ADP the/DET right/NOUN 

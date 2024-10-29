@@ -1,0 +1,1 @@
+A person walks forward diagonally to the left, then walks backwards, subsequently turns left and walks forward, and finally turns around counterclockwise. After that, the person walks forward while putting both hands on something for support.

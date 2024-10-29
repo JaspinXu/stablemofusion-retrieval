@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV from/ADP left/ADJ to/ADP right/ADJ then/ADV switch/VERB back/ADV to/ADP the/DET left/NOUN before/ADP continue/VERB to/PART walk/VERB straight/ADV ahead/ADV on/ADP the/DET street/NOUN 

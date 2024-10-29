@@ -1,0 +1,1 @@
+A person walks in a spiral, clockwise, and then starts to sit at the center of the spiral. Following that, a figure moves their arms both from the center to the outwards and back to the center in four strokes.

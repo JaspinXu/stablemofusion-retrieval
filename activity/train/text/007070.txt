@@ -1,0 +1,1 @@
+A person walks two steps forward, then pivots on his right leg until he has completed a half turn, subsequently walking two steps back to where he started from, all while stepping over something in his path.

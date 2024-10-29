@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB up/ADP an/DET elevated/ADJ floor/NOUN then/ADV walk/VERB around/ADV in/ADP a/DET circle/NOUN but/CCONJ stop/VERB just/ADV before/ADP complete/VERB the/DET full/ADJ circle/NOUN 

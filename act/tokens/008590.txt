@@ -1,0 +1,1 @@
+the/DET subject/NOUN move/VERB their/PRON left/ADJ arm/NOUN in/ADP a/DET small/ADJ circular/ADJ motion/NOUN then/ADV stop/VERB afterwards/ADV the/DET person/NOUN perform/VERB a/DET big/ADJ stretch/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV a/DET big/ADJ stretch/NOUN to/ADP the/DET left/ADJ 

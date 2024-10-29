@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV he/PRON walk/VERB up/ADP a/DET staircase/NOUN while/SCONJ another/DET man/NOUN walk/VERB swiftly/ADV in/ADP a/DET curved/ADJ line/NOUN with/ADP his/PRON back/NOUN bent/ADJ 

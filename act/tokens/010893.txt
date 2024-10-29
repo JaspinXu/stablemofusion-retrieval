@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV with/ADP their/PRON left/ADJ leg/NOUN first/ADV then/ADV jog/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP a/DET jog/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/ADJ 

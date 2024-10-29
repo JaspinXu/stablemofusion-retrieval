@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB subsequently/ADV a/DET person/NOUN walk/VERB with/ADP a/DET handrail/NOUN step/NOUN down/ADV 

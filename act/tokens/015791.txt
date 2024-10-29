@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB a/DET tool/NOUN in/ADP their/PRON right/ADJ hand/NOUN to/PART stir/VERB then/ADV sidestep/VERB to/ADP the/DET left/NOUN for/ADP two/NUM step/NOUN next/ADJ move/NOUN to/ADP the/DET right/NOUN for/ADP four/NUM step/NOUN and/CCONJ finally/ADV take/VERB three/NUM step/NOUN back/ADV to/PART return/VERB to/ADP the/DET starting/NOUN position/NOUN 

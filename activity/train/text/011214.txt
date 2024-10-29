@@ -1,0 +1,1 @@
+A person runs to the left, then to the right, subsequently back to the center, and after that runs back and forth.

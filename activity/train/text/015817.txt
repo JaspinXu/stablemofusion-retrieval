@@ -1,0 +1,1 @@
+A person is swaying from left to right, then takes one step forward, and subsequently enters the scene, traveling in a zig zag pattern to avoid certain terrain.

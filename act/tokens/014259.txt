@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP an/DET s/PROPN pattern/NOUN from/ADP the/DET right/ADJ side/NOUN of/ADP the/DET room/NOUN to/ADP the/DET left/ADJ side/NOUN then/ADV lean/VERB slightly/ADV back/ADV step/NOUN backwards/ADV and/CCONJ raise/VERB both/DET arm/NOUN straight/ADV out/ADP to/ADP the/DET side/NOUN 

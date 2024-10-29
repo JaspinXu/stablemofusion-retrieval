@@ -1,0 +1,1 @@
+A person runs to their left, then turns and runs back, after that walks forward, waves, turns, and walks back to their original location.

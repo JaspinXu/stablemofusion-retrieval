@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET 45degree/NUM angle/NOUN to/ADP the/DET right/NOUN then/ADV proceed/VERB to/PART walk/VERB in/ADP a/DET half/ADJ circle/NOUN 

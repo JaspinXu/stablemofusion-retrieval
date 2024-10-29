@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET normal/ADJ pace/NOUN then/ADV walk/VERB forward/ADV spin/NOUN around/ADV and/CCONJ walk/VERB back/ADV 

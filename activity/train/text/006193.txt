@@ -1,0 +1,1 @@
+A person initially walks straight, then changes direction in a rounded fashion toward the right, afterwards walking backwards.

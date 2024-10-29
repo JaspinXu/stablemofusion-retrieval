@@ -1,0 +1,1 @@
+A person walks forward, turns around clockwise, walks back, then repeats everything except the turn is counterclockwise. Following that, they walk with exaggerated footstep length in a diagonal line across the room from top left to bottom right.

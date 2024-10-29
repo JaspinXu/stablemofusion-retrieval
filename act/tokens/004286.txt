@@ -1,0 +1,1 @@
+the/DET stickperson/NOUN be/AUX position/VERB at/ADP a/DET certain/ADJ angle/NOUN then/ADV appear/VERB to/PART be/AUX step/VERB down/ADP a/DET short/ADJ flight/NOUN of/ADP stair/NOUN 

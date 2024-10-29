@@ -1,0 +1,1 @@
+a/DET person/NOUN lower/VERB their/PRON right/ADJ arm/NOUN from/ADP an/DET upleft/ADJ position/NOUN then/ADV do/AUX the/DET same/ADJ for/ADP their/PRON left/ADJ arm/NOUN before/ADP abruptly/ADV return/VERB to/ADP that/DET upleft/NOUN position/NOUN follow/VERB that/SCONJ they/PRON walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN before/ADP stop/VERB 

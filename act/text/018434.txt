@@ -1,0 +1,1 @@
+A person leans to the side and walks, then hesitates and avoids obstacles. Following that, they walk in a clockwise circle, sit down briefly, and then continue walking in the same clockwise direction.

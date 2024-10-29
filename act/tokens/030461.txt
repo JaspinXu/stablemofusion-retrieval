@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB by/ADP walk/VERB backwards/ADV while/SCONJ bend/VERB down/ADP then/ADV pick/VERB up/ADP a/DET cloth/NOUN with/ADP his/PRON left/ADJ hand/NOUN turn/VERB on/ADP a/DET faucet/NOUN with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ subsequently/ADV wash/VERB something/PRON use/VERB his/PRON left/ADJ hand/NOUN 

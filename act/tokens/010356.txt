@@ -1,0 +1,1 @@
+a/DET person/NOUN dance/VERB a/DET waltz/NOUN then/ADV a/DET man/NOUN step/VERB onto/ADP a/DET rectangular/ADJ box/NOUN walk/NOUN across/ADP it/PRON and/CCONJ subsequently/ADV step/VERB off/ADP 

@@ -1,0 +1,1 @@
+A person runs forward for a second and then slows to a walk, continuing the movement forward. Following that, a standing person jumps forward with both feet, lightly landing on both feet.

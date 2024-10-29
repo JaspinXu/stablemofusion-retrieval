@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV with/ADP a/DET wide/ADJ gait/NOUN then/ADV a/DET person/NOUN begin/VERB jog/VERB in/ADP place/NOUN 

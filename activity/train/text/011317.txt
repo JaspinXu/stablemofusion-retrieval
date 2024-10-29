@@ -1,0 +1,1 @@
+A person walks forward starting with the right foot, moves two steps forward, and stops, then subsequently shoo's something away.

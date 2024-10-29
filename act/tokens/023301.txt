@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX stand/VERB then/ADV step/VERB twice/ADV onto/ADP a/DET plane/NOUN with/ADP their/PRON right/ADJ leg/NOUN shuffle/NOUN and/CCONJ step/NOUN down/ADP onto/ADP another/DET plane/NOUN after/ADP shuffle/VERB again/ADV they/PRON step/VERB over/ADP an/DET object/NOUN before/ADP walk/VERB over/ADP more/ADJ thing/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB two/NUM step/NOUN forward/ADV then/ADV turn/VERB and/CCONJ walk/VERB back/ADV to/ADP the/DET beginning/NOUN after/SCONJ that/PRON a/DET man/NOUN arch/VERB his/PRON back/NOUN and/CCONJ move/VERB back/ADV and/CCONJ forth/ADV for/ADP a/DET few/ADJ second/NOUN before/SCONJ he/PRON get/VERB back/ADV up/ADV 

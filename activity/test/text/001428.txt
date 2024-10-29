@@ -1,0 +1,1 @@
+A robot started walking forward, then quickly turned back and began walking again, while at the same time, a person was running forward.

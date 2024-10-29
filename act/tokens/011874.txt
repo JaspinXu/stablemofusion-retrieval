@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN in/ADP a/DET circle/NOUN then/ADV slowly/ADV walk/VERB forward/ADV while/SCONJ make/VERB the/DET circle/NOUN and/CCONJ finally/ADV stop/VERB at/ADP the/DET original/ADJ position/NOUN 

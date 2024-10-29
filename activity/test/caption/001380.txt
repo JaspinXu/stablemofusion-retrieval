@@ -1,0 +1,6 @@
+[from 0s to 5s] a person performs a ballerina balance pose, first on their right leg, before centralising and swapping to their left.
+the person walks backwards in a straight line
+[from 0s to 5s] a person performs a ballerina balance pose, first on their right leg, before centralising and swapping to their left.
+a person walks backward for 3 steps.
+[from 0s to 5s] a person performs a ballerina balance pose, first on their right leg, before centralising and swapping to their left.
+the man takes 4 steps backwards.

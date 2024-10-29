@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP stair/NOUN hold/VERB the/DET railing/NOUN with/ADP their/PRON right/ADJ hand/NOUN then/ADV walk/VERB forward/ADV step/NOUN to/ADP the/DET right/NOUN with/ADP a/DET quick/ADJ stutterstep/NOUN far/ADV to/ADP the/DET right/NOUN and/CCONJ immediately/ADV to/ADP the/DET left/NOUN to/PART continue/VERB on/ADP their/PRON original/ADJ path/NOUN 

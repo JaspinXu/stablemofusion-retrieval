@@ -1,0 +1,1 @@
+A person first picks up an object and moves it from right to left, then walks on a beam, loses his balance, and falls off to his left.

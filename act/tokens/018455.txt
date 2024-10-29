@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB slowly/ADV on/ADP the/DET floor/NOUN while/SCONJ take/VERB two/NUM glass/NOUN in/ADP both/DET hand/NOUN fill/VERB one/NUM glass/NOUN into/ADP the/DET other/ADJ after/ADP that/PRON they/PRON do/VERB neck/NOUN circle/NOUN follow/VERB by/ADP arm/NOUN circle/NOUN move/VERB they/PRON backwards/ADV and/CCONJ forwards/ADV 

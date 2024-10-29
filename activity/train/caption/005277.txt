@@ -1,0 +1,18 @@
+a person walks casually forward.
+person pick something up on the right and placed it on the left
+a person walks casually forward.
+a person moves an item from right to left.
+a person walks casually forward.
+the person uses both hands to pick something up and move it to the side.
+a person walks forward slowly.
+person pick something up on the right and placed it on the left
+a person walks forward slowly.
+a person moves an item from right to left.
+a person walks forward slowly.
+the person uses both hands to pick something up and move it to the side.
+the person stopped over a big gap in the floor.
+person pick something up on the right and placed it on the left
+the person stopped over a big gap in the floor.
+a person moves an item from right to left.
+the person stopped over a big gap in the floor.
+the person uses both hands to pick something up and move it to the side.

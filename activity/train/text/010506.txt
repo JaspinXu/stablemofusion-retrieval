@@ -1,0 +1,1 @@
+A person walks forward and then is pushed to the left; however, they recover with their left foot and keep walking. Following that, they transition into a jog.

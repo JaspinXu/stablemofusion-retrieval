@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV sit/VERB down/ADP and/CCONJ subsequently/ADV get/VERB up/ADP to/PART walk/VERB forward/ADV one/NUM step/NOUN after/SCONJ that/SCONJ he/PRON take/VERB a/DET book/NOUN from/ADP a/DET shelf/NOUN with/ADP his/PRON left/ADJ hand/NOUN 

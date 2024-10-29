@@ -1,0 +1,1 @@
+The person starts by doing an arm stretch, then walks up the stairs, moving from a lower y-axis to a higher one.

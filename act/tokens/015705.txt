@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB an/DET item/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ rotate/VERB the/DET right/ADV upward/ADV before/ADP place/VERB the/DET item/NOUN back/ADV down/ADV in/ADP the/DET same/ADJ position/NOUN then/ADV the/DET person/NOUN walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB in/ADP one/NUM position/NOUN gently/ADV swing/VERB both/DET arm/NOUN in/ADP a/DET backandforth/NOUN motion/NOUN then/ADV move/VERB both/DET their/PRON forearm/NOUN in/ADP opposite/ADJ circle/NOUN with/ADP the/DET left/ADJ hand/NOUN turn/VERB counterclockwise/NOUN and/CCONJ the/DET right/ADJ hand/NOUN turn/VERB clockwise/NOUN 

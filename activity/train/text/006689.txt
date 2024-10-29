@@ -1,0 +1,1 @@
+A robot walks forward from the left and then a person steps forward with their right leg, subsequently performing a high kick with their left leg.

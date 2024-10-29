@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP normal/ADJ speed/NOUN and/CCONJ then/ADV lift/VERB the/DET left/ADJ hand/NOUN up/ADP forward/ADV before/ADP put/VERB it/PRON back/ADV down/ADV 

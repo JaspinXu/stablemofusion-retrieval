@@ -1,0 +1,1 @@
+the/DET body/NOUN jog/VERB in/ADP place/NOUN then/ADV jog/VERB to/ADP the/DET right/NOUN a/DET bit/NOUN and/CCONJ back/ADV after/SCONJ that/PRON a/DET person/NOUN step/VERB forward/ADV with/ADP his/PRON left/ADJ foot/NOUN and/CCONJ subsequently/ADV return/VERB his/PRON left/ADJ foot/NOUN to/ADP its/PRON original/ADJ position/NOUN 

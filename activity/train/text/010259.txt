@@ -1,0 +1,1 @@
+A person begins to walk backwards, then turns around and walks forward, subsequently turns around again and walks back to the original position. After that, they walk forward, swinging their right leg while turning around, and step forward once more.

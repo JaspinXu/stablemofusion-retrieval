@@ -1,0 +1,18 @@
+a person jumps to the right and then stops.
+a figure walks forward drifting slightly left taking six steps and halts.
+a person jumps to the right and then stops.
+a person walks and steps over gap.
+a person jumps to the right and then stops.
+a person walks straight for a few paces and then wanders to their left.
+the person is jumping from one side to the other.
+a figure walks forward drifting slightly left taking six steps and halts.
+the person is jumping from one side to the other.
+a person walks and steps over gap.
+the person is jumping from one side to the other.
+a person walks straight for a few paces and then wanders to their left.
+a person jumped to the right side once.
+a figure walks forward drifting slightly left taking six steps and halts.
+a person jumped to the right side once.
+a person walks and steps over gap.
+a person jumped to the right side once.
+a person walks straight for a few paces and then wanders to their left.

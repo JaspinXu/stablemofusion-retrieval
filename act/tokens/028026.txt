@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB two/NUM step/NOUN forward/ADV subsequently/ADV walk/VERB sideways/ADV three/NUM step/NOUN and/CCONJ after/ADP that/PRON walk/VERB forward/ADV diagonally/ADV and/CCONJ to/ADP the/DET right/ADJ three/NUM step/NOUN 

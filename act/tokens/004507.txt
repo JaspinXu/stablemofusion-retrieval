@@ -1,0 +1,1 @@
+a/DET person/NOUN look/VERB like/SCONJ he/PRON be/AUX walk/VERB down/ADV 4/NUM stair/NOUN first/ADV his/PRON left/ADJ foot/NOUN then/ADV his/PRON right/NOUN then/ADV leave/VERB then/ADV right/INTJ he/PRON then/ADV stop/VERB after/SCONJ that/SCONJ he/PRON hastily/ADV move/VERB in/ADP the/DET right/ADJ direction/NOUN 

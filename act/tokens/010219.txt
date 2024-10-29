@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB upright/ADJ and/CCONJ bend/VERB down/ADP with/ADP both/DET arm/NOUN touch/VERB the/DET floor/NOUN then/ADV get/VERB back/ADV up/ADP follow/VERB that/SCONJ the/DET person/NOUN walk/VERB two/NUM step/NOUN turn/VERB around/ADV and/CCONJ walk/VERB back/ADV two/NUM step/NOUN before/ADP stop/VERB 

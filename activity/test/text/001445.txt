@@ -1,0 +1,1 @@
+A person walks forward, then angles to the left in a half circle, and afterward continues walking forward and to the right.

@@ -1,0 +1,1 @@
+A person walks in a diagonal direction and then continues walking towards the left.

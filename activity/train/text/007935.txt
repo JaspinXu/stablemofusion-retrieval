@@ -1,0 +1,1 @@
+A person is running in forward motion, then the sim runs briefly before slowing down into a crouch.

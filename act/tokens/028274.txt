@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sit/VERB and/CCONJ then/ADV stand/VERB up/ADP next/ADV a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN 

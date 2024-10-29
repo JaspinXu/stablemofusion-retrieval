@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP place/NOUN then/ADV run/VERB in/ADP circle/NOUN 

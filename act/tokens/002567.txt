@@ -1,0 +1,1 @@
+a/DET person/NOUN swing/VERB a/DET bat/NOUN then/ADV raise/VERB his/PRON right/ADJ elbow/NOUN up/ADP to/ADP the/DET side/NOUN while/SCONJ bend/VERB his/PRON right/ADJ elbow/NOUN and/CCONJ bring/VERB his/PRON right/ADJ hand/NOUN near/ADP his/PRON shoulder/NOUN and/CCONJ finally/ADV do/VERB the/DET reverse/NOUN of/ADP the/DET action/NOUN 

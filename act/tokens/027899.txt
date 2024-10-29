@@ -1,0 +1,1 @@
+a/DET figure/NOUN walk/VERB upstairs/ADV without/ADP a/DET handrail/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB forward/ADV while/SCONJ be/AUX assist/VERB by/ADP handrail/NOUN 

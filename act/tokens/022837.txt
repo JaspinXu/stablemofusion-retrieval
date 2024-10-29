@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV place/VERB one/NUM foot/NOUN directly/ADV in/ADP front/NOUN of/ADP the/DET other/ADJ then/ADV start/VERB to/PART walk/VERB by/ADP crisscross/VERB their/PRON foot/NOUN and/CCONJ subsequently/ADV walk/VERB crisscross/VERB back/ADV 

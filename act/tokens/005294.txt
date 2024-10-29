@@ -1,0 +1,1 @@
+from/ADP a/DET standing/NOUN position/NOUN the/DET person/NOUN walk/VERB at/ADP a/DET moderate/ADJ pace/NOUN forward/ADV and/CCONJ then/ADV turn/VERB their/PRON body/NOUN to/PART be/AUX face/VERB right/ADV when/SCONJ they/PRON stop/VERB subsequently/ADV a/DET man/NOUN squat/VERB his/PRON upper/ADJ body/NOUN up/ADP and/CCONJ down/ADP several/ADJ time/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN drink/VERB from/ADP a/DET cup/NOUN in/ADP his/PRON right/ADJ hand/NOUN then/ADV a/DET man/NOUN take/VERB a/DET pepsi/PROPN bottle/NOUN open/VERB it/PRON and/CCONJ subsequently/ADV lift/VERB it/PRON to/ADP his/PRON mouth/NOUN with/ADP his/PRON left/ADJ hand/NOUN to/PART drink/VERB 

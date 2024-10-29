@@ -1,0 +1,18 @@
+a person walks forward and crouches.
+a person turns body to the left.
+a person walks forward and crouches.
+a person is looking forward and then to the side.
+a person walks forward and crouches.
+person is standing and looking around.
+a figure idly standing before taking 2 steps forward and then jumping
+a person turns body to the left.
+a figure idly standing before taking 2 steps forward and then jumping
+a person is looking forward and then to the side.
+a figure idly standing before taking 2 steps forward and then jumping
+person is standing and looking around.
+a person stands still, slowly walks forward, then begins to jump.
+a person turns body to the left.
+a person stands still, slowly walks forward, then begins to jump.
+a person is looking forward and then to the side.
+a person stands still, slowly walks forward, then begins to jump.
+person is standing and looking around.

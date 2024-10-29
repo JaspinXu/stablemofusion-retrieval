@@ -1,0 +1,1 @@
+a/DET man/NOUN with/ADP elbow/NOUN bent/ADJ wiggle/NOUN and/CCONJ sway/NOUN from/ADP side/NOUN to/PART side/VERB then/ADV kick/VERB to/ADP the/DET front/NOUN with/ADP his/PRON right/ADJ leg/NOUN twice/ADV and/CCONJ subsequently/ADV kick/VERB with/ADP his/PRON right/ADJ leg/NOUN to/ADP the/DET right/ADJ side/NOUN three/NUM time/NOUN 

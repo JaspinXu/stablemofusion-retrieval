@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET southern/ADJ direction/NOUN for/ADP a/DET few/ADJ step/NOUN then/ADV turn/VERB to/PART face/VERB northwest/ADV and/CCONJ continue/VERB walk/VERB forward/ADV while/SCONJ a/DET man/NOUN calmly/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN with/ADP his/PRON arm/NOUN swinge/VERB at/ADP his/PRON side/NOUN 

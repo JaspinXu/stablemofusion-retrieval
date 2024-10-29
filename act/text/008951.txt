@@ -1,0 +1,1 @@
+A person walks forwards and then is pushed by something to the left; subsequently, they walk straight before changing direction and moving in a diagonal line to the right.

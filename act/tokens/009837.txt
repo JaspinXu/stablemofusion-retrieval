@@ -1,0 +1,1 @@
+the/DET person/NOUN step/VERB forward/ADV then/ADV turn/VERB face/VERB right/ADV and/CCONJ step/NOUN backwards/ADV subsequently/ADV a/DET person/NOUN walk/VERB forward/ADV extremely/ADV slow/ADJ 

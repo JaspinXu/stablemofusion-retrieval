@@ -1,0 +1,1 @@
+A stick figure performs a jumping jack by first jumping to a position with the legs spread wide and the hands going overhead, then returning to a position with the feet together and the arms at the sides. Following that, the figure continues by walking forward in a diagonal line.

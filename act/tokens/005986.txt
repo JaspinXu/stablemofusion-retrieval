@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB at/ADP an/DET average/ADJ speed/NOUN then/ADV later/ADV another/DET person/NOUN who/PRON be/AUX jog/VERB take/VERB four/NUM step/NOUN to/ADP his/PRON left/ADJ reverse/NOUN course/NOUN take/VERB five/NUM step/NOUN in/ADP the/DET other/ADJ direction/NOUN and/CCONJ subsequently/ADV continue/VERB to/PART jog/VERB 

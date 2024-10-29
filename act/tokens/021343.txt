@@ -1,0 +1,1 @@
+the/DET man/NOUN start/VERB walk/VERB in/ADP an/DET anticlockwise/NOUN direction/NOUN and/CCONJ make/VERB a/DET circle/NOUN then/ADV a/DET person/NOUN with/ADP both/DET arm/NOUN out/ADV take/VERB a/DET step/NOUN forward/ADV turn/VERB and/CCONJ wave/VERB 

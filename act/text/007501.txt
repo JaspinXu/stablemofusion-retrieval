@@ -1,0 +1,1 @@
+A figure slowly walks forward, then jumps and kicks out their legs while rotating their body 360 degrees.

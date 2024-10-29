@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB to/ADP the/DET right/NOUN and/CCONJ move/NOUN in/ADP a/DET small/ADJ counterclockwise/NOUN circle/NOUN then/ADV throw/VERB his/PRON right/ADJ arm/NOUN follow/VERB that/SCONJ he/PRON step/VERB in/ADP a/DET large/ADJ backward/ADJ counterclockwise/NOUN circle/NOUN while/SCONJ a/DET person/NOUN walk/VERB slowly/ADV forward/ADV 

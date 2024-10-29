@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ this/DET person/NOUN be/AUX also/ADV walk/VERB backwards/ADV 

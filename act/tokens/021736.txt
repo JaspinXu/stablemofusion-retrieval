@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN while/SCONJ hold/VERB a/DET heavy/ADJ object/NOUN on/ADP his/PRON head/NOUN then/ADV turn/VERB and/CCONJ walk/VERB back/ADV in/ADP an/DET anticounterclockwise/NOUN direction/NOUN a/DET little/ADJ follow/VERB that/SCONJ another/DET person/NOUN be/AUX see/VERB throw/VERB and/CCONJ catch/VERB an/DET object/NOUN 

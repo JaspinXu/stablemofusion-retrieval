@@ -1,0 +1,1 @@
+this/DET person/NOUN begin/VERB by/ADP swinge/VERB around/ADP then/ADV jump/VERB to/ADP the/DET side/NOUN and/CCONJ subsequently/ADV start/VERB dance/VERB to/ADP the/DET macarena/PROPN move/VERB to/ADP the/DET right/NOUN and/CCONJ back/ADV to/ADP the/DET left/ADJ 

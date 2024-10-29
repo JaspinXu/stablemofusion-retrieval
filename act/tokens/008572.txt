@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB four/NUM jumping/NOUN jack/NOUN then/ADV walk/VERB straight/ADV forward/ADV while/SCONJ sway/VERB their/PRON hip/NOUN slightly/ADV 

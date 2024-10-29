@@ -1,0 +1,1 @@
+the/DET person/NOUN do/VERB 3/NUM jumping/NOUN jack/NOUN then/ADV walk/VERB quickly/ADV forward/ADV reach/VERB out/ADP to/PART shake/VERB hand/NOUN and/CCONJ subsequently/ADV step/VERB around/ADV before/ADP walk/VERB on/ADP again/ADV 

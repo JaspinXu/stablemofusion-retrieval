@@ -1,0 +1,1 @@
+A person performs a jogging motion, then slowly walks in a left direction and afterward makes a circle.

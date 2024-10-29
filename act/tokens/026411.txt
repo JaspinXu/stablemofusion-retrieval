@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB along/ADP a/DET curve/NOUN then/ADV a/DET man/NOUN hold/VERB his/PRON right/ADJ arm/NOUN with/ADP his/PRON left/ADJ hand/NOUN 

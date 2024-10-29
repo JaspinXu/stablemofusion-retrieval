@@ -1,0 +1,1 @@
+A figure strafes back left, then forward right, spins, and strafes back left again. Following that, the figure spins once more and strafes forward right, returning to the starting position. Meanwhile, the person appears to be stumbling as if they are drunk.

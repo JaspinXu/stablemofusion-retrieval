@@ -1,0 +1,1 @@
+the/DET man/NOUN do/VERB three/NUM jump/VERB jack/NOUN then/ADV a/DET person/NOUN who/PRON be/AUX walk/VERB make/VERB a/DET swift/ADJ turn/NOUN to/ADP their/PRON right/NOUN 

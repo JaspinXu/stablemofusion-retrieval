@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB up/ADP from/ADP be/AUX on/ADP one/NUM knee/NOUN then/ADV walk/VERB to/ADP the/DET right/ADJ next/ADV to/ADP the/DET left/ADJ and/CCONJ finally/ADV return/VERB to/ADP their/PRON original/ADJ position/NOUN in/ADP the/DET middle/ADJ 

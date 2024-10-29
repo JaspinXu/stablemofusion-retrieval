@@ -1,0 +1,1 @@
+The person moves to the left and recovers from falling, then continues walking while veering to the right.

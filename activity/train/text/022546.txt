@@ -1,0 +1,1 @@
+A person gets down on their hands and knees and moves around, then the simulated figure walks to the end of the plane, slowly turns around, and subsequently walks back to the opposite end.

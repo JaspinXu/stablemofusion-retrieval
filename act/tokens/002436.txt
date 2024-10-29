@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB straight/ADV forward/ADV then/ADV the/DET man/NOUN walk/VERB steadily/ADV —/PUNCT not/PART fast/ADJ but/CCONJ not/PART slow/ADJ —/PUNCT swinge/VERB his/PRON arm/NOUN downward/ADV from/ADP left/ADJ to/ADP right/ADJ place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ repeatedly/ADV 

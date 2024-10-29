@@ -1,0 +1,6 @@
+person takes two steps, turns 180 degrees, takes two more steps.
+person quickly takes one step forward
+person takes two steps, turns 180 degrees, takes two more steps.
+a person pauses but then walks forward three steps.
+person takes two steps, turns 180 degrees, takes two more steps.
+the human is stepping forward abruptly

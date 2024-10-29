@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP two/NUM object/NOUN pour/VERB something/PRON from/ADP the/DET right/ADJ object/NOUN into/ADP the/DET left/ADJ object/NOUN then/ADV set/VERB they/PRON back/ADV down/ADP after/SCONJ that/SCONJ the/DET person/NOUN pick/VERB something/PRON up/ADP again/ADV and/CCONJ tilt/VERB it/PRON onto/ADP the/DET left/ADJ 

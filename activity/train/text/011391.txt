@@ -1,0 +1,1 @@
+A person walks in a U-shape, going left and then right, after being pushed from the left.

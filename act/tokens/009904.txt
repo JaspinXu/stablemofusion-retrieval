@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP a/DET staircase/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV swing/VERB his/PRON arm/NOUN in/ADV before/ADP swinge/VERB his/PRON left/ADJ arm/NOUN out/ADP 

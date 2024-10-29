@@ -1,0 +1,1 @@
+this/DET person/NOUN move/VERB both/DET arm/NOUN from/ADP the/DET side/NOUN to/ADP the/DET front/NOUN and/CCONJ then/ADV to/ADP the/DET side/NOUN again/ADV after/SCONJ that/SCONJ they/PRON do/VERB a/DET small/ADJ hop/NOUN and/CCONJ then/ADV take/VERB a/DET quick/ADJ step/NOUN forward/ADV 

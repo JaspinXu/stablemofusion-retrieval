@@ -1,0 +1,1 @@
+A person takes four steps forward, then jumps in place, subsequently jumping counterclockwise, and then counterclockwise again at 90 degrees before completing a clockwise circle.

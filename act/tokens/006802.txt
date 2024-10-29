@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET room/NOUN then/ADV a/DET person/NOUN continue/VERB walk/VERB forward/ADV to/ADP the/DET left/ADJ 

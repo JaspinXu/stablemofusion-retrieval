@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX act/VERB like/ADP a/DET cat/NOUN by/ADP touch/VERB his/PRON head/NOUN with/ADP his/PRON right/ADJ hand/NOUN then/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN 

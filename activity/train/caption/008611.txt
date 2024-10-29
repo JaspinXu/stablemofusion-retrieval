@@ -1,0 +1,12 @@
+a person walks forward slowly.
+a person walks in a semi-circle and then retraces their steps.
+a person walks forward slowly.
+the person is walking around.
+a person walks and stops.
+a person walks in a semi-circle and then retraces their steps.
+a person walks and stops.
+the person is walking around.
+the body creeps forward, walking.
+a person walks in a semi-circle and then retraces their steps.
+the body creeps forward, walking.
+the person is walking around.

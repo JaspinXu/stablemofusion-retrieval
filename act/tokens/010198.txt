@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET square/ADJ shape/NOUN while/SCONJ cross/VERB their/PRON foot/NOUN then/ADV they/PRON take/VERB three/NUM step/NOUN forward/ADV and/CCONJ lift/VERB their/PRON left/ADJ foot/NOUN up/ADP onto/ADP an/DET object/NOUN 

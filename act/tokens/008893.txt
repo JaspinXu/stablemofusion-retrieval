@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV on/ADP a/DET straight/ADJ line/NOUN lift/VERB both/DET hand/NOUN up/ADP in/ADP a/DET carry/ADJ overhead/ADJ position/NOUN and/CCONJ then/ADV rotate/VERB their/PRON right/ADJ arm/NOUN in/ADP front/NOUN of/ADP they/PRON from/ADP the/DET elbow/NOUN 

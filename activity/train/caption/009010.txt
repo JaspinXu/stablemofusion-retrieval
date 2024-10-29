@@ -1,0 +1,18 @@
+a person walks forward, pushed towards the left then retrieves back to the right.
+a person walks straight then walks in a diagonal line to the left.
+a person walks forward, pushed towards the left then retrieves back to the right.
+a person walks to his left and stops.
+a person walks forward, pushed towards the left then retrieves back to the right.
+a person walks forward and then turns to walk in a curve to the left.
+a person walks forwards and then is pushed by something, and pushed to the right.
+a person walks straight then walks in a diagonal line to the left.
+a person walks forwards and then is pushed by something, and pushed to the right.
+a person walks to his left and stops.
+a person walks forwards and then is pushed by something, and pushed to the right.
+a person walks forward and then turns to walk in a curve to the left.
+the person walks forward and gets suddenly pushed from their right.
+a person walks straight then walks in a diagonal line to the left.
+the person walks forward and gets suddenly pushed from their right.
+a person walks to his left and stops.
+the person walks forward and gets suddenly pushed from their right.
+a person walks forward and then turns to walk in a curve to the left.

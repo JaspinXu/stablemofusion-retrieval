@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB backandforth/NOUN then/ADV a/DET person/NOUN be/AUX walk/VERB backwards/ADV at/ADP a/DET steady/ADJ pace/NOUN 

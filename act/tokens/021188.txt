@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB a/DET ball/NOUN with/ADP their/PRON left/ADJ arm/NOUN three/NUM time/NOUN then/ADV a/DET man/NOUN move/VERB forward/ADV and/CCONJ throw/VERB something/PRON with/ADP his/PRON left/ADJ hand/NOUN repeat/VERB the/DET action/NOUN again/ADV 

@@ -1,0 +1,1 @@
+A person walks from the upper left-hand side of a rectangle to the lower right-hand side, then slowly walks forward while kicking something in both the right and left directions.

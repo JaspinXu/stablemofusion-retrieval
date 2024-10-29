@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX in/ADP the/DET picture/NOUN on/ADP the/DET wall/NOUN and/CCONJ then/ADV another/DET person/NOUN be/AUX dribble/VERB a/DET ball/NOUN 

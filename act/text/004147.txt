@@ -1,0 +1,1 @@
+A stick figure stands still momentarily before walking in a clockwise curve motion, then the person jogs forward until the video ends.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB from/ADP the/DET top/NOUN leave/VERB towards/ADP the/DET bottom/NOUN right/ADV then/ADV backtrack/NOUN before/ADP walk/VERB forward/ADV to/ADP the/DET top/ADJ right/NOUN and/CCONJ backtrack/VERB again/ADV while/SCONJ a/DET man/NOUN simultaneously/ADV move/VERB his/PRON right/ADJ forearm/NOUN slowly/ADV in/ADP a/DET circular/ADJ motion/NOUN 

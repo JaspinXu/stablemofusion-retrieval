@@ -1,0 +1,12 @@
+the body slides to the left.
+a person hops up and down in place.
+the body slides to the left.
+person is jumping in same spot.
+a person quickly sidesteps to the left and regains balance.
+a person hops up and down in place.
+a person quickly sidesteps to the left and regains balance.
+person is jumping in same spot.
+person was pushed from the right side but didn’t fall.
+a person hops up and down in place.
+person was pushed from the right side but didn’t fall.
+person is jumping in same spot.

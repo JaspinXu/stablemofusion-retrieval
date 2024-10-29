@@ -1,0 +1,1 @@
+A person runs right to left twice, then to the left and stands still in the middle facing forward. Following that, they walk forward, turn around, sit, stand, and return to their original location.

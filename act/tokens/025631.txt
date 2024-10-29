@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV and/CCONJ spin/NOUN in/ADP a/DET semicircle/NOUN then/ADV walk/VERB backwards/ADV to/ADP the/DET starting/NOUN position/NOUN subsequently/ADV a/DET person/NOUN begin/VERB walk/VERB then/ADV start/VERB crawl/VERB forwards/ADV before/ADP stand/VERB up/ADP and/CCONJ walk/VERB forwards/ADV again/ADV 

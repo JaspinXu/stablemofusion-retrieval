@@ -1,0 +1,1 @@
+A person walks forward, picks up an item in their left hand, moves it to the right, and sets it down. Then, the person walks in front of them and turns to their right while continuing to walk.

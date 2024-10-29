@@ -1,0 +1,1 @@
+a/DET man/NOUN pass/VERB from/ADP left/ADJ to/ADP right/ADV then/ADV a/DET person/NOUN walk/VERB diagonally/ADV to/ADP the/DET left/ADJ turn/VERB right/ADV walk/VERB a/DET few/ADJ step/NOUN and/CCONJ afterwards/ADV walk/VERB back/ADV to/PART stand/VERB face/VERB forward/ADV 

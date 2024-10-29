@@ -1,0 +1,6 @@
+a person gently grasps an object with both hands, and moves the object somewhat higher. person returns object gently to original location.
+person slowly takes step forward.
+a person gently grasps an object with both hands, and moves the object somewhat higher. person returns object gently to original location.
+person walks forward very slowly
+a person gently grasps an object with both hands, and moves the object somewhat higher. person returns object gently to original location.
+.a person walks forward slowly.

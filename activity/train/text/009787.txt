@@ -1,0 +1,1 @@
+A person walks forward, then turns around and sits down. After that, he stands up and walks back to the starting point. Subsequently, the man steps forward two steps, swings around, and also walks back.

@@ -1,0 +1,18 @@
+a person stepping back quickly in effort to avoid something.
+a person turns left then walks forward
+a person stepping back quickly in effort to avoid something.
+this person is slowly taking a right turn. then walks straight a little, also moving slowly.
+a person stepping back quickly in effort to avoid something.
+a person walks forward, turns right, then walks forward again.
+a person is pushed backwards.
+a person turns left then walks forward
+a person is pushed backwards.
+this person is slowly taking a right turn. then walks straight a little, also moving slowly.
+a person is pushed backwards.
+a person walks forward, turns right, then walks forward again.
+a person standing quickly takes 2 steps backwards and remains standing.
+a person turns left then walks forward
+a person standing quickly takes 2 steps backwards and remains standing.
+this person is slowly taking a right turn. then walks straight a little, also moving slowly.
+a person standing quickly takes 2 steps backwards and remains standing.
+a person walks forward, turns right, then walks forward again.

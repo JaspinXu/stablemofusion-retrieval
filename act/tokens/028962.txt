@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX do/VERB jumping/NOUN jack/NOUN and/CCONJ then/ADV the/DET person/NOUN be/AUX do/VERB a/DET military/ADJ crawl/NOUN across/ADP the/DET floor/NOUN 

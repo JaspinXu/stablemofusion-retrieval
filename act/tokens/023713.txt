@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV pick/VERB an/DET object/NOUN up/ADP turn/VERB around/ADV and/CCONJ walk/VERB back/ADV in/ADP the/DET opposite/ADJ direction/NOUN to/PART set/VERB the/DET object/NOUN down/ADP follow/VERB that/SCONJ the/DET same/ADJ person/NOUN put/VERB both/DET arm/NOUN in/ADP a/DET tpose/PROPN and/CCONJ begin/VERB spin/VERB in/ADP circle/NOUN 

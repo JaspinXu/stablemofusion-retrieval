@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV continue/VERB move/VERB to/PART create/VERB a/DET circle/NOUN on/ADP the/DET floor/NOUN 

@@ -1,0 +1,18 @@
+the person bends down and gets on their knees.
+a person uses knife to cut object.
+the person bends down and gets on their knees.
+a person walks forward, reaches for something with his right hand, rubs that thing against his left hand, replaces the object and steps two spaces backwards.
+the person bends down and gets on their knees.
+a person steps forward interacts with an item then steps back without the item
+the person knelt down with his right leg first.
+a person uses knife to cut object.
+the person knelt down with his right leg first.
+a person walks forward, reaches for something with his right hand, rubs that thing against his left hand, replaces the object and steps two spaces backwards.
+the person knelt down with his right leg first.
+a person steps forward interacts with an item then steps back without the item
+a person steps their right foot forward then kneels with their left knee placing their right hand on the ground and bringing the right knee to the ground then sits up with both knees on the ground.
+a person uses knife to cut object.
+a person steps their right foot forward then kneels with their left knee placing their right hand on the ground and bringing the right knee to the ground then sits up with both knees on the ground.
+a person walks forward, reaches for something with his right hand, rubs that thing against his left hand, replaces the object and steps two spaces backwards.
+a person steps their right foot forward then kneels with their left knee placing their right hand on the ground and bringing the right knee to the ground then sits up with both knees on the ground.
+a person steps forward interacts with an item then steps back without the item

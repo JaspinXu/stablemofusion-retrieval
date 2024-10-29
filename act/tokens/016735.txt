@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP place/NOUN stand/VERB on/ADP one/NUM foot/NOUN while/SCONJ the/DET left/ADJ foot/NOUN move/NOUN behind/ADP the/DET right/ADJ leg/NOUN 

@@ -1,0 +1,1 @@
+A person walks, then turns to the right and walks back, and subsequently picks something up or places something down.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV one/NUM step/NOUN and/CCONJ then/ADV continue/VERB to/PART walk/VERB backwards/ADV at/ADP a/DET normal/ADJ pace/NOUN 

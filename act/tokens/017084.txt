@@ -1,0 +1,1 @@
+a/DET man/NOUN crouch/NOUN walk/VERB to/ADP the/DET left/NOUN before/ADP walk/VERB back/ADV to/ADP the/DET right/ADJ suggesting/NOUN that/SCONJ the/DET person/NOUN be/AUX likely/ADV exercise/VERB 

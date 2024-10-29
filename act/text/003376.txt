@@ -1,0 +1,1 @@
+A person walks in a curved path forward and to the right, then continues walking straight while making a right turn.

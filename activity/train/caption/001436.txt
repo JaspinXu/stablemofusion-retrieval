@@ -1,0 +1,2 @@
+a person runs few steps then stops and then run a few steps again
+person runs forward for 3 steps then stops then starts running again.

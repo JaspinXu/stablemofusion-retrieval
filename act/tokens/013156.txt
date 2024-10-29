@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET cloth/NOUN with/ADP the/DET right/ADJ hand/NOUN and/CCONJ an/DET item/NOUN with/ADP the/DET left/NOUN then/ADV wipe/VERB it/PRON subsequently/ADV they/PRON transition/VERB into/ADP a/DET workout/NOUN use/VERB two/NUM dumbbell/NOUN 

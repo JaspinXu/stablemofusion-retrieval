@@ -1,0 +1,1 @@
+a/DET man/NOUN sit/VERB down/ADP and/CCONJ then/ADV stay/VERB still/ADV while/SCONJ a/DET person/NOUN move/VERB backward/ADJ anticlockwise/NOUN draw/VERB a/DET line/NOUN with/ADP their/PRON foot/NOUN 

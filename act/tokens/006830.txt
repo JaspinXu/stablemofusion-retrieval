@@ -1,0 +1,1 @@
+the/DET person/NOUN move/VERB to/ADP the/DET left/NOUN and/CCONJ recover/NOUN from/ADP fall/VERB then/ADV continue/VERB walk/VERB while/SCONJ veer/VERB to/ADP the/DET right/NOUN 

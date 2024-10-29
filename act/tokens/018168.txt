@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV slowly/ADV then/ADV turn/VERB and/CCONJ walk/VERB back/ADV slowly/ADV follow/VERB by/ADP raise/VERB their/PRON arm/NOUN in/ADP front/NOUN and/CCONJ subsequently/ADV extend/VERB they/PRON out/ADP to/ADP the/DET side/NOUN 

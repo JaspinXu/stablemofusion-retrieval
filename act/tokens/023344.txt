@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV jump/VERB to/ADP the/DET left/NOUN and/CCONJ jump/VERB to/ADP the/DET right/ADJ before/ADP make/VERB one/NUM final/ADJ jump/NOUN follow/VERB that/SCONJ a/DET man/NOUN walk/VERB away/ADV and/CCONJ then/ADV turn/VERB back/ADV to/PART defend/VERB from/ADP a/DET confrontation/NOUN 

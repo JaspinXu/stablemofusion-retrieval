@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV 6/NUM step/NOUN then/ADV take/VERB a/DET big/ADJ step/NOUN on/ADP the/DET second/ADJ step/NOUN and/CCONJ subsequently/ADV continue/VERB walk/VERB forward/ADV 

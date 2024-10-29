@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV then/ADV jump/VERB in/ADP place/NOUN subsequently/ADV jump/VERB counterclockwise/NOUN and/CCONJ then/ADV counterclockwise/VERB again/ADV at/ADP 90/NUM degree/NOUN before/ADP complete/VERB a/DET clockwise/NOUN circle/NOUN 

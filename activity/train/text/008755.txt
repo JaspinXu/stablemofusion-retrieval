@@ -1,0 +1,1 @@
+The stick man stops, then walks forward, subsequently turns around to face the other direction, and walks forward again, after that he continues walking forward and then stops.

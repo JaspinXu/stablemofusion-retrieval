@@ -1,0 +1,1 @@
+A person acts like a monkey, then steps to the side, moves forward over an obstacle, and afterward steps sideways over another object.

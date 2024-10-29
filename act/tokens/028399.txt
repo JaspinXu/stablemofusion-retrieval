@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV run/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET middle/NOUN subsequently/ADV he/PRON stand/VERB and/CCONJ suddenly/ADV step/VERB to/ADP the/DET left/ADJ 

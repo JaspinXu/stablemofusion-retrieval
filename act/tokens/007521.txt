@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADV stair/NOUN while/SCONJ hang/VERB on/ADP to/ADP the/DET bannister/NOUN then/ADV proceed/VERB to/PART walk/VERB to/ADP the/DET left/ADJ 

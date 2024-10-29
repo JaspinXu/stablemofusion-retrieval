@@ -1,0 +1,1 @@
+A person pushes an object forward in a curved line, then takes a step back when done. Following that, the person walks sideways to the left, then diagonally to the right, and finally returns to the center.

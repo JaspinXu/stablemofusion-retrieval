@@ -1,0 +1,1 @@
+a/DET person/NOUN raise/VERB the/DET right/ADJ leg/NOUN and/CCONJ then/ADV perform/VERB two/NUM karate/VERB kick/NOUN to/ADP the/DET left/NOUN follow/VERB by/ADP two/NUM kick/NOUN to/ADP the/DET right/NOUN 

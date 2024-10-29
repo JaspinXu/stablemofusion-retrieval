@@ -1,0 +1,1 @@
+a/DET worker/NOUN sit/VERB at/ADP a/DET circuit/NOUN board/NOUN then/ADV the/DET person/NOUN stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV turn/VERB right/ADV 

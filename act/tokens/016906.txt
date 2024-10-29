@@ -1,0 +1,1 @@
+a/DET stand/VERB person/NOUN sit/VERB on/ADP a/DET stool/NOUN then/ADV stand/VERB up/ADP and/CCONJ sit/VERB down/ADP on/ADP the/DET stool/NOUN again/ADV follow/VERB that/SCONJ a/DET man/NOUN sit/VERB backward/ADV onto/ADP a/DET stool/NOUN wait/VERB a/DET moment/NOUN and/CCONJ then/ADV stand/VERB up/ADP in/ADP front/NOUN of/ADP it/PRON again/ADV 

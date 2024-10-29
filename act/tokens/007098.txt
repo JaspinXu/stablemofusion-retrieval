@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV two/NUM pace/NOUN then/ADV turn/VERB around/ADV 180/NUM degree/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB meanwhile/ADV a/DET man/NOUN pull/VERB his/PRON right/ADJ arm/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV pull/VERB his/PRON left/ADJ arm/NOUN to/ADP the/DET right/NOUN 

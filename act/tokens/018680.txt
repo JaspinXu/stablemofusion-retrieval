@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV bend/NOUN at/ADP the/DET waist/NOUN pick/VERB up/ADP an/DET object/NOUN in/ADP both/CCONJ hand/NOUN and/CCONJ throw/VERB it/PRON move/VERB gracefully/ADV like/ADP a/DET dancer/NOUN on/ADP the/DET floor/NOUN 

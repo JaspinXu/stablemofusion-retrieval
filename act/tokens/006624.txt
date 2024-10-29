@@ -1,0 +1,1 @@
+this/DET person/NOUN be/AUX walk/VERB backwards/ADV about/ADV 5/NUM step/NOUN then/ADV another/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET right/NOUN 

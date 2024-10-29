@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX in/ADP a/DET fight/VERB stance/NOUN with/ADP their/PRON left/ADJ side/NOUN forward/ADV then/ADV they/PRON pivot/VERB and/CCONJ switch/VERB to/ADP their/PRON right/ADJ side/NOUN follow/VERB that/SCONJ a/DET man/NOUN walk/VERB forward/ADV two/NUM step/NOUN and/CCONJ then/ADV return/VERB to/ADP his/PRON original/ADJ place/NOUN 

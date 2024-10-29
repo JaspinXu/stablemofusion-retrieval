@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX do/VERB a/DET step/NOUN over/ADP gap/NOUN then/ADV a/DET person/NOUN jump/VERB to/ADP the/DET side/NOUN before/ADP move/VERB to/ADP a/DET rest/NOUN position/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB three/NUM step/NOUN forward/ADV then/ADV take/VERB two/NUM step/NOUN back/ADV and/CCONJ then/ADV five/NUM step/NOUN forward/ADV follow/VERB that/SCONJ they/PRON raise/VERB their/PRON left/ADJ arm/NOUN with/ADP their/PRON palm/NOUN up/ADP before/ADP return/VERB to/ADP a/DET neutral/ADJ standing/NOUN position/NOUN 

@@ -1,0 +1,1 @@
+The person walks forward, then turns around to walk in the direction they came from, next bends down, picks something up, and starts walking again.

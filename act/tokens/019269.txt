@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB 6/NUM time/NOUN in/ADP the/DET same/ADJ spot/NOUN move/VERB forward/ADV left/ADJ and/CCONJ right/ADV subsequently/ADV the/DET man/NOUN stand/VERB face/VERB front/ADJ turn/VERB to/ADP his/PRON right/NOUN and/CCONJ pace/NOUN back/ADV and/CCONJ forth/ADV as/SCONJ if/SCONJ impatiently/ADV wait/VERB or/CCONJ lose/VERB in/ADP deep/ADJ thought/NOUN 

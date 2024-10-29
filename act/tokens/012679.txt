@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV drunkenly/ADV and/CCONJ very/ADV slowly/ADV for/ADP eight/NUM step/NOUN then/ADV jog/VERB to/ADP his/PRON left/ADJ and/CCONJ subsequently/ADV to/ADP his/PRON right/NOUN 

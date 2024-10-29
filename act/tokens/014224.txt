@@ -1,0 +1,1 @@
+a/DET person/NOUN lean/VERB over/ADP a/DET coffee/NOUN table/NOUN balance/VERB himself/PRON on/ADP the/DET table/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ pick/VERB up/ADP a/DET cup/NOUN with/ADP his/PRON right/ADJ hand/NOUN then/ADV he/PRON walk/VERB backward/ADV in/ADP a/DET loop/NOUN 

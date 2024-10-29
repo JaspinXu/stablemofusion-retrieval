@@ -1,0 +1,1 @@
+A person takes two steps forward, then one step backwards, subsequently three steps forward, and finally stops, while also recovering from being pushed during their walk.

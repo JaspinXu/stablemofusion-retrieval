@@ -1,0 +1,18 @@
+a person walks directly across a room.
+a person walks forward slowly.
+a person walks directly across a room.
+a person walks up some stairs
+a person walks directly across a room.
+a person walks up steep steps.
+a person moves in a 90 degree arc counterclockwise.
+a person walks forward slowly.
+a person moves in a 90 degree arc counterclockwise.
+a person walks up some stairs
+a person moves in a 90 degree arc counterclockwise.
+a person walks up steep steps.
+a person is walking in a curve to the left.
+a person walks forward slowly.
+a person is walking in a curve to the left.
+a person walks up some stairs
+a person is walking in a curve to the left.
+a person walks up steep steps.

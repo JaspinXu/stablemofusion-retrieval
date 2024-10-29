@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV take/VERB one/NUM big/ADJ step/NOUN to/PART avoid/VERB an/DET obstacle/NOUN continue/VERB to/PART walk/VERB forward/ADV and/CCONJ subsequently/ADV a/DET man/NOUN stretch/VERB his/PRON left/ADJ arm/NOUN 

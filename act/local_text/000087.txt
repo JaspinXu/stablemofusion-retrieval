@@ -1,0 +1,5 @@
+the sim walks in a loop fashion  
+the sim is standing still  
+the sim climbs stairs
+the person holds their left leg up with both their arms
+a person lifts their right leg slightly off the ground

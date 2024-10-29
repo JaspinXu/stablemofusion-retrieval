@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX play/VERB the/DET violin/NOUN with/ADP his/PRON left/ADJ hand/NOUN then/ADV proceed/VERB to/PART do/VERB a/DET lunge/NOUN with/ADP the/DET left/ADJ foot/NOUN lead/VERB follow/VERB by/ADP another/DET lunge/NOUN with/ADP the/DET right/ADJ foot/NOUN lead/VERB 

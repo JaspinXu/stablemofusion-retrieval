@@ -1,0 +1,1 @@
+a/DET person/NOUN look/VERB for/SCONJ a/DET place/NOUN to/PART sit/VERB then/ADV sit/VERB on/ADP the/DET floor/NOUN and/CCONJ subsequently/ADV walk/VERB in/ADP an/DET ovular/ADJ shape/NOUN 

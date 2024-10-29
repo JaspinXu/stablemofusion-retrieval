@@ -1,0 +1,1 @@
+A sim walks across the plane, bends down to grab something, and then walks to the opposite side before walking back to replace the object at a high level, subsequently jumping back to the beginning.

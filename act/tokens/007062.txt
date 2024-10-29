@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET step/NOUN backwards/ADV right/ADJ leg/NOUN first/ADV then/ADV do/AUX a/DET bow/NOUN to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV to/ADP the/DET left/ADJ 

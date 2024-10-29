@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX laugh/VERB at/ADP a/DET joke/NOUN then/ADV move/VERB their/PRON hand/NOUN out/ADP in/ADP front/NOUN of/ADP they/PRON two/NUM time/NOUN start/VERB with/ADP the/DET right/ADJ hand/NOUN and/CCONJ move/VERB to/ADP the/DET left/NOUN and/CCONJ this/DET action/NOUN be/AUX repeat/VERB for/ADP the/DET duration/NOUN of/ADP the/DET video/NOUN 

@@ -1,0 +1,1 @@
+A person is jogging in place, then runs to their left, then to their right, and finally returns to the starting position.

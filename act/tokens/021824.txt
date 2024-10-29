@@ -1,0 +1,1 @@
+a/DET person/NOUN go/VERB from/ADP be/AUX on/ADP one/NUM knee/NOUN to/ADP stand/VERB on/ADP two/NUM foot/NOUN put/VERB their/PRON hand/NOUN together/ADV and/CCONJ then/ADV walk/VERB towards/ADP the/DET left/NOUN while/SCONJ hold/VERB something/PRON with/ADP both/DET hand/NOUN 

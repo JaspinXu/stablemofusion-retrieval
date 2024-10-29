@@ -1,0 +1,1 @@
+a/DET robot/NOUN walk/VERB forward/ADV then/ADV move/VERB its/PRON right/ADJ hand/NOUN horizontally/ADV and/CCONJ vertically/ADV and/CCONJ subsequently/ADV move/VERB backwards/ADV follow/VERB that/SCONJ a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ direction/NOUN 

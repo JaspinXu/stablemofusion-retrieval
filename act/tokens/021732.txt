@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ then/ADV someone/PRON be/AUX walk/VERB to/ADP the/DET left/ADJ grab/VERB something/PRON and/CCONJ subsequently/ADV walk/VERB back/ADV while/SCONJ take/VERB some/DET more/ADJ step/NOUN 

@@ -1,0 +1,1 @@
+A person climbs up something, then turns around and climbs back down, while a stick figure walks forward, then steps to the side, follows that by stepping backwards, and finally steps to the side again.

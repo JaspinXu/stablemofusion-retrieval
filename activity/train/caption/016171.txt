@@ -1,0 +1,18 @@
+a person rolls forward, turns around then rolls forward again.
+a person walks around and stops.
+a person rolls forward, turns around then rolls forward again.
+a person is walking back in forth in a straight line.
+a person rolls forward, turns around then rolls forward again.
+a person paces back and forth
+a person kneels on their right knee, then rolls forward back to a standing position, turns around and does the same thing in the opposite direction.
+a person walks around and stops.
+a person kneels on their right knee, then rolls forward back to a standing position, turns around and does the same thing in the opposite direction.
+a person is walking back in forth in a straight line.
+a person kneels on their right knee, then rolls forward back to a standing position, turns around and does the same thing in the opposite direction.
+a person paces back and forth
+a person kneels down, rolls forward, turns around and repeats the action in the opposite direction.
+a person walks around and stops.
+a person kneels down, rolls forward, turns around and repeats the action in the opposite direction.
+a person is walking back in forth in a straight line.
+a person kneels down, rolls forward, turns around and repeats the action in the opposite direction.
+a person paces back and forth

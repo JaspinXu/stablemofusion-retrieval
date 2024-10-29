@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN toward/ADP an/DET edge/NOUN then/ADV turn/VERB clockwise/NOUN and/CCONJ walk/VERB toward/ADP the/DET righthand/NOUN side/NOUN before/ADP step/VERB up/ADP onto/ADP something/PRON 

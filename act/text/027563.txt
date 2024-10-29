@@ -1,0 +1,1 @@
+A person walks forward, stepping over an object, then continues to walk and stops. After that, they take one step, pivot around counter-clockwise with the left foot on the second step, keeping the right foot up, and then take three more steps.

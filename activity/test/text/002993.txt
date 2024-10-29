@@ -1,0 +1,1 @@
+A person walks from the left-hand side to the right-hand side in a waving path and then stops while facing towards the right. Following that, the person turns around and walks forward to the other end while leaning a bit from side to side, and then turns around again.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV three/NUM step/NOUN and/CCONJ then/ADV down/ADV three/NUM step/NOUN subsequently/ADV extend/VERB their/PRON left/ADJ arm/NOUN while/SCONJ their/PRON right/ADJ hand/NOUN rest/VERB on/ADP their/PRON leg/NOUN and/CCONJ then/ADV lift/VERB both/DET arm/NOUN out/ADP to/ADP the/DET side/NOUN 

@@ -1,0 +1,1 @@
+A person is walking around in a snakey motion, then turns and walks to their left. Following that, they reach the edge of the platform, then turn around and walk all the way to their right, subsequently repeating this process.

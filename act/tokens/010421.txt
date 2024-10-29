@@ -1,0 +1,1 @@
+the/DET sim/NOUN move/VERB from/ADP a/DET crouch/NOUN into/ADP a/DET lie/NOUN on/ADP their/PRON front/ADJ side/NOUN then/ADV a/DET person/NOUN walk/VERB two/NUM step/NOUN forwards/ADV swing/VERB their/PRON left/ADJ foot/NOUN out/ADP to/PART turn/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV 

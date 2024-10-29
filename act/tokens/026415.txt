@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB an/DET object/NOUN on/ADP the/DET right/ADJ side/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV place/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN with/ADP his/PRON right/ADJ hand/NOUN on/ADP top/NOUN follow/VERB that/SCONJ a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV twice/ADV 

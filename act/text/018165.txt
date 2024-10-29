@@ -1,0 +1,1 @@
+A man walks in a zigzag pattern, then a person walks in a counter-clockwise circle and subsequently jumps back.

@@ -1,0 +1,1 @@
+A person touches something with his left hand, then jogs in place in the center of a room. Following that, he turns and jogs to the edge of the room, subsequently turns around and jogs to the opposite side of the room, and finally jogs back to the center of the room.

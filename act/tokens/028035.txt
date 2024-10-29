@@ -1,0 +1,1 @@
+a/DET person/NOUN get/VERB up/ADP from/ADP sit/VERB then/ADV take/VERB four/NUM small/ADJ step/NOUN jump/VERB up/ADP and/CCONJ subsequently/ADV take/VERB three/NUM more/ADJ step/NOUN 

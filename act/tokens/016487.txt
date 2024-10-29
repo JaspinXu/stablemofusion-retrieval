@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP on/ADP a/DET seat/NOUN then/ADV stand/VERB up/ADP move/NOUN forward/ADV drag/VERB the/DET chair/NOUN behind/ADP they/PRON and/CCONJ sit/VERB down/ADP again/ADV after/SCONJ that/PRON the/DET same/ADJ person/NOUN sit/VERB down/ADP on/ADP the/DET chair/NOUN and/CCONJ move/VERB it/PRON forward/ADV before/ADP sit/VERB once/ADV more/ADV 

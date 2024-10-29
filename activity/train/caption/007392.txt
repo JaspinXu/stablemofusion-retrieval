@@ -1,0 +1,18 @@
+person moves fprward five steps down steps
+a person walks forwards and turns around on their left foot
+person moves fprward five steps down steps
+a man walks forward 2 steps, then turns, then walks 2 more steps.
+person moves fprward five steps down steps
+a person walks forward, befor pivoting and walking back to where they started
+a person walks down a few stairs.
+a person walks forwards and turns around on their left foot
+a person walks down a few stairs.
+a man walks forward 2 steps, then turns, then walks 2 more steps.
+a person walks down a few stairs.
+a person walks forward, befor pivoting and walking back to where they started
+a person walks forward towards a square as a squiggly line forms on the square, stands at the front with legs open over the squiggly line.
+a person walks forwards and turns around on their left foot
+a person walks forward towards a square as a squiggly line forms on the square, stands at the front with legs open over the squiggly line.
+a man walks forward 2 steps, then turns, then walks 2 more steps.
+a person walks forward towards a square as a squiggly line forms on the square, stands at the front with legs open over the squiggly line.
+a person walks forward, befor pivoting and walking back to where they started

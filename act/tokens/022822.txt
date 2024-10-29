@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN then/ADV another/DET person/NOUN who/PRON be/AUX sit/VERB stand/VERB up/ADP walk/NOUN in/ADP a/DET circle/NOUN and/CCONJ subsequently/ADV sit/VERB back/ADV down/ADV 

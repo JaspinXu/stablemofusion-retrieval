@@ -1,0 +1,1 @@
+A person walks backwards in a straight line, then walks forward, swiftly turns counterclockwise, takes a step, and stops.

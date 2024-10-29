@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV and/CCONJ place/VERB his/PRON hand/NOUN on/ADP an/DET object/NOUN to/PART examine/VERB it/PRON then/ADV a/DET person/NOUN pick/VERB it/PRON up/ADP with/ADP both/DET hand/NOUN move/VERB it/PRON around/ADP and/CCONJ put/VERB it/PRON down/ADP to/ADP their/PRON right/NOUN 

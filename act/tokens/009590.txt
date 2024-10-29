@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB forward/ADV take/VERB a/DET slide/VERB step/NOUN to/ADP the/DET left/NOUN while/SCONJ wave/VERB their/PRON arm/NOUN then/ADV take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP a/DET man/NOUN who/PRON be/AUX run/VERB around/ADV in/ADP different/ADJ direction/NOUN 

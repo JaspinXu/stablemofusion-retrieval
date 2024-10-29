@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB while/SCONJ rotate/VERB 90/NUM degree/NOUN clockwise/NOUN then/ADV a/DET person/NOUN bend/VERB backwards/ADV and/CCONJ subsequently/ADV return/VERB to/ADP a/DET standing/NOUN position/NOUN 

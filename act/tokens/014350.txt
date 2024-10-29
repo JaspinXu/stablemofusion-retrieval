@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV in/ADP an/DET s/NOUN pattern/NOUN while/SCONJ another/DET person/NOUN be/AUX hold/VERB their/PRON hand/NOUN up/ADP and/CCONJ walk/VERB straight/ADV 

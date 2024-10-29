@@ -1,0 +1,1 @@
+A stick figure waves, then steps and turns to the left, continuing to wave. Subsequently, the figure steps to the right while maintaining the waving motion, resembling a person dancing with their arms, much like a clown performing an act.

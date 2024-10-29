@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN around/ADV to/ADP the/DET left/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP their/PRON former/ADJ position/NOUN 

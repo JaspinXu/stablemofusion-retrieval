@@ -1,0 +1,1 @@
+this/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV spin/NOUN then/ADV take/VERB two/NUM step/NOUN back/ADV while/SCONJ also/ADV walk/VERB around/ADV 

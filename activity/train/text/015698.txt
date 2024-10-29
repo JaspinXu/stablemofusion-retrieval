@@ -1,0 +1,1 @@
+A person jogs to the right and left multiple times, then walks to the left and subsequently walks back to the right.

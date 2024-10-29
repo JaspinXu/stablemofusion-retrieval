@@ -1,0 +1,18 @@
+a person is walking forward strangely
+a person, while running quickly, bends down and picks something up.
+a person is walking forward strangely
+a person runs forward while stumbling.
+a person is walking forward strangely
+a person quickly runs forward and stoops to pick up an object before carrying it off.
+user does a slight jog on a diagonal path
+a person, while running quickly, bends down and picks something up.
+user does a slight jog on a diagonal path
+a person runs forward while stumbling.
+user does a slight jog on a diagonal path
+a person quickly runs forward and stoops to pick up an object before carrying it off.
+a person takes four large steps diagonally forward and stops.
+a person, while running quickly, bends down and picks something up.
+a person takes four large steps diagonally forward and stops.
+a person runs forward while stumbling.
+a person takes four large steps diagonally forward and stops.
+a person quickly runs forward and stoops to pick up an object before carrying it off.

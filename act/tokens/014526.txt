@@ -1,0 +1,1 @@
+a/DET man/NOUN wind/VERB up/ADP and/CCONJ throw/VERB a/DET ball/NOUN then/ADV a/DET person/NOUN walk/VERB up/ADP the/DET stair/NOUN turn/VERB around/ADV and/CCONJ walk/VERB down/ADP the/DET step/NOUN while/SCONJ hold/VERB a/DET rail/NOUN 

@@ -1,0 +1,1 @@
+A stick figure walks forward, then steps to the side, subsequently takes steps backward, and follows that by stepping to the side again. Afterward, it goes upward on the step and then gets downward on the step.

@@ -1,0 +1,1 @@
+the/DET cyclist/NOUN give/VERB hand/NOUN signal/NOUN while/SCONJ ride/VERB the/DET bike/NOUN then/ADV a/DET person/NOUN walk/VERB drunkenly/ADV dodge/VERB an/DET object/NOUN and/CCONJ subsequently/ADV turn/VERB around/ADP 

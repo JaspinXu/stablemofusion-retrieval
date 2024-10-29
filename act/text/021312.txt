@@ -1,0 +1,1 @@
+A person runs forward, then turns around and runs back, indicating a direct motion throughout their movement.

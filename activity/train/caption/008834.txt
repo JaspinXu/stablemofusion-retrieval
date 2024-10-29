@@ -1,0 +1,18 @@
+a person walks forward, then turns around then walks back.
+a person walks backwards, in a straight line.
+a person walks forward, then turns around then walks back.
+the person is walking straight backwards.
+a person walks forward, then turns around then walks back.
+this person walks backwards and stops.
+a person walks forward does a clockwise turn and walks back.
+a person walks backwards, in a straight line.
+a person walks forward does a clockwise turn and walks back.
+the person is walking straight backwards.
+a person walks forward does a clockwise turn and walks back.
+this person walks backwards and stops.
+a person walks then spins around 180 degrees then starts walking back the way they came
+a person walks backwards, in a straight line.
+a person walks then spins around 180 degrees then starts walking back the way they came
+the person is walking straight backwards.
+a person walks then spins around 180 degrees then starts walking back the way they came
+this person walks backwards and stops.

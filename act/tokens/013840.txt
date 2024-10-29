@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP and/CCONJ answer/VERB a/DET phone/NOUN with/ADP their/PRON right/ADJ hand/NOUN then/ADV walk/VERB backwards/ADV to/PART make/VERB a/DET counterclockwise/NOUN circle/NOUN 

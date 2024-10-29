@@ -1,0 +1,1 @@
+the/DET person/NOUN put/VERB his/PRON arm/NOUN down/ADP and/CCONJ move/VERB something/PRON from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN then/ADV another/DET person/NOUN walk/VERB sideways/ADV to/ADP the/DET right/ADJ stop/NOUN and/CCONJ subsequently/ADV walk/VERB sideways/ADV to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+a/DET person/NOUN squat/VERB slightly/ADV while/SCONJ move/VERB from/ADP side/NOUN to/PART side/VERB then/ADV step/VERB their/PRON left/ADJ foot/NOUN backward/ADJ subsequently/PROPN the/DET person/NOUN lay/VERB on/ADP the/DET ground/NOUN and/CCONJ perform/VERB a/DET swimming/NOUN motion/NOUN with/ADP their/PRON arm/NOUN and/CCONJ leg/NOUN 

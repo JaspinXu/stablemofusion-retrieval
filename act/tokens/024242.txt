@@ -1,0 +1,1 @@
+a/DET person/NOUN stumble/VERB forward/ADV while/SCONJ walk/VERB then/ADV stumble/VERB back/ADV and/CCONJ to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV stumble/VERB forward/ADV again/ADV eventually/ADV turn/VERB around/ADP after/SCONJ that/SCONJ the/DET person/NOUN back/VERB up/ADP and/CCONJ go/VERB down/ADP on/ADP his/PRON knee/NOUN crawl/VERB to/ADP the/DET left/ADJ 

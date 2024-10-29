@@ -1,0 +1,1 @@
+A person jumps to the right and then stops, subsequently walking and stepping over a gap.

@@ -1,0 +1,1 @@
+this/DET person/NOUN first/ADV march/VERB around/ADV to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV back/ADV follow/VERB by/ADP a/DET man/NOUN who/PRON throw/VERB an/DET object/NOUN over/ADP his/PRON head/NOUN twice/ADV 

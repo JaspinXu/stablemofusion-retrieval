@@ -1,0 +1,1 @@
+A person is initially walking straight, then changes direction in a rounded fashion toward the right, and subsequently throws a ball before catching it.

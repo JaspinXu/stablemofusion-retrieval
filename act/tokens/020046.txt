@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV eight/NUM step/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV subsequently/ADV they/PRON look/VERB around/ADV and/CCONJ move/VERB slowly/ADV to/ADP their/PRON right/NOUN in/ADP a/DET slightly/ADV crouch/VERB position/NOUN 

@@ -1,0 +1,1 @@
+A person is walking forward, then bends down to touch something before getting back up. After that, he turns around and walks back in the direction he came from, and subsequently walks in a clockwise circle.

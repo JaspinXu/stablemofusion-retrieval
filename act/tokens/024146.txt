@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pick/VERB something/PRON up/ADP then/ADV walk/VERB back/ADV after/ADP that/SCONJ he/PRON drop/VERB his/PRON hand/NOUN to/ADP his/PRON side/NOUN while/SCONJ turn/VERB a/DET quarter/NOUN turn/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV continue/VERB to/PART turn/VERB another/DET quarter/NOUN turn/VERB to/ADP the/DET right/NOUN 

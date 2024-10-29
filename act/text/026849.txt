@@ -1,0 +1,1 @@
+A person is walking and then turns around and walks back, next, he turns left and then stops.

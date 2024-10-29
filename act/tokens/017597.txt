@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ counterclockwise/NOUN bend/VERB then/ADV cut/VERB a/DET sharp/ADJ right/ADV before/ADP complete/VERB a/DET circle/NOUN and/CCONJ afterward/ADV grab/VERB a/DET kitchen/NOUN knife/NOUN with/ADP his/PRON right/ADJ hand/NOUN to/PART cut/VERB a/DET cucumber/NOUN hold/VERB in/ADP his/PRON other/ADJ hand/NOUN 

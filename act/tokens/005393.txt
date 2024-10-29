@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB counterclockwise/NOUN and/CCONJ walk/VERB back/ADV while/SCONJ the/DET man/NOUN bend/VERB his/PRON elbow/NOUN raise/VERB his/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV place/VERB it/PRON on/ADP top/NOUN of/ADP his/PRON head/NOUN 

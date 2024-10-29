@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB an/DET object/NOUN from/ADP the/DET right/NOUN to/ADP the/DET left/NOUN then/ADV walk/VERB forward/ADV and/CCONJ turn/VERB 180/NUM degree/NOUN on/ADP his/PRON left/ADJ foot/NOUN to/PART walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN 

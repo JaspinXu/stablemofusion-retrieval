@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV pick/VERB up/ADP an/DET object/NOUN and/CCONJ move/VERB it/PRON from/ADP right/ADV to/ADP leave/VERB then/ADV walk/VERB on/ADP a/DET beam/NOUN lose/VERB his/PRON balance/NOUN and/CCONJ fall/VERB off/ADP to/ADP his/PRON left/ADJ 

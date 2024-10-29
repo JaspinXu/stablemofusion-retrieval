@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX sweep/VERB the/DET floor/NOUN with/ADP a/DET broom/NOUN then/ADV walk/VERB to/ADP the/DET right/ADJ subsequently/ADV walk/VERB forward/ADV afterward/ADV walk/VERB to/ADP the/DET left/ADJ and/CCONJ finally/ADV walk/VERB forward/ADV again/ADV 

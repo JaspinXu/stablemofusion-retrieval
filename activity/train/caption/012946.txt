@@ -1,0 +1,18 @@
+a person goes and sits down
+person starts to jog in place, turns to their right and runs to the edge, then turns and runs all the way to their left, and repeats this jogging pattern.
+a person goes and sits down
+a person jogs right, then jogs left and then jogs to the center and stands.
+a person goes and sits down
+a person turns and jogs to the right, turns again and jogs to the left, turns one more time and jogs to original location.
+a person stepping to the left and then sits down and stands back up and walks forward
+person starts to jog in place, turns to their right and runs to the edge, then turns and runs all the way to their left, and repeats this jogging pattern.
+a person stepping to the left and then sits down and stands back up and walks forward
+a person jogs right, then jogs left and then jogs to the center and stands.
+a person stepping to the left and then sits down and stands back up and walks forward
+a person turns and jogs to the right, turns again and jogs to the left, turns one more time and jogs to original location.
+a person walked backwards and sat down on something and then got up
+person starts to jog in place, turns to their right and runs to the edge, then turns and runs all the way to their left, and repeats this jogging pattern.
+a person walked backwards and sat down on something and then got up
+a person jogs right, then jogs left and then jogs to the center and stands.
+a person walked backwards and sat down on something and then got up
+a person turns and jogs to the right, turns again and jogs to the left, turns one more time and jogs to original location.

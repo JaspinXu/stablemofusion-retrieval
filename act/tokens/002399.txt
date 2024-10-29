@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP a/DET slope/NOUN with/ADP their/PRON left/ADJ hand/NOUN place/VERB on/ADP a/DET handrail/NOUN then/ADV continue/VERB to/PART hold/VERB the/DET handrail/NOUN with/ADP his/PRON left/ADJ arm/NOUN while/SCONJ walk/VERB 

@@ -1,0 +1,1 @@
+a/DET person/NOUN hold/VERB an/DET object/NOUN with/ADP both/PRON of/ADP their/PRON hand/NOUN then/ADV a/DET man/NOUN be/AUX hold/VERB his/PRON left/ADJ arm/NOUN out/ADP while/SCONJ his/PRON right/ADJ hand/NOUN rest/VERB on/ADP his/PRON waist/NOUN subsequently/ADV lower/VERB his/PRON left/ADJ arm/NOUN 

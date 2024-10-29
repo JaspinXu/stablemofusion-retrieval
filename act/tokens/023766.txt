@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV sit/VERB down/ADP before/ADP get/VERB back/ADV up/ADP to/PART continue/VERB walk/VERB subsequently/ADV another/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ then/ADV sit/VERB back/ADV down/ADP in/ADP the/DET chair/NOUN 

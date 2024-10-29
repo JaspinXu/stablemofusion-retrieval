@@ -1,0 +1,1 @@
+A person first walks in a circle counterclockwise and returns to their original position, then proceeds to walk in an s-shape before coming to a stop.

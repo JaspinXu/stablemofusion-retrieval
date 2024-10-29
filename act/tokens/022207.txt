@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN and/CCONJ try/VERB to/PART stand/VERB up/ADP then/ADV a/DET man/NOUN turn/VERB around/ADV and/CCONJ swing/VERB an/DET object/NOUN 

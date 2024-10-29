@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV to/ADP the/DET screen/NOUN then/ADV turn/VERB right/ADJ to/PART walk/VERB back/ADV 

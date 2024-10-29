@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV after/ADP be/AUX shoot/VERB move/NOUN back/ADV into/ADP the/DET first/ADJ position/NOUN subsequently/ADV they/PRON crouch/VERB slightly/ADV to/PART pick/VERB up/ADP an/DET object/NOUN horizontally/ADV flip/VERB it/PRON vertically/ADV and/CCONJ then/ADV place/VERB it/PRON back/ADV in/ADP a/DET horizontal/ADJ manner/NOUN 

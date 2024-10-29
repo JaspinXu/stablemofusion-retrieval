@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX simulate/VERB to/PART pick/VERB up/ADP a/DET box/NOUN then/ADV sit/VERB on/ADP a/DET chair/NOUN and/CCONJ subsequently/ADV stand/VERB up/ADP fully/ADV without/ADP move/VERB their/PRON arm/NOUN 

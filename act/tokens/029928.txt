@@ -1,0 +1,1 @@
+use/VERB both/DET hand/NOUN a/DET person/NOUN bend/VERB over/ADP to/ADP pat/PROPN the/DET ground/NOUN then/ADV walk/VERB away/ADV diagonally/ADV to/ADP his/PRON left/ADJ pick/VERB something/PRON up/ADP and/CCONJ walk/VERB back/ADV follow/VERB that/SCONJ he/PRON again/ADV walk/VERB diagonally/ADV to/ADP his/PRON left/NOUN and/CCONJ pick/VERB something/PRON up/ADP 

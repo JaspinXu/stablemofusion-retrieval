@@ -1,0 +1,1 @@
+A person jumps forward, then stops, and subsequently walks forward, making a gradual 90-degree turn towards the left.

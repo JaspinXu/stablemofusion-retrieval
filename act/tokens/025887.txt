@@ -1,0 +1,1 @@
+a/DET robot/NOUN walk/VERB up/ADP the/DET stair/NOUN then/ADV turn/VERB back/ADV and/CCONJ walk/VERB down/ADP the/DET stair/NOUN follow/VERB that/SCONJ a/DET person/NOUN turn/VERB around/ADV and/CCONJ limp/VERB slowly/ADV in/ADP a/DET straight/ADJ line/NOUN and/CCONJ then/ADV turn/VERB around/ADP again/ADV 

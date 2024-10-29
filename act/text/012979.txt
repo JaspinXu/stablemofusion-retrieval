@@ -1,0 +1,1 @@
+A person is standing, then walks forward and comes to a stop. Following that, the person turns to the side, sits in a chair, and then gets out of the chair to walk forward again.

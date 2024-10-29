@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB upstairs/ADV then/ADV appear/VERB to/PART lift/VERB an/DET object/NOUN and/CCONJ place/VERB it/PRON on/ADP another/DET surface/NOUN use/VERB one/NUM arm/NOUN 

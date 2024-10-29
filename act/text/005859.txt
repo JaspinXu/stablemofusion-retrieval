@@ -1,0 +1,1 @@
+A person walks four steps forward and then moves an object from their right to their left side.

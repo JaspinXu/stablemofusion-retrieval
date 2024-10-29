@@ -1,0 +1,1 @@
+a/DET person/NOUN alternate/VERB one/NUM step/NOUN forward/ADV and/CCONJ one/NUM step/NOUN backward/ADV then/ADV dig/VERB a/DET hole/NOUN in/ADP the/DET ground/NOUN and/CCONJ plant/VERB something/PRON in/ADP it/PRON 

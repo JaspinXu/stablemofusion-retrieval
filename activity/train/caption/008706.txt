@@ -1,0 +1,18 @@
+a person walks forward, slightly to the right of center.
+person slightly swings arms and shuffles in the shape of a circle.
+a person walks forward, slightly to the right of center.
+robot is running in circle.
+a person walks forward, slightly to the right of center.
+a person side steps a complete circle.
+a person takes five steps forward.
+person slightly swings arms and shuffles in the shape of a circle.
+a person takes five steps forward.
+robot is running in circle.
+a person takes five steps forward.
+a person side steps a complete circle.
+a person walks and stops.
+person slightly swings arms and shuffles in the shape of a circle.
+a person walks and stops.
+robot is running in circle.
+a person walks and stops.
+a person side steps a complete circle.

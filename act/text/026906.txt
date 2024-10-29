@@ -1,0 +1,1 @@
+A stick figure walks forward in a straight line, and then jogs from one end to the other in a diagonal fashion.

@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB dance/VERB in/ADP a/DET tpose/PROPN then/ADV turn/VERB and/CCONJ continue/VERB to/PART dance/AUX finish/VERB with/ADP another/DET turn/NOUN after/SCONJ that/PRON a/DET man/NOUN get/VERB on/ADP his/PRON knee/NOUN and/CCONJ crawl/VERB from/ADP right/ADV to/ADP left/NOUN and/CCONJ then/ADV stand/VERB up/ADP again/ADV 

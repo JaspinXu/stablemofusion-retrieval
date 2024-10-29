@@ -1,0 +1,1 @@
+the/DET person/NOUN write/VERB word/NOUN on/ADP the/DET chalkboard/NOUN and/CCONJ then/ADV the/DET man/NOUN start/VERB in/ADP a/DET pose/NOUN with/ADP both/DET arm/NOUN extend/VERB out/ADP to/ADP both/DET side/NOUN follow/VERB that/SCONJ he/PRON move/VERB both/DET arm/NOUN down/ADP to/ADP his/PRON side/NOUN adopt/VERB a/DET relaxed/ADJ position/NOUN 

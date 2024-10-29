@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN then/ADV stand/VERB still/ADV for/ADP a/DET few/ADJ second/NOUN and/CCONJ take/VERB a/DET few/ADJ step/NOUN forward/ADV before/ADP stop/VERB 

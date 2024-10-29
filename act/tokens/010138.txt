@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV skip/NOUN and/CCONJ continue/VERB walk/VERB side/NOUN to/PART side/VERB then/ADV walk/VERB forward/ADV and/CCONJ subsequently/ADV walk/VERB back/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV and/CCONJ put/VERB their/PRON left/ADJ leg/NOUN on/ADP an/DET object/NOUN then/ADV continue/VERB walk/VERB in/ADP a/DET store/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV walk/VERB backward/ADV a/DET few/ADJ step/NOUN after/SCONJ that/PRON lean/VERB backward/ADV and/CCONJ lift/VERB their/PRON right/ADJ hand/NOUN to/ADP their/PRON mouth/NOUN 

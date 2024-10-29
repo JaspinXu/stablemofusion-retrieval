@@ -1,0 +1,1 @@
+a/DET man/NOUN lift/VERB an/DET object/NOUN and/CCONJ realize/VERB that/SCONJ he/PRON hurt/VERB his/PRON left/ADJ arm/NOUN so/SCONJ he/PRON grab/VERB it/PRON with/ADP his/PRON right/ADJ hand/NOUN subsequently/PROPN he/PRON walk/VERB forward/ADV carefully/ADV take/VERB wide/ADJ and/CCONJ uneven/ADJ step/NOUN 

@@ -1,0 +1,1 @@
+A person moves a step to the left side after being pushed, then picks up an item and places it to the right.

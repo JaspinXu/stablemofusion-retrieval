@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV and/CCONJ then/ADV forwards/ADV several/ADJ step/NOUN subsequently/ADV turn/VERB 180/NUM degree/NOUN follow/VERB that/SCONJ a/DET person/NOUN walk/VERB in/ADP a/DET wide/ADJ wind/VERB path/NOUN make/VERB wide/ADJ incomplete/ADJ loop/NOUN with/ADP his/PRON arm/NOUN hold/VERB low/ADV at/ADP his/PRON side/NOUN 

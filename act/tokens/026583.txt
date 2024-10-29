@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV and/CCONJ then/ADV a/DET man/NOUN run/VERB on/ADP a/DET flat/ADJ surface/NOUN 

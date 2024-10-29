@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB up/ADP towards/ADP a/DET box/NOUN then/ADV proceed/VERB to/PART walk/VERB down/ADP a/DET box/NOUN and/CCONJ after/ADP that/PRON hold/VERB a/DET ballerina/PROPN pose/NOUN before/ADP start/VERB to/PART dance/VERB 

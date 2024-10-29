@@ -1,0 +1,1 @@
+A person is walking, then starts to slide to the right, after that steps diagonally and stops.

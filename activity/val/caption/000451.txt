@@ -1,0 +1,18 @@
+a person walking and doing a quarter of a circle to the left side.
+a person walks forward and looks up.
+a person walking and doing a quarter of a circle to the left side.
+person takes 5 steps forward
+a person walking and doing a quarter of a circle to the left side.
+a person walks straight forward and stops.
+a person changing their walking path to the left.
+a person walks forward and looks up.
+a person changing their walking path to the left.
+person takes 5 steps forward
+a person changing their walking path to the left.
+a person walks straight forward and stops.
+a person walks forward into a left turn.
+a person walks forward and looks up.
+a person walks forward into a left turn.
+person takes 5 steps forward
+a person walks forward into a left turn.
+a person walks straight forward and stops.

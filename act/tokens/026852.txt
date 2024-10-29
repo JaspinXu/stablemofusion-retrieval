@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB in/ADP place/NOUN three/NUM time/NOUN then/ADV raise/VERB their/PRON left/ADJ arm/NOUN to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV to/ADP the/DET middle/ADJ 

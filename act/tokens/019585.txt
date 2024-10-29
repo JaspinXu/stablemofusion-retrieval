@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET quarter/NOUN circle/NOUN then/ADV sit/VERB down/ADP and/CCONJ after/ADP that/PRON he/PRON get/VERB back/ADV up/ADP again/ADV follow/VERB this/PRON a/DET person/NOUN sit/VERB down/ADP in/ADP a/DET chair/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ subsequently/ADV sit/VERB back/ADV down/ADV in/ADP the/DET chair/NOUN 

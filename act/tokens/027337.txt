@@ -1,0 +1,1 @@
+this/DET person/NOUN jump/VERB up/ADP and/CCONJ down/ADV on/ADP his/PRON right/ADJ leg/NOUN and/CCONJ then/ADV a/DET man/NOUN pick/VERB an/DET object/NOUN up/ADP from/ADP his/PRON right/ADJ side/NOUN before/ADP place/VERB it/PRON to/ADP his/PRON left/ADJ side/NOUN 

@@ -1,0 +1,18 @@
+person is running back and forth
+a person carefully walks up four steps.
+person is running back and forth
+a man walks up some stairs, left foot first
+person is running back and forth
+a person walks up steep stairs.
+a man running right and left.
+a person carefully walks up four steps.
+a man running right and left.
+a man walks up some stairs, left foot first
+a man running right and left.
+a person walks up steep stairs.
+a person runs back and forth from right to left
+a person carefully walks up four steps.
+a person runs back and forth from right to left
+a man walks up some stairs, left foot first
+a person runs back and forth from right to left
+a person walks up steep stairs.

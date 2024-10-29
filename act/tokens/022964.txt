@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB sideways/ADV to/ADP the/DET left/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV walk/VERB one/NUM step/NOUN sideways/ADV to/ADP the/DET right/NOUN after/SCONJ that/PRON he/PRON walk/VERB around/ADP the/DET room/NOUN and/CCONJ raise/VERB his/PRON arm/NOUN several/ADJ time/NOUN 

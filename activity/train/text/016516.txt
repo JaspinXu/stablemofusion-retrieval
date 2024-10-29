@@ -1,0 +1,1 @@
+A person hops in a circle on their left foot and right foot, then hops in a diagonal line on their left foot. Following that, they hop on the left foot for half a circle before switching to the right foot to complete the circle of hopping on one foot.

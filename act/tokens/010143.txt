@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 2/NUM step/NOUN forward/ADV then/ADV turn/VERB back/ADV around/ADV next/ADJ take/VERB some/DET step/NOUN forward/ADV a/DET step/NOUN back/ADV and/CCONJ then/ADV another/DET step/NOUN forward/ADV 

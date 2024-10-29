@@ -1,0 +1,1 @@
+A person spins, then begins walking while slightly turning right. After that, they turn and jog back from the direction they came. Subsequently, the same person walks to their left, makes a turn to walk to the right, and finally turns again to walk back.

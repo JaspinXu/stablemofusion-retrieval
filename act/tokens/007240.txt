@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV walk/VERB backwards/ADV while/SCONJ a/DET toon/NOUN stand/VERB still/ADV raise/VERB their/PRON left/ADJ arm/NOUN and/CCONJ make/VERB a/DET circular/ADJ motion/NOUN before/ADP rest/VERB it/PRON again/ADV at/ADP their/PRON side/NOUN 

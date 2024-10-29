@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV for/ADP nine/NUM step/NOUN then/ADV continue/VERB to/PART walk/VERB in/ADP the/DET right/ADJ direction/NOUN 

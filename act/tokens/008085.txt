@@ -1,0 +1,1 @@
+a/DET man/NOUN kick/VERB with/ADP his/PRON right/ADJ leg/NOUN —/PUNCT first/ADV up/ADV then/ADV to/ADP the/DET right/NOUN then/ADV backwards/ADV afterwards/ADV a/DET person/NOUN be/AUX wash/VERB their/PRON upper/ADJ body/NOUN 

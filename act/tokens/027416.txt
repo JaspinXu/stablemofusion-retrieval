@@ -1,0 +1,1 @@
+a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ place/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN with/ADP his/PRON left/ADJ hand/NOUN on/ADP top/NOUN of/ADP the/DET object/NOUN then/ADV walk/VERB forward/ADV and/CCONJ hold/VERB his/PRON right/ADJ arm/NOUN in/ADP pain/NOUN 

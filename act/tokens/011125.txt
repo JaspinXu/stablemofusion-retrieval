@@ -1,0 +1,1 @@
+a/DET man/NOUN touch/VERB a/DET large/ADJ object/NOUN with/ADP both/DET hand/NOUN then/ADV a/DET person/NOUN walk/VERB in/ADP an/DET arc/NOUN forward/ADV and/CCONJ to/ADP the/DET right/NOUN 

@@ -1,0 +1,1 @@
+A man drags his right foot diagonally across the square, then turns and drags it back to the center. Following that, a person walks forward, turns around clockwise, walks back, and then repeats everything except the turn is counterclockwise.

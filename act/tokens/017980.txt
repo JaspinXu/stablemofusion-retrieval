@@ -1,0 +1,1 @@
+someone/PRON be/AUX walk/VERB forward/ADV from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV the/DET person/NOUN look/VERB down/ADP at/ADP the/DET damage/NOUN to/ADP his/PRON left/ADJ leg/NOUN 

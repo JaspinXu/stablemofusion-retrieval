@@ -1,0 +1,1 @@
+A stick person walks from side to side, then steps forward, turns, and walks back.

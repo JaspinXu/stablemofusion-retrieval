@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET clumsy/ADJ way/NOUN then/ADV continue/VERB walk/VERB downwards/ADV in/ADP a/DET straight/ADJ line/NOUN and/CCONJ stop/VERB in/ADP a/DET slightly/ADV brisk/ADJ manner/NOUN 

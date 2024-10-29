@@ -1,0 +1,1 @@
+A figure stands, then turns right and walks before stopping. Following that, it turns left and continues walking, then makes a right turn and stops halfway. After turning forward, it stands still. Meanwhile, a person picks up the phone and starts talking, then subsequently puts the phone back down.

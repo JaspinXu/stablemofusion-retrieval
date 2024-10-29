@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV hop/VERB around/ADV while/SCONJ rotate/VERB on/ADP their/PRON right/ADJ foot/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN all/DET while/SCONJ punch/VERB with/ADP their/PRON fist/NOUN as/SCONJ they/PRON make/VERB their/PRON way/NOUN away/ADV from/ADP the/DET camera/NOUN 

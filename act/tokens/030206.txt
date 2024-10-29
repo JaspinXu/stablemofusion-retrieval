@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB rope/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN with/ADP his/PRON left/ADJ hand/NOUN 

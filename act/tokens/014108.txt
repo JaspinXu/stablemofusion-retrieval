@@ -1,0 +1,1 @@
+while/SCONJ sit/VERB a/DET person/NOUN hold/VERB something/PRON in/ADP his/PRON right/ADJ hand/NOUN touch/VERB it/PRON with/ADP his/PRON left/ADJ hand/NOUN place/VERB it/PRON to/ADP his/PRON right/ADJ ear/NOUN and/CCONJ then/ADV he/PRON place/VERB the/DET object/NOUN down/ADP after/ADP that/SCONJ he/PRON have/VERB a/DET conversation/NOUN with/ADP his/PRON neighbor/NOUN 

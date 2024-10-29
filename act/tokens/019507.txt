@@ -1,0 +1,1 @@
+the/DET man/NOUN dance/VERB the/DET waltz/NOUN then/ADV a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN 

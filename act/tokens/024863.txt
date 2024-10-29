@@ -1,0 +1,1 @@
+someone/PRON start/VERB run/VERB across/ADP the/DET street/NOUN then/ADV a/DET person/NOUN put/VERB their/PRON right/ADJ arm/NOUN straight/ADV out/ADV and/CCONJ move/VERB it/PRON to/ADP the/DET left/NOUN in/ADP front/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN 

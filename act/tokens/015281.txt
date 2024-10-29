@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP left/ADJ to/ADP right/NOUN and/CCONJ turn/VERB it/PRON on/ADP its/PRON side/NOUN then/ADV quickly/ADV walk/VERB across/ADP the/DET room/NOUN in/ADP an/DET sshaped/PROPN pattern/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN then/ADV continue/VERB by/ADP move/VERB in/ADP a/DET large/ADJ s/PART shape/NOUN before/ADP stop/VERB at/ADP the/DET other/ADJ end/NOUN of/ADP the/DET plane/NOUN and/CCONJ turn/VERB to/PART face/VERB the/DET opposite/ADJ direction/NOUN 

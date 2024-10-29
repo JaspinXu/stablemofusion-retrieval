@@ -1,0 +1,1 @@
+a/DET person/NOUN who/PRON be/AUX stand/VERB do/VERB two/NUM jump/VERB jack/NOUN then/ADV turn/VERB 180/NUM degree/NOUN take/VERB one/NUM step/NOUN turn/VERB another/DET 180/NUM degree/NOUN and/CCONJ stop/NOUN follow/VERB that/SCONJ this/DET person/NOUN step/VERB forward/ADV and/CCONJ throw/VERB a/DET ball/NOUN 

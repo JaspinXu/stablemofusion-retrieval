@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV then/ADV run/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN ultimately/ADV end/VERB up/ADP in/ADP the/DET original/ADJ spot/NOUN 

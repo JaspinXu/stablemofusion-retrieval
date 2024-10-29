@@ -1,0 +1,1 @@
+A person takes a step back and to the right, sits on an invisible object, gets up to stand, and then takes smaller steps back to the original position. After that, the person hesitantly walks forward towards the edge of the screen.

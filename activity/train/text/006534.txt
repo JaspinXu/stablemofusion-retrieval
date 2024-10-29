@@ -1,0 +1,1 @@
+A person standing still is pushed to the left from the right, then takes one step before stopping. Following that, the person picks up an item and places it to the left.

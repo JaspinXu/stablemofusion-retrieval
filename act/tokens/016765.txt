@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET clockwise/NOUN direction/NOUN then/ADV the/DET person/NOUN run/VERB forward/ADV turn/VERB around/ADP to/PART look/VERB around/ADV and/CCONJ subsequently/ADV run/VERB back/ADV 

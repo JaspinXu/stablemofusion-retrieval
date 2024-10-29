@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB to/PART jog/VERB on/ADP the/DET spot/NOUN then/ADV move/VERB their/PRON arm/NOUN up/ADV and/CCONJ back/ADV to/ADP the/DET starting/NOUN position/NOUN three/NUM time/NOUN with/ADP their/PRON arm/NOUN bend/VERB out/ADP to/ADP the/DET side/NOUN and/CCONJ parallel/ADJ to/ADP the/DET ground/NOUN 

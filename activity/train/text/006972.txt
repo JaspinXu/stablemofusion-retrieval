@@ -1,0 +1,1 @@
+A person takes two steps forward, then turns around to the left and takes two steps back, and subsequently, the person slowly walks forward and returns.

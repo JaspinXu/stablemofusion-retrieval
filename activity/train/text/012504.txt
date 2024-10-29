@@ -1,0 +1,1 @@
+A person walks to their right three steps, then turns around and walks five steps before turning around again and walking back to where they started; subsequently, they sidestep to the right and then to the left.

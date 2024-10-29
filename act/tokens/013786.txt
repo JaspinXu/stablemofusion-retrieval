@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB carefully/ADV while/SCONJ hold/VERB the/DET handrail/NOUN with/ADP their/PRON left/ADJ hand/NOUN then/ADV grab/VERB an/DET item/NOUN look/VERB to/ADP the/DET right/ADJ shake/VERB the/DET item/NOUN and/CCONJ subsequently/ADV place/VERB it/PRON back/ADV down/ADP in/ADP the/DET same/ADJ spot/NOUN 

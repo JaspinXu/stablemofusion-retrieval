@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV lean/NOUN leave/VERB then/ADV right/ADJ lean/NOUN to/ADP the/DET left/NOUN again/ADV and/CCONJ turn/NOUN leave/VERB follow/VERB by/ADP take/VERB one/NUM step/NOUN back/ADV 

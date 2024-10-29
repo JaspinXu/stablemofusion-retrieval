@@ -1,0 +1,5 @@
+a person stands still
+a person sits down on something behind them  
+a person walks forward but slightly to the left 
+someone picks up something with their left hand
+a person puts it back down  

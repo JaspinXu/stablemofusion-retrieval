@@ -1,0 +1,1 @@
+A person facing forward stumbles clockwise in a circle, then pivots left while continuing to move clockwise. Following that, they stumble backward to the place they started, and after that, they load the pitching mound and throw the ball.

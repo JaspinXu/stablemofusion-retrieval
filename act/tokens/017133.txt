@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET quarter/NOUN circle/NOUN then/ADV stop/VERB and/CCONJ turn/VERB to/PART walk/VERB in/ADP a/DET straight/ADJ line/NOUN afterwards/ADV he/PRON walk/VERB forward/ADV again/ADV and/CCONJ stop/VERB 

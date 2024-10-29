@@ -1,0 +1,18 @@
+a person walks in a zigzag pattern.
+a man side steps to the right, then side steps to the left, then side steps to the right to end at the center.
+a person walks in a zigzag pattern.
+a person walks from the center to the left side, over to the right side, and back to the center with hands down by side
+a person walks in a zigzag pattern.
+a person side steps to the right, then the left, and then back to the origin.
+a person walks slowly in a s shape.
+a man side steps to the right, then side steps to the left, then side steps to the right to end at the center.
+a person walks slowly in a s shape.
+a person walks from the center to the left side, over to the right side, and back to the center with hands down by side
+a person walks slowly in a s shape.
+a person side steps to the right, then the left, and then back to the origin.
+walking in a random pattern.
+a man side steps to the right, then side steps to the left, then side steps to the right to end at the center.
+walking in a random pattern.
+a person walks from the center to the left side, over to the right side, and back to the center with hands down by side
+walking in a random pattern.
+a person side steps to the right, then the left, and then back to the origin.

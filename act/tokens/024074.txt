@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN and/CCONJ then/ADV place/VERB it/PRON on/ADP their/PRON head/NOUN subsequently/ADV walk/VERB forward/ADV with/ADP the/DET item/NOUN above/ADP their/PRON head/NOUN 

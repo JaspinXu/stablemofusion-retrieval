@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB four/NUM step/NOUN forward/ADV and/CCONJ then/ADV move/VERB an/DET object/NOUN from/ADP their/PRON right/NOUN to/ADP their/PRON left/ADJ side/NOUN 

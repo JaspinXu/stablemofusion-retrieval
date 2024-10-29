@@ -1,0 +1,1 @@
+A person is jumping up and down, then turns around, walks until they leap, and subsequently turns back to walk to the origin.

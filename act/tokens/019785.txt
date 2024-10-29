@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX perform/VERB the/DET waltz/NOUN dance/NOUN and/CCONJ then/ADV a/DET person/NOUN be/AUX do/VERB a/DET bodybuilding/NOUN flex/PROPN pose/NOUN 

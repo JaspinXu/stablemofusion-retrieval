@@ -1,0 +1,1 @@
+A person stands up, walks forward, then smoothly curves to the right in their trajectory. After that, they stop walking and stand in one place, appearing to walk forward initially.

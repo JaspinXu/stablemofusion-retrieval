@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB right/ADJ and/CCONJ walk/VERB back/ADV while/SCONJ from/ADP a/DET standing/NOUN position/NOUN a/DET man/NOUN spread/VERB his/PRON leg/NOUN widely/ADV 

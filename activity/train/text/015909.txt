@@ -1,0 +1,1 @@
+A person is pushing something towards the right up against an object, then takes sliding steps to the right, followed by sliding steps to the left, and finally takes sliding steps to the right again to return to their original location.

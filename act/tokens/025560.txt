@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB in/ADP a/DET figure/NOUN 8/NUM formation/NOUN then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET figure/NOUN of/ADP eight/NUM to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+A person walks forward 6 steps, then takes a bigger step on the second step, and subsequently continues walking forward.

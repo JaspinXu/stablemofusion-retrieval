@@ -1,0 +1,1 @@
+A person is dancing in a square pattern, then walks in a left direction and subsequently in a right direction.

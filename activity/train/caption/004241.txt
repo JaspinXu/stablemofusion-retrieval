@@ -1,0 +1,18 @@
+a person is doing a brisk walk/jog.
+he does a walk run
+a person is doing a brisk walk/jog.
+the persons jogs forward at  a medium pace
+a person is doing a brisk walk/jog.
+a person jogs forward and then stops.
+a person takes five paces forward, jogging at first then coming to a standstill.
+he does a walk run
+a person takes five paces forward, jogging at first then coming to a standstill.
+the persons jogs forward at  a medium pace
+a person takes five paces forward, jogging at first then coming to a standstill.
+a person jogs forward and then stops.
+person runs forward a few steps
+he does a walk run
+person runs forward a few steps
+the persons jogs forward at  a medium pace
+person runs forward a few steps
+a person jogs forward and then stops.

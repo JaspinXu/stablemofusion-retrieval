@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET punch/NOUN karate/NOUN kick/NOUN and/CCONJ then/ADV a/DET stick/NOUN figure/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN 

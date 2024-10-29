@@ -1,0 +1,1 @@
+A person walks quickly and stops, then proceeds to walk forward, executes a 180-degree clockwise spin, and finally walks back to the starting position.

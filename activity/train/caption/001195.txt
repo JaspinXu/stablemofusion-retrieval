@@ -1,0 +1,18 @@
+a man walks forward quickly.
+a person walks slightly to the side, crouches slightly and pushes before walking back.
+a man walks forward quickly.
+a man steps towards the right, pushes an object with both arms and then steps in the opposite direction.
+a man walks forward quickly.
+a person steps left, pushes something forward then walks away.
+a person runs a short distance forward and stops.
+a person walks slightly to the side, crouches slightly and pushes before walking back.
+a person runs a short distance forward and stops.
+a man steps towards the right, pushes an object with both arms and then steps in the opposite direction.
+a person runs a short distance forward and stops.
+a person steps left, pushes something forward then walks away.
+a person walks down something fast.
+a person walks slightly to the side, crouches slightly and pushes before walking back.
+a person walks down something fast.
+a man steps towards the right, pushes an object with both arms and then steps in the opposite direction.
+a person walks down something fast.
+a person steps left, pushes something forward then walks away.

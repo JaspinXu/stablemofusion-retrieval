@@ -1,0 +1,1 @@
+a/DET person/NOUN raise/VERB both/DET arm/NOUN over/ADP their/PRON head/NOUN then/ADV lower/VERB they/PRON to/ADP a/DET 90degree/NUM angle/NOUN after/SCONJ that/PRON they/PRON raise/VERB their/PRON right/ADJ arm/NOUN to/PART look/VERB at/ADP something/PRON on/ADP their/PRON wrist/NOUN before/ADP lower/VERB it/PRON again/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB both/CCONJ his/PRON hand/NOUN sideways/ADV while/SCONJ squat/VERB then/ADV walk/VERB upstairs/ADV hold/VERB a/DET railing/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART walk/VERB downstairs/ADV hold/VERB the/DET railing/NOUN with/ADP his/PRON right/ADJ hand/NOUN 

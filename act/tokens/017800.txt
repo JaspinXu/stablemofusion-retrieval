@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV one/NUM step/NOUN at/ADP a/DET time/NOUN lead/VERB with/ADP their/PRON left/ADJ foot/NOUN then/ADV turn/VERB around/ADP and/CCONJ continue/VERB subsequently/ADV they/PRON shuffle/VERB to/ADP the/DET side/NOUN and/CCONJ later/ADV walk/VERB forward/ADV again/ADV nearly/ADV miss/VERB a/DET trip/NOUN 

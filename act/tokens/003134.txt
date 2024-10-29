@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV a/DET figure/NOUN move/VERB a/DET glass/NOUN from/ADP right/ADV to/ADP leave/VERB across/ADP a/DET table/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON left/ADJ leg/NOUN forward/ADV then/ADV kick/VERB out/ADP their/PRON right/ADJ leg/NOUN once/ADV and/CCONJ subsequently/ADV kick/VERB their/PRON right/ADJ leg/NOUN out/ADP to/ADP the/DET side/NOUN after/SCONJ that/PRON a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB 

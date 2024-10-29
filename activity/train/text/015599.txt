@@ -1,0 +1,1 @@
+A person steps forward and moves something diagonally back from right to left, then steps back. Following that, while standing in the same position, he swings his arms back and forth.

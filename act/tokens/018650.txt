@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB in/ADP place/NOUN on/ADP an/DET object/NOUN then/ADV step/VERB right/ADV a/DET few/ADJ step/NOUN follow/VERB by/ADP step/VERB leave/VERB a/DET few/ADJ step/NOUN and/CCONJ finally/ADV return/VERB back/ADV towards/ADP the/DET right/NOUN to/ADP the/DET starting/NOUN point/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB the/DET dial/NOUN on/ADP a/DET tv/NOUN or/CCONJ other/ADJ device/NOUN and/CCONJ then/ADV a/DET man/NOUN be/AUX bent/ADJ over/ADP shovel/VERB in/ADP the/DET yard/NOUN 

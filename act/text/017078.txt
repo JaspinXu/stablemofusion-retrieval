@@ -1,0 +1,1 @@
+A person slides to the right diagonally, then back to the left, and subsequently moves from side to side before turning around and walking away.

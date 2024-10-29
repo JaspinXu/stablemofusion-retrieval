@@ -1,0 +1,6 @@
+person pacing from right to left ending in the middle.
+lifts an imaginary item, flips it 90 degrees, then puts it back
+a person paces back and forth.
+lifts an imaginary item, flips it 90 degrees, then puts it back
+a person walks from the middle to the left end then turns around then walks to the right end, then back to the middle.
+lifts an imaginary item, flips it 90 degrees, then puts it back

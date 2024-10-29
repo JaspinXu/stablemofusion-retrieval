@@ -1,0 +1,1 @@
+The sim moves across the plane in an athletic fashion, appearing to use their left leg in an exercise routine while reaching the end of the plane, and then performs the motion again on the way back to the center. After that, the sim stands still and pushes towards their right side, leading with their left foot.

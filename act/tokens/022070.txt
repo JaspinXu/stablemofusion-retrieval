@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB in/ADP a/DET loop/NOUN fashion/NOUN before/ADP turn/VERB around/ADV and/CCONJ walk/VERB in/ADP a/DET straight/ADJ line/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB around/ADV clumsily/ADV 

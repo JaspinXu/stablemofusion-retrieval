@@ -1,0 +1,1 @@
+A person is walking forward and backward, then runs counter clockwise before turning around and running clockwise.

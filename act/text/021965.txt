@@ -1,0 +1,1 @@
+A person moves to the left direction backward, then picks something up and afterwards puts it back down.

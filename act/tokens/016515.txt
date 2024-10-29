@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN with/ADP their/PRON arm/NOUN behind/ADP their/PRON back/NOUN then/ADV hop/VERB in/ADP a/DET circle/NOUN on/ADP their/PRON left/ADJ foot/NOUN and/CCONJ right/ADJ foot/NOUN subsequently/ADV hop/VERB in/ADP a/DET diagonal/ADJ line/NOUN on/ADP their/PRON left/ADJ foot/NOUN 

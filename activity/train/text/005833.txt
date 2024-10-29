@@ -1,0 +1,1 @@
+A person picks up an object, moves it to the left, and places it down, and then extends their left arm out.

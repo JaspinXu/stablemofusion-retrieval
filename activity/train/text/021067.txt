@@ -1,0 +1,1 @@
+The body jumps up and then walks forward, subsequently spinning around as the person continues to move.

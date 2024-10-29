@@ -1,0 +1,1 @@
+the/DET person/NOUN start/VERB with/ADP a/DET slow/ADJ clap/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV clap/VERB again/ADV at/ADP a/DET fast/ADJ pace/NOUN while/SCONJ walk/VERB to/ADP the/DET side/NOUN 

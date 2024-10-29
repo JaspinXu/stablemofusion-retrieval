@@ -1,0 +1,1 @@
+The person sweeps the floor, then walks to his right and then to his left, finally returning to his original position.

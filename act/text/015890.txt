@@ -1,0 +1,1 @@
+A person balances on a board, then sidesteps to the left, subsequently to the right, and finally returns to the middle.

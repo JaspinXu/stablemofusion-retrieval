@@ -1,0 +1,1 @@
+A person steps over an obstacle, then walks a short distance to the right, turns left, and continues walking left. After that, they turn right and walk some distance to the right before stopping. Subsequently, the person throws something with their left hand in the style of a baseball pitcher.

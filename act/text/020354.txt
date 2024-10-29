@@ -1,0 +1,1 @@
+A person walks forward slowly, then the sim walks in a loop fashion from one side of the plane to the other before turning around.

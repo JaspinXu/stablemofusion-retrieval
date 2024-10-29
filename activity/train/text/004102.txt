@@ -1,0 +1,1 @@
+The toon steps backward at an angle, then shuffles to the side and stops, while a person walks backward and places their left hand on their right shoulder.

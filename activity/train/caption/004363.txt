@@ -1,0 +1,4 @@
+a man stepping over an object.
+a person walks forward and trips.
+a man stepping over an object.
+a man walks forward and stumbles.

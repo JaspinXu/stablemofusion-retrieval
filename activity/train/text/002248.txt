@@ -1,0 +1,1 @@
+A person takes a large step diagonally to the left over a large object, subsequently taking additional steps as they walk forward.

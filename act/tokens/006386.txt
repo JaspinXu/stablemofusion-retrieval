@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB clockwise/NOUN to/ADP the/DET right/ADJ then/ADV sharply/ADV tilt/VERB down/ADP to/ADP the/DET left/NOUN and/CCONJ stumble/NOUN in/ADP that/DET direction/NOUN 

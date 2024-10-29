@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV 7/NUM pace/NOUN while/SCONJ his/PRON arm/NOUN swing/NOUN then/ADV the/DET person/NOUN trip/VERB over/ADP his/PRON foot/NOUN 

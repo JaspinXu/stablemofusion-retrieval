@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB forward/ADV three/NUM time/NOUN then/ADV turn/VERB around/ADV and/CCONJ jump/VERB back/ADV the/DET other/ADJ way/NOUN one/NUM time/NOUN follow/VERB that/SCONJ the/DET same/ADJ person/NOUN hop/VERB over/ADP a/DET stick/NOUN first/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ several/ADJ time/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB counterclockwise/NOUN 180/NUM degree/NOUN and/CCONJ take/VERB wide/ADJ step/NOUN forward/ADV then/ADV the/DET individual/NOUN turn/VERB around/ADP in/ADP the/DET opposite/ADJ direction/NOUN and/CCONJ walk/VERB in/ADP a/DET zigzag/PROPN motion/NOUN 

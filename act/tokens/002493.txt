@@ -1,0 +1,1 @@
+the/DET person/NOUN jump/VERB up/ADP in/ADP a/DET 180degree/PROPN turn/NOUN then/ADV first/ADV move/VERB the/DET right/ADJ hand/NOUN after/ADP move/VERB the/DET left/ADJ hand/NOUN 

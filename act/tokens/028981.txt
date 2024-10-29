@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX stand/VERB on/ADP his/PRON right/ADJ foot/NOUN bend/VERB his/PRON left/ADJ knee/NOUN then/ADV he/PRON shuffle/VERB to/ADP his/PRON left/NOUN follow/VERB by/ADP shuffle/VERB back/ADV to/ADP his/PRON right/NOUN and/CCONJ ultimately/ADV return/VERB to/ADP his/PRON original/ADJ position/NOUN all/ADV without/ADP cross/VERB his/PRON leg/NOUN 

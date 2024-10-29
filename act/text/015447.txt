@@ -1,0 +1,1 @@
+A person picks up a horizontal object from their right side, then places it vertically on their left. After that, they return to their right again, subsequently walking towards the left side. Then, they climb up and down before walking forward.

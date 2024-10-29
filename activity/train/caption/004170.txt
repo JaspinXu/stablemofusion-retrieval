@@ -1,0 +1,4 @@
+the sim appears to be jogging in place.
+a person is running in place and stops.
+the sim appears to be jogging in place.
+a person bounces up and down on each leg while moving arms slightly up and down at the same time.

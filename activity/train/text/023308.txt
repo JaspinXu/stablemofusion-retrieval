@@ -1,0 +1,1 @@
+A person turns around and walks away, then turns around and walks back to their origin. After that, he turns and sits down, but subsequently gets back up and turns around again.

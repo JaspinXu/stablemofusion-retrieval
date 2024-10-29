@@ -1,0 +1,1 @@
+a/DET sim/NOUN be/AUX walk/VERB through/ADP a/DET hallway/NOUN grip/VERB a/DET handrail/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV another/DET person/NOUN walk/VERB while/SCONJ touch/VERB something/PRON with/ADP his/PRON right/ADJ hand/NOUN 

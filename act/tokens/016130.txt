@@ -1,0 +1,1 @@
+a/DET figure/NOUN drink/VERB from/ADP a/DET cup/NOUN then/ADV a/DET man/NOUN rotate/VERB 90/NUM degree/NOUN clockwise/NOUN raise/VERB his/PRON arm/NOUN and/CCONJ subsequently/ADV look/VERB at/ADP they/PRON 

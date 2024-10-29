@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB along/ADP a/DET rocky/ADJ path/NOUN that/PRON be/AUX uneven/ADJ then/ADV they/PRON walk/VERB forward/ADV pick/VERB up/ADP an/DET object/NOUN turn/NOUN and/CCONJ walk/VERB back/ADV after/ADP that/PRON they/PRON put/VERB the/DET object/NOUN down/ADP on/ADP the/DET ground/NOUN and/CCONJ continue/VERB walk/VERB before/ADP lean/VERB down/ADP 

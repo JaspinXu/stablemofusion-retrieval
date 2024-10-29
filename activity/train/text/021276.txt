@@ -1,0 +1,1 @@
+A person takes two side steps to the right, then four to the left, and finally two back to the right. Subsequently, the man walks forwards, then backwards, and finally sideways to complete a circle.

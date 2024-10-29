@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB slowly/ADV from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ in/ADP a/DET diagonal/ADJ fashion/NOUN then/ADV stop/VERB turn/VERB around/ADV and/CCONJ walk/VERB halfway/ADV back/ADV while/SCONJ a/DET person/NOUN be/AUX sit/VERB in/ADP a/DET chair/NOUN nearby/ADV 

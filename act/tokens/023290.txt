@@ -1,0 +1,1 @@
+a/DET person/NOUN grab/VERB a/DET container/NOUN from/ADP their/PRON right/NOUN and/CCONJ place/VERB it/PRON in/ADP front/NOUN of/ADP they/PRON then/ADV grab/VERB two/NUM other/ADJ container/NOUN from/ADP either/DET side/NOUN and/CCONJ pour/VERB their/PRON content/NOUN into/ADP the/DET original/ADJ container/NOUN before/ADP start/VERB to/PART jump/VERB on/ADP something/PRON 

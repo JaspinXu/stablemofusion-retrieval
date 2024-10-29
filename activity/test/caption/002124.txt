@@ -1,0 +1,2 @@
+person walks forward down two steps.
+a person walks in a circle counterclockwise and returns to their original position.

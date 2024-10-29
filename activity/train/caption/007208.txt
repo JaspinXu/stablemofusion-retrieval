@@ -1,0 +1,2 @@
+a person walks and picks up an object and then throwing it.
+individual is walking, bends over as to grab something, throw the object, then continues to walk.

@@ -1,0 +1,18 @@
+a man walks in clockwise direction.
+a person side steps to the left for a few steps.
+a man walks in clockwise direction.
+moving sideways then stopping.
+a man walks in clockwise direction.
+a person is slowly shuffling side ways leading with their left leg.
+a person walks around in a circle.
+a person side steps to the left for a few steps.
+a person walks around in a circle.
+moving sideways then stopping.
+a person walks around in a circle.
+a person is slowly shuffling side ways leading with their left leg.
+a man walks counter clockwise in a circle.
+a person side steps to the left for a few steps.
+a man walks counter clockwise in a circle.
+moving sideways then stopping.
+a man walks counter clockwise in a circle.
+a person is slowly shuffling side ways leading with their left leg.

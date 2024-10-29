@@ -1,0 +1,1 @@
+A person bends down to pick up something, then the sim moves from side to side, crouching and making a grab action as if participating in an exercise routine.

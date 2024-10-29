@@ -1,0 +1,1 @@
+A person picks up an object, tilts it on its side, and then returns it to its starting position. Following that, the person is walking to the left and then jogging to the right.

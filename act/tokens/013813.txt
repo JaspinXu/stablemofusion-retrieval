@@ -1,0 +1,1 @@
+the/DET person/NOUN take/VERB 4/NUM step/NOUN forward/ADV then/ADV quickly/ADV take/VERB 3/NUM step/NOUN back/ADV and/CCONJ subsequently/ADV walk/VERB forward/ADV 5/NUM more/ADJ step/NOUN after/SCONJ that/SCONJ the/DET person/NOUN take/VERB a/DET step/NOUN to/ADP their/PRON right/NOUN and/CCONJ sit/VERB down/ADP on/ADP a/DET chair/NOUN before/ADP get/VERB back/ADV up/ADV 

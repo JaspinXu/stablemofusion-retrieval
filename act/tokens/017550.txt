@@ -1,0 +1,1 @@
+a/DET person/NOUN step/VERB backwards/ADV and/CCONJ then/ADV to/ADP the/DET side/NOUN before/ADP walk/VERB forward/ADV and/CCONJ subsequently/ADV a/DET man/NOUN walk/VERB in/ADP an/DET s/PROPN pattern/NOUN across/ADP the/DET floor/NOUN 

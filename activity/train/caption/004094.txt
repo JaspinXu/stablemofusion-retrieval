@@ -1,0 +1,6 @@
+the toon walks down the plane at a normal rate of speed.
+a person walks and turns to his left.
+the toon walks down the plane at a normal rate of speed.
+a person takes 2 steps forwards and then turn and takes another 2 steps.
+the toon walks down the plane at a normal rate of speed.
+the person is walking forward and turning left.

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN then/ADV walk/VERB with/ADP the/DET item/NOUN above/ADP its/PRON head/NOUN subsequently/ADV bend/VERB down/ADP and/CCONJ walk/VERB in/ADP a/DET circle/NOUN 

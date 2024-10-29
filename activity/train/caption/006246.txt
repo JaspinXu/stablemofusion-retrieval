@@ -1,0 +1,18 @@
+the person is turning right.
+walking forward and then stopping.
+the person is turning right.
+a person is walking forward.
+the person is turning right.
+a person walks forward a few steps
+a person takes two steps, hard-pivots on their right foot to do a 180 to their right, then takes two more steps forward.
+walking forward and then stopping.
+a person takes two steps, hard-pivots on their right foot to do a 180 to their right, then takes two more steps forward.
+a person is walking forward.
+a person takes two steps, hard-pivots on their right foot to do a 180 to their right, then takes two more steps forward.
+a person walks forward a few steps
+a person is walking, turns around, and walks back
+walking forward and then stopping.
+a person is walking, turns around, and walks back
+a person is walking forward.
+a person is walking, turns around, and walks back
+a person walks forward a few steps

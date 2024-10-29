@@ -1,0 +1,18 @@
+a person walks in a clockwise circle.
+a person takes five steps starting with their left foot and then stops.
+a person walks in a clockwise circle.
+a person walks down stairs.
+a person walks in a clockwise circle.
+a man walks a few steps downwards at medium pace, then stops.
+a man walks forward in a circle before stopping.
+a person takes five steps starting with their left foot and then stops.
+a man walks forward in a circle before stopping.
+a person walks down stairs.
+a man walks forward in a circle before stopping.
+a man walks a few steps downwards at medium pace, then stops.
+person is walking in a circle
+a person takes five steps starting with their left foot and then stops.
+person is walking in a circle
+a person walks down stairs.
+person is walking in a circle
+a man walks a few steps downwards at medium pace, then stops.

@@ -1,0 +1,1 @@
+The figure looks left and right, then starts rotating its neck in a circular fashion, after that walking forward and raising its hands.

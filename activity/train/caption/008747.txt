@@ -1,0 +1,18 @@
+a person walks forward and then turns to their right and walks back to the original space.
+a person steps over a hole.
+a person walks forward and then turns to their right and walks back to the original space.
+a person walks forwards a couple of steps.
+a person walks forward and then turns to their right and walks back to the original space.
+a person walks forward then steps over an object in its path
+a person walks forward, spins, and walks back in the direction they came.
+a person steps over a hole.
+a person walks forward, spins, and walks back in the direction they came.
+a person walks forwards a couple of steps.
+a person walks forward, spins, and walks back in the direction they came.
+a person walks forward then steps over an object in its path
+the person walks forward then quickly turns right
+a person steps over a hole.
+the person walks forward then quickly turns right
+a person walks forwards a couple of steps.
+the person walks forward then quickly turns right
+a person walks forward then steps over an object in its path

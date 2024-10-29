@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN diagonally/ADV forward/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV walk/VERB over/ADP a/DET high/ADJ object/NOUN that/PRON be/AUX in/ADP his/PRON way/NOUN 

@@ -1,0 +1,1 @@
+A robot picks up something from his right and then places it on his left, subsequently placing another item to his right side. Following that, a person slowly lifts something up to their right with both hands, brings it back behind them, and then throws it forward with force.

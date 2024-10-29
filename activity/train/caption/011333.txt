@@ -1,0 +1,6 @@
+a person walks forward clockwise, completing one full circle.
+a person uses right hand to grab something, stirs with it, and sets back.
+a person walks towards the left to make a circle.
+a person uses right hand to grab something, stirs with it, and sets back.
+the person walks in an oval circle from right to left and then back to right.
+a person uses right hand to grab something, stirs with it, and sets back.

@@ -1,0 +1,18 @@
+the person is walking forward.
+the man runs back wards
+the person is walking forward.
+the person is running backwards quickly.
+the person is walking forward.
+a person jogs backwards, diagonally.
+a person walks forward and stops.
+the man runs back wards
+a person walks forward and stops.
+the person is running backwards quickly.
+a person walks forward and stops.
+a person jogs backwards, diagonally.
+a person is walking in a straight line.
+the man runs back wards
+a person is walking in a straight line.
+the person is running backwards quickly.
+a person is walking in a straight line.
+a person jogs backwards, diagonally.

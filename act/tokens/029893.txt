@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX do/VERB pushup/NOUN then/ADV a/DET person/NOUN open/VERB something/PRON on/ADP the/DET middle/ADJ shelf/NOUN take/VERB an/DET item/NOUN from/ADP the/DET top/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET ground/NOUN next/ADV take/VERB something/PRON from/ADP the/DET ground/NOUN and/CCONJ put/VERB it/PRON back/ADV on/ADP the/DET middle/ADJ shelf/NOUN 

@@ -1,0 +1,1 @@
+At a sideways angle, a person walks forward and then backwards. After that, they turn around and start walking again, stopping after a moment before turning around once more.

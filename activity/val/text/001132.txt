@@ -1,0 +1,1 @@
+A person runs forward, then turns around and walks back, subsequently walking quickly before stopping to turn, making a figure eight.

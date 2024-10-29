@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB around/ADP to/PART create/VERB the/DET shape/NOUN of/ADP an/DET eight/NUM then/ADV shuffle/VERB several/ADJ step/NOUN forward/ADV jump/VERB and/CCONJ shuffle/NOUN several/ADJ more/ADJ step/NOUN forward/ADV 

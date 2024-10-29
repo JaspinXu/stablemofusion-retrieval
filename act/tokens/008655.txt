@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB and/CCONJ land/NOUN in/ADP a/DET 180/NUM then/ADV walk/VERB forward/ADV while/SCONJ slightly/ADV stumble/VERB on/ADP one/NUM of/ADP the/DET step/NOUN 

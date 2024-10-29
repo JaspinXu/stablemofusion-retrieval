@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB a/DET big/ADJ step/NOUN forward/ADV then/ADV a/DET person/NOUN follow/VERB by/ADP take/VERB four/NUM more/ADJ step/NOUN forward/ADV while/SCONJ walk/VERB at/ADP a/DET somewhat/ADV quick/ADJ pace/NOUN 

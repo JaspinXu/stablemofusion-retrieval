@@ -1,0 +1,1 @@
+A person walks forward, picks up an object, turns and walks back, puts the object down on the ground, continues walking, and then leans down. Subsequently, they walk unevenly while crouching down.

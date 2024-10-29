@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB around/ADV shuffle/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV return/VERB back/ADV to/ADP the/DET left/ADJ 

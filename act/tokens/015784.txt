@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP pick/NOUN up/ADP a/DET glass/NOUN and/CCONJ take/VERB a/DET drink/NOUN then/ADV set/VERB the/DET glass/NOUN back/ADV down/ADV follow/VERB that/SCONJ they/PRON stand/VERB up/ADP to/PART walk/VERB away/ADV tentatively/ADV move/VERB forwards/ADV through/ADP either/CCONJ slippery/ADJ or/CCONJ muddy/ADJ ground/NOUN 

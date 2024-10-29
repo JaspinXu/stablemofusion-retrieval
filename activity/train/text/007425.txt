@@ -1,0 +1,1 @@
+A person walks, then turns left, subsequently walking from one wall to the wall on his right in a clockwise motion.

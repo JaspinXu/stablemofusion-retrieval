@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB forward/ADV 5/NUM step/NOUN start/VERB with/ADP his/PRON left/ADJ foot/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET moderate/ADJ pace/NOUN 

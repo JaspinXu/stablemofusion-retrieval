@@ -1,0 +1,1 @@
+a/DET red/ADJ and/CCONJ blue/ADJ stick/NOUN figure/NOUN be/AUX stand/VERB and/CCONJ mimic/NOUN the/DET walk/NOUN like/ADP an/DET egyptian/ADJ dance/NOUN then/ADV a/DET person/NOUN direct/VERB with/ADP their/PRON right/ADJ arm/NOUN ahead/ADV 

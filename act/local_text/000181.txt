@@ -1,0 +1,2 @@
+stick figure moves in a counter clockwise motion
+a man runs sideways towards the left

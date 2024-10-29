@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB backwards/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ he/PRON start/VERB 

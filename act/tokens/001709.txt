@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM large/ADJ step/NOUN forward/ADV while/SCONJ put/VERB their/PRON hand/NOUN out/ADP straight/ADV then/ADV lower/VERB they/PRON to/ADP the/DET side/NOUN after/SCONJ that/PRON the/DET person/NOUN look/VERB down/ADP while/SCONJ step/VERB to/ADP their/PRON left/ADJ 

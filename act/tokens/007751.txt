@@ -1,0 +1,1 @@
+the/DET man/NOUN go/VERB up/ADV 5/NUM step/NOUN hold/VERB the/DET rail/NOUN and/CCONJ then/ADV a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON to/ADP the/DET right/NOUN 

@@ -1,0 +1,18 @@
+a person walks in a circle
+a standing person jogs slowly to the left, then to the right, then stops at the center.
+a person walks in a circle
+a person jogging back-and-forth turning 180° every few steps.
+a person walks in a circle
+a person turns and runs to the left and then turns to run to the right.
+the person is walking around in a circle.
+a standing person jogs slowly to the left, then to the right, then stops at the center.
+the person is walking around in a circle.
+a person jogging back-and-forth turning 180° every few steps.
+the person is walking around in a circle.
+a person turns and runs to the left and then turns to run to the right.
+a person walks in a counterclockwise circle.
+a standing person jogs slowly to the left, then to the right, then stops at the center.
+a person walks in a counterclockwise circle.
+a person jogging back-and-forth turning 180° every few steps.
+a person walks in a counterclockwise circle.
+a person turns and runs to the left and then turns to run to the right.

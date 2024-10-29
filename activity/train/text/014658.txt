@@ -1,0 +1,1 @@
+A person stands in one place, then is pushed to the right, subsequently moving laterally in that direction.

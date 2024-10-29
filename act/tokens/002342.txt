@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN to/ADP the/DET right/NOUN then/ADV walk/VERB forwards/ADV and/CCONJ balance/NOUN on/ADP their/PRON left/ADJ foot/NOUN as/SCONJ if/SCONJ try/VERB not/PART to/PART fall/VERB before/ADP continue/VERB to/PART step/VERB through/ADP with/ADP their/PRON right/ADJ foot/NOUN 

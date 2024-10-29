@@ -1,0 +1,4 @@
+a person walks then runs to the right, afterwards they turn around to walk back
+character is shuffling to their right, leg over leg before shuffling back to the starting area of the "plane"
+slow walking velocity in a line to a quick burst of speed. unit during circle
+character is shuffling to their right, leg over leg before shuffling back to the starting area of the "plane"

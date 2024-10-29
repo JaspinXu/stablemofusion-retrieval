@@ -1,0 +1,1 @@
+A person paces back and forth, then stops in the middle; subsequently, they walk forward five steps, turn left, and continue walking towards the left diagonally.

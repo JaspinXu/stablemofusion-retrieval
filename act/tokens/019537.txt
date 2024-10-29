@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV put/VERB something/PRON on/ADP a/DET shelf/NOUN then/ADV walk/VERB back/ADV to/PART pick/VERB up/ADP something/PRON else/ADV and/CCONJ place/VERB it/PRON on/ADP the/DET same/ADJ shelf/NOUN after/SCONJ that/PRON they/PRON stand/VERB and/CCONJ eat/VERB something/PRON while/SCONJ cut/VERB it/PRON 

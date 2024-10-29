@@ -1,0 +1,1 @@
+the/DET man/NOUN stroll/VERB slowly/ADV for/ADP 7/NUM step/NOUN then/ADV proceed/VERB to/PART walk/VERB straight/ADV towards/ADP the/DET conference/NOUN 

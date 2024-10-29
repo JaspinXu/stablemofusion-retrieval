@@ -1,0 +1,18 @@
+a person walks in a semicircle to the left.
+the person is walking down the steps.
+a person walks in a semicircle to the left.
+a person walks down the stairs
+a person walks in a semicircle to the left.
+a person grabs something to his left and then steps forward several syeps into a grey box.
+a person walks forward and turns to the left.
+the person is walking down the steps.
+a person walks forward and turns to the left.
+a person walks down the stairs
+a person walks forward and turns to the left.
+a person grabs something to his left and then steps forward several syeps into a grey box.
+the figure, facing forward, takes two steps in that direction; it then turns right and takes an additional two steps.
+the person is walking down the steps.
+the figure, facing forward, takes two steps in that direction; it then turns right and takes an additional two steps.
+a person walks down the stairs
+the figure, facing forward, takes two steps in that direction; it then turns right and takes an additional two steps.
+a person grabs something to his left and then steps forward several syeps into a grey box.

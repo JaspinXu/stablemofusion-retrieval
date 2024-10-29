@@ -1,0 +1,1 @@
+A stick figure moves in a counterclockwise motion, and then a person walks forward, turns 90 degrees to their left, walks forward again, and subsequently takes a large step up onto something.

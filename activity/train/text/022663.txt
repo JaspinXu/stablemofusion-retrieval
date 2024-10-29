@@ -1,0 +1,1 @@
+A person is sweeping the floor, then walks to the left, followed by walking forward, then walks to the right, and walks forward again.

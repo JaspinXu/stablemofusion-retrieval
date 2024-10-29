@@ -1,0 +1,1 @@
+A person sidesteps around the room, then runs forward; subsequently, a character quickly walks diagonally, turns around, and walks back to where they started.

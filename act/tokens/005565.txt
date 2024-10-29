@@ -1,0 +1,1 @@
+a/DET man/NOUN pick/VERB up/ADP an/DET unseen/ADJ object/NOUN to/ADP his/PRON front/ADJ left/NOUN and/CCONJ move/VERB it/PRON to/ADP an/DET unseen/ADJ platform/NOUN on/ADP his/PRON front/ADJ right/NOUN without/ADP move/VERB his/PRON foot/NOUN then/ADV a/DET person/NOUN walk/VERB down/ADP the/DET stair/NOUN with/ADP their/PRON arm/NOUN by/ADP their/PRON side/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV while/SCONJ the/DET man/NOUN be/AUX try/VERB to/PART moonwalk/VERB 

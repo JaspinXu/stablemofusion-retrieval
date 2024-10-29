@@ -1,0 +1,1 @@
+the/DET person/NOUN move/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV to/ADP the/DET left/NOUN indicate/VERB the/DET beginning/NOUN of/ADP a/DET dance/NOUN move/NOUN while/SCONJ their/PRON arm/NOUN move/VERB side/NOUN to/PART side/VERB subsequently/ADV they/PRON do/VERB a/DET small/ADJ jump/NOUN before/ADP walk/VERB up/ADP some/DET stair/NOUN 

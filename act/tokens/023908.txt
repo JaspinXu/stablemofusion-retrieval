@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB in/ADP a/DET clockwise/NOUN circle/NOUN two/NUM and/CCONJ a/DET quarter/NOUN time/NOUN then/ADV dance/NOUN while/SCONJ shuffle/VERB in/ADP a/DET small/ADJ circle/NOUN 

@@ -1,0 +1,28 @@
+-Goal-
+Given an action description, identify the key action descriptions within it and complete the corresponding body.
+
+-Steps-
+1. Identify the key action description part of the action description, which may be a verb or a verb phrase.
+- motion_desc: The description of the input text.
+
+2. After extracting the core action description part, the information of the context should be complemented.
+- context: The subject who performs the above extracted action is extracted, which may be a person, or it may be the sender or receiver of the action.
+
+3. When finished, output {completion_delimiter}
+
+4. You should output in this format:
+("caption"{tuple_delimiter}"motion_desc"{tuple_delimiter}"Description of the action after contextual completion"){record_delimiter}
+
+######################
+-Examples-
+######################
+Example 1:
+
+Text:
+A person is sitting on the ground, scratches their head and looks around.
+################
+Output:
+("caption"{tuple_delimiter}"sitting on"{tuple_delimiter}"A person is sitting on the ground."){record_delimiter}
+("caption"{tuple_delimiter}"scratches their head"{tuple_delimiter}"A person scratches their head"){record_delimiter}
+("caption"{tuple_delimiter}"looks around"{tuple_delimiter}"person"{tuple_delimiter}"A person looks around"){record_delimiter}
+#############################

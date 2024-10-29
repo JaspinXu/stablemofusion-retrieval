@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV forwards/ADV and/CCONJ while/SCONJ go/VERB forward/ADV they/PRON be/AUX push/VERB towards/ADP the/DET left/ADJ and/CCONJ crouch/ADJ subsequently/PROPN a/DET man/NOUN sway/VERB his/PRON hip/NOUN from/ADP side/NOUN to/PART side/VERB and/CCONJ then/ADV turn/VERB to/ADP the/DET left/ADJ 

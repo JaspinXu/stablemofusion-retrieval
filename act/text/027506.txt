@@ -1,0 +1,1 @@
+Someone is walking, then turns to their left, and afterwards, the sim starts jogging in place.

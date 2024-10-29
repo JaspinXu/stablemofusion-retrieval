@@ -1,0 +1,1 @@
+this/DET person/NOUN move/VERB their/PRON arm/NOUN down/ADP near/ADP their/PRON chest/NOUN then/ADV walk/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ from/ADP back/ADV to/ADP front/NOUN 

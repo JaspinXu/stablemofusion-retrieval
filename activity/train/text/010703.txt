@@ -1,0 +1,1 @@
+Someone walks forward, then pivots on his left foot and turns around smoothly, after that he stops.

@@ -1,0 +1,18 @@
+the person is jogging forward turning left.
+a person walks forward in a counterclockwise semi-circle
+the person is jogging forward turning left.
+a person walks curving to the left.
+the person is jogging forward turning left.
+person walk to the left
+person runs forward, then runs to their left
+a person walks forward in a counterclockwise semi-circle
+person runs forward, then runs to their left
+a person walks curving to the left.
+person runs forward, then runs to their left
+person walk to the left
+running in a diagonal line.
+a person walks forward in a counterclockwise semi-circle
+running in a diagonal line.
+a person walks curving to the left.
+running in a diagonal line.
+person walk to the left

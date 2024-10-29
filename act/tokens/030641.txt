@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX pretend/VERB to/PART be/AUX a/DET mouse/NOUN then/ADV a/DET person/NOUN put/VERB hand/NOUN on/ADP hips/PROPN walks/PROPN forward/ADV and/CCONJ do/VERB a/DET full/ADJ circular/ADJ motion/NOUN on/ADP the/DET spot/NOUN 

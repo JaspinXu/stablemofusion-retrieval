@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB their/PRON left/ADJ arm/NOUN back/ADV and/CCONJ then/ADV throw/VERB an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN next/SCONJ a/DET man/NOUN run/VERB at/ADP a/DET 45degree/NUM angle/NOUN 

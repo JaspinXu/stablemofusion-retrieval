@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB backward/ADV towards/ADP the/DET right/ADJ side/NOUN then/ADV step/VERB forward/ADV towards/ADP the/DET left/ADJ side/NOUN subsequently/ADV stand/VERB still/ADV before/ADP take/VERB a/DET step/NOUN forward/ADV to/ADP the/DET right/ADJ diagonally/ADV 

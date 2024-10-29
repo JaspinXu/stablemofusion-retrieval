@@ -1,0 +1,1 @@
+the/DET man/NOUN empty/VERB the/DET bag/NOUN of/ADP fertilizer/NOUN on/ADP the/DET ground/NOUN then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET line/NOUN turn/VERB around/ADV and/CCONJ walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN 

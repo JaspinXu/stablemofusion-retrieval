@@ -1,0 +1,1 @@
+This person walks a couple of steps, then bows forward. Following that, the man walks forward a few steps, turns around, and walks back to his original position. Subsequently, he turns around, walks one step, and stops.

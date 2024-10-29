@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV twirl/VERB around/ADV and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ it/PRON start/VERB subsequently/ADV curve/VERB slightly/ADV to/ADP the/DET right/NOUN 

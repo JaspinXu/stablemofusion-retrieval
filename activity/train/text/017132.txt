@@ -1,0 +1,1 @@
+A person is giving a direct motion, then walks forward in a quarter circle, stops, and subsequently turns to walk in a straight line.

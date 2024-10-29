@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX run/VERB from/ADP one/NUM side/NOUN to/ADP the/DET other/ADJ and/CCONJ then/ADV stand/VERB still/ADV before/ADP side/NOUN step/VERB to/ADP the/DET left/ADJ 

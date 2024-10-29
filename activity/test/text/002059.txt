@@ -1,0 +1,1 @@
+A person walks forward, then turns left around and walks back, subsequently shuffling quickly to the right before walking back to the left.

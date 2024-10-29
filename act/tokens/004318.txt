@@ -1,0 +1,1 @@
+the/DET toon/NOUN walk/VERB down/ADP the/DET plane/NOUN at/ADP a/DET normal/ADJ rate/NOUN of/ADP speed/NOUN then/ADV take/VERB 2/NUM step/NOUN forward/ADV and/CCONJ afterwards/ADV turn/VERB to/PART take/VERB another/DET 2/NUM step/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ sit/VERB in/ADP a/DET chair/NOUN then/ADV with/ADP his/PRON right/ADJ hand/NOUN a/DET person/NOUN also/ADV walk/VERB forward/ADV turn/VERB clockwise/NOUN and/CCONJ grab/NOUN their/PRON knee/NOUN in/ADP pain/NOUN before/ADP continue/VERB ahead/ADV and/CCONJ turn/VERB clockwise/NOUN again/ADV 

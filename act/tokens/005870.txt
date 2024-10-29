@@ -1,0 +1,1 @@
+a/DET figure/NOUN walk/VERB forward/ADV drift/VERB slightly/ADV left/ADJ while/SCONJ take/VERB six/NUM step/NOUN and/CCONJ halt/VERB then/ADV the/DET person/NOUN throw/VERB something/PRON forcefully/ADV with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ step/NOUN in/ADP the/DET direction/NOUN they/PRON throw/VERB 

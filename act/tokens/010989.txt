@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB to/ADP the/DET left/NOUN then/ADV turn/VERB around/ADP to/PART jog/VERB to/ADP the/DET right/NOUN before/ADP turn/VERB around/ADV one/NUM last/ADJ time/NOUN follow/VERB by/ADP jog/VERB from/ADP left/ADJ to/ADP right/ADV on/ADP a/DET narrow/ADJ strip/NOUN 

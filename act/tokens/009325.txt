@@ -1,0 +1,1 @@
+a/DET soccer/NOUN team/NOUN kick/VERB hard/ADV go/VERB forward/ADV with/ADP the/DET ball/NOUN maneuver/VERB right/ADV and/CCONJ leave/VERB while/SCONJ a/DET person/NOUN walk/VERB forward/ADV and/CCONJ subsequently/ADV turn/VERB left/ADJ 

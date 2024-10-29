@@ -1,0 +1,1 @@
+The sim is walking in a circular motion, then takes a couple of steps forward, pauses, turns, and jogs to the right, subsequently jogging to the left before jogging back to where he started.

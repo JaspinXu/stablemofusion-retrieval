@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB backwards/ADV down/ADP the/DET plane/NOUN then/ADV the/DET man/NOUN move/VERB to/ADP the/DET side/NOUN 

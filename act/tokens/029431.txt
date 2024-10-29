@@ -1,0 +1,1 @@
+a/DET man/NOUN turn/VERB and/CCONJ walk/VERB back/ADV before/ADP turn/VERB around/ADV and/CCONJ walk/VERB again/ADV then/ADV the/DET person/NOUN walk/VERB backwards/ADV turn/VERB around/ADV and/CCONJ walk/VERB backwards/ADV back/ADV to/ADP the/DET starting/NOUN point/NOUN after/SCONJ that/DET walk/VERB backwards/ADV in/ADP a/DET different/ADJ direction/NOUN 

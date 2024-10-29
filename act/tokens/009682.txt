@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV do/AUX a/DET backwards/ADJ zshape/NOUN movement/NOUN to/ADP its/PRON left/ADJ side/NOUN and/CCONJ back/ADV to/ADP the/DET right/NOUN after/SCONJ that/PRON the/DET individual/ADJ bend/VERB down/ADP to/PART pick/VERB something/PRON up/ADP turn/VERB around/ADV and/CCONJ walk/VERB back/ADV 

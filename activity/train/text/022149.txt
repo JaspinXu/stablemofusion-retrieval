@@ -1,0 +1,1 @@
+A person starts running in a circle, then walks from one end of the plane to the other to grab an object, after that turns around and walks back and forth.

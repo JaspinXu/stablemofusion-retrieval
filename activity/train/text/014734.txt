@@ -1,0 +1,1 @@
+A person jogs back and forth diagonally, then steps to return to their original position, while a man is moving backwards right and left.

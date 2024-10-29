@@ -1,0 +1,1 @@
+A person walks forward, then does a clockwise turn and walks back, subsequently walking backwards in a straight line.

@@ -1,0 +1,1 @@
+He moves around, then stops. After that, a person steps back, starts jogging forward, and then turns around to jog.

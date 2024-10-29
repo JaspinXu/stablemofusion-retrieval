@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV turn/VERB around/ADP walk/NOUN diagonally/ADV and/CCONJ then/ADV turn/VERB around/ADV and/CCONJ crouch/NOUN follow/VERB that/SCONJ a/DET stand/VERB person/NOUN wave/NOUN walk/VERB in/ADP a/DET half/NOUN circle/NOUN and/CCONJ then/ADV wave/VERB again/ADV 

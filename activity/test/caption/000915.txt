@@ -1,0 +1,12 @@
+walking in a diagonal line.
+walks forward, turns around, and walks back.
+walking in a diagonal line.
+perosn walks forward, turns right, walks back
+walking in a diagonal line.
+a person walks forward, spins around and walks back.
+a person walks in a curve to the right.
+walks forward, turns around, and walks back.
+a person walks in a curve to the right.
+perosn walks forward, turns right, walks back
+a person walks in a curve to the right.
+a person walks forward, spins around and walks back.

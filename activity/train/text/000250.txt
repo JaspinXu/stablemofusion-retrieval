@@ -1,0 +1,1 @@
+The stick figure's right and left arms are moving up and down as a board under its feet moves left and right. Next, the person makes two small jumps without moving their arms much.

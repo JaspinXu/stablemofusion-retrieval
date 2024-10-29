@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP an/DET item/NOUN then/ADV place/VERB the/DET item/NOUN back/ADV before/ADP walk/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN follow/VERB that/SCONJ the/DET toon/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN 

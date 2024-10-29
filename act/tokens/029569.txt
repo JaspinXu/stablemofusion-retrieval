@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX pick/VERB something/PRON up/ADP and/CCONJ move/VERB it/PRON from/ADP one/NUM location/NOUN to/ADP another/PRON next/ADJ they/PRON play/VERB the/DET air/NOUN drum/NOUN while/SCONJ stand/VERB start/VERB with/ADP the/DET center/NOUN drum/NOUN then/ADV move/VERB to/ADP the/DET left/NOUN and/CCONJ all/DET the/DET way/NOUN back/ADV to/ADP the/DET right/NOUN 

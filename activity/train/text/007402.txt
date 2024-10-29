@@ -1,0 +1,1 @@
+A person walks across the floor at an angled left direction, then picks something up.

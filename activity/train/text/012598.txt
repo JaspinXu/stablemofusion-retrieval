@@ -1,0 +1,1 @@
+A person is walking in a circle, then very slowly walks forward and turns around to walk back.

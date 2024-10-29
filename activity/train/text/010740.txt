@@ -1,0 +1,1 @@
+A person creeps with one foot in front of the other, then moves clockwise, returning to their original position and subsequently moves in the right direction.

@@ -1,0 +1,1 @@
+A person jumps forward once, then walks forward and subsequently moves back.

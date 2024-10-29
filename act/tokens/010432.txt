@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET counter/NOUN clockwise/NOUN motion/NOUN but/CCONJ do/AUX not/PART return/VERB to/ADP their/PRON original/ADJ position/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV follow/VERB by/ADP one/NUM step/NOUN back/ADV and/CCONJ then/ADV another/DET step/NOUN forward/ADV 

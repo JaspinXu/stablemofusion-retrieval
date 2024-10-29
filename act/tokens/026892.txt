@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX push/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV move/VERB back/ADV to/ADP the/DET right/NOUN next/ADV they/PRON raise/VERB their/PRON left/ADJ foot/NOUN up/ADP to/ADP their/PRON knee/NOUN kick/VERB their/PRON foot/NOUN out/ADP and/CCONJ then/ADV return/VERB their/PRON foot/NOUN to/ADP their/PRON knee/NOUN 

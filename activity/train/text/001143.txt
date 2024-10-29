@@ -1,0 +1,1 @@
+A person jumps upwards once, then performs a jumping jack by moving up and down, pausing slightly each time they reach the top and bottom.

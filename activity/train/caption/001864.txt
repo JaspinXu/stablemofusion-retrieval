@@ -1,0 +1,18 @@
+run forward pivot run backward diagnally
+a person is walking forward fast.
+run forward pivot run backward diagnally
+a person walks forward starting with their right foot.
+run forward pivot run backward diagnally
+a person walks briskly forward.
+a person runs forward, stops and runs diagonally backwards.
+a person is walking forward fast.
+a person runs forward, stops and runs diagonally backwards.
+a person walks forward starting with their right foot.
+a person runs forward, stops and runs diagonally backwards.
+a person walks briskly forward.
+person running was turning right.
+a person is walking forward fast.
+person running was turning right.
+a person walks forward starting with their right foot.
+person running was turning right.
+a person walks briskly forward.

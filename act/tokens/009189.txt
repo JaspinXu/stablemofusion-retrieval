@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/NOUN take/VERB more/ADJ step/NOUN and/CCONJ then/ADV stop/VERB next/SCONJ the/DET individual/ADJ pivot/NOUN to/ADP the/DET right/NOUN seem/VERB to/PART catch/VERB something/PRON in/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV return/VERB to/ADP a/DET standing/NOUN position/NOUN 

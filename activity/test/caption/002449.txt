@@ -1,0 +1,2 @@
+the sim is walking down the plane at normal rate of speed.
+a person turns to the right and walks right , pivots and turns to the left  walks to almost the end , and turns right and ends where  they orginally started.

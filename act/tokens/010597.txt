@@ -1,0 +1,1 @@
+a/DET person/NOUN leave/VERB arm/NOUN move/NOUN in/ADP an/DET anticlockwise/PROPN motion/NOUN at/ADP waist/NOUN level/NOUN and/CCONJ then/ADV they/PRON walk/VERB forward/ADV curve/VERB to/ADP their/PRON right/NOUN as/SCONJ they/PRON continue/VERB to/PART move/VERB 

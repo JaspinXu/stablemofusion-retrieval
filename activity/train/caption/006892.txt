@@ -1,0 +1,6 @@
+a person picks up an object by bending down, then moves it to the right and places it back down.
+a person walks forward, turns left to turn completely, back to the starting spot.
+person is moving an object.
+a person walks forward, turns left to turn completely, back to the starting spot.
+a person uses both hands to pick up an object from the left, then places the object down to the right.
+a person walks forward, turns left to turn completely, back to the starting spot.

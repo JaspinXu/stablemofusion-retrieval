@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backward/ADV in/ADP the/DET right/ADJ direction/NOUN and/CCONJ then/ADV stop/VERB after/SCONJ that/SCONJ a/DET man/NOUN walk/VERB around/ADP the/DET room/NOUN back/ADV and/CCONJ forth/ADV 

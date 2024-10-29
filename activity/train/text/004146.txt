@@ -1,0 +1,1 @@
+The stick figure stands still momentarily, then raises its arms up, moves forward left, and subsequently walks in a clockwise curve motion while lowering its arms down and moving back right.

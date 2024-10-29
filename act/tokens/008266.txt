@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX take/VERB a/DET clean/ADJ staff/NOUN over/ADP something/PRON then/ADV walk/VERB backwards/ADV before/ADP begin/VERB to/PART walk/VERB forward/ADV in/ADP a/DET circular/ADJ clockwise/NOUN direction/NOUN 

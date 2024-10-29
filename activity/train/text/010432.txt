@@ -1,0 +1,1 @@
+A person walks in a counter clockwise motion but does not return to their original position, then takes two steps forward, followed by one step back, and then another step forward.

@@ -1,0 +1,1 @@
+the/DET person/NOUN will/AUX move/VERB forward/ADV and/CCONJ pick/VERB up/ADP something/PRON that/PRON be/AUX light/ADJ then/ADV a/DET person/NOUN jog/VERB on/ADP the/DET spot/NOUN 

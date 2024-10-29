@@ -1,0 +1,1 @@
+A person walks forward, then takes two steps forward, subsequently walks sideways three steps, and after that walks forward diagonally and to the right three steps.

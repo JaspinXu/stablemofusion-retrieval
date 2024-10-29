@@ -1,0 +1,1 @@
+A person walks diagonally on the screen, then walks forwards, pivots on their left foot, and swings back around to walk in the opposite direction.

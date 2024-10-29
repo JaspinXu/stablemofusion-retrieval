@@ -1,0 +1,1 @@
+A figure shuffles to the left, then a person jogs forward and stops.

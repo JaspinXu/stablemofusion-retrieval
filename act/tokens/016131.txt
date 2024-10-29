@@ -1,0 +1,1 @@
+a/DET man/NOUN rotate/VERB 90/NUM degree/NOUN clockwise/NOUN then/ADV raise/VERB his/PRON arm/NOUN and/CCONJ look/VERB at/ADP they/PRON while/SCONJ a/DET person/NOUN run/VERB in/ADP place/NOUN 

@@ -1,0 +1,1 @@
+The figure walks to their left, turning slightly as they move without directly facing the direction of their movement. After sitting for a few seconds, they get back up and walk back to the spot they were previously standing in. Following that, a person walks in an anti-clockwise circle slowly.

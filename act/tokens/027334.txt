@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB from/ADP the/DET top/NOUN leave/VERB to/ADP the/DET bottom/ADJ right/NOUN of/ADP the/DET screen/NOUN then/ADV pivot/VERB on/ADP their/PRON right/ADJ foot/NOUN and/CCONJ go/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB subsequently/ADV jump/VERB forward/ADV quickly/ADV and/CCONJ then/ADV stop/VERB 

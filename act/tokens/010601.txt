@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB one/NUM time/NOUN and/CCONJ then/ADV go/VERB up/ADP the/DET step/NOUN while/SCONJ a/DET robot/NOUN start/VERB walk/VERB forward/ADV and/CCONJ subsequently/ADV stop/VERB 

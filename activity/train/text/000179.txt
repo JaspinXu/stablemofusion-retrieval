@@ -1,0 +1,1 @@
+The sim appears to run, then steps to the side to jump over an object, after that, a man has his hands up and subsequently brings them down.

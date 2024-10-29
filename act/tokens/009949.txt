@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV five/NUM step/NOUN to/ADP the/DET front/NOUN then/ADV continue/VERB by/ADP walk/VERB slightly/ADV to/ADP the/DET left/ADJ 

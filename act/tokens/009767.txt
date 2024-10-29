@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV one/NUM step/NOUN backwards/ADV subsequently/ADV three/NUM step/NOUN forward/ADV and/CCONJ finally/ADV stop/VERB while/SCONJ also/ADV recover/VERB from/ADP be/AUX push/VERB during/ADP their/PRON walk/NOUN 

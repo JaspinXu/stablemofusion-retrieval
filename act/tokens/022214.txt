@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB on/ADP their/PRON right/ADJ foot/NOUN sway/VERB their/PRON left/ADJ foot/NOUN in/ADP and/CCONJ out/ADV then/ADV a/DET pizza/NOUN delivery/NOUN driver/NOUN arrive/VERB at/ADP a/DET customer/NOUN house/NOUN walk/VERB up/ADP to/ADP the/DET door/NOUN and/CCONJ ring/VERB the/DET doorbell/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB in/ADP a/DET tpose/PROPN with/ADP no/DET movement/NOUN at/ADV all/ADV then/ADV sit/VERB down/ADP 

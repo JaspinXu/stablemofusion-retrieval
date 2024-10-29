@@ -1,0 +1,18 @@
+a person walks to the right.
+a person walks forward slowly
+a person walks to the right.
+a person jumps, then walks forward.
+a person walks to the right.
+a person has their arms raised, and then lowers them to jump once and take 6 steps forward.
+a man walks forward then turns left continues to walk.
+a person walks forward slowly
+a man walks forward then turns left continues to walk.
+a person jumps, then walks forward.
+a man walks forward then turns left continues to walk.
+a person has their arms raised, and then lowers them to jump once and take 6 steps forward.
+a person walks straight, turns right  and then stops.
+a person walks forward slowly
+a person walks straight, turns right  and then stops.
+a person jumps, then walks forward.
+a person walks straight, turns right  and then stops.
+a person has their arms raised, and then lowers them to jump once and take 6 steps forward.

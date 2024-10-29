@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV on/ADP a/DET diagonal/ADJ holding/NOUN on/ADP to/ADP the/DET railing/NOUN on/ADP each/DET side/NOUN of/ADP he/PRON while/SCONJ next/ADV a/DET person/NOUN hold/VERB their/PRON arm/NOUN near/ADP their/PRON face/NOUN and/CCONJ search/VERB right/ADV and/CCONJ leave/VERB 

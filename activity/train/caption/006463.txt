@@ -1,0 +1,18 @@
+a person walks forward and stops.
+a person picks up an item with both hands and sets it down somewhere else.
+a person walks forward and stops.
+a person reaches down a little to the right and then reaches down a little to the left.
+a person walks forward and stops.
+a person picks something up from the right and then puts it down on the left.
+a person takes some swift steps forward.
+a person picks up an item with both hands and sets it down somewhere else.
+a person takes some swift steps forward.
+a person reaches down a little to the right and then reaches down a little to the left.
+a person takes some swift steps forward.
+a person picks something up from the right and then puts it down on the left.
+a person is walking forward.
+a person picks up an item with both hands and sets it down somewhere else.
+a person is walking forward.
+a person reaches down a little to the right and then reaches down a little to the left.
+a person is walking forward.
+a person picks something up from the right and then puts it down on the left.

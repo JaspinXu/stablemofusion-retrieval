@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV make/VERB a/DET halfturn/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV walk/VERB forward/ADV again/ADV follow/VERB that/SCONJ a/DET person/NOUN raise/VERB their/PRON arm/NOUN while/SCONJ walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB to/PART lower/VERB their/PRON arm/NOUN 

@@ -1,0 +1,1 @@
+the/DET figure/NOUN do/VERB a/DET jump/VERB about/ADV 2/NUM step/NOUN forward/ADV without/ADP raise/VERB hand/NOUN then/ADV the/DET person/NOUN walk/VERB forward/ADV and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART walk/VERB back/ADV 

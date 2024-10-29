@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN to/ADP the/DET left/ADJ then/ADV three/NUM step/NOUN to/ADP the/DET right/NOUN and/CCONJ finally/ADV take/VERB one/NUM step/NOUN back/ADV to/ADP the/DET left/NOUN while/SCONJ hold/VERB their/PRON back/NOUN because/SCONJ of/ADP a/DET backache/NOUN 

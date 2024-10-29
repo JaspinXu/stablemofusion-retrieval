@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV step/VERB back/ADV once/ADV and/CCONJ subsequently/ADV jump/VERB down/ADP while/SCONJ a/DET man/NOUN be/AUX clap/VERB and/CCONJ make/VERB gesture/NOUN 

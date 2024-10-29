@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV pick/VERB up/ADP something/PRON put/VERB it/PRON down/ADP and/CCONJ then/ADV walk/VERB back/ADV after/SCONJ that/SCONJ the/DET person/NOUN continue/VERB by/ADP walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN 

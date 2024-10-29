@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB to/ADP the/DET right/ADJ pick/VERB up/ADP an/DET item/NOUN in/ADP their/PRON right/ADJ hand/NOUN raise/VERB it/PRON to/ADP the/DET side/NOUN of/ADP their/PRON head/NOUN then/ADV lower/VERB their/PRON hand/NOUN again/ADV and/CCONJ subsequently/ADV another/DET person/NOUN play/VERB a/DET guitar/NOUN with/ADP their/PRON left/ADJ hand/NOUN 

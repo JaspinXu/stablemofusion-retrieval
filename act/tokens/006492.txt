@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN then/ADV take/VERB something/PRON from/ADP one/NUM side/NOUN of/ADP the/DET floor/NOUN and/CCONJ put/VERB it/PRON on/ADP the/DET other/ADJ side/NOUN 

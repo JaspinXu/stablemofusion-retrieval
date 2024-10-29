@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB clockwise/NOUN begin/VERB at/ADP the/DET 9/NUM oclock/NOUN mark/NOUN on/ADP a/DET clock/NOUN until/ADP the/DET 12/NUM oclock/NOUN mark/NOUN and/CCONJ then/ADV a/DET man/NOUN be/AUX play/VERB a/DET violin/NOUN before/ADP stop/VERB 

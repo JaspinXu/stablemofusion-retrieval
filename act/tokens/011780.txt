@@ -1,0 +1,1 @@
+the/DET person/NOUN take/VERB a/DET slow/ADJ walk/NOUN forward/ADV then/ADV the/DET man/NOUN step/VERB forward/ADV lean/VERB his/PRON body/NOUN to/ADP the/DET left/NOUN while/SCONJ rest/VERB on/ADP his/PRON left/ADJ leg/NOUN and/CCONJ subsequently/ADV take/VERB two/NUM step/NOUN backward/ADV 

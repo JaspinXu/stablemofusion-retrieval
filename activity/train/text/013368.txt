@@ -1,0 +1,1 @@
+A stick figure takes a single step to the right, then a person walks a few steps forward and subsequently walks in place.

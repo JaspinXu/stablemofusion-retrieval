@@ -1,0 +1,1 @@
+the/DET figure/NOUN in/ADP the/DET animation/NOUN do/AUX not/PART move/VERB at/ADV all/ADV while/SCONJ a/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN but/CCONJ only/ADV make/VERB it/PRON halfway/ADV 

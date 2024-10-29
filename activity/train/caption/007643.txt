@@ -1,0 +1,18 @@
+a person runs quickly forward and then turns around.
+robot moved from left to right and turned his body towards right.
+a person runs quickly forward and then turns around.
+a person walk from his left hand sidealong the diagonal.
+a person runs quickly forward and then turns around.
+a person walks forward two steps then turns right while walking two more steps before coming to a halt.
+a person runs forward whilst swinging both arms, then they stop and turn clockwise to face the direction they came from.
+robot moved from left to right and turned his body towards right.
+a person runs forward whilst swinging both arms, then they stop and turn clockwise to face the direction they came from.
+a person walk from his left hand sidealong the diagonal.
+a person runs forward whilst swinging both arms, then they stop and turn clockwise to face the direction they came from.
+a person walks forward two steps then turns right while walking two more steps before coming to a halt.
+a person jogging forward.
+robot moved from left to right and turned his body towards right.
+a person jogging forward.
+a person walk from his left hand sidealong the diagonal.
+a person jogging forward.
+a person walks forward two steps then turns right while walking two more steps before coming to a halt.

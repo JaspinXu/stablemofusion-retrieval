@@ -1,0 +1,18 @@
+person is walking wobbling forward.
+the person is jogging around.
+person is walking wobbling forward.
+a person jogs towards the left in a arc pattern, turns and then jogs back.
+person is walking wobbling forward.
+a person runs in a large counterclockwise half circle and then returns to the starting point.
+a person walks forward slowly, then jumps once.
+the person is jogging around.
+a person walks forward slowly, then jumps once.
+a person jogs towards the left in a arc pattern, turns and then jogs back.
+a person walks forward slowly, then jumps once.
+a person runs in a large counterclockwise half circle and then returns to the starting point.
+a man is walking forward and jumps after.
+the person is jogging around.
+a man is walking forward and jumps after.
+a person jogs towards the left in a arc pattern, turns and then jogs back.
+a man is walking forward and jumps after.
+a person runs in a large counterclockwise half circle and then returns to the starting point.

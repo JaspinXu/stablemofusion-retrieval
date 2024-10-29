@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV walk/VERB back/ADV and/CCONJ subsequently/ADV move/VERB counterclockwise/NOUN in/ADP an/DET ovalshape/VERB pattern/NOUN 

@@ -1,0 +1,1 @@
+A person walks clockwise in an oval, then takes a step left, sits down, and subsequently stands back up.

@@ -1,0 +1,1 @@
+the/DET person/NOUN step/VERB forward/ADV with/ADP both/DET arm/NOUN lift/VERB at/ADP the/DET side/NOUN while/SCONJ slightly/ADV bend/VERB forward/ADP then/ADV a/DET man/NOUN walk/VERB in/ADP a/DET shuffled/ADJ gait/NOUN and/CCONJ turn/VERB around/ADP take/VERB several/ADJ step/NOUN back/ADV in/ADP the/DET same/ADJ shuffled/ADJ manner/NOUN 

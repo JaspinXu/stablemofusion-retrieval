@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB two/NUM step/NOUN to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN and/CCONJ right/ADV again/ADV before/ADP move/VERB two/NUM step/NOUN forward/ADV subsequently/ADV he/PRON walk/VERB into/ADP a/DET wall/NOUN and/CCONJ then/ADV turn/VERB around/ADP 

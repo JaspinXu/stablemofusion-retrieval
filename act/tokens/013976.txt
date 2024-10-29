@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN to/ADP the/DET right/NOUN then/ADV turn/VERB sideways/ADV and/CCONJ wave/VERB his/PRON hand/NOUN in/ADP an/DET athletic/ADJ stance/NOUN 

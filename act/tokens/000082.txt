@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV jump/VERB up/ADP and/CCONJ down/ADV three/NUM time/NOUN then/ADV lean/VERB slightly/ADV to/ADP the/DET left/ADJ side/NOUN with/ADP the/DET left/ADJ hand/NOUN while/SCONJ kick/VERB out/ADP with/ADP the/DET right/ADJ foot/NOUN 

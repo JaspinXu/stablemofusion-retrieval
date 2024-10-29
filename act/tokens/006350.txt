@@ -1,0 +1,1 @@
+a/DET person/NOUN bend/VERB down/ADP and/CCONJ touch/VERB the/DET floor/NOUN with/ADP their/PRON right/ADJ hand/NOUN while/SCONJ their/PRON left/ADJ leg/NOUN rise/VERB up/ADP then/ADV the/DET man/NOUN casually/ADV take/VERB 5/NUM step/NOUN up/ADP an/DET invisible/ADJ flight/NOUN of/ADP stair/NOUN 

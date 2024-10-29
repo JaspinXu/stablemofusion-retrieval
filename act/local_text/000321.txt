@@ -1,0 +1,3 @@
+a person walks quickly forward
+a person runs fast in an anti counterclockwise direction
+a person makes a left turn

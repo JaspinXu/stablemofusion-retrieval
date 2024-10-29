@@ -1,0 +1,1 @@
+A person moves forward one step, then rotates and walks forward, next doing jumping jacks.

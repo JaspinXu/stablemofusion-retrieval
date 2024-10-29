@@ -1,0 +1,1 @@
+a/DET person/NOUN slide/VERB an/DET object/NOUN from/ADP their/PRON left/NOUN to/ADP right/ADV then/ADV pick/VERB something/PRON up/ADP from/ADP the/DET right/NOUN to/ADP the/DET left/ADJ 

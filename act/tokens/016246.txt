@@ -1,0 +1,1 @@
+a/DET person/NOUN carefully/ADV walk/VERB diagonally/ADV then/ADV turn/VERB and/CCONJ walk/VERB backwards/ADV after/SCONJ that/SCONJ the/DET person/NOUN walk/VERB forward/ADV to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN and/CCONJ finally/ADV lay/VERB face/NOUN down/ADP on/ADP the/DET ground/NOUN 

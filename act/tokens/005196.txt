@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB forward/ADV then/ADV spin/VERB around/ADP anticlockwise/PROPN on/ADP his/PRON left/ADJ foot/NOUN before/ADP walk/VERB back/ADV to/ADP where/SCONJ he/PRON start/VERB while/SCONJ another/DET person/NOUN stand/VERB still/ADV fold/VERB his/PRON arm/NOUN in/ADP front/NOUN and/CCONJ then/ADV lower/VERB they/PRON to/ADP the/DET side/NOUN 

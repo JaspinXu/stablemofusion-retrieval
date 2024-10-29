@@ -1,0 +1,1 @@
+A person dances moving to their left, then walks backward upleft, crouches down, and finally walks backward again.

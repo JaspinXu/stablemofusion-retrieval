@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP and/CCONJ stand/VERB up/ADP make/VERB a/DET gesture/NOUN with/ADP their/PRON arm/NOUN at/ADP their/PRON side/NOUN then/ADV start/VERB to/PART walk/VERB subsequently/ADV look/VERB at/ADP their/PRON left/ADJ hand/NOUN and/CCONJ turn/VERB their/PRON body/NOUN from/ADP right/ADV to/ADP leave/VERB before/ADP put/VERB it/PRON back/ADV down/ADV 

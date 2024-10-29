@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB and/CCONJ twirl/NOUN counterclockwise/VERB 180/NUM degree/NOUN then/ADV hop/VERB from/ADP one/NUM spot/NOUN to/ADP another/PRON 

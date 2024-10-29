@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV quickly/ADV then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET 90degree/NUM arc/NOUN clockwise/NOUN 

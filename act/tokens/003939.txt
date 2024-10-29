@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB forward/ADV and/CCONJ then/ADV jumps/AUX follow/VERB by/ADP a/DET person/NOUN who/PRON start/VERB to/PART run/VERB after/ADP a/DET few/ADJ step/NOUN they/PRON jump/VERB a/DET short/ADJ distance/NOUN before/ADP walk/VERB again/ADV 

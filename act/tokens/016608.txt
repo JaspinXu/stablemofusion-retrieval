@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET drink/NOUN with/ADP one/NUM hand/NOUN and/CCONJ then/ADV smoke/VERB with/ADP the/DET other/ADJ hand/NOUN afterward/ADV the/DET person/NOUN do/VERB situp/NOUN 

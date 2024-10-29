@@ -1,0 +1,1 @@
+a/DET person/NOUN go/VERB from/ADP be/AUX on/ADP one/NUM knee/NOUN to/ADP two/NUM and/CCONJ put/VERB their/PRON hand/NOUN together/ADV and/CCONJ then/ADV walk/VERB slowly/ADV from/ADP the/DET upper/ADJ right/NOUN to/ADP the/DET bottom/NOUN leave/VERB use/VERB handrail/NOUN to/PART steady/VERB their/PRON step/NOUN 

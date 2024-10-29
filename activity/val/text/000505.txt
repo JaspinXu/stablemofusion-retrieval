@@ -1,0 +1,1 @@
+A person walks forward, then turns to their right and continues to walk, subsequently walking to his right.

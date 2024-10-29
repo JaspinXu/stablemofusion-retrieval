@@ -1,0 +1,1 @@
+A person walks forward, then turns to walk to the left, subsequently taking one step forward before appearing to walk up five additional steps in the same direction.

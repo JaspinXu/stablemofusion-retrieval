@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB and/CCONJ rotate/VERB 90/NUM degree/NOUN to/ADP the/DET right/ADJ then/ADV a/DET person/NOUN shake/VERB out/ADP their/PRON arm/NOUN and/CCONJ shoulder/NOUN while/SCONJ keep/VERB their/PRON hand/NOUN at/ADP their/PRON side/NOUN 

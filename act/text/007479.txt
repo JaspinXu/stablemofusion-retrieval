@@ -1,0 +1,1 @@
+A person slowly walks forward, then walks several steps, turns, and subsequently walks backwards several steps.

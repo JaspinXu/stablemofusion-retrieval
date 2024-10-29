@@ -1,0 +1,1 @@
+A person shifts to the left, then right, before stepping backwards; subsequently, they turn around and walk forward oddly, before turning around again.

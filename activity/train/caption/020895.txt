@@ -1,0 +1,4 @@
+the stick figure walks 2 steps forward, turns left, starts walking forward again and curves to the right. ends up making a question mark pattern with his walk.
+a person paces a room nervously.
+the stick figure walks 2 steps forward, turns left, starts walking forward again and curves to the right. ends up making a question mark pattern with his walk.
+a person takes a few steps forward, turns to their left, walks  and turns to their right, walks in a clockwise circle, and starts walking back to their starting point.

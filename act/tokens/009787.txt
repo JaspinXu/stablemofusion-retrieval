@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP after/SCONJ that/PRON he/PRON stand/VERB up/ADP and/CCONJ walk/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN subsequently/ADV the/DET man/NOUN step/VERB forward/ADV two/NUM step/NOUN swing/NOUN around/ADV and/CCONJ also/ADV walk/VERB back/ADV 

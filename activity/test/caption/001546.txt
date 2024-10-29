@@ -1,0 +1,18 @@
+person is running in place and then stands still
+a person walks forward then turns to the right.
+person is running in place and then stands still
+person walks forward and to the left
+person is running in place and then stands still
+a person who walked in a turn to their left
+person is jogging in place.
+a person walks forward then turns to the right.
+person is jogging in place.
+person walks forward and to the left
+person is jogging in place.
+a person who walked in a turn to their left
+a man is running in place.
+a person walks forward then turns to the right.
+a man is running in place.
+person walks forward and to the left
+a man is running in place.
+a person who walked in a turn to their left

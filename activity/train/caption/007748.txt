@@ -1,0 +1,4 @@
+person is walking and veering left
+a person walks forward, stepping over some object on the ground.
+person is walking and veering left
+person seems angry while walking forward.

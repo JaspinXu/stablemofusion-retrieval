@@ -1,0 +1,12 @@
+a person stands still then takes one step forward
+a person walks towards the camera and then pivots on their right foot to go towards the back.
+a person stands still then takes one step forward
+the person walks forward, turns to their left, and walks back.
+a person stands still then takes one step forward
+walks forward in the opposite direction of camera.
+a person takes a small step forward
+a person walks towards the camera and then pivots on their right foot to go towards the back.
+a person takes a small step forward
+the person walks forward, turns to their left, and walks back.
+a person takes a small step forward
+walks forward in the opposite direction of camera.

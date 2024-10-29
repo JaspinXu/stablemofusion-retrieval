@@ -1,0 +1,18 @@
+a person runs forward quickly
+person walks while veering left
+a person runs forward quickly
+a person walks in a half circle
+a person runs forward quickly
+a person walks in a left diagonal then stops.
+a person running across a room
+person walks while veering left
+a person running across a room
+a person walks in a half circle
+a person running across a room
+a person walks in a left diagonal then stops.
+a person who stands with his arms by his sides runs forward four steps and stops.
+person walks while veering left
+a person who stands with his arms by his sides runs forward four steps and stops.
+a person walks in a half circle
+a person who stands with his arms by his sides runs forward four steps and stops.
+a person walks in a left diagonal then stops.

@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX wipe/VERB the/DET table/NOUN with/ADP the/DET left/ADJ hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV touch/VERB their/PRON head/NOUN with/ADP one/NUM hand/NOUN after/ADP another/PRON 

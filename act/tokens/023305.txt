@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX clean/VERB the/DET floor/NOUN by/ADP sweep/VERB mopping/NOUN or/CCONJ use/VERB a/DET vacuum/NOUN cleaner/NOUN then/ADV walk/VERB forward/ADV pause/NOUN and/CCONJ step/NOUN backwards/ADV 

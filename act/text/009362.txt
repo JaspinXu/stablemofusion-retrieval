@@ -1,0 +1,1 @@
+A person quickly jumps laterally to the left, then walks forward, turns to the left, and continues walking.

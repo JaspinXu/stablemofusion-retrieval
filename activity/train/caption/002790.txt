@@ -1,0 +1,12 @@
+walks forward directly and stops
+a person walks backwards swinging his or her arms.
+walks forward directly and stops
+person is walking ahead.
+a person walks around to the left.
+a person walks backwards swinging his or her arms.
+a person walks around to the left.
+person is walking ahead.
+a person walks diagonally across the room
+a person walks backwards swinging his or her arms.
+a person walks diagonally across the room
+person is walking ahead.

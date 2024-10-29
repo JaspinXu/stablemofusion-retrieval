@@ -1,0 +1,1 @@
+A person begins walking in a straight line, then walks diagonally to his left, turns around, and walks halfway in the opposite direction.

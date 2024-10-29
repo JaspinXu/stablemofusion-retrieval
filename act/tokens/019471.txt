@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB around/ADP the/DET room/NOUN in/ADP a/DET circle/NOUN then/ADV start/VERB push/VERB an/DET object/NOUN with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ carry/VERB it/PRON on/ADP their/PRON back/NOUN while/SCONJ walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN 

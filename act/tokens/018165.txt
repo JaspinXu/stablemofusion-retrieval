@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET zigzag/NOUN pattern/NOUN then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN and/CCONJ subsequently/ADV jump/VERB back/ADV 

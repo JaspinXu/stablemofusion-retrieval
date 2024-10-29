@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB with/ADP a/DET normal/ADJ distance/NOUN between/ADP his/PRON foot/NOUN then/ADV step/VERB forward/ADV a/DET great/ADJ distance/NOUN to/PART step/VERB over/ADP something/PRON and/CCONJ afterward/ADV he/PRON continue/VERB by/ADP walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN 

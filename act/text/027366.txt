@@ -1,0 +1,1 @@
+The sim is walking with both hands on a hand rail, next walking through a hallway while grabbing the rail again with both hands, and then a person walks while touching something with his left hand.

@@ -1,0 +1,18 @@
+a person takes a few steps forward.
+the person is running in place in all directions.
+a person takes a few steps forward.
+walking in place while moving arms.
+a person takes a few steps forward.
+a person marches forward, makes a full turn around while still marching, faces forward and continues marching.
+the man steps forward 4 steps starting with his left foot.
+the person is running in place in all directions.
+the man steps forward 4 steps starting with his left foot.
+walking in place while moving arms.
+the man steps forward 4 steps starting with his left foot.
+a person marches forward, makes a full turn around while still marching, faces forward and continues marching.
+the person is walking straight forward.
+the person is running in place in all directions.
+the person is walking straight forward.
+walking in place while moving arms.
+the person is walking straight forward.
+a person marches forward, makes a full turn around while still marching, faces forward and continues marching.

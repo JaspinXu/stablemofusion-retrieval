@@ -1,0 +1,1 @@
+a/DET person/NOUN carefully/ADV walk/VERB backwards/ADV in/ADP a/DET counterclockwise/NOUN motion/NOUN then/ADV run/VERB carefully/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN stop/NOUN and/CCONJ subsequently/ADV turn/VERB around/ADP to/PART run/VERB again/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB up/ADP and/CCONJ then/ADV turn/VERB around/ADV before/ADP step/VERB down/ADP while/SCONJ a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN direction/NOUN maintain/VERB a/DET seemingly/ADV normal/ADJ stance/NOUN 

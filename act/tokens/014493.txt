@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB clockwise/NOUN then/ADV rotate/VERB clockwise/NOUN again/ADV at/ADP 90/NUM degree/NOUN and/CCONJ follow/VERB that/SCONJ with/ADP a/DET counterclockwise/NOUN circle/NOUN while/SCONJ stand/VERB still/ADV and/CCONJ slightly/ADV sway/VERB their/PRON right/NOUN and/CCONJ leave/VERB arm/NOUN 

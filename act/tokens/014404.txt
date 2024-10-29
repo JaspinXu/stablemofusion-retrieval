@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB on/ADP one/NUM foot/NOUN then/ADV alternate/VERB and/CCONJ hop/VERB on/ADP the/DET other/ADJ foot/NOUN follow/VERB that/SCONJ the/DET person/NOUN open/VERB a/DET drawer/NOUN and/CCONJ put/VERB something/PRON in/ADP it/PRON 

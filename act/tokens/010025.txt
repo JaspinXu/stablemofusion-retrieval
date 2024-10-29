@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB while/SCONJ make/VERB a/DET left/ADJ turn/NOUN and/CCONJ then/ADV walk/VERB backward/ADV along/ADP a/DET straight/ADJ path/NOUN 

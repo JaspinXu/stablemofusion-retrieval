@@ -1,0 +1,1 @@
+A person shuffles to their right, then turns clockwise and shuffles back to the beginning position, acting like a human monkey throughout the movements.

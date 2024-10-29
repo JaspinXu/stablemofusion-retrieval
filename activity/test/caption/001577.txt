@@ -1,0 +1,6 @@
+a figure does a standing sprint
+a person is crouched and stands then resumes the crouched position.
+a person that is running in place.
+a person is crouched and stands then resumes the crouched position.
+the person is running in place.
+a person is crouched and stands then resumes the crouched position.

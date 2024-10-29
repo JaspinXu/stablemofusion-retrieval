@@ -1,0 +1,1 @@
+A person moves backward, then moves forward, subsequently jogs forward at a medium pace, and finally jumps.

@@ -1,0 +1,1 @@
+A figure starts jogging in place, then turns to the left and jogs to the wall. After that, the figure turns around and jogs to the other wall, subsequently jogging back to the middle while facing the initial direction. Following that, the person takes a few steps forward and raises their hand to face level to either say hello to someone or salute them.

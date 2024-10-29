@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ kneel/NOUN down/ADV then/ADV stand/VERB up/ADP again/ADV turn/VERB around/ADV and/CCONJ walk/VERB forward/ADV but/CCONJ stumble/VERB meanwhile/ADV a/DET robot/NOUN be/AUX try/VERB hard/ADV to/PART sit/VERB with/ADP its/PRON leg/NOUN cross/VERB and/CCONJ subsequently/ADV stand/VERB up/ADP 

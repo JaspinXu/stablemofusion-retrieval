@@ -1,0 +1,1 @@
+A person walks forward slowly on a zig-zag trajectory, then reaches down and picks something up with their right hand, places it somewhere else, and steps back again.

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ take/VERB it/PRON to/ADP his/PRON left/ADJ side/NOUN then/ADV put/VERB it/PRON back/ADV again/ADV follow/VERB that/SCONJ he/PRON take/VERB a/DET few/ADJ step/NOUN up/ADP the/DET stair/NOUN slowly/ADV whilst/SCONJ lean/VERB on/ADP a/DET rail/NOUN on/ADP his/PRON left/ADJ 

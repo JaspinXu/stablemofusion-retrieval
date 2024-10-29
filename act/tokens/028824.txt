@@ -1,0 +1,1 @@
+a/DET person/NOUN pace/VERB from/ADP left/ADJ to/ADP right/NOUN and/CCONJ then/ADV lift/VERB their/PRON arm/NOUN up/ADP to/ADP waist/NOUN level/NOUN subsequently/ADV twist/VERB to/ADP the/DET red/ADJ side/NOUN and/CCONJ then/ADV the/DET right/ADJ side/NOUN at/ADP waist/NOUN level/NOUN 

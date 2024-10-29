@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN downward/NOUN put/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ and/CCONJ then/ADV continue/VERB to/PART walk/VERB forward/ADV and/CCONJ down/ADP a/DET hill/NOUN 

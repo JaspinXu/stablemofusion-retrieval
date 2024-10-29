@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB then/ADV turn/VERB right/ADJ and/CCONJ after/ADP that/PRON a/DET person/NOUN walk/VERB forward/ADV quickly/ADV shuffle/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV walk/VERB back/ADV to/ADP the/DET right/NOUN 

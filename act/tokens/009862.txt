@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV break/VERB into/ADP a/DET run/VERB jump/NOUN land/NOUN and/CCONJ subsequently/ADV continue/VERB to/PART walk/VERB forward/ADV until/SCONJ they/PRON stand/VERB as/ADV far/ADV as/ADP possible/ADJ within/ADP the/DET rectangle/NOUN 

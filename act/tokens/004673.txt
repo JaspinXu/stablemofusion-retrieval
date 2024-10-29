@@ -1,0 +1,1 @@
+the/DET man/NOUN first/ADV begin/VERB at/ADP the/DET top/NOUN of/ADP the/DET grey/ADJ square/NOUN then/ADV he/PRON step/VERB forward/ADV with/ADP his/PRON right/ADJ foot/NOUN lead/VERB walk/VERB five/NUM step/NOUN and/CCONJ end/VERB with/ADP his/PRON right/ADJ foot/NOUN at/ADP the/DET bottom/NOUN of/ADP the/DET grey/PROPN square/PROPN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET medium/ADJ speed/NOUN while/SCONJ simultaneously/ADV move/VERB both/CCONJ their/PRON forearm/NOUN in/ADP opposite/ADJ circle/NOUN with/ADP the/DET right/ADJ hand/NOUN go/VERB clockwise/NOUN and/CCONJ the/DET left/ADJ hand/NOUN counterclockwise/NOUN 

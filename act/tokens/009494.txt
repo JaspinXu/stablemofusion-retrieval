@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ take/VERB a/DET wide/ADJ step/NOUN to/ADP the/DET left/NOUN then/ADV a/DET wide/ADJ step/NOUN to/ADP the/DET right/ADJ after/SCONJ that/PRON a/DET man/NOUN raise/VERB both/DET arm/NOUN and/CCONJ subsequently/ADV kneel/VERB down/ADV 

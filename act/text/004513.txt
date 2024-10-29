@@ -1,0 +1,1 @@
+A person standing still moves back one step, then begins walking at a normal pace.

@@ -1,0 +1,1 @@
+a/DET man/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV run/VERB to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV run/VERB back/ADV to/ADP the/DET left/NOUN again/ADV before/ADP come/VERB to/ADP a/DET stop/NOUN in/ADP the/DET middle/NOUN after/SCONJ that/PRON he/PRON walk/VERB and/CCONJ bounce/VERB a/DET ball/NOUN 

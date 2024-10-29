@@ -1,0 +1,1 @@
+A figure walks forward, then spins on their heel to walk back; however, the figure in the animation did not move at all.

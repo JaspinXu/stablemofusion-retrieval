@@ -1,0 +1,1 @@
+a/DET man/NOUN punch/VERB the/DET air/NOUN at/ADP chin/PROPN height/NOUN with/ADP his/PRON left/ADJ arm/NOUN while/SCONJ keep/VERB his/PRON right/ADJ arm/NOUN at/ADP his/PRON side/NOUN then/ADV he/PRON cross/VERB and/CCONJ lower/VERB his/PRON arm/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET natural/ADJ gait/NOUN then/ADV take/VERB one/NUM long/ADJ step/NOUN with/ADP the/DET left/ADJ leg/NOUN next/ADJ kick/VERB a/DET ball/NOUN with/ADP their/PRON left/ADJ leg/NOUN and/CCONJ let/VERB their/PRON arm/NOUN swing/VERB around/ADV as/SCONJ they/PRON regain/VERB their/PRON balance/NOUN 

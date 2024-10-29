@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX do/VERB one/NUM leg/NOUN loose/ADJ then/ADV a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET counterclockwise/NOUN semicircle/NOUN 

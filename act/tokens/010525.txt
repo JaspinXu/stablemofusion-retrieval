@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN next/ADJ move/NOUN backwards/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV continue/VERB to/PART walk/VERB forward/ADV slowly/ADV 

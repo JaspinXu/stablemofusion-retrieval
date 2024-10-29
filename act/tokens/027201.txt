@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP a/DET position/NOUN on/ADP his/PRON right/NOUN to/ADP a/DET position/NOUN on/ADP his/PRON left/NOUN then/ADV walk/VERB backwards/ADV 

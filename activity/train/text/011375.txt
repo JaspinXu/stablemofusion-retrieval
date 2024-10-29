@@ -1,0 +1,1 @@
+A stick figure stumbles around back and forth, then walks forward, but afterward gets startled and stumbles backward.

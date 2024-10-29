@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ until/SCONJ he/PRON lose/VERB his/PRON balance/NOUN and/CCONJ tilt/NOUN far/ADV to/ADP the/DET right/NOUN then/ADV stumble/VERB to/ADP his/PRON right/NOUN all/PRON while/SCONJ walk/VERB very/ADV fast/ADV 

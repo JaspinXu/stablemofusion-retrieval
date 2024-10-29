@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB still/ADV be/AUX push/VERB to/ADP the/DET left/NOUN from/ADP the/DET right/NOUN then/ADV take/VERB one/NUM step/NOUN before/ADP stop/VERB follow/VERB that/SCONJ the/DET person/NOUN pick/VERB up/ADP an/DET item/NOUN and/CCONJ place/VERB it/PRON to/ADP the/DET left/ADJ 

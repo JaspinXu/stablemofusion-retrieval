@@ -1,0 +1,1 @@
+A man walks from side to side, and then the sim appears to run and step, performing a side jump over an object.

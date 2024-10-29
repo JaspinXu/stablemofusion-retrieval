@@ -1,0 +1,1 @@
+A person jogs clockwise in a circle, then stands with arms out from his sides. Following that, he turns and runs to his right, does a 180-degree turn, runs to his left, performs another 180-degree turn, runs to his right, executes yet another 180-degree turn, and finally runs to his left before stopping mid-way and resuming his standing position.

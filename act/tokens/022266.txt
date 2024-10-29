@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX make/VERB dough/NOUN with/ADP his/PRON hand/NOUN then/ADV run/VERB use/VERB short/ADJ stride/NOUN first/ADJ clockwise/NOUN from/ADP 9/NUM oclock/NOUN to/ADP 12/NUM oclock/NOUN and/CCONJ then/ADV forward/ADV and/CCONJ finally/ADV counterclockwise/VERB from/ADP 6/NUM oclock/NOUN to/ADP 10/NUM oclock/NOUN 

@@ -1,0 +1,1 @@
+The sim walks a couple steps forward before turning around, leading with their right foot and walking back to the opposite side of the plane, then proceeds to move forward left with arms up, followed by back right with arms down.

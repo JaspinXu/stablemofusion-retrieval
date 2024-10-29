@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM big/ADJ step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV start/VERB do/VERB a/DET dance/NOUN 

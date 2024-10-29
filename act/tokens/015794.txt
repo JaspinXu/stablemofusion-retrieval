@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP an/DET object/NOUN tilt/VERB it/PRON on/ADP its/PRON side/NOUN and/CCONJ then/ADV return/VERB it/PRON to/ADP its/PRON starting/NOUN position/NOUN follow/VERB that/SCONJ the/DET person/NOUN be/AUX walk/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV jog/VERB to/ADP the/DET right/NOUN 

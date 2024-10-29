@@ -1,0 +1,1 @@
+A person walks forward, then turns left and continues to walk forward, subsequently appearing to walk ahead.

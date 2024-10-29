@@ -1,0 +1,1 @@
+The sim appears to grab an object with both hands before replacing the object to their right side; then, the person, fixated in a squatting position, raises their arms up twice and holds them there.

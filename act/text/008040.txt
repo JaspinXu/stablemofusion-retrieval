@@ -1,0 +1,1 @@
+Someone is hopping forward, then the figure, facing forward, takes two steps in that direction; after that, it turns left and takes an additional two steps.

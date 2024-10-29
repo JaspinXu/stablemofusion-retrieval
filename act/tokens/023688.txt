@@ -1,0 +1,1 @@
+the/DET man/NOUN dance/VERB the/DET waltz/NOUN then/ADV a/DET person/NOUN strut/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN swinge/VERB their/PRON hip/NOUN from/ADP side/NOUN to/PART side/VERB 

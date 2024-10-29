@@ -1,0 +1,1 @@
+A person walks forward, then proceeds to turn around and walk back to where he started, after that, he walks to the left and then moves diagonally from the top left to the bottom right.

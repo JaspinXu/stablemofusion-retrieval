@@ -1,0 +1,1 @@
+A person walks forward, then spins on their left foot and walks back to where they came from. Following that, they walk straight, turn around, and walk back again.

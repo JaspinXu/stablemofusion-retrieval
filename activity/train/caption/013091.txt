@@ -1,0 +1,6 @@
+person walks forwards, uses left hand to move objects around, then walks backwards again. appears to be combining items together, like making a sandwich
+a person walks zig zag forwards then to their right.
+a person walks forward, picks something up with the right hand, then walks backwards to original position.
+a person walks zig zag forwards then to their right.
+a person takes two steps forward, picks up something, and then takes two steps backwards.
+a person walks zig zag forwards then to their right.

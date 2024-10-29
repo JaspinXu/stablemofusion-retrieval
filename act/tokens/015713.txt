@@ -1,0 +1,1 @@
+a/DET person/NOUN go/VERB down/ADP to/ADP the/DET ground/NOUN and/CCONJ crawl/VERB back/ADV and/CCONJ forth/ADV then/ADV move/VERB sideways/ADV to/ADP the/DET left/NOUN with/ADP the/DET right/ADJ foot/NOUN step/VERB over/ADP the/DET left/ADJ foot/NOUN subsequently/ADV reverse/VERB direction/NOUN with/ADP the/DET left/ADJ foot/NOUN step/VERB over/ADP the/DET right/NOUN 

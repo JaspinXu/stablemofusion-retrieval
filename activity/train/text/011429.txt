@@ -1,0 +1,1 @@
+This man is walking counter-clockwise in a circle, then he walks forward, takes a step back with his right foot, and subsequently walks forward again.

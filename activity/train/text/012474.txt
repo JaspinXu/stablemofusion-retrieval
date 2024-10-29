@@ -1,0 +1,1 @@
+A person moves an object from the left position to the right and then tilts it on its side, subsequently moving their hands back and forth.

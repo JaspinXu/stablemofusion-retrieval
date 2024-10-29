@@ -1,0 +1,1 @@
+a/DET person/NOUN kick/VERB forward/ADV one/NUM time/NOUN then/ADV slowly/ADV move/VERB in/ADP the/DET left/ADJ direction/NOUN 

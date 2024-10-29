@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB subsequently/ADV a/DET person/NOUN also/ADV walk/VERB forward/ADV stop/NOUN and/CCONJ then/ADV lift/VERB both/DET arm/NOUN up/ADP a/DET little/ADJ 

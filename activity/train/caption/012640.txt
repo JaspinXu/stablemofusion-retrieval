@@ -1,0 +1,18 @@
+a person walks forward in a slow staggered pattern.
+a person jogs to his right, then left
+a person walks forward in a slow staggered pattern.
+a person jogs slowly to his right, pivots and jogs to his left, pivots and jogs to his right, back to where he started.
+a person walks forward in a slow staggered pattern.
+a person turns to their right and jogs, then pivots and jogs the other way, then pivots one more time.
+person moves forward drunkedly very slow eight steps
+a person jogs to his right, then left
+person moves forward drunkedly very slow eight steps
+a person jogs slowly to his right, pivots and jogs to his left, pivots and jogs to his right, back to where he started.
+person moves forward drunkedly very slow eight steps
+a person turns to their right and jogs, then pivots and jogs the other way, then pivots one more time.
+a person who is standing with his hands by his sides moves forward cautiously as he appears to be stepping around things.
+a person jogs to his right, then left
+a person who is standing with his hands by his sides moves forward cautiously as he appears to be stepping around things.
+a person jogs slowly to his right, pivots and jogs to his left, pivots and jogs to his right, back to where he started.
+a person who is standing with his hands by his sides moves forward cautiously as he appears to be stepping around things.
+a person turns to their right and jogs, then pivots and jogs the other way, then pivots one more time.

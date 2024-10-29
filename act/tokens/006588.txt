@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP a/DET surface/NOUN from/ADP their/PRON left/NOUN to/ADP their/PRON right/NOUN then/ADV use/VERB their/PRON hand/NOUN to/PART far/ADV maneuver/VERB the/DET object/NOUN in/ADP that/DET same/ADJ direction/NOUN 

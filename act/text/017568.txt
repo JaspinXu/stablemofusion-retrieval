@@ -1,0 +1,1 @@
+A person walks forward, slowly pivots on their leg, then takes quick steps forward. Following that, a man begins to walk, stepping off on his right foot and moving forward before crossing his left foot over his right to change direction. He continues this process, changing direction until he completes a figure 8 and ends at his starting location.

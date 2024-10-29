@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB to/ADP the/DET side/NOUN and/CCONJ wave/NOUN then/ADV perform/VERB a/DET 360/NUM jump/NOUN turn/NOUN clockwise/NOUN 

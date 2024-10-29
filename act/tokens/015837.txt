@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN with/ADP very/ADV twitchy/ADJ arm/NOUN then/ADV jump/VERB up/ADP and/CCONJ be/AUX push/VERB 

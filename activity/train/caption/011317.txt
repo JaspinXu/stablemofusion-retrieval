@@ -1,0 +1,2 @@
+a person walks forward starting with right foot ant walks two steps forward and stops.
+a person moves shoo's something away.

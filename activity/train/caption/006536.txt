@@ -1,0 +1,18 @@
+someone walks diagonally forward several steps.
+a man walks forward turns around clockwise and walks back.
+someone walks diagonally forward several steps.
+a person walks forwards, pivots on their right foot and swings back around to walk back in the opposite direction
+someone walks diagonally forward several steps.
+person is walking the other way.
+person is taking a walk.
+a man walks forward turns around clockwise and walks back.
+person is taking a walk.
+a person walks forwards, pivots on their right foot and swings back around to walk back in the opposite direction
+person is taking a walk.
+person is walking the other way.
+person walks diagonally on the screen
+a man walks forward turns around clockwise and walks back.
+person walks diagonally on the screen
+a person walks forwards, pivots on their right foot and swings back around to walk back in the opposite direction
+person walks diagonally on the screen
+person is walking the other way.

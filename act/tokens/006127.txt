@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET clockwise/NOUN semicircle/NOUN then/ADV continue/VERB by/ADP walk/VERB in/ADP a/DET straight/ADJ line/NOUN 

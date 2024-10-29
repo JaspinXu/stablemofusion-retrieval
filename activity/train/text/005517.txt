@@ -1,0 +1,1 @@
+A person is jumping on the same spot, then they are pushed slightly and recover.

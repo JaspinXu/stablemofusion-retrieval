@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB two/NUM step/NOUN forward/ADV then/ADV move/VERB backwards/ADV in/ADP a/DET semicircle/NOUN and/CCONJ subsequently/ADV start/VERB run/VERB while/SCONJ a/DET person/NOUN raise/VERB both/CCONJ hand/NOUN and/CCONJ shake/VERB they/PRON quickly/ADV 

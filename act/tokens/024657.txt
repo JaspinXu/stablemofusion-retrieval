@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB to/ADP the/DET left/NOUN and/CCONJ step/NOUN over/ADP an/DET object/NOUN then/ADV the/DET person/NOUN be/AUX push/VERB to/ADP the/DET right/NOUN but/CCONJ do/AUX not/PART fall/VERB 

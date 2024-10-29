@@ -1,0 +1,1 @@
+A robot is standing, then stretches its right arm and moves it in an anti-counterclockwise direction. Following that, a man lifts and bends his right arm in front of him and rotates it counterclockwise in a stirring motion.

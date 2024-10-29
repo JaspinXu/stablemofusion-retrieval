@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB 4/NUM pace/NOUN forward/ADV then/ADV wipe/VERB his/PRON foot/NOUN on/ADP the/DET ground/NOUN subsequently/ADV a/DET person/NOUN turn/VERB their/PRON left/ADJ palm/NOUN upwards/ADV lift/VERB it/PRON toward/ADP their/PRON face/NOUN and/CCONJ then/ADV drop/VERB it/PRON back/ADV down/ADP again/ADV 

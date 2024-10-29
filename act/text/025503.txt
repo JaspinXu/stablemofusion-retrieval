@@ -1,0 +1,1 @@
+A person gestures to the ground, then to the left, and then back to the ground, after that walks left and turns around to walk back.

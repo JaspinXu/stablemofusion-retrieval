@@ -1,0 +1,1 @@
+a/DET person/NOUN drive/VERB a/DET car/NOUN and/CCONJ then/ADV slowly/ADV walk/VERB forward/ADV 

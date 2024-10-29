@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV in/ADP an/DET s/PROPN pattern/NOUN before/ADP stop/VERB then/ADV a/DET person/NOUN wave/VERB back/ADV and/CCONJ forth/ADV 

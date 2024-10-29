@@ -1,0 +1,1 @@
+a/DET person/NOUN sidestep/VERB four/NUM time/NOUN to/ADP their/PRON left/NOUN then/ADV sidestep/VERB four/NUM time/NOUN to/ADP their/PRON right/ADJ after/SCONJ that/PRON the/DET person/NOUN walk/VERB to/ADP the/DET end/NOUN of/ADP the/DET area/NOUN and/CCONJ then/ADV return/VERB halfway/ADV 

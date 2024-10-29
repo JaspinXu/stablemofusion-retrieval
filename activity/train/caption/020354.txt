@@ -1,0 +1,6 @@
+a person walks forward slowly.
+the sim walks in a loop fashion from one side of the plane to the other before turning around.
+a person walks slowly forward 8 paces in a lumbering fashion.
+the sim walks in a loop fashion from one side of the plane to the other before turning around.
+a person walks slowly forward
+the sim walks in a loop fashion from one side of the plane to the other before turning around.

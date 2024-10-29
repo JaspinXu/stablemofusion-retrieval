@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET backward/ADJ motion/NOUN then/ADV take/VERB three/NUM sidestep/NOUN to/ADP the/DET left/NOUN follow/VERB by/ADP three/NUM sidestep/NOUN to/ADP the/DET right/NOUN and/CCONJ finish/VERB with/ADP a/DET small/ADJ step/NOUN back/ADV 

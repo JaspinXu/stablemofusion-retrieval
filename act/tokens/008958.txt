@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP a/DET ramp/NOUN with/ADP a/DET slight/ADJ limp/NOUN on/ADP the/DET red/ADJ color/VERB leg/NOUN dodge/VERB a/DET pothole/NOUN by/ADP step/VERB over/ADP it/PRON while/SCONJ their/PRON arm/NOUN swing/VERB back/ADV and/CCONJ forth/ADV follow/VERB that/SCONJ the/DET man/NOUN begin/VERB to/PART walk/VERB backward/ADV 

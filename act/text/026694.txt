@@ -1,0 +1,1 @@
+A stick figure walks diagonally, then stands still. Next, the soccer player kicks the ball.

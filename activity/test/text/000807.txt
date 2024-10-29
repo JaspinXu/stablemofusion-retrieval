@@ -1,0 +1,1 @@
+A person moves backwards then forwards, then jumps. Meanwhile, a runner starts his course and then stops.

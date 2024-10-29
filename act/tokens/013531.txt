@@ -1,0 +1,1 @@
+the/DET man/NOUN dance/VERB a/DET box/NOUN step/NOUN twice/ADV and/CCONJ then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ clockwise/NOUN circle/NOUN before/ADP stand/VERB in/ADP the/DET same/ADJ area/NOUN where/SCONJ he/PRON start/VERB walk/VERB 

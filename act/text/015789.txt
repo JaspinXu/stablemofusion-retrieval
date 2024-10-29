@@ -1,0 +1,1 @@
+A person picks up an object and turns their body to the left, then takes the object and puts it down. Following that, the person continues walking around.

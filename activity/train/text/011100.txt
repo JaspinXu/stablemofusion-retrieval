@@ -1,0 +1,1 @@
+A person walks forward and then is pushed, causing them to walk faster. After that, they stop walking and stand in one place, followed by stepping both forward and backwards in a figure eight pattern while moving their arms.

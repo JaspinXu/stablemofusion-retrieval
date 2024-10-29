@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV perform/VERB a/DET 180degree/PROPN counterclockwise/NOUN spin/NOUN and/CCONJ subsequently/ADV walk/VERB back/ADV to/ADP the/DET starting/NOUN position/NOUN follow/VERB that/SCONJ they/PRON take/VERB a/DET step/NOUN forward/ADV and/CCONJ then/ADV turn/VERB to/PART walk/VERB to/ADP their/PRON right/NOUN 

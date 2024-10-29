@@ -1,0 +1,1 @@
+A stick figure takes a few steps forward at a medium speed and then sits down.

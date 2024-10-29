@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX lay/VERB splay/VERB facedown/ADJ on/ADP the/DET ground/NOUN then/ADV push/VERB himself/PRON backward/ADV across/ADP the/DET surface/NOUN after/SCONJ that/PRON he/PRON side/VERB step/NOUN to/ADP the/DET left/NOUN follow/VERB by/ADP side/NOUN step/VERB to/ADP the/DET right/NOUN and/CCONJ then/ADV return/VERB back/ADV to/ADP the/DET left/ADJ 

@@ -1,0 +1,2 @@
+stick figure moved in a counter counterclockwise motion
+a person walks forward, turns 90 degrees to their right, walks forward again and takes a large step up onto something

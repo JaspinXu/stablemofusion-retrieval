@@ -1,0 +1,1 @@
+A person lifts an item, then puts it down, subsequently walks in a straight line, turns about completely, and walks in another straight line.

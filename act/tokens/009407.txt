@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX take/VERB off/ADP their/PRON shirt/NOUN then/ADV raise/VERB both/DET hand/NOUN to/PART chestlevel/VERB and/CCONJ make/VERB two/NUM circular/ADJ motion/NOUN with/ADP the/DET right/ADJ hand/NOUN go/VERB counterclockwise/NOUN and/CCONJ the/DET left/ADJ hand/NOUN go/VERB clockwise/NOUN 

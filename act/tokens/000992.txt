@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB up/ADP in/ADP place/NOUN from/ADP two/NUM foot/NOUN onto/ADP two/NUM foot/NOUN then/ADV slowly/ADV sit/VERB down/ADP 

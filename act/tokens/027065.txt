@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB toward/ADP a/DET rightbranch/NOUN in/ADP a/DET smooth/ADJ curve/NOUN and/CCONJ then/ADV stop/VERB while/SCONJ both/DET arm/NOUN swing/VERB very/ADV slightly/ADV subsequently/ADV a/DET man/NOUN walk/VERB forward/ADV briskly/ADV with/ADP his/PRON arm/NOUN sway/VERB at/ADP his/PRON side/NOUN 

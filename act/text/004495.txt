@@ -1,0 +1,1 @@
+Someone is walking diagonally across the screen, then the same person walks forward straight on the screen.

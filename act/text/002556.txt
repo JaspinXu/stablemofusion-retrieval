@@ -1,0 +1,1 @@
+A figure is standing, then turns to look left and raises their left arm perpendicular to the ground. After that, the figure looks right and raises their right arm perpendicular to the ground, subsequently walking in place.

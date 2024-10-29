@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB at/ADP a/DET quick/ADJ pace/NOUN forward/ADV then/ADV turn/VERB to/PART walk/VERB back/ADV at/ADP the/DET same/ADJ quick/ADJ pace/NOUN follow/VERB by/ADP take/VERB small/ADJ step/NOUN while/SCONJ move/VERB in/ADP a/DET crouch/VERB position/NOUN 

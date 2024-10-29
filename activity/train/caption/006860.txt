@@ -1,0 +1,18 @@
+a person walks backwards slowly.
+a person walks forward and turns to their left.
+a person walks backwards slowly.
+a person walks forward and then turns to their left side.
+a person walks backwards slowly.
+a person walks up toward the left side.
+a man takes two staggering steps backwards, then ends in a standing position.
+a person walks forward and turns to their left.
+a man takes two staggering steps backwards, then ends in a standing position.
+a person walks forward and then turns to their left side.
+a man takes two staggering steps backwards, then ends in a standing position.
+a person walks up toward the left side.
+a person takes three steps backwards.
+a person walks forward and turns to their left.
+a person takes three steps backwards.
+a person walks forward and then turns to their left side.
+a person takes three steps backwards.
+a person walks up toward the left side.

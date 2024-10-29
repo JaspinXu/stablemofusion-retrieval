@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ reach/VERB to/ADP their/PRON left/NOUN and/CCONJ right/ADV grab/VERB an/DET object/NOUN and/CCONJ appear/VERB to/PART clean/VERB it/PRON 

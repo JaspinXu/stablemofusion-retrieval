@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV backwards/ADV subsequently/ADV hold/VERB its/PRON arm/NOUN up/ADP to/ADP the/DET right/NOUN and/CCONJ walk/VERB in/ADP a/DET circle/NOUN 

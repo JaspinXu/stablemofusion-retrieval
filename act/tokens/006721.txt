@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB right/ADJ to/PART go/VERB back/ADV while/SCONJ a/DET man/NOUN walk/VERB backward/ADV in/ADP a/DET straight/ADJ line/NOUN 

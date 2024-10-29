@@ -1,0 +1,1 @@
+a/DET person/NOUN climb/VERB a/DET set/NOUN of/ADP 4/NUM stair/NOUN leave/VERB foot/NOUN first/ADV and/CCONJ then/ADV start/VERB a/DET fight/NOUN by/ADP shove/VERB their/PRON opponent/NOUN 

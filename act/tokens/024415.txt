@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET semicircle/NOUN to/ADP the/DET right/NOUN then/ADV sit/VERB down/ADP in/ADP a/DET chair/NOUN after/SCONJ that/SCONJ he/PRON stand/VERB up/ADP again/ADV while/SCONJ also/ADV navigate/VERB forward/ADV on/ADP uneven/ADJ terrain/NOUN 

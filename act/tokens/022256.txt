@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB a/DET few/ADJ step/NOUN forward/ADV then/ADV bend/VERB over/ADP the/DET left/ADJ foot/NOUN and/CCONJ back/ADV up/ADP subsequently/ADV walk/VERB a/DET few/ADJ more/ADJ step/NOUN before/ADP motion/VERB as/SCONJ if/SCONJ wash/VERB their/PRON hand/NOUN and/CCONJ arm/NOUN and/CCONJ finally/ADV reach/VERB for/ADP a/DET towel/NOUN 

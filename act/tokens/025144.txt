@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB six/NUM step/NOUN forward/ADV then/ADV walk/VERB slowly/ADV while/SCONJ lead/VERB with/ADP the/DET right/ADJ foot/NOUN 

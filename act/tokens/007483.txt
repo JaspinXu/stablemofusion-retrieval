@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB counterclockwise/NOUN from/ADP one/NUM wall/NOUN to/ADP the/DET wall/NOUN on/ADP their/PRON left/NOUN then/ADV jog/VERB to/ADP their/PRON left/ADJ and/CCONJ subsequently/ADV to/ADP their/PRON right/NOUN 

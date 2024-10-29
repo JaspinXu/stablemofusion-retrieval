@@ -1,0 +1,1 @@
+The sim walks in a large "s" shape before reaching the other end of the plane and turning to face their back. Following that, a man walks forwards, then backwards quickly, and then walks forwards again.

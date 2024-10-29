@@ -1,0 +1,12 @@
+a person casually walks forward and to the side, before stopping.
+a person runs in place
+a person casually walks forward and to the side, before stopping.
+a person is jogging on the spot.
+a person casually walks forward and to the side, before stopping.
+person is jogging on the spot
+a person begins walking forward and then curves to his left and continues walking, then stops.
+a person runs in place
+a person begins walking forward and then curves to his left and continues walking, then stops.
+a person is jogging on the spot.
+a person begins walking forward and then curves to his left and continues walking, then stops.
+person is jogging on the spot

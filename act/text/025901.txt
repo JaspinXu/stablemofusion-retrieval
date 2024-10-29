@@ -1,0 +1,1 @@
+A person bounces a ball, then holds it while stepping forward. After that, they leap and throw the ball, followed by stepping back. Subsequently, they lower and raise their arms straight from their sides.

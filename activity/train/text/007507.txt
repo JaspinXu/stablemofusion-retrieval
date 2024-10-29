@@ -1,0 +1,1 @@
+The sim takes a couple of steps forward, then turns to their left before walking back in the opposite direction. Following that, the figure raises their right hand to wave towards the camera and then relaxes.

@@ -1,0 +1,1 @@
+Starting with their right foot, the person steps from the top right of the screen towards the bottom left. Subsequently, the person steps to the left, cleanly avoiding an obstacle in their path.

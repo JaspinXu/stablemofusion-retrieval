@@ -1,0 +1,1 @@
+a/DET person/NOUN squat/NOUN and/CCONJ then/ADV jump/VERB two/NUM time/NOUN subsequently/ADV walk/VERB forward/ADV and/CCONJ then/ADV stop/VERB 

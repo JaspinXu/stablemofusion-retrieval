@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN then/ADV lift/NOUN and/CCONJ move/VERB another/DET object/NOUN from/ADP right/ADV to/ADP left/ADJ and/CCONJ subsequently/ADV catch/VERB an/DET object/NOUN with/ADP both/DET hand/NOUN 

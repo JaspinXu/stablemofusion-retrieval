@@ -1,0 +1,1 @@
+A person walks forward, then takes a step back, and subsequently steps forward again. Following that, they turn around on their right foot and walk back.

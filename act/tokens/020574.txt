@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV back/ADV to/ADP the/DET right/NOUN and/CCONJ repeat/VERB the/DET motion/NOUN subsequently/ADV appear/VERB to/PART be/AUX do/VERB a/DET dance/NOUN 

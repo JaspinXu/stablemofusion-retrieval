@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB their/PRON hand/NOUN up/ADV and/CCONJ down/ADV then/ADV walk/VERB forward/ADV leap/NOUN over/ADP some/DET object/NOUN on/ADP the/DET ground/NOUN and/CCONJ continue/VERB walk/VERB 

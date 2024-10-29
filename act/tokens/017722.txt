@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX act/VERB like/ADP a/DET human/ADJ monkey/NOUN then/ADV walk/VERB on/ADP a/DET treadmill/NOUN at/ADP a/DET normal/ADJ pace/NOUN 

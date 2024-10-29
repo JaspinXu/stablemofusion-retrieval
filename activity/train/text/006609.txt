@@ -1,0 +1,1 @@
+The body walks to the left in a curve, then a person walks forward and climbs the stairs.

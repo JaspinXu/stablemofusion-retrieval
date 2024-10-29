@@ -1,0 +1,1 @@
+A person walks forward, then performs a spin move to walk in the other direction, and afterward stops.

@@ -1,0 +1,1 @@
+a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ then/ADV set/VERB it/PRON on/ADP top/NOUN of/ADP another/DET object/NOUN follow/VERB that/SCONJ he/PRON walk/VERB forward/ADV while/SCONJ reach/VERB to/ADP his/PRON right/NOUN for/ADP something/PRON with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV continue/VERB walk/VERB 

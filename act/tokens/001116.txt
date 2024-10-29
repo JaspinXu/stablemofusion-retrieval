@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB quickly/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV stop/VERB before/ADP do/VERB a/DET high/ADJ jump/NOUN 

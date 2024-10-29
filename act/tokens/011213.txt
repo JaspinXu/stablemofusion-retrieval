@@ -1,0 +1,1 @@
+a/DET man/NOUN slowly/ADV turn/VERB left/ADJ and/CCONJ then/ADV to/ADP the/DET right/ADJ following/NOUN that/SCONJ a/DET person/NOUN run/VERB to/ADP the/DET left/NOUN then/ADV to/ADP the/DET right/NOUN back/ADV to/ADP the/DET left/ADJ and/CCONJ finally/ADV return/VERB to/ADP the/DET center/NOUN 

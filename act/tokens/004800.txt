@@ -1,0 +1,1 @@
+a/DET person/NOUN begin/VERB by/ADP do/VERB 2/NUM jumping/NOUN jack/NOUN then/ADV start/VERB with/ADP their/PRON right/ADJ foot/NOUN and/CCONJ step/NOUN from/ADP the/DET top/ADJ right/NOUN of/ADP the/DET screen/NOUN to/ADP the/DET bottom/NOUN left/ADJ 

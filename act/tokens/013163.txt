@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB in/ADP a/DET large/ADJ s/PART shape/NOUN before/ADP reach/VERB the/DET other/ADJ end/NOUN of/ADP the/DET plane/NOUN and/CCONJ then/ADV turn/VERB to/ADP that/DET side/NOUN face/VERB their/PRON back/NOUN follow/VERB that/SCONJ a/DET man/NOUN quickly/ADV walk/VERB forwards/ADV then/ADV backwards/ADV and/CCONJ then/ADV walk/VERB forwards/ADV again/ADV 

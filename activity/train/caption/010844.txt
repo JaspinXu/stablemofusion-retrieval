@@ -1,0 +1,12 @@
+the man strolls forward with minimal movement of his hands.
+a person jogs to the right, then to the left, then back to the right.
+the man strolls forward with minimal movement of his hands.
+a person slowly jogs 4 steps turning clockwise and continues to jog for step, repeat.
+a person walks very slowly
+a person jogs to the right, then to the left, then back to the right.
+a person walks very slowly
+a person slowly jogs 4 steps turning clockwise and continues to jog for step, repeat.
+a person walks slowly, with right leg first
+a person jogs to the right, then to the left, then back to the right.
+a person walks slowly, with right leg first
+a person slowly jogs 4 steps turning clockwise and continues to jog for step, repeat.

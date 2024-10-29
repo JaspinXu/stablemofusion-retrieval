@@ -1,0 +1,1 @@
+A stick figure jogs in place and moves around a small area, then transitions to a man who is sitting down with arms and legs splayed out to the sides of his body.

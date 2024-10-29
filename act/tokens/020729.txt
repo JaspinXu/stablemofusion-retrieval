@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB to/ADP the/DET left/ADJ then/ADV back/ADV pick/VERB something/PRON off/ADP a/DET shelf/NOUN and/CCONJ then/ADV walk/VERB to/ADP the/DET left/NOUN again/ADV follow/VERB that/SCONJ the/DET person/NOUN walk/VERB in/ADP a/DET full/ADJ circle/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB sideways/ADV first/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ while/SCONJ cross/VERB their/PRON foot/NOUN over/ADP with/ADP each/DET step/NOUN follow/VERB that/SCONJ they/PRON clap/VERB take/VERB three/NUM step/NOUN forward/ADV and/CCONJ then/ADV appear/VERB to/PART sit/VERB down/ADP in/ADP a/DET chair/NOUN 

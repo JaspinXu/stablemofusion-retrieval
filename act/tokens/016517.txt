@@ -1,0 +1,1 @@
+a/DET figure/NOUN be/AUX hop/VERB in/ADP a/DET big/ADJ circle/NOUN first/ADV on/ADP the/DET left/ADJ leg/NOUN then/ADV on/ADP the/DET right/ADJ leg/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/ADJ leg/NOUN after/SCONJ that/PRON the/DET person/NOUN walk/VERB forward/ADV and/CCONJ lean/VERB on/ADP something/PRON 

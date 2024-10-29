@@ -1,0 +1,1 @@
+A walking person suddenly staggers to their left, then recovers; thereafter, they pick up a cup, drink, and place it back down.

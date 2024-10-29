@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV over/ADV to/ADP the/DET left/NOUN as/SCONJ if/SCONJ they/PRON be/AUX try/VERB to/PART step/VERB over/ADP something/PRON and/CCONJ subsequently/ADV they/PRON walk/VERB clockwise/NOUN begin/VERB at/ADP the/DET 9/NUM oclock/NOUN mark/NOUN on/ADP a/DET clock/NOUN until/SCONJ they/PRON reach/VERB the/DET 12/NUM oclock/NOUN mark/NOUN 

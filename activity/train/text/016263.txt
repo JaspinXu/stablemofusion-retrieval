@@ -1,0 +1,1 @@
+A person walks straight forward, then turns and walks to the right, and afterward turns and walks diagonally back to the starting position. Following that, the same person walks around to the left, climbs up a ladder, looks over something, and then begins to climb back down the ladder.

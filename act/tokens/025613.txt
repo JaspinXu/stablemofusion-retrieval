@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB over/ADP a/DET low/ADJ object/NOUN then/ADV turn/VERB around/ADV and/CCONJ jump/VERB over/ADP it/PRON again/ADV afterward/ADV they/PRON sit/VERB down/ADP with/ADP one/NUM leg/NOUN cross/VERB and/CCONJ then/ADV switch/VERB to/PART cross/VERB the/DET other/ADJ leg/NOUN 

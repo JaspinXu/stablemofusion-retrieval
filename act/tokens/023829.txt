@@ -1,0 +1,1 @@
+a/DET man/NOUN climb/VERB 4/NUM stair/NOUN then/ADV turn/VERB and/CCONJ go/VERB back/ADV down/ADV afterward/ADV he/PRON strut/VERB forward/ADV and/CCONJ twirl/VERB with/ADP his/PRON arm/NOUN swinge/VERB before/ADP drunkenly/ADV walk/VERB back/ADP spinning/NOUN again/ADV with/ADP his/PRON arm/NOUN flail/VERB 

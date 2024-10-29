@@ -1,0 +1,1 @@
+A person walks diagonally from the top left to the bottom right, stepping over something with the left leg first, taking two steps, and then stepping down. Subsequently, the individual walks straight forward while also stepping over something.

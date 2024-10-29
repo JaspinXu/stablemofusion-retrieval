@@ -1,0 +1,1 @@
+a/DET person/NOUN crawl/VERB four/NUM pace/NOUN on/ADP an/DET angle/NOUN to/ADP the/DET right/ADJ then/ADV turn/VERB and/CCONJ crawl/VERB back/ADV afterward/ADV stand/VERB up/ADP and/CCONJ subsequently/ADV swing/VERB their/PRON body/NOUN in/ADP a/DET circular/ADJ motion/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB two/NUM jump/VERB jack/NOUN then/ADV jump/VERB up/ADP with/ADP both/DET leg/NOUN follow/VERB that/SCONJ the/DET person/NOUN move/VERB into/ADP a/DET seating/NOUN position/NOUN and/CCONJ bring/VERB both/DET hand/NOUN slightly/ADV near/ADP their/PRON face/NOUN 

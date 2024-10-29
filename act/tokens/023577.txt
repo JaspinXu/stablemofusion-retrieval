@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV while/SCONJ hold/VERB onto/ADP a/DET rail/NOUN then/ADV continue/VERB to/PART walk/VERB slowly/ADV on/ADP a/DET balance/NOUN beam/NOUN while/SCONJ grasp/VERB the/DET handrail/NOUN 

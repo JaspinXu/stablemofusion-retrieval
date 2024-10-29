@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB four/NUM step/NOUN backward/ADV walk/VERB away/ADV from/ADP the/DET viewer/NOUN and/CCONJ then/ADV a/DET man/NOUN walk/VERB forward/ADV with/ADP his/PRON arm/NOUN loosely/ADV at/ADP his/PRON side/NOUN 

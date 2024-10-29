@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB from/ADP one/NUM end/NOUN of/ADP the/DET plane/NOUN to/ADP the/DET other/ADJ reach/VERB to/PART grab/VERB an/DET object/NOUN before/ADP turn/VERB around/ADP then/ADV the/DET man/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ come/VERB back/ADV to/PART take/VERB something/PRON from/ADP the/DET front/NOUN 

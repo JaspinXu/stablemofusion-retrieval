@@ -1,0 +1,6 @@
+the toon bends down to pick something up.
+a person is pushed forward and recovers standing up.
+the toon bends down to pick something up.
+a person steps forward and stops.
+the toon bends down to pick something up.
+the person was pushed but stayed standing.

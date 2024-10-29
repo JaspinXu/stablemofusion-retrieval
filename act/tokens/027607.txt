@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB while/SCONJ turn/VERB leave/VERB take/VERB four/NUM step/NOUN forward/ADV and/CCONJ then/ADV turn/VERB again/ADV to/PART end/VERB up/ADP face/VERB to/ADP their/PRON left/ADJ 

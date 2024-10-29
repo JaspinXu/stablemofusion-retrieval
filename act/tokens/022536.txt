@@ -1,0 +1,1 @@
+a/DET person/NOUN pack/VERB food/NOUN in/ADP the/DET fridge/NOUN then/ADV walk/VERB forward/ADV turn/VERB around/ADV and/CCONJ walk/VERB backward/ADV 

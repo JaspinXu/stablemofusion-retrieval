@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET room/NOUN pick/VERB up/ADP an/DET object/NOUN put/VERB it/PRON down/ADP and/CCONJ then/ADV walk/VERB back/ADV to/ADP the/DET original/ADJ place/NOUN follow/VERB that/SCONJ a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ then/ADV stop/VERB 

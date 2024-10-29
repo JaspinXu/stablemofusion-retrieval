@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB an/DET object/NOUN and/CCONJ then/ADV catch/VERB another/DET object/NOUN follow/VERB by/ADP a/DET man/NOUN kick/VERB with/ADP his/PRON left/ADJ foot/NOUN and/CCONJ then/ADV return/VERB to/ADP a/DET stable/ADJ position/NOUN 

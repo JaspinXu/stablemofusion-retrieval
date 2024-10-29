@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB seven/NUM step/NOUN forward/ADV and/CCONJ slightly/ADV to/ADP the/DET left/NOUN then/ADV slowly/ADV continue/VERB to/PART walk/VERB forward/ADV 

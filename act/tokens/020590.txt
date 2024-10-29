@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB fast/ADV in/ADP a/DET semicircular/ADJ motion/NOUN counterclockwise/NOUN then/ADV rapidly/ADV in/ADP a/DET straight/ADJ line/NOUN subsequently/ADV someone/PRON be/AUX run/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET circle/NOUN and/CCONJ do/VERB jog/NOUN 

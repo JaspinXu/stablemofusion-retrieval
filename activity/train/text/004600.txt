@@ -1,0 +1,1 @@
+A stick person is standing still when suddenly nudged in the head, which causes it to lose balance and move to the right. Following that, a person walks down a ramp and then stops.

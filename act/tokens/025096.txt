@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV in/ADP the/DET direction/NOUN of/ADP the/DET viewer/NOUN take/VERB three/NUM slow/ADJ step/NOUN and/CCONJ then/ADV he/PRON stand/VERB on/ADP a/DET yoga/NOUN mat/NOUN 

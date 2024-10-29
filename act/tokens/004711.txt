@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN forward/ADV kick/VERB their/PRON red/ADJ foot/NOUN then/ADV take/VERB one/NUM step/NOUN back/ADV and/CCONJ subsequently/ADV the/DET person/NOUN continue/VERB walk/VERB down/ADP a/DET slope/NOUN 

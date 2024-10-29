@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB forward/ADV and/CCONJ then/ADV a/DET person/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN 

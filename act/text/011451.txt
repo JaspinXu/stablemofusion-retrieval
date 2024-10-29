@@ -1,0 +1,1 @@
+A person crawls forward, then stands up and turns to their left. Following that, he first begins by stepping with his left leg and then follows with his right, taking steps forward. Next, he walks backward three steps, then steps forward again four steps before finally stopping.

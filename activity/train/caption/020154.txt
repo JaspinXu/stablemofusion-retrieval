@@ -1,0 +1,4 @@
+a person walks back-and-forth following the same arch like path
+a person walks in a counter clockwise half circle, then turns around and continues walking in a clockwise half circle.
+a person walks back-and-forth following the same arch like path
+the person walks in a semi circle, while at the end of the semi circle they walk back in the same semi circle ending where they started

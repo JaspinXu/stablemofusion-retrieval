@@ -1,0 +1,12 @@
+a person steps back to look at something, puts it down and steps forward again.
+a person slowly walks around.
+a person steps back to look at something, puts it down and steps forward again.
+the person took five steps to the right.
+a person steps backwards, bends down and picks up something from the ground.
+a person slowly walks around.
+a person steps backwards, bends down and picks up something from the ground.
+the person took five steps to the right.
+a person sits down in a chair, then gets back up.
+a person slowly walks around.
+a person sits down in a chair, then gets back up.
+the person took five steps to the right.

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV five/NUM step/NOUN lead/VERB with/ADP the/DET left/ADJ leg/NOUN first/ADV and/CCONJ then/ADV do/VERB the/DET shake/NOUN of/ADP the/DET shoulder/NOUN 

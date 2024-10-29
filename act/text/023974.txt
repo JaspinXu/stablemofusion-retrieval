@@ -1,0 +1,1 @@
+A person walks in a clockwise oval, then begins to walk the oval a second time. Following that, a man turns to the left, walks a bit, then turns right, walks a bit, turns right again, walks a bit more, and finally turns left to walk a bit further.

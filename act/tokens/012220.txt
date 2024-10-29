@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET center/NOUN after/SCONJ that/PRON the/DET person/NOUN sit/VERB down/ADP move/VERB their/PRON left/ADJ and/CCONJ right/ADJ hand/NOUN to/PART rotate/VERB in/ADP motion/NOUN 

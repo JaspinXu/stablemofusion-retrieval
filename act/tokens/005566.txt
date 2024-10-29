@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB seven/NUM quick/ADJ short/ADJ step/NOUN forward/ADV then/ADV step/VERB forward/ADV slowly/ADV five/NUM more/ADJ step/NOUN 

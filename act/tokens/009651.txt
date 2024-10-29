@@ -1,0 +1,1 @@
+a/DET person/NOUN pause/VERB but/CCONJ then/ADV walk/VERB forward/ADV three/NUM step/NOUN subsequently/ADV take/VERB a/DET left/ADJ step/NOUN follow/VERB by/ADP a/DET right/ADJ step/NOUN then/ADV leave/VERB again/ADV alternate/VERB until/ADP finally/ADV come/VERB to/ADP a/DET standstill/NOUN 

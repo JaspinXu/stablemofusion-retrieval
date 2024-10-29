@@ -1,0 +1,1 @@
+a/DET person/NOUN dance/VERB the/DET bharatanatyam/PROPN on/ADP the/DET floor/NOUN then/ADV wash/VERB their/PRON right/ADJ arm/NOUN 

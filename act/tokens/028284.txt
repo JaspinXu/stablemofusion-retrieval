@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV walk/VERB in/ADP a/DET circle/NOUN then/ADV a/DET man/NOUN walk/VERB counterclockwise/NOUN in/ADP the/DET same/ADJ circle/NOUN 

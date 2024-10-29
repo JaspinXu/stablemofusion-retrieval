@@ -1,0 +1,1 @@
+The person walks forward at a medium speed, then runs forward and stops.

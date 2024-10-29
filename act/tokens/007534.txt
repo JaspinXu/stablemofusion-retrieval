@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV turn/VERB right/ADJ and/CCONJ then/ADV walk/VERB some/PRON more/ADV before/ADP stop/VERB while/SCONJ a/DET man/NOUN jog/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ then/ADV stop/VERB 

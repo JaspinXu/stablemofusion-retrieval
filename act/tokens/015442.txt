@@ -1,0 +1,1 @@
+a/DET person/NOUN gesture/NOUN with/ADP both/DET hand/NOUN in/ADP front/NOUN of/ADP he/PRON then/ADV extend/VERB both/DET arm/NOUN out/ADP to/ADP the/DET body/NOUN before/ADP move/VERB forward/ADV one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ along/ADP the/DET same/ADJ line/NOUN and/CCONJ subsequently/ADV stop/VERB 

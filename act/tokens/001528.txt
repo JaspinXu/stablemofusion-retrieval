@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN while/SCONJ face/VERB forward/ADV and/CCONJ then/ADV turn/VERB to/ADP their/PRON right/NOUN as/SCONJ they/PRON complete/VERB the/DET circle/NOUN after/SCONJ that/PRON they/PRON jog/VERB a/DET few/ADJ step/NOUN stop/VERB and/CCONJ then/ADV jog/VERB some/PRON more/ADV 

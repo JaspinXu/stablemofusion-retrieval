@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM step/NOUN backwards/ADV then/ADV a/DET man/NOUN take/VERB a/DET step/NOUN jump/NOUN and/CCONJ subsequently/ADV run/VERB 

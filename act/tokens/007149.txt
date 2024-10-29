@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB an/DET elbow/NOUN to/PART opposite/ADJ knee/NOUN touch/NOUN then/ADV walk/VERB forward/ADV and/CCONJ subsequently/ADV slide/VERB the/DET left/ADJ leg/NOUN forward/ADV while/SCONJ continue/VERB to/PART walk/VERB 

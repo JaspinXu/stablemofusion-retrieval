@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX move/VERB something/PRON to/ADP the/DET left/NOUN then/ADV a/DET man/NOUN step/VERB to/ADP the/DET left/ADJ turn/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB majestically/ADV towards/ADP the/DET right/ADJ side/NOUN after/SCONJ that/PRON he/PRON stop/VERB and/CCONJ then/ADV turn/VERB back/ADV 

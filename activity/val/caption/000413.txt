@@ -1,0 +1,18 @@
+a person runs on the spot, while rotating in a circle.
+a person walks up and then turns around and walk\s back.
+a person runs on the spot, while rotating in a circle.
+a person walks right, spins around and begins walking.
+a person runs on the spot, while rotating in a circle.
+the person walked straight in front of them and then turned to the right
+a person runs in place
+a person walks up and then turns around and walk\s back.
+a person runs in place
+a person walks right, spins around and begins walking.
+a person runs in place
+the person walked straight in front of them and then turned to the right
+a person jogs in place, turns right, then left.
+a person walks up and then turns around and walk\s back.
+a person jogs in place, turns right, then left.
+a person walks right, spins around and begins walking.
+a person jogs in place, turns right, then left.
+the person walked straight in front of them and then turned to the right

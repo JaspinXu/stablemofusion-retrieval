@@ -1,0 +1,1 @@
+a/DET person/NOUN hand/NOUN and/CCONJ foot/NOUN be/AUX touch/VERB the/DET floor/NOUN as/SCONJ they/PRON push/VERB themselves/PRON up/ADP like/ADP do/VERB a/DET pushup/NOUN after/SCONJ that/SCONJ the/DET person/NOUN pick/VERB something/PRON up/ADP and/CCONJ do/VERB something/PRON with/ADP it/PRON 

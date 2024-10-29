@@ -1,0 +1,1 @@
+a/DET man/NOUN stand/VERB on/ADP one/NUM leg/NOUN move/VERB the/DET other/ADJ leg/NOUN around/ADV and/CCONJ then/ADV raise/VERB both/DET hand/NOUN next/ADV he/PRON move/VERB his/PRON right/ADJ hand/NOUN then/ADV his/PRON left/ADJ hand/NOUN and/CCONJ then/ADV his/PRON right/ADJ hand/NOUN again/ADV 

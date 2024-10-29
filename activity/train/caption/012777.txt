@@ -1,0 +1,12 @@
+a person walks forward then turn left then walks forward again.
+the person is walking around in a circle.
+a person walks forward then turn left then walks forward again.
+a man walks clockwise in a circle and then stops.
+a person walks to his left.
+the person is walking around in a circle.
+a person walks to his left.
+a man walks clockwise in a circle and then stops.
+the person was walking and turned left.
+the person is walking around in a circle.
+the person was walking and turned left.
+a man walks clockwise in a circle and then stops.

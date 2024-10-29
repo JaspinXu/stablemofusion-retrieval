@@ -1,0 +1,1 @@
+A person walks forward, then turns around clockwise and walks back, subsequently a man walks slowly, staggers to the right in a zigzag shape, and then stops.

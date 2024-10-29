@@ -1,0 +1,1 @@
+A person jumps in place, then walks backward and forward, and subsequently continues walking in a clockwise circle.

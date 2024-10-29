@@ -1,0 +1,1 @@
+A person runs to their right, turns, and then runs back, following that, they walk up and greet someone.

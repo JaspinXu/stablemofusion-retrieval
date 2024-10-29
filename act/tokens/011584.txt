@@ -1,0 +1,1 @@
+a/DET person/NOUN knock/VERB on/ADP a/DET door/NOUN then/ADV walk/VERB forward/ADV five/NUM step/NOUN carefully/ADV and/CCONJ slowly/ADV 

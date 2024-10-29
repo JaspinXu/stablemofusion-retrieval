@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV at/ADP an/DET angle/NOUN then/ADV continue/VERB by/ADP walk/VERB in/ADP a/DET semicircle/NOUN to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+A person runs forward, then pivots to run backward diagonally, and subsequently walks briskly forward.

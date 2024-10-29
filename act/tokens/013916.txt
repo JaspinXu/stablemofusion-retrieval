@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET cartwheel/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV cartwheel/VERB again/ADV to/ADP the/DET right/ADJ later/ADV the/DET person/NOUN begin/VERB jog/VERB backandforth/NOUN 

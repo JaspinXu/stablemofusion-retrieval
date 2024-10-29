@@ -1,0 +1,4 @@
+a person walks, then sprints, then takes wide spaced steps.
+a person walks then runs to the left, afterwards they turn around to walk back
+a person walks, then sprints, then takes wide spaced steps.
+slow walking velocity in a line to a quick burst of speed. unit during circle

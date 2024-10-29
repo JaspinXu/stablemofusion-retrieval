@@ -1,0 +1,1 @@
+A person picks up a horizontal object from their front right, then moves it to the left and rotates it counterclockwise to vertical. After that, they return it to the starting position and subsequently sidesteps to both sides.

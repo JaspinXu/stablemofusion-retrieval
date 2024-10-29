@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB forward/ADV take/VERB high/ADJ step/NOUN then/ADV a/DET person/NOUN jump/VERB and/CCONJ land/NOUN with/ADP a/DET few/ADJ small/ADJ hop/NOUN 

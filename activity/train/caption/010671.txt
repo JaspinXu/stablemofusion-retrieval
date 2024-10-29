@@ -1,0 +1,4 @@
+a person in neutral position appears to start off in a slow jog (in place), accelerating his speed to a full sprint (in place).
+a person starts running softly in place, then speeds up dramatically.
+a person in neutral position appears to start off in a slow jog (in place), accelerating his speed to a full sprint (in place).
+a person running in the same spot.

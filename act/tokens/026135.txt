@@ -1,0 +1,1 @@
+a/DET man/NOUN throw/VERB a/DET ball/NOUN then/ADV the/DET person/NOUN be/AUX sit/VERB down/ADP 

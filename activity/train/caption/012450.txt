@@ -1,0 +1,18 @@
+a person running to the right then the left to end up in the original spot.
+a person walks forward starting with their left foot for 5 steps.
+a person running to the right then the left to end up in the original spot.
+the person is walking forward.
+a person running to the right then the left to end up in the original spot.
+a person walks forward and then stops after a few steps.
+the person is jogging back and forth.
+a person walks forward starting with their left foot for 5 steps.
+the person is jogging back and forth.
+the person is walking forward.
+the person is jogging back and forth.
+a person walks forward and then stops after a few steps.
+a standing person jogs to the right, then to the left, then returns to their original position.
+a person walks forward starting with their left foot for 5 steps.
+a standing person jogs to the right, then to the left, then returns to their original position.
+the person is walking forward.
+a standing person jogs to the right, then to the left, then returns to their original position.
+a person walks forward and then stops after a few steps.

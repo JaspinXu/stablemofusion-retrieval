@@ -1,0 +1,1 @@
+A person walks forward slowly at an angle, then continues by walking in a semi-circle to the left.

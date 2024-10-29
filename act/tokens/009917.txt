@@ -1,0 +1,1 @@
+a/DET person/NOUN do/AUX jump/VERB jack/NOUN then/ADV a/DET man/NOUN walk/VERB 3/NUM to/PART 4/NUM step/NOUN and/CCONJ jump/VERB a/DET little/ADJ high/ADJ 

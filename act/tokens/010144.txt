@@ -1,0 +1,1 @@
+the/DET man/NOUN move/VERB forward/ADV then/ADV back/ADV next/ADJ run/NOUN and/CCONJ then/ADV jump/VERB 

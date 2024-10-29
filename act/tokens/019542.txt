@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 4/NUM step/NOUN up/ADP and/CCONJ then/ADV climb/VERB up/ADP something/PRON in/ADP front/NOUN of/ADP he/PRON once/ADV at/ADP the/DET top/NOUN he/PRON look/VERB from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB 90/NUM degree/NOUN leave/VERB and/CCONJ stop/VERB afterward/ADV run/VERB forwards/ADV and/CCONJ come/VERB to/ADP a/DET slow/ADJ stop/NOUN 

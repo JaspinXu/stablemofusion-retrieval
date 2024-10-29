@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB towards/ADP the/DET camera/NOUN move/VERB right/ADV to/PART left/VERB with/ADP a/DET constant/ADJ tempo/NOUN between/ADP each/DET step/NOUN then/ADV lift/VERB both/DET hand/NOUN up/ADP and/CCONJ punch/VERB with/ADP his/PRON left/ADJ hand/NOUN 

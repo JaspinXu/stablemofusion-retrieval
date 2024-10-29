@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV lift/VERB a/DET light/ADJ object/NOUN and/CCONJ then/ADV walk/VERB back/ADV subsequently/ADV the/DET man/NOUN stand/VERB in/ADP front/NOUN of/ADP a/DET counter/NOUN and/CCONJ start/VERB wipe/VERB it/PRON with/ADP a/DET circular/ADJ motion/NOUN 

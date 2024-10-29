@@ -1,0 +1,1 @@
+the/DET person/NOUN reach/VERB for/ADP the/DET table/NOUN pick/VERB up/ADP a/DET lightbulb/NOUN and/CCONJ screw/VERB it/PRON in/ADP while/SCONJ another/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN cross/VERB both/DET leg/NOUN 

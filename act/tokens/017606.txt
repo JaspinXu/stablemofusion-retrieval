@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX get/VERB in/ADP position/NOUN to/PART kick/VERB the/DET soccer/NOUN ball/NOUN and/CCONJ then/ADV another/DET person/NOUN do/VERB a/DET squat/NOUN with/ADP both/DET arm/NOUN in/ADP front/NOUN of/ADP they/PRON 

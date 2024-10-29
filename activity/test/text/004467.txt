@@ -1,0 +1,1 @@
+A person walks in a counter clock-wise circle, then continues to walk in the same counter clock-wise circle again.

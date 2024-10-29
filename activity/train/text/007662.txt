@@ -1,0 +1,1 @@
+A person is sitting, then stands up, turns left, and subsequently stops.

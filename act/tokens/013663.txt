@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX walk/VERB in/ADP a/DET backwards/ADJ circle/NOUN cross/VERB their/PRON leg/NOUN as/SCONJ they/PRON make/VERB loop/NOUN then/ADV a/DET person/NOUN be/AUX sidestep/VERB to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+A person is standing, then claps both hands together, walks a short distance, takes a seat, and afterward brushes their right leg. Similarly, a robot closes its stretched arms, claps, walks from right to left, sits down, and subsequently uses its right hand to do something to its right leg.

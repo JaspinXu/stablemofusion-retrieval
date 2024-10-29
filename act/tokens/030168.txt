@@ -1,0 +1,1 @@
+the/DET sim/NOUN be/AUX stand/VERB sway/VERB and/CCONJ then/ADV wave/VERB both/DET hand/NOUN first/ADV the/DET right/ADV after/ADP the/DET left/ADJ several/ADJ time/NOUN while/SCONJ a/DET person/NOUN wave/VERB with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ subsequently/ADV with/ADP their/PRON right/NOUN 

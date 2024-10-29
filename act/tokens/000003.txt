@@ -1,0 +1,1 @@
+the/DET dance/NOUN move/NOUN start/VERB with/ADP a/DET quick/ADJ side/NOUN step/NOUN to/ADP the/DET left/ADJ and/CCONJ then/ADV transition/NOUN into/ADP the/DET 123/NUM sequence/NOUN 

@@ -1,0 +1,1 @@
+A man walks to the left, then walks to the right and skips. Following that, the sim walks across the plane, bends down to grab something, and then walks to the opposite side before returning to replace the object at a high level.

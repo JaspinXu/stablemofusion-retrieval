@@ -1,0 +1,1 @@
+A person picks something up, shows it to the left, and then puts it down. Following that, the person runs in place, turns to the left, runs to the right, and ultimately returns to the starting position.

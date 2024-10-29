@@ -1,0 +1,1 @@
+A person walks diagonally from left to right, then switches back to the left before continuing to walk straight ahead on the street.

@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 34/NUM step/NOUN forward/ADV then/ADV a/DET man/NOUN shout/VERB out/ADP for/ADP help/NOUN with/ADP both/DET hand/NOUN raise/VERB left/ADJ and/CCONJ right/ADV 

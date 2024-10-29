@@ -1,0 +1,1 @@
+The sim walks across the plain diagonally, then walks back and loops to the far end of the plane, subsequently a person begins jumping rope.

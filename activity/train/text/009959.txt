@@ -1,0 +1,1 @@
+A person starts by walking up stairs, which begins at a lower y axis and ends up higher, then raises its right arm before climbing up something.

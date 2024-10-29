@@ -1,0 +1,18 @@
+a man walks in a circle.
+a person turns around and looks to the left.
+a man walks in a circle.
+a person is wavering a bit, then turns around.
+a man walks in a circle.
+a person looks to the right then turns left to take a look left.
+a person walks around in a clockwise direction.
+a person turns around and looks to the left.
+a person walks around in a clockwise direction.
+a person is wavering a bit, then turns around.
+a person walks around in a clockwise direction.
+a person looks to the right then turns left to take a look left.
+a person walks in a circle clockwise.
+a person turns around and looks to the left.
+a person walks in a circle clockwise.
+a person is wavering a bit, then turns around.
+a person walks in a circle clockwise.
+a person looks to the right then turns left to take a look left.

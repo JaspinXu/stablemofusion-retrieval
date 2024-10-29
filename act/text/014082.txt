@@ -1,0 +1,1 @@
+A person crouch walks slowly from the front to the back and then increases into a run, subsequently making something and putting it in specific places on the ground.

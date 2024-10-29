@@ -1,0 +1,1 @@
+A person walks forward, then turns around to the right, and subsequently walks back in the opposite direction.

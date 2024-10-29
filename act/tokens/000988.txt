@@ -1,0 +1,1 @@
+a/DET person/NOUN grab/VERB both/DET hand/NOUN and/CCONJ make/VERB some/DET gesture/NOUN then/ADV proceed/VERB to/PART box/VERB with/ADP his/PRON right/ADJ hand/NOUN and/CCONJ follow/VERB that/PRON with/ADP his/PRON left/ADJ hand/NOUN 

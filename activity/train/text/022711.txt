@@ -1,0 +1,1 @@
+The person walks in place for several steps, then steps backwards to the right, subsequently steps forwards, later steps backwards to the left, and finally walks forwards.

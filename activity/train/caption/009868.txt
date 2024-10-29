@@ -1,0 +1,12 @@
+a person on the floor, gets up.
+the person walks diagonally towards right side.
+a person on the floor, gets up.
+the person is walking around the bend to the right.
+a person stands up from being on their hands and knees.
+the person walks diagonally towards right side.
+a person stands up from being on their hands and knees.
+the person is walking around the bend to the right.
+kneeling and then standing up.
+the person walks diagonally towards right side.
+kneeling and then standing up.
+the person is walking around the bend to the right.

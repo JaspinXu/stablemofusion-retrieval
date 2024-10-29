@@ -1,0 +1,18 @@
+s person is taking something off the shelf
+a person walks forward diagonally to the right.
+s person is taking something off the shelf
+person goes down some steps and comes to a stand still
+s person is taking something off the shelf
+a person walks down stairs.
+a person is waving their arms up and down.
+a person walks forward diagonally to the right.
+a person is waving their arms up and down.
+person goes down some steps and comes to a stand still
+a person is waving their arms up and down.
+a person walks down stairs.
+a man raises his left arm, lowers it and then raises his right.
+a person walks forward diagonally to the right.
+a man raises his left arm, lowers it and then raises his right.
+person goes down some steps and comes to a stand still
+a man raises his left arm, lowers it and then raises his right.
+a person walks down stairs.

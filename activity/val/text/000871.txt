@@ -1,0 +1,1 @@
+A person walks in the shape of an S, first turning to the left and then to the right. Following that, they walk forward, then turn around to look at the path they have walked.

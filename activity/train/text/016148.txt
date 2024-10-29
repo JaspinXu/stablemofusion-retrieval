@@ -1,0 +1,1 @@
+A person walks forwards, then turns around and sits down, while a man walks clockwise, subsequently turns counterclockwise, makes an S shape, and then stops.

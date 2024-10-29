@@ -1,0 +1,1 @@
+The sim is holding an object with both hands, stepping forward and then backward twice; after that, a person thrusts the object forward away from their body.

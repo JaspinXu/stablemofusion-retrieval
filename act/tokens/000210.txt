@@ -1,0 +1,1 @@
+the/DET sim/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV turn/VERB to/ADP their/PRON right/NOUN and/CCONJ be/AUX about/ADJ to/PART climb/VERB a/DET step/NOUN while/SCONJ simultaneously/ADV balance/VERB on/ADP one/NUM leg/NOUN and/CCONJ hold/VERB the/DET other/ADJ 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET large/ADJ clockwise/NOUN circle/NOUN and/CCONJ then/ADV stand/VERB in/ADP the/DET same/ADJ area/NOUN he/PRON start/VERB walk/VERB subsequently/ADV his/PRON hand/NOUN meet/VERB in/ADP the/DET middle/NOUN both/DET hand/NOUN go/VERB to/ADP the/DET right/ADJ shoulder/NOUN and/CCONJ then/ADV the/DET right/ADJ hand/NOUN throw/VERB forward/ADV 

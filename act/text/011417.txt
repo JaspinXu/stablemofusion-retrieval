@@ -1,0 +1,1 @@
+A stick figure stands still before walking forward, then takes a few steps with arms held at its sides while limping slightly, and finally ends in a standing position.

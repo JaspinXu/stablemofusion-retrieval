@@ -1,0 +1,18 @@
+the person is walking and making a left turn.
+person moves forward two steps then does a full turn and faces opposite direction
+the person is walking and making a left turn.
+the person work for you turn right and walk back
+the person is walking and making a left turn.
+a person takes two steps forward, the pivots on their right foot, turning 180 degrees to the right and returning to their starting point.
+a person walks in an arc slightly to their left.
+person moves forward two steps then does a full turn and faces opposite direction
+a person walks in an arc slightly to their left.
+the person work for you turn right and walk back
+a person walks in an arc slightly to their left.
+a person takes two steps forward, the pivots on their right foot, turning 180 degrees to the right and returning to their starting point.
+a person walks forward and to the right.
+person moves forward two steps then does a full turn and faces opposite direction
+a person walks forward and to the right.
+the person work for you turn right and walk back
+a person walks forward and to the right.
+a person takes two steps forward, the pivots on their right foot, turning 180 degrees to the right and returning to their starting point.

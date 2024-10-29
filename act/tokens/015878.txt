@@ -1,0 +1,1 @@
+a/DET person/NOUN touch/VERB something/PRON with/ADP the/DET right/ADJ arm/NOUN then/ADV reach/VERB out/ADP across/ADP the/DET body/NOUN for/ADP another/DET object/NOUN subsequently/ADV walk/VERB backwards/ADV while/SCONJ turn/VERB something/PRON with/ADP the/DET right/ADJ hand/NOUN and/CCONJ hold/VERB an/DET item/NOUN with/ADP the/DET left/ADJ hand/NOUN 

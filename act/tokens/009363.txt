@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV for/ADP 5/NUM step/NOUN then/ADV turn/VERB 45/NUM degree/NOUN to/ADP his/PRON left/NOUN and/CCONJ continue/VERB walk/VERB follow/VERB that/SCONJ a/DET person/NOUN raise/VERB their/PRON arm/NOUN lower/VERB they/PRON and/CCONJ then/ADV move/VERB their/PRON arm/NOUN in/ADP a/DET circle/NOUN 

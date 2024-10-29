@@ -1,0 +1,1 @@
+the/DET man/NOUN move/VERB backward/ADV while/SCONJ move/VERB his/PRON hand/NOUN and/CCONJ then/ADV the/DET person/NOUN crawl/VERB across/ADP the/DET floor/NOUN 

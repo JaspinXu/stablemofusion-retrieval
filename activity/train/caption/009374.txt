@@ -1,0 +1,18 @@
+a person walks forward and turns left.
+a person walks forward then spins around with one leg then walks back.
+a person walks forward and turns left.
+a person is walking and then turns around and walks back
+a person walks forward and turns left.
+a person walks down and turns clockwise, stumbles slightly, and continues back up.
+a person walks forward curving to the left.
+a person walks forward then spins around with one leg then walks back.
+a person walks forward curving to the left.
+a person is walking and then turns around and walks back
+a person walks forward curving to the left.
+a person walks down and turns clockwise, stumbles slightly, and continues back up.
+the person walked in a curve to the left.
+a person walks forward then spins around with one leg then walks back.
+the person walked in a curve to the left.
+a person is walking and then turns around and walks back
+the person walked in a curve to the left.
+a person walks down and turns clockwise, stumbles slightly, and continues back up.

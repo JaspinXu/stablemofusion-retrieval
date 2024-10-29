@@ -1,0 +1,1 @@
+A person walks back-and-forth following the same arch-like path, then continues by walking in a counterclockwise half circle, before turning around and walking in another counterclockwise half circle.

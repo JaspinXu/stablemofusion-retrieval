@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV gently/ADV a/DET few/ADJ pace/NOUN make/VERB a/DET small/ADJ semicircle/NOUN motion/NOUN to/ADP his/PRON left/NOUN and/CCONJ then/ADV a/DET person/NOUN follow/VERB by/ADP take/VERB a/DET few/ADJ step/NOUN curve/VERB to/ADP the/DET right/NOUN 

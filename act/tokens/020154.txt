@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backandforth/NOUN follow/VERB the/DET same/ADJ archlike/ADJ path/NOUN then/ADV move/VERB in/ADP a/DET semicircle/NOUN and/CCONJ after/ADP reach/VERB the/DET end/NOUN of/ADP the/DET semicircle/NOUN they/PRON walk/VERB back/ADV along/ADP the/DET same/ADJ path/NOUN end/VERB where/SCONJ they/PRON start/VERB 

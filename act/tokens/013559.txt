@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN and/CCONJ then/ADV take/VERB some/DET waltz/NOUN dance/NOUN step/NOUN 

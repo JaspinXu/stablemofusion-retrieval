@@ -1,0 +1,1 @@
+A person is pushed on his left arm, stumbles to his right, and then recovers to a stable standing position. Following that, a robot, which is standing in a tilted position, touches something with both hands and then lifts its left arm.

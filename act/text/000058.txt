@@ -1,0 +1,1 @@
+A stick figure is moving in a diagonal direction, slightly bent over, then a person runs quickly to the left, moving forward.

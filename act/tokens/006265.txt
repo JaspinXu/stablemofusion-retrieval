@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV quickly/ADV in/ADP a/DET clockwise/NOUN position/NOUN then/ADV subsequently/ADV walk/VERB backwards/ADV while/SCONJ dribble/VERB the/DET ball/NOUN 

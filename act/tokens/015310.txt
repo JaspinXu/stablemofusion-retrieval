@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ knock/VERB on/ADP a/DET door/NOUN then/ADV throw/VERB away/ADV a/DET box/NOUN 

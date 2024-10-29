@@ -1,0 +1,1 @@
+the/DET person/NOUN take/VERB a/DET seat/NOUN in/ADP a/DET chair/NOUN then/ADV look/VERB around/ADV and/CCONJ thereafter/ADV get/VERB up/ADV 

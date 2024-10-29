@@ -1,0 +1,1 @@
+a/DET person/NOUN squat/VERB several/ADJ time/NOUN while/SCONJ lift/VERB dumbbell/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV spin/NOUN on/ADP their/PRON heel/NOUN and/CCONJ take/VERB two/NUM step/NOUN back/ADV to/ADP the/DET starting/NOUN point/NOUN 

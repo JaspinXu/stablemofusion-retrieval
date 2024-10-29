@@ -1,0 +1,1 @@
+the/DET person/NOUN look/VERB like/SCONJ he/PRON ’s/AUX box/VERB and/CCONJ dance/VERB around/ADV then/ADV sit/VERB down/ADP on/ADP a/DET seat/NOUN follow/VERB that/SCONJ he/PRON stand/VERB up/ADP move/NOUN forward/ADV drag/VERB the/DET chair/NOUN behind/ADP he/PRON and/CCONJ finally/ADV sit/VERB down/ADP again/ADV 

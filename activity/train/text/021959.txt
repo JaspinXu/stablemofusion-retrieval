@@ -1,0 +1,1 @@
+The sim is holding an object with both hands, stepping forward and then backward twice; afterward, the person is getting ready to toss something.

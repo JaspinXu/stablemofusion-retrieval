@@ -1,0 +1,1 @@
+a/DET person/NOUN bend/VERB down/ADP and/CCONJ touch/VERB their/PRON left/ADJ foot/NOUN then/ADV jog/VERB in/ADP place/NOUN for/ADP a/DET moment/NOUN stop/NOUN and/CCONJ subsequently/ADV turn/VERB to/ADP their/PRON left/NOUN to/PART jog/VERB in/ADP a/DET counterclockwise/NOUN ellipse/NOUN return/VERB to/ADP the/DET point/NOUN they/PRON start/VERB from/ADP 

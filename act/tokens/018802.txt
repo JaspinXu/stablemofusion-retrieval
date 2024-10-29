@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB three/NUM jump/VERB jack/NOUN then/ADV run/VERB in/ADP place/NOUN four/NUM time/NOUN follow/VERB by/ADP a/DET man/NOUN who/PRON be/AUX also/ADV do/VERB jumping/NOUN jack/NOUN before/ADP stop/VERB and/CCONJ run/VERB in/ADP place/NOUN 

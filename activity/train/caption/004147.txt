@@ -1,0 +1,6 @@
+stick figure stands still momentarily before walking a clockwise curve motion
+a person jogs forward then stops.
+stick figure stands still momentarily before walking a clockwise curve motion
+a person is jogging forward 4 spaces then stops.
+stick figure stands still momentarily before walking a clockwise curve motion
+the person jogs forward then the video ends.

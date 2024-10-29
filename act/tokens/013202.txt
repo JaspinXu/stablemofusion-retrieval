@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV and/CCONJ appear/VERB to/PART be/AUX drunk/ADJ after/ADP take/VERB two/NUM step/NOUN they/PRON stop/VERB follow/VERB that/SCONJ another/DET person/NOUN walk/VERB forward/ADV towards/ADP a/DET door/NOUN knock/VERB wait/NOUN for/ADP less/ADJ than/ADP two/NUM second/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ walk/VERB away/ADV 

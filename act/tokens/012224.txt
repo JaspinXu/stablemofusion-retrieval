@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP the/DET stair/NOUN then/ADV step/VERB to/ADP the/DET side/NOUN to/PART sit/VERB in/ADP a/DET chair/NOUN and/CCONJ after/ADP that/PRON get/VERB up/ADP and/CCONJ step/VERB back/ADV 

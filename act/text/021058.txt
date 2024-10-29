@@ -1,0 +1,1 @@
+A person stands up from laying on the ground, then walks in a counterclockwise circle. Following that, they turn to the right and walk a few steps before turning back around and walking in the opposite direction, only to turn back and repeat the process again, ultimately laying down on the ground again.

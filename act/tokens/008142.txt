@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB forward/ADV then/ADV quickly/ADV swing/VERB right/NOUN to/PART walk/VERB back/ADV after/SCONJ that/SCONJ a/DET person/NOUN be/AUX see/VERB walk/VERB backwards/ADV 

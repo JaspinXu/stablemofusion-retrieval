@@ -1,0 +1,2 @@
+the rig walks forward then turns around and continues walking before stopping where he started
+a person gets pushed to their right.

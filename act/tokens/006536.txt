@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV on/ADP the/DET screen/NOUN then/ADV another/DET person/NOUN be/AUX walk/VERB the/DET other/ADJ way/NOUN 

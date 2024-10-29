@@ -1,0 +1,1 @@
+a/DET person/NOUN casually/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN arc/NOUN towards/ADP the/DET lefthand/NOUN side/NOUN then/ADV stop/VERB and/CCONJ stand/VERB after/SCONJ that/PRON the/DET figure/NOUN bend/NOUN at/ADP the/DET knee/NOUN pick/VERB up/ADP an/DET object/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ stand/VERB up/ADP while/SCONJ hold/VERB the/DET object/NOUN 

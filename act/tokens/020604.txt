@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV see/VERB someone/PRON in/ADP the/DET distance/NOUN and/CCONJ wave/VERB then/ADV a/DET man/NOUN slowly/ADV walk/VERB backwards/ADV follow/VERB by/ADP walk/VERB side/NOUN to/PART side/VERB before/ADP eventually/ADV walk/VERB forwards/ADV 

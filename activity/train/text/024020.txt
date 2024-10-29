@@ -1,0 +1,1 @@
+A person is climbing on terrain, then stands still and moves very slightly to the left.

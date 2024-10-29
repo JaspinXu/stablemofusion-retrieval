@@ -1,0 +1,18 @@
+this person is jogging left to right and back again.
+the person walks forward in a slight diagonal
+this person is jogging left to right and back again.
+person at stand still moves forward seven steps
+this person is jogging left to right and back again.
+a person walks forward normally
+the person is jogging back-and-forth.
+the person walks forward in a slight diagonal
+the person is jogging back-and-forth.
+person at stand still moves forward seven steps
+the person is jogging back-and-forth.
+a person walks forward normally
+a person ran into right and left directions
+the person walks forward in a slight diagonal
+a person ran into right and left directions
+person at stand still moves forward seven steps
+a person ran into right and left directions
+a person walks forward normally

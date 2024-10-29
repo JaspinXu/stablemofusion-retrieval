@@ -1,0 +1,1 @@
+The person is walking with support, then walks forward, pivots, and swivels to their right before walking back.

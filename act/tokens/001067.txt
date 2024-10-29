@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP an/DET ovallike/ADJ shape/NOUN then/ADV take/VERB a/DET slight/ADJ step/NOUN backward/ADV after/ADP which/PRON they/PRON raise/VERB their/PRON right/ADJ hand/NOUN up/ADP diagonally/ADV follow/VERB by/ADP raise/VERB their/PRON left/ADJ hand/NOUN up/ADP diagonally/ADV 

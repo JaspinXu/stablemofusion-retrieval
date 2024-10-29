@@ -1,0 +1,1 @@
+A person steps up on a box, then steps down, turns left until they are facing the opposite direction, and steps on another box. After that, they turn right and step down. Subsequently, the same person, now on the floor, begins to crawl across it.

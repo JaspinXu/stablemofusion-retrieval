@@ -1,0 +1,4 @@
+the sim walks to the end of the plane, slowly turns around slowly walking back to the opposite end.
+the man slowly walks forward and then paces back the way he came.
+the sim walks to the end of the plane, slowly turns around slowly walking back to the opposite end.
+a person walks slowly and stops.

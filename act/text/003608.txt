@@ -1,0 +1,1 @@
+A person kicks a ball forward and then slowly moves in the right direction.

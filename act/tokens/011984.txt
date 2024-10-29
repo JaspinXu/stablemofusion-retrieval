@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB down/ADP then/ADV stand/VERB up/ADP and/CCONJ subsequently/ADV jog/VERB on/ADP a/DET treadmill/NOUN 

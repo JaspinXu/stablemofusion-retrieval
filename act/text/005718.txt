@@ -1,0 +1,1 @@
+A person is standing on the ground, then takes small steps towards the front of the screen starting with their left foot, and subsequently jumps forward.

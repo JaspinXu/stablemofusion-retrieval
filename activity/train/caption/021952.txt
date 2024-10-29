@@ -1,0 +1,18 @@
+the person having a conversation with someone.
+a person walks to the left side, then runs forward.
+the person having a conversation with someone.
+a person spins, begins walking while slightly turning left, then turns and jogs back from the direction they came.
+the person having a conversation with someone.
+this person turns and walks to the right, turns again and walks left.
+the person has a conversation with a friend
+a person walks to the left side, then runs forward.
+the person has a conversation with a friend
+a person spins, begins walking while slightly turning left, then turns and jogs back from the direction they came.
+the person has a conversation with a friend
+this person turns and walks to the right, turns again and walks left.
+a person is having a conversation with another
+a person walks to the left side, then runs forward.
+a person is having a conversation with another
+a person spins, begins walking while slightly turning left, then turns and jogs back from the direction they came.
+a person is having a conversation with another
+this person turns and walks to the right, turns again and walks left.

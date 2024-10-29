@@ -1,0 +1,1 @@
+the/DET person/NOUN have/VERB a/DET conversation/NOUN with/ADP a/DET friend/NOUN then/ADV walk/VERB to/ADP the/DET left/ADJ side/NOUN and/CCONJ subsequently/ADV run/VERB forward/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB straight/ADV to/ADP the/DET end/NOUN then/ADV turn/VERB left/ADJ and/CCONJ walk/VERB to/ADP the/DET end/NOUN afterward/ADV a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN and/CCONJ place/VERB it/PRON on/ADP the/DET left/ADJ side/NOUN with/ADP his/PRON left/ADJ hand/NOUN on/ADP top/NOUN of/ADP the/DET object/NOUN 

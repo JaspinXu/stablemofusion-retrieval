@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB 3/NUM step/NOUN to/ADP the/DET left/NOUN then/ADV 3/NUM step/NOUN to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV kick/VERB something/PRON with/ADP his/PRON left/ADJ foot/NOUN 

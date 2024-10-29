@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB a/DET few/ADJ step/NOUN forward/ADV and/CCONJ throw/VERB with/ADP the/DET left/ADJ arm/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN back/ADV to/ADP the/DET starting/NOUN position/NOUN next/ADP the/DET person/NOUN run/VERB forward/ADV six/NUM step/NOUN and/CCONJ then/ADV turn/VERB to/PART face/VERB the/DET other/ADJ way/NOUN 

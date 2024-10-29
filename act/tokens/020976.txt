@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX sit/VERB down/ADP then/ADV stand/VERB up/ADP and/CCONJ take/VERB one/NUM step/NOUN subsequently/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP again/ADV follow/VERB that/SCONJ a/DET person/NOUN walk/VERB sideways/ADV back/ADV and/CCONJ forth/ADV around/ADP an/DET object/NOUN and/CCONJ then/ADV take/VERB a/DET step/NOUN forward/ADV 

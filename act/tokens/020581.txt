@@ -1,0 +1,1 @@
+the/DET man/NOUN start/VERB walk/VERB then/ADV turn/VERB around/ADV and/CCONJ start/VERB run/VERB and/CCONJ subsequently/ADV stop/VERB quickly/ADV while/SCONJ a/DET person/NOUN walk/VERB forward/ADV diagonally/ADV 

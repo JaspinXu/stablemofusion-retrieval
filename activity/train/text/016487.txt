@@ -1,0 +1,1 @@
+A person sits down on a seat, then stands up, moves forward dragging the chair behind them, and sits down again. After that, the same person sits down on the chair and moves it forward before sitting once more.

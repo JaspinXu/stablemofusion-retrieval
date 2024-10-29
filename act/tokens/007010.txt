@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB 90/NUM degree/NOUN to/ADP their/PRON left/NOUN to/PART walk/VERB forward/ADV again/ADV and/CCONJ take/VERB a/DET large/ADJ step/NOUN up/ADP onto/ADP something/PRON while/SCONJ a/DET stick/NOUN figure/NOUN stand/VERB still/ADV before/ADP walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ direction/NOUN 

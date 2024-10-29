@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ move/VERB his/PRON hand/NOUN and/CCONJ then/ADV a/DET man/NOUN walk/VERB around/ADV in/ADP a/DET circle/NOUN 

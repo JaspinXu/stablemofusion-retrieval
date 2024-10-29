@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV stumble/NOUN back/ADV and/CCONJ continue/VERB forward/ADV then/ADV they/PRON spin/VERB to/ADP the/DET right/NOUN and/CCONJ walk/VERB back/ADV 

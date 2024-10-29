@@ -1,0 +1,1 @@
+Someone tries to walk crouched, then is pushed from the front but recovers afterward.

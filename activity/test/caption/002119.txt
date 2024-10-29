@@ -1,0 +1,6 @@
+stick figure rotates counter clockwise walks backwards and then sits down
+a walking person suddenly gets staggered to their left, then recovers.
+stick figure rotates counter clockwise walks backwards and then sits down
+someone begins walking then seems to trip to the right before correcting the path they were on.
+stick figure rotates counter clockwise walks backwards and then sits down
+a person walks a few steps, then loses their balance and waves their arms up while moving to the side, then takes a few more steps.

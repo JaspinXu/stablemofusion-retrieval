@@ -1,0 +1,8 @@
+a man walks forward, turns around and then walks back before starting to turn around again.
+a person turns counter counterclockwise 180 degrees, walks straight, then turns counter counterclockwise 180 degrees again.
+a man walks forward, turns around and then walks back before starting to turn around again.
+a person turns around clockwise, walks forward and up something, and then turns around counterclockwise.
+a person wanders forward, stops and turns and wanders backward.
+a person turns counter counterclockwise 180 degrees, walks straight, then turns counter counterclockwise 180 degrees again.
+a person wanders forward, stops and turns and wanders backward.
+a person turns around clockwise, walks forward and up something, and then turns around counterclockwise.

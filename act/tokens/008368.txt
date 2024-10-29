@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB large/ADJ step/NOUN move/VERB down/ADV to/ADP the/DET bottom/ADJ floor/NOUN then/ADV jump/VERB to/ADP the/DET left/NOUN and/CCONJ back/VERB to/ADP the/DET right/ADJ place/NOUN 

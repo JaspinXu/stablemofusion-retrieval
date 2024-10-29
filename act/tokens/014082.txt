@@ -1,0 +1,1 @@
+a/DET person/NOUN crouch/NOUN walk/VERB slowly/ADV from/ADP the/DET front/NOUN to/ADP the/DET back/NOUN and/CCONJ then/ADV increase/VERB into/ADP a/DET run/NOUN subsequently/ADV make/VERB something/PRON and/CCONJ put/VERB it/PRON in/ADP specific/ADJ place/NOUN on/ADP the/DET ground/NOUN 

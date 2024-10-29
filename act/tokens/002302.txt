@@ -1,0 +1,1 @@
+a/DET man/NOUN kick/VERB a/DET ball/NOUN with/ADP his/PRON left/ADJ leg/NOUN then/ADV a/DET person/NOUN slowly/ADV walk/VERB downhill/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB by/ADP stretch/VERB their/PRON right/ADJ leg/NOUN then/ADV walk/VERB to/ADP their/PRON left/ADJ next/ADJ walk/NOUN to/ADP the/DET back/NOUN and/CCONJ finally/ADV walk/VERB to/ADP the/DET left/NOUN again/ADV 

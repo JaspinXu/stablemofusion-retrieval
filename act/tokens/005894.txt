@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB 180/NUM degree/NOUN once/ADV then/ADV hop/VERB forward/ADV use/VERB their/PRON left/ADJ foot/NOUN 

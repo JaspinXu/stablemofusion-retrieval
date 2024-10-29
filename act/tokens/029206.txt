@@ -1,0 +1,1 @@
+a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET right/ADJ then/ADV side/VERB step/NOUN to/ADP the/DET left/ADJ and/CCONJ finally/ADV back/ADV to/ADP the/DET right/ADJ subsequently/ADV a/DET man/NOUN be/AUX crab/NOUN walking/NOUN backwards/ADV and/CCONJ then/ADV roll/VERB to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+A person steps left a few steps, then steps right a few steps, subsequently moving back towards the left to return to the starting point. Following that, he waves his left hand back and forth while standing, then turns his hand to the side, continuing to wave, and afterward turns his hand to the back while still waving.

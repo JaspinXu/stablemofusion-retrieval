@@ -1,0 +1,1 @@
+A stick figure stands still, then takes one step forward while holding its hands together in front of itself.

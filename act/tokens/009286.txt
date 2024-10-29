@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB slightly/ADV to/ADP the/DET right/NOUN take/VERB two/NUM step/NOUN forward/ADV and/CCONJ then/ADV two/NUM step/NOUN to/ADP the/DET right/ADV subsequently/ADV walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ line/NOUN 

@@ -1,0 +1,6 @@
+a person walks forward and towards the right.
+a person is standing and loses their balance.
+a person walks towards the left side.
+a person is standing and loses their balance.
+the person is walking around the bend to the left.
+a person is standing and loses their balance.

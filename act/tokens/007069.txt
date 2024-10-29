@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB on/ADP the/DET floor/NOUN at/ADP the/DET front/NOUN then/ADV walk/VERB two/NUM step/NOUN forward/ADJ pivot/NOUN on/ADP his/PRON right/ADJ leg/NOUN until/SCONJ he/PRON have/AUX complete/VERB a/DET half/NOUN turn/NOUN and/CCONJ subsequently/ADV walk/VERB two/NUM step/NOUN back/ADV to/ADP where/SCONJ he/PRON start/VERB from/ADP 

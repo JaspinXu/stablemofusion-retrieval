@@ -1,0 +1,1 @@
+A person walks in a zig-zag pattern, starting with a slow left turn of about 180 degrees, followed by a slow right turn of about 180 degrees, and finishes with another slow left turn of 180 degrees. Then, the person walks forward and slightly to his right before sitting on something.

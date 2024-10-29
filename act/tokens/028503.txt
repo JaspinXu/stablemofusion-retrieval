@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET ushape/PROPN while/SCONJ face/VERB forward/ADV then/ADV continue/VERB by/ADP walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN at/ADP a/DET normal/ADJ pace/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN catch/VERB a/DET ball/NOUN in/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV toss/VERB it/PRON back/ADV with/ADP their/PRON right/ADJ hand/NOUN after/SCONJ that/PRON they/PRON attempt/VERB to/PART catch/VERB another/DET ball/NOUN but/CCONJ drop/VERB it/PRON follow/VERB that/SCONJ they/PRON walk/VERB towards/ADP the/DET left/NOUN to/PART make/VERB a/DET circle/NOUN 

@@ -1,0 +1,1 @@
+A person walks around from the right to left, then walks forward four steps and stops.

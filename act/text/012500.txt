@@ -1,0 +1,1 @@
+A standing person jogs to the left, then to the right, and subsequently returns to their original position, after that the person continues by walking forward.

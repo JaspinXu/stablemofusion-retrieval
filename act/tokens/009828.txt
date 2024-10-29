@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV then/ADV turn/VERB right/ADV after/SCONJ that/SCONJ he/PRON move/VERB forward/ADV two/NUM step/NOUN swing/VERB around/ADV 180/NUM degree/NOUN and/CCONJ take/VERB two/NUM step/NOUN back/ADV to/ADP where/SCONJ he/PRON start/VERB 

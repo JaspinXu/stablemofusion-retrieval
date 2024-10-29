@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP their/PRON arm/NOUN to/ADP the/DET side/NOUN then/ADV start/VERB to/PART curve/VERB to/ADP their/PRON left/NOUN in/ADP the/DET shape/NOUN of/ADP a/DET 14/NUM circle/NOUN follow/VERB that/SCONJ a/DET man/NOUN walk/VERB in/ADP a/DET wide/ADJ arc/NOUN to/ADP his/PRON right/NOUN 

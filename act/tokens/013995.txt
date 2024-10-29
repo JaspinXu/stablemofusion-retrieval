@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB diagonally/ADV across/ADP a/DET room/NOUN from/ADP right/ADV to/ADP left/NOUN and/CCONJ then/ADV a/DET person/NOUN be/AUX wave/VERB with/ADP both/DET hand/NOUN 

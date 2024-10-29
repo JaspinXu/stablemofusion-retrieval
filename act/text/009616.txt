@@ -1,0 +1,1 @@
+A person starts walking, then zigzags to his left and right, and subsequently continues walking forward using both legs.

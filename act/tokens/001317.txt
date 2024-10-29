@@ -1,0 +1,1 @@
+a/DET person/NOUN bend/VERB one/NUM arm/NOUN at/ADP the/DET elbow/NOUN and/CCONJ move/VERB their/PRON hand/NOUN in/ADP a/DET semicircle/NOUN back/ADV and/CCONJ forth/ADV then/ADV a/DET man/NOUN follow/VERB this/PRON with/ADP a/DET perfect/ADJ cartwheel/NOUN 

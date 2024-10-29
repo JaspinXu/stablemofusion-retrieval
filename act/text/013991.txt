@@ -1,0 +1,1 @@
+A person walks diagonally to the right, picks up something, goes back to their original position, and then returns the item back to where they picked it up from. Following that, the person sets something on the floor and then walks forward.

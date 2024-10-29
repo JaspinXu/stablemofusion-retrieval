@@ -1,0 +1,1 @@
+A person walks forward and then left, subsequently walking in a semi-circle.

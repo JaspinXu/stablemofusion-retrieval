@@ -1,0 +1,1 @@
+a/DET person/NOUN creep/VERB with/ADP one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ then/ADV move/VERB clockwise/NOUN return/VERB to/ADP their/PRON original/ADJ position/NOUN and/CCONJ subsequently/ADV move/VERB in/ADP the/DET right/ADJ direction/NOUN 

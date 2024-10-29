@@ -1,0 +1,18 @@
+a person is standing still, steps to the right, then stands still again.
+a man walks forward for 5 steps.  he then turns 45 degrees to his right and continues walking.
+a person is standing still, steps to the right, then stands still again.
+a person briskly walks forward before turning right and continuing on.
+a person is standing still, steps to the right, then stands still again.
+a person walks forward, turns to the right, and continues walking.
+person quickly jumps laterally to the right.
+a man walks forward for 5 steps.  he then turns 45 degrees to his right and continues walking.
+person quickly jumps laterally to the right.
+a person briskly walks forward before turning right and continuing on.
+person quickly jumps laterally to the right.
+a person walks forward, turns to the right, and continues walking.
+a man takes a medium side like step to the right.
+a man walks forward for 5 steps.  he then turns 45 degrees to his right and continues walking.
+a man takes a medium side like step to the right.
+a person briskly walks forward before turning right and continuing on.
+a man takes a medium side like step to the right.
+a person walks forward, turns to the right, and continues walking.

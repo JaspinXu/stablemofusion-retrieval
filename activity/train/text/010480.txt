@@ -1,0 +1,1 @@
+A figure slides to the left and then sits down, subsequently turning the body to one side.

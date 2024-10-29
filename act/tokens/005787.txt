@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET box/NOUN and/CCONJ move/VERB it/PRON from/ADP left/ADJ to/ADP right/ADV then/ADV walk/VERB in/ADP a/DET fashionable/ADJ way/NOUN use/VERB a/DET rail/NOUN as/ADP a/DET guide/NOUN 

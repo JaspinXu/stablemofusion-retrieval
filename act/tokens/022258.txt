@@ -1,0 +1,1 @@
+a/DET man/NOUN stagger/NOUN forward/ADV then/ADV turn/VERB counterclockwise/NOUN and/CCONJ jog/VERB back/ADV to/ADP the/DET starting/NOUN point/NOUN similarly/ADV a/DET person/NOUN take/VERB several/ADJ step/NOUN forward/ADV with/ADP a/DET slight/ADJ limp/ADJ turn/NOUN around/ADV and/CCONJ lightly/ADV jog/VERB back/ADV to/ADP their/PRON beginning/NOUN position/NOUN 

@@ -1,0 +1,1 @@
+the/DET sim/NOUN appear/VERB to/PART be/AUX play/VERB table/NOUN tennis/NOUN or/CCONJ ping/NOUN pong/PROPN and/CCONJ then/ADV a/DET person/NOUN raise/VERB their/PRON hand/NOUN and/CCONJ start/VERB to/PART make/VERB a/DET circle/NOUN 

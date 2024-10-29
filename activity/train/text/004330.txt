@@ -1,0 +1,1 @@
+A person walks in a circle, then turns and runs to the left, and subsequently turns around to run to the right.

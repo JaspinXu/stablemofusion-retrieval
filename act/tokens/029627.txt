@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV perform/VERB a/DET 90/NUM degree/NOUN clockwise/NOUN jumping/NOUN spin/NOUN then/ADV a/DET 180/NUM degree/NOUN spin/NOUN and/CCONJ subsequently/ADV complete/VERB a/DET 360/NUM spin/NOUN after/SCONJ that/PRON he/PRON start/VERB to/PART crawl/VERB a/DET lot/NOUN 

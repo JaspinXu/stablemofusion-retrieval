@@ -1,0 +1,1 @@
+from/ADP a/DET prone/ADJ position/NOUN on/ADP the/DET ground/NOUN the/DET person/NOUN raise/VERB up/ADP into/ADP a/DET squat/NOUN with/ADP hand/NOUN hold/VERB together/ADV in/ADP front/NOUN of/ADP they/PRON then/ADV they/PRON walk/VERB clockwise/NOUN in/ADP a/DET circle/NOUN 

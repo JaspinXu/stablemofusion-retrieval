@@ -1,0 +1,1 @@
+a/DET person/NOUN dribble/VERB a/DET ball/NOUN with/ADP one/NUM hand/NOUN then/ADV the/DET other/ADJ and/CCONJ proceed/VERB to/PART shoot/VERB the/DET ball/NOUN into/ADP the/DET goal/NOUN with/ADP both/DET hand/NOUN follow/VERB that/SCONJ the/DET individual/ADJ walk/VERB forward/ADV wobble/VERB as/SCONJ they/PRON try/VERB to/PART balance/VERB on/ADP a/DET beam/NOUN 

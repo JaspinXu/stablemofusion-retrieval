@@ -1,0 +1,1 @@
+a/DET man/NOUN turn/VERB and/CCONJ walk/VERB in/ADP an/DET arc/NOUN to/ADP the/DET left/NOUN while/SCONJ another/DET person/NOUN be/AUX walk/VERB straight/ADV backwards/ADV 

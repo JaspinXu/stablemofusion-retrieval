@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB from/ADP the/DET top/NOUN of/ADP a/DET square/NOUN down/ADP to/ADP the/DET bottom/NOUN of/ADP the/DET square/NOUN and/CCONJ then/ADV back/ADV up/ADP subsequently/ADV act/VERB out/ADP a/DET performance/NOUN 

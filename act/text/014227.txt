@@ -1,0 +1,1 @@
+A person takes bouncing steps toward the lower right-hand side, stopping for a moment in the middle; after that, they continue walking toward the lower right-hand side again, while simultaneously moving something around.

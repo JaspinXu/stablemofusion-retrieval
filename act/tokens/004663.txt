@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN then/ADV move/VERB in/ADP a/DET counter/NOUN clockwise/NOUN semicircle/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ finally/ADV come/VERB to/ADP a/DET standstill/NOUN 

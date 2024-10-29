@@ -1,0 +1,2 @@
+the jogs from one end to the other in a diagonal fashion.
+stick figure walks forward in a straight line

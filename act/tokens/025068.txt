@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB still/ADV for/ADP a/DET moment/NOUN then/ADV take/VERB a/DET jump/NOUN and/CCONJ subsequently/ADV walk/VERB forward/ADV from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ 

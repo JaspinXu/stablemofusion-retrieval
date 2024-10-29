@@ -1,0 +1,1 @@
+A person walks forward, then turns to the left side and continues walking, subsequently taking 5 curved steps.

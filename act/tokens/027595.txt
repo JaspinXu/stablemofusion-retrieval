@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP their/PRON hand/NOUN at/ADP their/PRON side/NOUN then/ADV a/DET man/NOUN lift/VERB his/PRON hand/NOUN up/ADP in/ADP front/NOUN of/ADP his/PRON face/NOUN turn/VERB to/ADP his/PRON left/NOUN and/CCONJ then/ADV to/ADP his/PRON right/NOUN and/CCONJ subsequently/ADV put/VERB his/PRON hand/NOUN back/ADV down/ADV 

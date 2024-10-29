@@ -1,0 +1,12 @@
+person is standing up moving objects.
+the person is jogging in place.
+person is standing up moving objects.
+someone starts hopping from foot to foot and then returns to standing on both feet.
+a person allears to move an object from left to right.
+the person is jogging in place.
+a person allears to move an object from left to right.
+someone starts hopping from foot to foot and then returns to standing on both feet.
+the person picks something up and puts it to their right
+the person is jogging in place.
+the person picks something up and puts it to their right
+someone starts hopping from foot to foot and then returns to standing on both feet.

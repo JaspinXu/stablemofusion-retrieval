@@ -1,0 +1,6 @@
+a person takes several steps forwards, does a 180 and walks back to original spot.
+a person walks straight/forward, then suddenly gets kicked on their right side which pushes them towards the left side, but successfully recovered, and continued their original path.
+a person takes several steps forwards, does a 180 and walks back to original spot.
+person walks forward, suddenly jumps to the right as if dodging something, then recenters and keeps walking.
+a person takes several steps forwards, does a 180 and walks back to original spot.
+the person is walking slowly back and forth.

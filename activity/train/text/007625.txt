@@ -1,0 +1,1 @@
+A person walks ahead, then takes a right turn and stops at the next right turn, and after that, walks again before turning to the left.

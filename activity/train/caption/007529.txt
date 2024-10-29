@@ -1,0 +1,18 @@
+a man walks forward and to the left before stopping.
+a man walks forward 4 steps and stops.
+a man walks forward and to the left before stopping.
+a man walks forward starting with his right leg and stops after five steps.
+a man walks forward and to the left before stopping.
+a man walks forward in a curved line.
+he steps with an inside-out move with his left foot and walks forward with an arc to his left.
+a man walks forward 4 steps and stops.
+he steps with an inside-out move with his left foot and walks forward with an arc to his left.
+a man walks forward starting with his right leg and stops after five steps.
+he steps with an inside-out move with his left foot and walks forward with an arc to his left.
+a man walks forward in a curved line.
+a person walking then takes a turn to their left
+a man walks forward 4 steps and stops.
+a person walking then takes a turn to their left
+a man walks forward starting with his right leg and stops after five steps.
+a person walking then takes a turn to their left
+a man walks forward in a curved line.

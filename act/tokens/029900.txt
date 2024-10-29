@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB heavy/ADJ object/NOUN from/ADP one/NUM place/NOUN to/ADP another/PRON then/ADV turn/VERB to/ADP their/PRON left/ADJ and/CCONJ start/VERB pace/VERB back/ADV and/CCONJ forth/ADV a/DET couple/NOUN of/ADP time/NOUN 

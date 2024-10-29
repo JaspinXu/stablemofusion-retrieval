@@ -1,0 +1,1 @@
+A person runs in place, then begins to walk forward when pushed to the right, and finally moves back to the initial line of walking.

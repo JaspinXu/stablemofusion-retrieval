@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV step/VERB up/ADP with/ADP the/DET left/ADJ foot/NOUN go/VERB up/ADP and/CCONJ step/NOUN right/ADV before/ADP come/VERB down/ADP follow/VERB that/SCONJ they/PRON turn/VERB right/ADV and/CCONJ right/ADV again/ADV to/PART walk/VERB back/ADV up/ADP create/VERB a/DET figure/NOUN eight/NUM movement/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN hit/VERB a/DET tennis/NOUN ball/NOUN with/ADP a/DET double/ADJ handed/ADJ backhand/NOUN twice/ADV then/ADV a/DET man/NOUN stand/VERB with/ADP his/PRON arm/NOUN by/ADP his/PRON side/NOUN 

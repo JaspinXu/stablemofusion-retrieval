@@ -1,0 +1,1 @@
+the/DET man/NOUN wave/VERB a/DET heavy/ADJ object/NOUN around/ADP with/ADP both/DET hand/NOUN then/ADV a/DET person/NOUN walk/VERB far/ADV and/CCONJ run/VERB in/ADP the/DET other/ADJ direction/NOUN 

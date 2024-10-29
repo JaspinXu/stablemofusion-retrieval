@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV while/SCONJ move/VERB both/DET arm/NOUN in/ADP wide/ADJ circle/NOUN then/ADV turn/VERB around/ADV and/CCONJ do/AUX the/DET same/ADJ thing/NOUN walk/VERB in/ADP the/DET opposite/ADJ direction/NOUN subsequently/ADV pose/VERB like/ADP a/DET zombie/NOUN 

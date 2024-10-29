@@ -1,0 +1,1 @@
+The toon walks forward, sways a bit, and then walks back before stopping. Subsequently, a man walks counterclockwise in a circle.

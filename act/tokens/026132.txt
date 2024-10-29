@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX sit/VERB down/ADP then/ADV the/DET same/ADJ person/NOUN stand/VERB up/ADP walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ run/VERB the/DET remain/VERB step/NOUN 

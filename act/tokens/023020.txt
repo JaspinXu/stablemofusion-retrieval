@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP some/DET difficulty/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB backward/ADV at/ADP that/DET position/NOUN they/PRON turn/VERB to/ADP their/PRON left/ADJ and/CCONJ subsequently/ADV make/VERB circular/ADJ movement/NOUN with/ADP both/DET arm/NOUN 

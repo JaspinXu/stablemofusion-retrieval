@@ -1,0 +1,1 @@
+A person is standing still, then walks forwards, stops, and subsequently walks to his right.

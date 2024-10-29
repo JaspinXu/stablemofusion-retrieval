@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV down/ADV 4/NUM step/NOUN then/ADV do/AUX a/DET little/ADJ jump/NOUN in/ADP the/DET air/NOUN and/CCONJ subsequently/ADV continue/VERB to/PART walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN 

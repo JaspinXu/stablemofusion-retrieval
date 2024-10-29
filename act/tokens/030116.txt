@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN take/VERB a/DET step/NOUN forward/ADV while/SCONJ his/PRON left/ADJ hand/NOUN move/NOUN in/ADP a/DET circular/ADJ motion/NOUN above/ADP his/PRON right/ADJ hand/NOUN then/ADV his/PRON left/ADJ hand/NOUN go/VERB towards/ADP his/PRON head/NOUN and/CCONJ back/ADV down/ADV 

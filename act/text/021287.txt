@@ -1,0 +1,1 @@
+A person jogs in a circle to the right, then walks from the upper left to the lower right and back in a counterclockwise circle.

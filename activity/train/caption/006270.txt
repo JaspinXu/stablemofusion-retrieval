@@ -1,0 +1,18 @@
+a person slowly walks forward.
+a person walks in an arc to the left.
+a person slowly walks forward.
+a person walks in a curve to the left.
+a person slowly walks forward.
+a person suddenly walking to the right.
+a man walks forwards at a medium pace.
+a person walks in an arc to the left.
+a man walks forwards at a medium pace.
+a person walks in a curve to the left.
+a man walks forwards at a medium pace.
+a person suddenly walking to the right.
+a person takes five steps forward.
+a person walks in an arc to the left.
+a person takes five steps forward.
+a person walks in a curve to the left.
+a person takes five steps forward.
+a person suddenly walking to the right.

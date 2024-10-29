@@ -1,0 +1,18 @@
+this person is walking backwards aboht 5 steps
+a man walks forward turning to the left.
+this person is walking backwards aboht 5 steps
+a person walks forward and to the right.
+this person is walking backwards aboht 5 steps
+a person is walking clockwise for 90 degrees
+the person is walking straight backwards.
+a man walks forward turning to the left.
+the person is walking straight backwards.
+a person walks forward and to the right.
+the person is walking straight backwards.
+a person is walking clockwise for 90 degrees
+a person walks straight backwards along the ground.
+a man walks forward turning to the left.
+a person walks straight backwards along the ground.
+a person walks forward and to the right.
+a person walks straight backwards along the ground.
+a person is walking clockwise for 90 degrees

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB something/PRON up/ADP off/ADP the/DET floor/NOUN then/ADV rotate/VERB their/PRON arm/NOUN in/ADP a/DET clockwise/NOUN and/CCONJ anticlockwise/NOUN direction/NOUN 

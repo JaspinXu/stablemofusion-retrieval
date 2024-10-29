@@ -1,0 +1,1 @@
+A person skips backwards on a diagonal path to the left, then a man turns to his right and walks several steps before turning around and walking back toward where he came.

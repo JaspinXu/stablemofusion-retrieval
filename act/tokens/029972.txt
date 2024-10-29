@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX move/VERB an/DET object/NOUN then/ADV put/VERB it/PRON down/ADP and/CCONJ turn/VERB in/ADP an/DET adjacent/ADJ movement/NOUN away/ADV from/ADP the/DET object/NOUN follow/VERB that/SCONJ they/PRON walk/VERB in/ADP a/DET curve/NOUN to/ADP the/DET left/NOUN and/CCONJ that/PRON lead/VERB to/ADP they/PRON turn/VERB and/CCONJ climb/VERB several/ADJ stair/NOUN 

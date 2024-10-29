@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ towards/ADP the/DET lefthand/PROPN side/NOUN then/ADV a/DET figure/NOUN clap/NOUN around/ADP shoulder/NOUN height/NOUN 

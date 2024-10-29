@@ -1,0 +1,1 @@
+A person takes sliding steps to the left, then sliding steps to the right, and then again to the left to return to their original location. Following that, the person sits down while extending his arms outwards, then brings his arms down, and finally raises them back up again.

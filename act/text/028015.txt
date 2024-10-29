@@ -1,0 +1,1 @@
+A person walks forward very slowly, then is pushed backward, but subsequently resumes walking forward.

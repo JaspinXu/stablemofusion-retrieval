@@ -1,0 +1,18 @@
+person is running in place and then stands still
+a man takes several steps backwards.
+person is running in place and then stands still
+a person walks backwards and stops.
+person is running in place and then stands still
+a person walks backwards slowly.
+person is jogging in place.
+a man takes several steps backwards.
+person is jogging in place.
+a person walks backwards and stops.
+person is jogging in place.
+a person walks backwards slowly.
+a man is running in place.
+a man takes several steps backwards.
+a man is running in place.
+a person walks backwards and stops.
+a man is running in place.
+a person walks backwards slowly.

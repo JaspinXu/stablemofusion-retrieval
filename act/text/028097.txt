@@ -1,0 +1,1 @@
+A person is walking forward in a straight line, then steps forward, turns around to his left, and subsequently steps back and stops.

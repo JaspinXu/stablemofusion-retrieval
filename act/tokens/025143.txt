@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB a/DET couple/NOUN of/ADP step/NOUN start/VERB with/ADP the/DET right/ADJ foot/NOUN then/ADV the/DET man/NOUN walk/VERB straight/ADV forward/ADV with/ADP his/PRON arm/NOUN to/ADP his/PRON side/NOUN and/CCONJ stop/VERB at/ADP the/DET edge/NOUN of/ADP the/DET walkway/NOUN 

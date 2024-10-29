@@ -1,0 +1,1 @@
+A person starts crouched down, then bounces in the crouched position, finally walking forward still in the crouched position, acting like a chicken.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV with/ADP their/PRON left/ADJ leg/NOUN limping/NOUN then/ADV a/DET man/NOUN walk/VERB with/ADP a/DET normal/ADJ distance/NOUN between/ADP his/PRON foot/NOUN and/CCONJ step/VERB forward/ADV a/DET great/ADJ distance/NOUN to/PART step/VERB over/ADP something/PRON 

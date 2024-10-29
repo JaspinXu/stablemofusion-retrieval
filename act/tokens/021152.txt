@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN with/ADP their/PRON hand/NOUN up/ADP then/ADV continue/VERB to/PART move/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN with/ADP their/PRON arm/NOUN and/CCONJ hand/NOUN above/ADP their/PRON head/NOUN 

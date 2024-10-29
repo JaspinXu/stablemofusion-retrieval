@@ -1,0 +1,1 @@
+A person moves forward five steps down the steps, then pivots and walks back to where they started.

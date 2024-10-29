@@ -1,0 +1,1 @@
+A person walks quickly in a diagonal direction for 8 steps, then turns to walk in the direction they came from, and afterward, a man moves backwards while sliding his feet.

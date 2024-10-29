@@ -1,0 +1,1 @@
+a/DET person/NOUN make/VERB a/DET phone/NOUN call/NOUN while/SCONJ sit/VERB then/ADV perform/VERB a/DET clockwise/NOUN 270/NUM degree/NOUN jump/VERB spin/NOUN 

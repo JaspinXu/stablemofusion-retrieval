@@ -1,0 +1,1 @@
+A person moves their head back and forth, then walks left to right in a zigzag pattern.

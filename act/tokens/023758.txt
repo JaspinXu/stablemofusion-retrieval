@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV walk/VERB in/ADP the/DET left/ADJ direction/NOUN then/ADV transition/VERB to/ADP walk/VERB from/ADP one/NUM side/NOUN of/ADP the/DET platform/NOUN to/ADP another/PRON in/ADP an/DET sshaped/PROPN motion/NOUN 

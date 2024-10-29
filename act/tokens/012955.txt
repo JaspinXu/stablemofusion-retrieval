@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP an/DET anticlockwise/PROPN circle/NOUN slowly/ADV then/ADV look/VERB down/ADP to/ADP the/DET ground/NOUN step/VERB back/ADV with/ADP the/DET left/ADJ foot/NOUN and/CCONJ then/ADV the/DET right/ADJ and/CCONJ subsequently/ADV squat/VERB to/PART sit/VERB down/ADP 

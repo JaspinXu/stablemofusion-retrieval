@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB forward/ADV turn/VERB then/ADV walk/VERB back/ADV subsequently/ADV a/DET man/NOUN swing/VERB a/DET golf/NOUN club/NOUN and/CCONJ hit/VERB the/DET ball/NOUN 

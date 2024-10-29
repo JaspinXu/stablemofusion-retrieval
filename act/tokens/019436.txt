@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV until/ADP turn/VERB around/ADV subsequently/ADV walk/VERB back/ADV to/ADP where/SCONJ they/PRON originally/ADV start/VERB follow/VERB that/SCONJ the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET stagger/NOUN then/ADV turn/VERB around/ADV and/CCONJ retrace/VERB their/PRON step/NOUN in/ADP the/DET same/ADJ way/NOUN back/ADV 

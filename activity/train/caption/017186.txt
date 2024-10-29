@@ -1,0 +1,6 @@
+a person walks diagonally across the platform, turns right in a 180 degree motion and walks back down the same path to initial position.
+a person takes one step forward, swinging bilateral extremities simultaneously in a forward direction, then turns 180 degrees, moving forward while swinging bilateral extremities simultaneously in a backwards, circular motion.
+a person walks forward in a straight line then turns around and walks back.
+a person takes one step forward, swinging bilateral extremities simultaneously in a forward direction, then turns 180 degrees, moving forward while swinging bilateral extremities simultaneously in a backwards, circular motion.
+the person is walking back and forth.
+a person takes one step forward, swinging bilateral extremities simultaneously in a forward direction, then turns 180 degrees, moving forward while swinging bilateral extremities simultaneously in a backwards, circular motion.

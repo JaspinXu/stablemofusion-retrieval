@@ -1,0 +1,1 @@
+A person starts from a standing position and slowly walks in a circle, moving clockwise, and then stops.

@@ -1,0 +1,1 @@
+A figure walks forward starting with his left leg, takes 8 steps, and then slightly swings his hands.

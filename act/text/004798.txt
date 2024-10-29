@@ -1,0 +1,1 @@
+A person jumps and rotates to the left, then continues walking while veering left.

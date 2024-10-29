@@ -1,0 +1,1 @@
+A person walks forward, then stops, and subsequently walks down a ramp, first to the left and then to the right.

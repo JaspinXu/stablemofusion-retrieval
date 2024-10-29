@@ -1,0 +1,1 @@
+the/DET left/ADJ foot/NOUN take/VERB a/DET big/ADJ side/NOUN step/NOUN over/ADP the/DET right/ADJ foot/NOUN twice/ADV then/ADV the/DET right/ADJ foot/NOUN take/VERB a/DET big/ADJ side/NOUN step/NOUN over/ADP the/DET left/ADJ foot/NOUN while/SCONJ a/DET man/NOUN play/VERB the/DET drum/NOUN 

@@ -1,0 +1,1 @@
+A person walks to their right, then walks past their original position to the left, and subsequently returns to their starting position while standing to the right side.

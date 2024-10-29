@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB a/DET few/ADJ step/NOUN downwards/ADV at/ADP medium/ADJ pace/NOUN then/ADV stop/VERB and/CCONJ subsequently/ADV sit/VERB down/ADP on/ADP a/DET bench/NOUN before/ADP stand/VERB back/ADV up/ADV 

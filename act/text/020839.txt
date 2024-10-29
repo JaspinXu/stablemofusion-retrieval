@@ -1,0 +1,1 @@
+A person walks to grab an object with their left hand, then walks back to place the object on the floor and stands back up. After that, the man walks in a counterclockwise direction in a circle and eventually walks away.

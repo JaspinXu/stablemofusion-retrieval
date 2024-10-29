@@ -1,0 +1,1 @@
+the/DET person/NOUN press/VERB button/NOUN at/ADP the/DET atm/PROPN then/ADV raise/VERB both/DET arm/NOUN into/ADP the/DET air/NOUN 

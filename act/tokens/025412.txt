@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB walk/VERB clockwise/NOUN then/ADV counterclockwise/VERB in/ADP a/DET partial/ADJ figure/NOUN eight/NUM then/ADV take/VERB 9/NUM proud/ADJ step/NOUN forward/ADV and/CCONJ turn/VERB around/ADP 

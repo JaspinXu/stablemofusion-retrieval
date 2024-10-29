@@ -1,0 +1,1 @@
+A person sprints forward four steps, then stops and subsequently continues walking forward.

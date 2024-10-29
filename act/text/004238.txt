@@ -1,0 +1,1 @@
+A person is moving some objects from one place to another while walking forward, and then we’re all turning around and walking backwards.

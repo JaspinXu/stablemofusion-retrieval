@@ -1,0 +1,1 @@
+a/DET person/NOUN motion/NOUN as/SCONJ if/SCONJ to/PART pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET right/NOUN and/CCONJ then/ADV place/VERB it/PRON on/ADP the/DET left/NOUN after/SCONJ that/SCONJ they/PRON walk/VERB in/ADP a/DET straight/ADJ line/NOUN turn/VERB about/ADV completely/ADV and/CCONJ continue/VERB walk/VERB in/ADP another/DET straight/ADJ line/NOUN 

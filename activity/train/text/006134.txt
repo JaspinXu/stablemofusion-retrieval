@@ -1,0 +1,1 @@
+A person is initially walking straight, then changes direction in a rounded fashion toward the left; subsequently, they throw something and try to dodge an incoming object right after.

@@ -1,0 +1,18 @@
+a person grabbed something with left and right hand and put it somewhere
+person walks forward, slightly to the right
+a person grabbed something with left and right hand and put it somewhere
+a person walks forward and stops.
+a person grabbed something with left and right hand and put it somewhere
+a person walks forward and stops.
+a man lifts something from his right to his left
+person walks forward, slightly to the right
+a man lifts something from his right to his left
+a person walks forward and stops.
+a man lifts something from his right to his left
+a person walks forward and stops.
+man moves something from his right to left
+person walks forward, slightly to the right
+man moves something from his right to left
+a person walks forward and stops.
+man moves something from his right to left
+a person walks forward and stops.

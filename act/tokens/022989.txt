@@ -1,0 +1,1 @@
+a/DET figure/NOUN move/VERB one/NUM step/NOUN forward/ADV and/CCONJ two/NUM step/NOUN back/ADV then/ADV a/DET person/NOUN hold/VERB on/ADP to/ADP their/PRON left/ADJ leg/NOUN in/ADP pain/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB a/DET ball/NOUN with/ADP their/PRON right/ADJ arm/NOUN three/NUM time/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV and/CCONJ mime/NOUN throw/VERB a/DET ball/NOUN twice/ADV 

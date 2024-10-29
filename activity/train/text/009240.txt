@@ -1,0 +1,1 @@
+A person stands and then jumps forward; subsequently, they take 5 steps forward and stop.

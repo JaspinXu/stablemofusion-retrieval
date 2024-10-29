@@ -1,0 +1,1 @@
+a/DET robot/NOUN be/AUX walk/VERB forward/ADV then/ADV it/PRON turn/VERB back/ADV and/CCONJ start/VERB to/PART run/VERB after/ADP that/PRON it/PRON turn/VERB back/ADV once/ADV again/ADV and/CCONJ move/VERB its/PRON hand/NOUN while/SCONJ a/DET man/NOUN be/AUX clap/VERB several/ADJ time/NOUN 

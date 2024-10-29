@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX stand/VERB and/CCONJ look/VERB around/ADV then/ADV step/NOUN backwards/ADV with/ADP their/PRON left/ADJ foot/NOUN before/ADP step/VERB forwards/ADV to/ADP the/DET left/NOUN with/ADP their/PRON right/ADJ foot/NOUN subsequently/ADV swap/VERB the/DET motion/NOUN repeatedly/ADV 

@@ -1,0 +1,1 @@
+A stick figure stands still momentarily, then moves forward to the right with its arms up, next changes direction to the back left with its arms down, and finally continues its walk in a counterclockwise curve motion.

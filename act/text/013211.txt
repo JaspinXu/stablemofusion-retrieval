@@ -1,0 +1,1 @@
+A person walks to his left, then turns around to make a jump, subsequently walking and jumping back to the beginning.

@@ -1,0 +1,1 @@
+a/DET figure/NOUN walk/VERB forward/ADV then/ADV turn/VERB 180/NUM degree/NOUN from/ADP the/DET left/NOUN before/ADP walk/VERB back/ADV towards/ADP the/DET starting/NOUN point/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN put/VERB a/DET golf/NOUN ball/NOUN on/ADP a/DET tee/NOUN 

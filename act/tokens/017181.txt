@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV at/ADP an/DET even/ADJ pace/NOUN then/ADV quickly/ADV move/VERB from/ADP a/DET left/ADJ angle/NOUN turn/VERB around/ADV to/PART walk/VERB back/ADV 

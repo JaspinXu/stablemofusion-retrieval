@@ -1,0 +1,18 @@
+a person moves their left hand in a counter-clockwise horizontal circle
+a person walks forward from one end to the other.
+a person moves their left hand in a counter-clockwise horizontal circle
+a person walks directly forwards on the ground.
+a person moves their left hand in a counter-clockwise horizontal circle
+a person takes five steps forward.
+a person uses their left hand to stir something.
+a person walks forward from one end to the other.
+a person uses their left hand to stir something.
+a person walks directly forwards on the ground.
+a person uses their left hand to stir something.
+a person takes five steps forward.
+the person was stirring with his left hand.
+a person walks forward from one end to the other.
+the person was stirring with his left hand.
+a person walks directly forwards on the ground.
+the person was stirring with his left hand.
+a person takes five steps forward.

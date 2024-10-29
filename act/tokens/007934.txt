@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV down/ADP a/DET slight/ADJ incline/NOUN then/ADV a/DET stand/VERB person/NOUN run/VERB forward/ADV in/ADP a/DET slow/ADJ sidetoside/NOUN motion/NOUN 

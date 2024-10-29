@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX push/VERB a/DET shopping/NOUN cart/NOUN and/CCONJ then/ADV a/DET man/NOUN raise/VERB his/PRON forearm/NOUN put/VERB his/PRON hand/NOUN together/ADV in/ADP front/NOUN of/ADP he/PRON subsequently/ADV he/PRON lift/VERB his/PRON left/ADJ forearm/NOUN and/CCONJ rest/VERB his/PRON left/ADJ elbow/NOUN on/ADP his/PRON right/ADJ hand/NOUN 

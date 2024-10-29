@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB a/DET hand/NOUN gesture/NOUN with/ADP his/PRON right/ADJ arm/NOUN then/ADV a/DET man/NOUN step/VERB backward/ADV slowly/ADV with/ADP arm/NOUN curve/VERB at/ADP his/PRON side/NOUN 

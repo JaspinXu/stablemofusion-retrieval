@@ -1,0 +1,1 @@
+the/DET man/NOUN squat/NOUN and/CCONJ move/VERB his/PRON left/ADJ arm/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN reach/VERB up/ADP with/ADP his/PRON right/ADJ hand/NOUN next/PROPN he/PRON raise/VERB his/PRON left/ADJ hand/NOUN twice/ADV 

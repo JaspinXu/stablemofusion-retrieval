@@ -1,0 +1,18 @@
+a person casually walks forward.
+person moves forward two steps then does a full turn and faces opposite direction
+a person casually walks forward.
+the person work for you turn left and walk back
+a person casually walks forward.
+a person takes two steps forward, the pivots on their left foot, turning 180 degrees to the left and returning to their starting point.
+this person walks slowly frontwards.
+person moves forward two steps then does a full turn and faces opposite direction
+this person walks slowly frontwards.
+the person work for you turn left and walk back
+this person walks slowly frontwards.
+a person takes two steps forward, the pivots on their left foot, turning 180 degrees to the left and returning to their starting point.
+a person walks steadily straight ahead.
+person moves forward two steps then does a full turn and faces opposite direction
+a person walks steadily straight ahead.
+the person work for you turn left and walk back
+a person walks steadily straight ahead.
+a person takes two steps forward, the pivots on their left foot, turning 180 degrees to the left and returning to their starting point.

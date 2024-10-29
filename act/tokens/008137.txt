@@ -1,0 +1,1 @@
+the/DET man/NOUN throw/VERB a/DET ball/NOUN with/ADP his/PRON right/ADJ hand/NOUN then/ADV catch/VERB it/PRON afterward/ADV he/PRON move/VERB forward/ADV do/VERB a/DET 180degree/PROPN turn/NOUN and/CCONJ go/VERB back/ADV to/ADP the/DET same/ADJ spot/NOUN as/SCONJ he/PRON be/AUX before/ADP 

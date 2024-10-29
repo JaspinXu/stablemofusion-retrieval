@@ -1,0 +1,1 @@
+a/DET person/NOUN sidestep/VERB to/ADP the/DET right/ADJ 2/NUM step/NOUN then/ADV to/ADP the/DET left/ADJ 4/NUM step/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ 2/NUM step/NOUN after/ADP which/PRON they/PRON walk/VERB slowly/ADV while/SCONJ in/ADP a/DET crouch/VERB position/NOUN 

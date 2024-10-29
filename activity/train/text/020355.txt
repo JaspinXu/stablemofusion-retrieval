@@ -1,0 +1,1 @@
+The sim walks in a loop fashion from one side of the plane to the other, next a person is walking around in a circle.

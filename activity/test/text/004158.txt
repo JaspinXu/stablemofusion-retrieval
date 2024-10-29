@@ -1,0 +1,1 @@
+A person begins by walking backwards, then turns around and walks backwards back to the starting point, followed by walking backwards in a different direction.

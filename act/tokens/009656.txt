@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB swiftly/ADV forwards/ADV then/ADV stop/VERB after/SCONJ that/SCONJ a/DET person/NOUN take/VERB several/ADJ step/NOUN forwards/ADV do/VERB a/DET 180/NUM and/CCONJ walk/VERB back/ADV to/ADP the/DET original/ADJ spot/NOUN 

@@ -1,0 +1,1 @@
+A person walks to the left, then makes a U-turn counterclockwise and returns to the right of their initial position, facing away; afterwards, they continue walking in a straight line.

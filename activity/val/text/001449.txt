@@ -1,0 +1,1 @@
+A person walks in a zig-zag direction, first to the left, then to the right, and then to the left again. Subsequently, this person walks forward, bends down to pick up something, walks back, and then stops again to pick up another item.

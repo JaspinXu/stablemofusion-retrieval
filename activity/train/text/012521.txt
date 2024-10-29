@@ -1,0 +1,1 @@
+A person steps backwards, then walks forward while crouching, and subsequently jogs back-and-forth from right to left before returning to where he started.

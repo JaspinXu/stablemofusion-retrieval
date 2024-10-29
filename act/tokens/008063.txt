@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV from/ADP back/ADV to/ADP front/VERB five/NUM step/NOUN then/ADV a/DET man/NOUN lift/VERB an/DET object/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ subsequently/ADV kick/VERB the/DET object/NOUN with/ADP his/PRON left/ADJ foot/NOUN 

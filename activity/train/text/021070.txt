@@ -1,0 +1,1 @@
+The person is possibly coughing, then walks forward, backward, and diagonally.

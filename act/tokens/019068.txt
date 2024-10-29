@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB by/ADP stretch/VERB to/ADP the/DET left/NOUN and/CCONJ right/ADV then/ADV walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN to/ADP the/DET right/NOUN take/VERB a/DET seat/VERB position/NOUN and/CCONJ subsequently/ADV cross/VERB the/DET left/ADJ leg/NOUN over/ADP the/DET right/NOUN 

@@ -1,0 +1,1 @@
+a/DET stand/VERB person/NOUN wave/NOUN and/CCONJ then/ADV walk/VERB in/ADP a/DET half/ADJ circle/NOUN before/ADP wave/VERB again/ADV while/SCONJ another/DET person/NOUN limp/VERB with/ADP their/PRON left/ADJ leg/NOUN and/CCONJ hold/VERB their/PRON left/ADJ arm/NOUN to/ADP their/PRON left/ADJ leg/NOUN move/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN 

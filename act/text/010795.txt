@@ -1,0 +1,1 @@
+A person is walking backwards, then turns around and starts walking, and after a moment, they stop and turn around again.

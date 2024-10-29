@@ -1,0 +1,4 @@
+a person walks forward
+a person walks slowly forward and stops after a few paces.
+a person walks forward
+the person is walking very slow.

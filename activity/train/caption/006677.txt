@@ -1,0 +1,18 @@
+a person walks forward then stops.
+a person gestures picking something up then putting it down.
+a person walks forward then stops.
+a person picks up an object from the right and moves it to the left.
+a person walks forward then stops.
+a person picks something up and drops it.
+the person is walking forward.
+a person gestures picking something up then putting it down.
+the person is walking forward.
+a person picks up an object from the right and moves it to the left.
+the person is walking forward.
+a person picks something up and drops it.
+the person walks forward confidently
+a person gestures picking something up then putting it down.
+the person walks forward confidently
+a person picks up an object from the right and moves it to the left.
+the person walks forward confidently
+a person picks something up and drops it.

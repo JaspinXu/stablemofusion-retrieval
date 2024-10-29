@@ -1,0 +1,6 @@
+a person walks straight and turns to the left
+a person walks turning to the right.
+a person walks and turns left
+a person walks turning to the right.
+a person walks in a counterclockwise quarter circle.
+a person walks turning to the right.

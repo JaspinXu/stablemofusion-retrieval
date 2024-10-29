@@ -1,0 +1,1 @@
+from/ADP a/DET standing/NOUN position/NOUN the/DET person/NOUN put/VERB both/DET hand/NOUN out/ADP in/ADP front/NOUN of/ADP they/PRON with/ADP a/DET foot/NOUN forward/ADV as/SCONJ if/SCONJ to/PART ward/VERB something/PRON off/ADP then/ADV they/PRON lift/VERB both/DET arm/NOUN and/CCONJ move/VERB their/PRON hand/NOUN in/ADP and/CCONJ out/ADV 

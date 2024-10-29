@@ -1,0 +1,1 @@
+an/DET individual/ADJ run/NOUN in/ADP place/NOUN then/ADV transition/NOUN to/ADP light/ADJ pacing/NOUN back/ADV and/CCONJ forth/ADV follow/VERB by/ADP a/DET person/NOUN jog/VERB in/ADP place/NOUN before/ADP also/ADV jog/VERB back/ADV and/CCONJ forth/ADV 

@@ -1,0 +1,1 @@
+this/DET person/NOUN take/VERB four/NUM step/NOUN forward/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV bend/VERB down/ADP and/CCONJ touch/VERB the/DET floor/NOUN with/ADP their/PRON right/ADJ hand/NOUN while/SCONJ raise/VERB their/PRON left/ADJ leg/NOUN up/ADP 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN towards/ADP the/DET right/ADJ side/NOUN of/ADP his/PRON body/NOUN then/ADV he/PRON continue/VERB walk/VERB around/ADV while/SCONJ hold/VERB onto/ADP a/DET handrail/NOUN 

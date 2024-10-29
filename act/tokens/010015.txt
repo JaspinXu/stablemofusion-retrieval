@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV seven/NUM step/NOUN up/ADP a/DET flight/NOUN of/ADP step/NOUN then/ADV the/DET man/NOUN be/AUX moderately/ADV walk/VERB around/ADV in/ADP a/DET complete/ADJ circle/NOUN 

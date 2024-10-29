@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET natural/ADJ gait/NOUN then/ADV take/VERB one/NUM long/ADJ step/NOUN with/ADP the/DET right/ADJ leg/NOUN and/CCONJ subsequently/ADV kick/VERB with/ADP their/PRON right/ADJ foot/NOUN 

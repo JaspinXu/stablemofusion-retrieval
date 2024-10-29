@@ -1,0 +1,18 @@
+a person runs and stops.
+a person takes two steps forward and stops.
+a person runs and stops.
+a person leaps forward then stands still.
+a person runs and stops.
+a person walks forward while swinging their arms
+a person pauses after stepping forward, then takes off running.
+a person takes two steps forward and stops.
+a person pauses after stepping forward, then takes off running.
+a person leaps forward then stands still.
+a person pauses after stepping forward, then takes off running.
+a person walks forward while swinging their arms
+a person runs, stops running and starts again.
+a person takes two steps forward and stops.
+a person runs, stops running and starts again.
+a person leaps forward then stands still.
+a person runs, stops running and starts again.
+a person walks forward while swinging their arms

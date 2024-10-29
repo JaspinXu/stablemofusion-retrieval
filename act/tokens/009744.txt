@@ -1,0 +1,1 @@
+the/DET toon/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ pace/NOUN while/SCONJ a/DET person/NOUN pick/VERB something/PRON up/ADP with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ then/ADV put/VERB it/PRON in/ADP their/PRON right/ADJ hand/NOUN as/SCONJ they/PRON continue/VERB to/PART walk/VERB forwards/ADV slowly/ADV 

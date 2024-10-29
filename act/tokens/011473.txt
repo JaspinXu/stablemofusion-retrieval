@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV sway/VERB a/DET bit/NOUN as/SCONJ if/SCONJ he/PRON be/AUX drunk/ADJ then/ADV walk/VERB back/ADV before/ADP come/VERB to/ADP a/DET stop/NOUN 

@@ -1,0 +1,1 @@
+A person turns counterclockwise in a circle and runs diagonally, then turns in a counterclockwise circle before walking diagonally back to the middle of the gray area, subsequently moving while dragging their left leg.

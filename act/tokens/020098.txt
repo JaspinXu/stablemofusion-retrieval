@@ -1,0 +1,1 @@
+a/DET person/NOUN use/VERB one/NUM hand/NOUN to/PART make/VERB gesture/NOUN back/ADV and/CCONJ forth/ADV in/ADP front/NOUN of/ADP their/PRON chest/NOUN then/ADV subsequently/ADV chop/VERB onion/NOUN by/ADP hold/VERB the/DET onion/NOUN on/ADP the/DET board/NOUN with/ADP his/PRON left/ADJ hand/NOUN while/SCONJ chop/VERB with/ADP his/PRON right/ADJ hand/NOUN 

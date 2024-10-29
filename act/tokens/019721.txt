@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB backwards/ADV then/ADV jump/VERB to/ADP the/DET left/NOUN follow/VERB by/ADP a/DET jump/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET left/NOUN after/SCONJ that/SCONJ someone/PRON be/AUX stretch/VERB their/PRON arm/NOUN 

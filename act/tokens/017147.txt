@@ -1,0 +1,1 @@
+a/DET person/NOUN kick/VERB backwards/ADV then/ADV swing/VERB around/ADP their/PRON left/ADJ leg/NOUN follow/VERB that/SCONJ they/PRON start/VERB out/ADP with/ADP both/DET arm/NOUN extend/VERB then/ADV lower/VERB they/PRON to/PART walk/VERB three/NUM step/NOUN forward/ADV before/ADP turn/VERB to/ADP the/DET right/NOUN to/PART sit/VERB in/ADP a/DET chair/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN and/CCONJ pause/NOUN then/ADV continue/VERB to/PART walk/VERB forward/ADV make/VERB a/DET swatting/ADJ motion/NOUN with/ADP their/PRON left/ADJ hand/NOUN before/ADP take/VERB a/DET hop/NOUN in/ADP the/DET same/ADJ direction/NOUN 

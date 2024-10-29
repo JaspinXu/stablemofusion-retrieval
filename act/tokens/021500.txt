@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB like/ADP a/DET zombie/NOUN in/ADP a/DET half/ADJ circle/NOUN to/ADP the/DET left/NOUN then/ADV hold/VERB their/PRON right/ADJ hand/NOUN in/ADP front/NOUN of/ADP their/PRON face/NOUN and/CCONJ subsequently/ADV switch/VERB to/ADP the/DET left/ADJ hand/NOUN 

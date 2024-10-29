@@ -1,0 +1,18 @@
+a person runs sideways and stops at the center.
+a person walks forward, twists around, and walks back.
+a person runs sideways and stops at the center.
+the man is looking forward and turning around and walking the other way.
+a person runs sideways and stops at the center.
+a person walks forward, then turns anti-clockwise 180° and walks back.
+a person sprints back and forth from left to right.
+a person walks forward, twists around, and walks back.
+a person sprints back and forth from left to right.
+the man is looking forward and turning around and walking the other way.
+a person sprints back and forth from left to right.
+a person walks forward, then turns anti-clockwise 180° and walks back.
+a person turns to the left jogs two steps forward, turns 180 degrees and jogs four steps forward, turns 180 degrees and jogs two steps forward  then turns their body 90 degrees to the right.
+a person walks forward, twists around, and walks back.
+a person turns to the left jogs two steps forward, turns 180 degrees and jogs four steps forward, turns 180 degrees and jogs two steps forward  then turns their body 90 degrees to the right.
+the man is looking forward and turning around and walking the other way.
+a person turns to the left jogs two steps forward, turns 180 degrees and jogs four steps forward, turns 180 degrees and jogs two steps forward  then turns their body 90 degrees to the right.
+a person walks forward, then turns anti-clockwise 180° and walks back.

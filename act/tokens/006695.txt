@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB to/PART walk/VERB to/ADP the/DET left/NOUN subsequently/ADV take/VERB one/NUM step/NOUN forward/ADV before/ADP appear/VERB to/PART walk/VERB up/ADV five/NUM additional/ADJ step/NOUN in/ADP the/DET same/ADJ direction/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB down/ADP some/DET stair/NOUN while/SCONJ hold/VERB the/DET rail/NOUN with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ then/ADV climb/VERB a/DET small/ADJ staircase/NOUN of/ADP five/NUM stair/NOUN by/ADP walk/VERB start/VERB with/ADP their/PRON right/ADJ foot/NOUN 

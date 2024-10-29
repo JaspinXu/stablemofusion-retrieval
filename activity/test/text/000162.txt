@@ -1,0 +1,1 @@
+A standing person is pushed to their right and stumbles, catching themselves with their left foot. Next, the sim takes a jump forward.

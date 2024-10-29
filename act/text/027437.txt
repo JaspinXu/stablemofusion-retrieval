@@ -1,0 +1,1 @@
+A person takes three steps backward, then walks forward, making a bit of a zigzag shape.

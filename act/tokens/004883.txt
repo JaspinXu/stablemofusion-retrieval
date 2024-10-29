@@ -1,0 +1,1 @@
+the/DET person/NOUN jump/VERB backwards/ADV one/NUM step/NOUN and/CCONJ then/ADV take/VERB the/DET lid/NOUN off/ADP a/DET box/NOUN place/VERB it/PRON to/ADP their/PRON left/ADJ 

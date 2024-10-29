@@ -1,0 +1,1 @@
+A person pauses but then walks forward three steps, subsequently taking a left step followed by a right step, then left again, alternating until finally coming to a standstill.

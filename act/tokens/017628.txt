@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV walk/VERB forward/ADV in/ADP the/DET right/ADJ direction/NOUN then/ADV a/DET stick/NOUN figure/NOUN take/VERB five/NUM step/NOUN forward/ADV before/ADP turn/VERB around/ADV and/CCONJ go/VERB five/NUM step/NOUN back/ADV the/DET other/ADJ way/NOUN 

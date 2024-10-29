@@ -1,0 +1,18 @@
+the person is jogging forward turning right.
+a person walks forward in a clockwise semi-circle
+the person is jogging forward turning right.
+a person walks curving to the right.
+the person is jogging forward turning right.
+person walk to the right
+person runs forward, then runs to their right
+a person walks forward in a clockwise semi-circle
+person runs forward, then runs to their right
+a person walks curving to the right.
+person runs forward, then runs to their right
+person walk to the right
+running in a diagonal line.
+a person walks forward in a clockwise semi-circle
+running in a diagonal line.
+a person walks curving to the right.
+running in a diagonal line.
+person walk to the right

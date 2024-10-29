@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB then/ADV quickly/ADV move/VERB to/ADP the/DET left/ADJ subsequently/ADV they/PRON walk/VERB forward/ADV dodge/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV move/VERB to/ADP the/DET left/NOUN again/ADV 

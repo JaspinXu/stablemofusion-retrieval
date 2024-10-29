@@ -1,0 +1,18 @@
+a person takes two steps backwards.
+a person takes a single step down.
+a person takes two steps backwards.
+a person steps forward to their left.
+a person takes two steps backwards.
+person is standing forward.
+person is backing up.
+a person takes a single step down.
+person is backing up.
+a person steps forward to their left.
+person is backing up.
+person is standing forward.
+a person takes one step.
+a person takes a single step down.
+a person takes one step.
+a person steps forward to their left.
+a person takes one step.
+person is standing forward.

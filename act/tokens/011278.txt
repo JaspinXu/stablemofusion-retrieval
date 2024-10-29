@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN counterclockwise/NOUN then/ADV walk/VERB forward/ADV in/ADP a/DET straight/ADJ line/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB backwards/ADV in/ADP a/DET clockwise/NOUN direction/NOUN to/PART form/VERB a/DET circle/NOUN in/ADP the/DET center/NOUN of/ADP the/DET platform/NOUN then/ADV a/DET person/NOUN fall/VERB forward/ADV and/CCONJ subsequently/ADV sit/VERB back/ADV up/ADV 

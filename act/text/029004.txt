@@ -1,0 +1,1 @@
+A person walks forward, then bends down, next walks up stairs, turns right, and subsequently walks back down the stairs.

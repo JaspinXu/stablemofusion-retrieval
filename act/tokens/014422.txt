@@ -1,0 +1,1 @@
+a/DET red/ADJ and/CCONJ white/ADJ stick/NOUN figure/NOUN be/AUX walk/VERB step/NOUN by/ADP step/NOUN in/ADP a/DET straight/ADJ line/NOUN and/CCONJ then/ADV it/PRON start/VERB stir/VERB a/DET pot/NOUN counterclockwise/NOUN with/ADP its/PRON right/ADJ hand/NOUN 

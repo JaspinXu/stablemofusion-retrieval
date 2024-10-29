@@ -1,0 +1,1 @@
+A person acts in a shy way while walking; then they walk backward a few steps, stop, and subsequently walk forward a few steps. Following that, they turn to the right and start walking diagonally to the left. After stopping again, they resume walking backward towards their left, then stop once more before walking forward a few steps.

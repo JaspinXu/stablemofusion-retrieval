@@ -1,0 +1,1 @@
+A person runs and then stops, after that, the person takes two steps forward and stops again.

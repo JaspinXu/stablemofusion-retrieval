@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV 4/NUM step/NOUN and/CCONJ then/ADV stretch/VERB something/PRON 

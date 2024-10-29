@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX slide/VERB from/ADP left/ADJ to/ADP right/ADV then/ADV a/DET man/NOUN step/VERB in/ADP a/DET circular/ADJ motion/NOUN while/SCONJ use/VERB both/DET hand/NOUN simultaneously/ADV to/PART point/VERB at/ADP someone/PRON as/SCONJ if/SCONJ they/PRON be/AUX have/VERB a/DET conversation/NOUN 

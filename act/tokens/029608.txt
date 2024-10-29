@@ -1,0 +1,1 @@
+a/DET man/NOUN pet/VERB a/DET large/ADJ dog/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV in/ADP an/DET askew/NOUN line/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN and/CCONJ move/VERB their/PRON hand/NOUN then/ADV from/ADP 4/NUM second/NOUN to/ADP 9/NUM second/NOUN they/PRON wave/VERB their/PRON right/ADJ hand/NOUN repeatedly/ADV above/ADP their/PRON head/NOUN 

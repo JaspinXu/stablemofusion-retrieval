@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN while/SCONJ move/VERB his/PRON hand/NOUN and/CCONJ do/VERB a/DET small/ADJ bounce/NOUN then/ADV a/DET figure/NOUN move/VERB its/PRON right/ADJ hand/NOUN to/ADP its/PRON left/ADJ shoulder/NOUN and/CCONJ then/ADV to/ADP its/PRON right/NOUN 

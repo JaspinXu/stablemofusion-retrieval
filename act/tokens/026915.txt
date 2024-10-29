@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB backward/ADV then/ADV move/VERB forward/ADV subsequently/ADV jog/VERB forward/ADV at/ADP a/DET medium/ADJ pace/NOUN and/CCONJ finally/ADV jump/VERB 

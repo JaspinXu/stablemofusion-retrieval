@@ -1,0 +1,1 @@
+this/DET person/NOUN sit/VERB cross/VERB legged/ADJ on/ADP the/DET floor/NOUN then/ADV stand/VERB up/ADP subsequently/ADV the/DET man/NOUN walk/VERB forward/ADV stagger/NOUN to/ADP the/DET right/ADJ step/NOUN back/ADV and/CCONJ then/ADV step/VERB right/ADV again/ADV to/PART straighten/VERB up/ADP before/ADP walk/VERB forward/ADV 

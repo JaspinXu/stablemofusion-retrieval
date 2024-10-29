@@ -1,0 +1,1 @@
+A person walks forward in a diagonal line, then takes two steps before kicking their right leg up to turn around and walk another two steps.

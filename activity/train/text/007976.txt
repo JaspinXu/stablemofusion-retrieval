@@ -1,0 +1,1 @@
+A person walks forward, then spins around and walks back, subsequently making a right turn as he continues on his path.

@@ -1,0 +1,1 @@
+someone/NOUN head/NOUN itch/VERB and/CCONJ scratch/VERB then/ADV a/DET person/NOUN take/VERB one/NUM step/NOUN to/ADP the/DET left/ADJ 

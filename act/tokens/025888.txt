@@ -1,0 +1,1 @@
+this/DET person/NOUN turn/VERB 60/NUM degree/NOUN then/ADV take/VERB five/NUM drag/VERB step/NOUN backwards/ADV follow/VERB that/DET bend/NOUN over/ADP to/ADP the/DET front/NOUN and/CCONJ touch/VERB the/DET ground/NOUN with/ADP both/DET hand/NOUN before/ADP return/VERB to/ADP a/DET standing/NOUN position/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ reach/VERB a/DET staircase/NOUN then/ADV continue/VERB walk/VERB backwards/ADV up/ADP it/PRON follow/VERB that/SCONJ the/DET same/ADJ person/NOUN stumble/VERB forwards/ADV a/DET few/ADJ step/NOUN stop/NOUN and/CCONJ then/ADV stumble/VERB ahead/ADV again/ADV 

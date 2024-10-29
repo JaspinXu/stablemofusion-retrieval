@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB a/DET long/ADJ wave/NOUN then/ADV a/DET quarterback/NOUN throw/VERB a/DET football/NOUN to/ADP another/DET team/NOUN member/NOUN in/ADP hope/NOUN to/PART score/VERB a/DET touchdown/NOUN 

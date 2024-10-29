@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP an/DET sshaped/PROPN line/NOUN having/AUX begin/VERB with/ADP a/DET wide/ADJ stance/NOUN subsequently/ADV they/PRON continue/VERB move/VERB forward/ADV with/ADP random/ADJ stance/NOUN and/CCONJ at/ADP the/DET end/NOUN they/PRON cross/VERB their/PRON leg/NOUN to/PART complete/VERB the/DET movement/NOUN 

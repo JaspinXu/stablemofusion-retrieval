@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 5/NUM step/NOUN forward/ADV then/ADV raise/VERB his/PRON left/ADJ arm/NOUN lower/VERB it/PRON and/CCONJ subsequently/ADV raise/VERB his/PRON right/ADJ arm/NOUN 

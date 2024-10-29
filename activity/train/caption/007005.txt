@@ -1,0 +1,18 @@
+a person runs with a wide stride forward.
+a person slowly walked backwards
+a person runs with a wide stride forward.
+a person steps back in the box while stumbling a small amount left.
+a person runs with a wide stride forward.
+a person stumbles backwards a few steps
+a person runs forward and stops.
+a person slowly walked backwards
+a person runs forward and stops.
+a person steps back in the box while stumbling a small amount left.
+a person runs forward and stops.
+a person stumbles backwards a few steps
+a person jogs quickly in a straight line.
+a person slowly walked backwards
+a person jogs quickly in a straight line.
+a person steps back in the box while stumbling a small amount left.
+a person jogs quickly in a straight line.
+a person stumbles backwards a few steps

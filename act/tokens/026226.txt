@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX run/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN very/ADV quickly/ADV next/ADV they/PRON continue/VERB run/VERB to/ADP the/DET left/ADJ 

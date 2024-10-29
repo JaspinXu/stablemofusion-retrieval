@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB an/DET object/NOUN from/ADP the/DET left/ADJ position/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV tilt/VERB it/PRON on/ADP its/PRON side/NOUN subsequently/ADV move/VERB their/PRON hand/NOUN back/ADV and/CCONJ forth/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB normally/ADV and/CCONJ come/VERB to/ADP a/DET stop/NOUN then/ADV perform/VERB a/DET jumping/NOUN spin/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN rotate/VERB 180/NUM degree/NOUN 

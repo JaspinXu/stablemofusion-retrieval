@@ -1,0 +1,1 @@
+A person walks forward, then takes a big step in between and continues to walk forward. Subsequently, the person is walking when they pivot and turn in the other direction.

@@ -1,0 +1,1 @@
+A person walks down stairs alternating their feet, starting with the left foot. After that, they take a step back and to the right, sit on an invisible object, then get up to stand and take smaller steps back to their original position.

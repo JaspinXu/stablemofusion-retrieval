@@ -1,0 +1,18 @@
+a person walks forward and stops.
+character walking, gets pushed off ballanced from the right , regains orientation and continues walking.
+a person walks forward and stops.
+a figure stumbles, regains composure, and continues walking
+a person walks forward and stops.
+walking in a random pattern forward.
+a person walks forward slowly
+character walking, gets pushed off ballanced from the right , regains orientation and continues walking.
+a person walks forward slowly
+a figure stumbles, regains composure, and continues walking
+a person walks forward slowly
+walking in a random pattern forward.
+slowly moving forward on the floor.
+character walking, gets pushed off ballanced from the right , regains orientation and continues walking.
+slowly moving forward on the floor.
+a figure stumbles, regains composure, and continues walking
+slowly moving forward on the floor.
+walking in a random pattern forward.

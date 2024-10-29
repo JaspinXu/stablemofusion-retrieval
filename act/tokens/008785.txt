@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB to/PART move/VERB in/ADP a/DET zigzag/PROPN motion/NOUN then/ADV a/DET person/NOUN reach/VERB down/ADP with/ADP their/PRON right/ADJ hand/NOUN grab/VERB a/DET glass/NOUN drink/VERB from/ADP it/PRON and/CCONJ place/VERB the/DET glass/NOUN back/ADV 

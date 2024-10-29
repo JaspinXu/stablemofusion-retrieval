@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV in/ADP a/DET semicircle/NOUN path/NOUN then/ADV slowly/ADV move/VERB downstairs/ADV and/CCONJ return/NOUN 

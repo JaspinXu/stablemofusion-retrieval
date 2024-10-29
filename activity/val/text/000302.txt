@@ -1,0 +1,1 @@
+A headless stick figure with hands takes 4 steps, then stops. Following that, a man walks forward, places his hands on an object, and looks at it.

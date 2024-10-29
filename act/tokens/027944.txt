@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB to/ADP the/DET left/NOUN then/ADV make/VERB a/DET uturn/PROPN counterclockwise/NOUN and/CCONJ return/NOUN to/ADP the/DET right/NOUN of/ADP their/PRON initial/ADJ position/NOUN face/VERB away/ADV afterwards/ADV they/PRON continue/AUX walk/VERB in/ADP a/DET straight/ADJ line/NOUN 

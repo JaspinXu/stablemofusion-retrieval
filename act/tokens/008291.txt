@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ pick/VERB up/ADP an/DET object/NOUN from/ADP the/DET ground/NOUN which/PRON they/PRON lift/VERB and/CCONJ put/VERB down/ADP again/ADV then/ADV they/PRON turn/VERB around/ADV and/CCONJ walk/VERB back/ADV follow/VERB that/SCONJ a/DET man/NOUN bow/VERB very/ADV slowly/ADV 

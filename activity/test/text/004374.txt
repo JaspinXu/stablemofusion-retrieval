@@ -1,0 +1,1 @@
+A person walks forward toward something, then turns to the left and walks back. Subsequently, the person standing on the left side walks crisscross to the right four times, then steps and walks crisscross twice toward the left before stopping in the middle.

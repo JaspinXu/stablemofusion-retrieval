@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET forward/ADV face/VERB zigzag/PROPN motion/NOUN then/ADV the/DET person/NOUN back/VERB up/ADP and/CCONJ begin/VERB walk/VERB diagonally/ADV 

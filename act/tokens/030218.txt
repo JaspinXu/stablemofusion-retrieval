@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV gingerly/ADV then/ADV walk/VERB to/ADP the/DET back/NOUN of/ADP the/DET space/NOUN and/CCONJ turn/VERB around/ADP subsequently/ADV the/DET person/NOUN walk/VERB back/ADV and/CCONJ forth/ADV 

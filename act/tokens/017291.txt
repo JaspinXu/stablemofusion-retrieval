@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB up/ADP and/CCONJ down/ADP multiple/ADJ time/NOUN stop/VERB step/NOUN back/ADV and/CCONJ then/ADV resume/VERB jump/VERB meanwhile/ADV a/DET person/NOUN walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN 

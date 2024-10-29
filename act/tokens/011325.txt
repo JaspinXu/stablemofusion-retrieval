@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV in/ADP a/DET forward/ADJ motion/NOUN then/ADV turn/VERB on/ADP his/PRON left/ADJ foot/NOUN to/PART face/VERB backward/ADV and/CCONJ stop/VERB follow/VERB that/SCONJ a/DET man/NOUN turn/VERB to/ADP his/PRON right/NOUN then/ADV walk/VERB back/ADV and/CCONJ raise/VERB both/DET arm/NOUN 

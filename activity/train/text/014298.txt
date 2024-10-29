@@ -1,0 +1,1 @@
+A man walks forward, then turns right, following a person who moves in an S pattern from the left side of the room to the right side.

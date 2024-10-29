@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB in/ADP a/DET random/ADJ pattern/NOUN then/ADV side/VERB step/NOUN to/ADP the/DET left/ADJ side/NOUN step/NOUN to/ADP the/DET right/NOUN and/CCONJ finally/ADV side/VERB step/NOUN to/ADP the/DET left/NOUN once/ADV more/ADV to/PART end/VERB at/ADP the/DET center/NOUN 

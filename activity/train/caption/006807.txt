@@ -1,0 +1,18 @@
+person walks forward and curves to the right.
+a person walking gets pushed to the left.
+person walks forward and curves to the right.
+a person walks forward and then stumbles to his left
+person walks forward and curves to the right.
+he pushes recovery right then stops
+a person walks in an arc to the right then stops.
+a person walking gets pushed to the left.
+a person walks in an arc to the right then stops.
+a person walks forward and then stumbles to his left
+a person walks in an arc to the right then stops.
+he pushes recovery right then stops
+a person walks to the right.
+a person walking gets pushed to the left.
+a person walks to the right.
+a person walks forward and then stumbles to his left
+a person walks to the right.
+he pushes recovery right then stops

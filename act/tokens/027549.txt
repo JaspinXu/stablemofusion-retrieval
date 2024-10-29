@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB 5/NUM step/NOUN in/ADP a/DET forward/ADJ direction/NOUN then/ADV throw/VERB a/DET ball/NOUN with/ADP his/PRON right/ADJ hand/NOUN 

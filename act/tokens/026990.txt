@@ -1,0 +1,1 @@
+a/DET person/NOUN briskly/ADV walk/VERB down/ADP the/DET stair/NOUN then/ADV continue/VERB walk/VERB in/ADP a/DET diagonal/ADJ line/NOUN 

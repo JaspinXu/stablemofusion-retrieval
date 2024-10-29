@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB 360/NUM degree/NOUN and/CCONJ come/VERB back/ADV to/ADP the/DET original/ADJ position/NOUN then/ADV take/VERB a/DET step/NOUN back/ADV follow/VERB by/ADP a/DET figure/NOUN run/VERB in/ADP place/NOUN effortlessly/ADV 

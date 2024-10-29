@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB right/ADV then/ADV turn/VERB to/PART walk/VERB back/ADV to/ADP the/DET left/NOUN and/CCONJ subsequently/ADV stand/VERB still/ADV to/PART grab/VERB the/DET box/NOUN 

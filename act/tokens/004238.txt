@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX move/VERB some/DET object/NOUN from/ADP one/NUM place/NOUN to/ADP another/PRON while/SCONJ walk/VERB forward/ADV and/CCONJ then/ADV we/PRON ’re/AUX all/PRON turn/VERB around/ADV and/CCONJ walk/VERB backwards/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV and/CCONJ subsequently/ADV raise/VERB their/PRON left/ADJ hand/NOUN to/ADP the/DET side/NOUN of/ADP their/PRON head/NOUN 

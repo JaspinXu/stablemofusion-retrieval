@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ back/ADV while/SCONJ hold/VERB an/DET object/NOUN near/ADP their/PRON face/NOUN then/ADV very/ADV slowly/ADV continue/VERB to/PART walk/VERB forward/ADV place/VERB one/NUM foot/NOUN in/ADP front/NOUN of/ADP the/DET other/ADJ while/SCONJ hold/VERB their/PRON arm/NOUN out/ADP to/ADP the/DET side/NOUN 

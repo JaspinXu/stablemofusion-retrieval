@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB in/ADP the/DET air/NOUN and/CCONJ turn/VERB 90/NUM degree/NOUN to/ADP the/DET left/NOUN then/ADV walk/VERB forward/ADV but/CCONJ slightly/ADV to/ADP the/DET right/NOUN 

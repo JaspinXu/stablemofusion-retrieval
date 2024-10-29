@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB three/NUM step/NOUN backward/ADV then/ADV walk/VERB forward/ADV make/VERB a/DET bit/NOUN of/ADP a/DET zigzag/NOUN shape/NOUN 

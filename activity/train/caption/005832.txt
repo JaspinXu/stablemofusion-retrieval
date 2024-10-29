@@ -1,0 +1,12 @@
+a figure runs in place
+a person picks up an object, moves it to the left, and places it down.
+a figure runs in place
+a person grabbed something and  put it down
+a person jogs in place.
+a person picks up an object, moves it to the left, and places it down.
+a person jogs in place.
+a person grabbed something and  put it down
+a person is jogging on the spot.
+a person picks up an object, moves it to the left, and places it down.
+a person is jogging on the spot.
+a person grabbed something and  put it down

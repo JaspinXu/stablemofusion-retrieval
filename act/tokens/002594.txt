@@ -1,0 +1,1 @@
+a/DET person/NOUN cross/VERB his/PRON arm/NOUN then/ADV a/DET stick/NOUN figure/NOUN video/NOUN walk/NOUN in/ADP a/DET clockwise/NOUN motion/NOUN start/VERB at/ADP 12/NUM oclock/NOUN and/CCONJ end/VERB at/ADP 7/NUM oclock/NOUN 

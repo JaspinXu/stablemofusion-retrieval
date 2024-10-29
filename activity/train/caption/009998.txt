@@ -1,0 +1,18 @@
+a man walks forward a couple steps then halts and walks in place.
+a person climbs stairs while using the railing
+a man walks forward a couple steps then halts and walks in place.
+a person raises its left arm then climbs up somthing.
+a man walks forward a couple steps then halts and walks in place.
+someone is walking up some steps with their left hand holding the hand rail.
+walking up stairs, starts at a lower y axis and ends up higher.
+a person climbs stairs while using the railing
+walking up stairs, starts at a lower y axis and ends up higher.
+a person raises its left arm then climbs up somthing.
+walking up stairs, starts at a lower y axis and ends up higher.
+someone is walking up some steps with their left hand holding the hand rail.
+a person walks forward a few steps and then walks in place a few more steps.
+a person climbs stairs while using the railing
+a person walks forward a few steps and then walks in place a few more steps.
+a person raises its left arm then climbs up somthing.
+a person walks forward a few steps and then walks in place a few more steps.
+someone is walking up some steps with their left hand holding the hand rail.

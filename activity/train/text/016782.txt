@@ -1,0 +1,1 @@
+A person moves steps to their left, then takes a few steps to their right, and after that makes a few more steps to their left. Subsequently, they step forward, bending their right knee and raising their right arm.

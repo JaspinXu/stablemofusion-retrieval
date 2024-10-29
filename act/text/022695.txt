@@ -1,0 +1,1 @@
+A person walks forward, then turns and walks diagonally. Following that, they turn around and walk back. Subsequently, they navigate straight on uneven terrain before turning around and returning.

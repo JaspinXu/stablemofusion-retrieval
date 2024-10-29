@@ -1,0 +1,6 @@
+a person leans to the right
+a person picks something up
+a man walks  
+a man steps forward
+a man takes an object with his left hand  
+a man turns around

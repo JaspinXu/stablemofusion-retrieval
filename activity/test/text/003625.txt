@@ -1,0 +1,1 @@
+A person walks in a circular path, then a man walks forward, turns around, walks diagonally, and subsequently turns around and crouches.

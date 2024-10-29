@@ -1,0 +1,1 @@
+the/DET person/NOUN limp/VERB after/ADP nearly/ADV fall/VERB then/ADV take/VERB two/NUM step/NOUN to/ADP the/DET right/ADJ walk/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV back/ADV to/ADP the/DET right/NOUN 

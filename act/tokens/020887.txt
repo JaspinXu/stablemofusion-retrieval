@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB to/ADP the/DET right/ADJ then/ADV turn/VERB and/CCONJ run/VERB to/ADP the/DET left/ADJ follow/VERB that/SCONJ the/DET same/ADJ person/NOUN walk/VERB diagonally/ADV to/ADP the/DET right/ADJ pause/NOUN with/ADP their/PRON hand/NOUN raise/VERB and/CCONJ then/ADV walk/VERB back/ADV 

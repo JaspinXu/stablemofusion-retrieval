@@ -1,0 +1,1 @@
+a/DET man/NOUN move/VERB an/DET object/NOUN with/ADP his/PRON right/ADJ hand/NOUN from/ADP the/DET left/ADJ side/NOUN to/ADP the/DET right/ADJ side/NOUN and/CCONJ then/ADV a/DET person/NOUN lift/VERB his/PRON left/ADJ and/CCONJ right/ADJ arm/NOUN into/ADP the/DET air/NOUN 

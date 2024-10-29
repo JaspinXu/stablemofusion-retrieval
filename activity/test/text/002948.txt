@@ -1,0 +1,1 @@
+A person is swiftly moving in left and right directions, then swings a bat to their left twice.

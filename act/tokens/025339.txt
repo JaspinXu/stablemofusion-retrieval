@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB both/DET hand/NOUN up/ADP and/CCONJ then/ADV down/ADV then/ADV kneel/NOUN with/ADP the/DET right/ADJ leg/NOUN first/ADV help/VERB themselves/PRON with/ADP the/DET left/ADJ hand/NOUN and/CCONJ then/ADV the/DET left/ADJ leg/NOUN after/SCONJ that/PRON the/DET person/NOUN move/VERB their/PRON arm/NOUN and/CCONJ leg/NOUN as/ADP if/SCONJ swim/VERB 

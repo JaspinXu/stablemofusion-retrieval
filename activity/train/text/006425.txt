@@ -1,0 +1,1 @@
+A person navigates going up a set of stairs, then walks forward, pivots on their right foot, and walks back.

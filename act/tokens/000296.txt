@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB something/PRON with/ADP their/PRON right/ADJ hand/NOUN while/SCONJ step/VERB back/ADV to/PART propel/VERB the/DET item/NOUN forward/ADV next/ADV they/PRON run/VERB to/ADP the/DET right/ADJ side/NOUN then/ADV curve/NOUN leave/VERB while/SCONJ keep/VERB their/PRON arm/NOUN bent/ADJ at/ADP 90degree/NUM angle/NOUN at/ADP their/PRON waist/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX walk/VERB sideways/ADV to/ADP the/DET right/ADJ then/ADV stop/VERB and/CCONJ walk/VERB one/NUM step/NOUN sideways/ADV to/ADP the/DET left/ADJ follow/VERB that/SCONJ he/PRON start/VERB walk/VERB forward/ADV slowly/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP two/NUM object/NOUN then/ADV step/VERB forward/ADV follow/VERB that/SCONJ another/DET person/NOUN seat/VERB on/ADP the/DET ground/NOUN with/ADP leg/NOUN cross/VERB use/VERB their/PRON left/ADJ arm/NOUN to/PART throw/VERB something/PRON across/ADV and/CCONJ then/ADV in/ADP front/NOUN of/ADP their/PRON body/NOUN before/ADP stand/VERB up/ADP 

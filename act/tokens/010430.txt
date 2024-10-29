@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV move/VERB back/ADV one/NUM step/NOUN after/SCONJ that/DET move/NOUN forward/ADV again/ADV follow/VERB by/ADP a/DET person/NOUN who/PRON take/VERB a/DET couple/NOUN of/ADP step/NOUN forward/ADV and/CCONJ then/ADV skip/VERB 

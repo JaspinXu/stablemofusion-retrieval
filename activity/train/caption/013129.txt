@@ -1,0 +1,6 @@
+the toon bends to grab an object, appears to be filling a cup, placing the item back to where it was.
+walking forward and to the side.
+the toon bends to grab an object, appears to be filling a cup, placing the item back to where it was.
+a person walks forward, stumbles to the left, recovers, and continues walking.
+the toon bends to grab an object, appears to be filling a cup, placing the item back to where it was.
+a man is walking and side steps to the left but continues to walk forward.

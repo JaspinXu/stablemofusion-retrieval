@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB with/ADP a/DET normal/ADJ gait/NOUN forward/ADV then/ADV a/DET person/NOUN walk/VERB downward/ADV in/ADP a/DET semicircle/NOUN to/ADP the/DET righthand/NOUN side/NOUN and/CCONJ stand/VERB still/ADV 

@@ -1,0 +1,1 @@
+The person is walking around looking down, then walks forward, touches an object, and subsequently walks back.

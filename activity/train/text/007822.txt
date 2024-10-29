@@ -1,0 +1,1 @@
+A figure steps forward two steps, then swivels on its right foot to turn half and walk back to where it began, subsequently walking towards its left.

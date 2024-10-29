@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB in/ADP place/NOUN then/ADV jog/VERB in/ADP a/DET small/ADJ circle/NOUN and/CCONJ afterward/ADV bend/VERB down/ADP to/PART put/VERB his/PRON left/ADJ hand/NOUN down/ADP to/ADP his/PRON left/ADJ foot/NOUN two/NUM time/NOUN before/ADP turn/VERB at/ADP a/DET 180degree/PROPN angle/NOUN 

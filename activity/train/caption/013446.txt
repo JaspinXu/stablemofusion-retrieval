@@ -1,0 +1,18 @@
+the person is walking in a counter  clock wise circle
+a person jumps sideways directly to their left.
+the person is walking in a counter  clock wise circle
+a person jumps sideways to the right.
+the person is walking in a counter  clock wise circle
+a person hops sideways to their left.
+a person walks in a counterclockwise circle.
+a person jumps sideways directly to their left.
+a person walks in a counterclockwise circle.
+a person jumps sideways to the right.
+a person walks in a counterclockwise circle.
+a person hops sideways to their left.
+a person is walking in a counter clockwise circle.
+a person jumps sideways directly to their left.
+a person is walking in a counter clockwise circle.
+a person jumps sideways to the right.
+a person is walking in a counter clockwise circle.
+a person hops sideways to their left.

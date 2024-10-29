@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/NOUN before/ADP stop/VERB then/ADV continue/VERB to/PART walk/VERB forward/ADV in/ADP a/DET curved/ADJ line/NOUN 

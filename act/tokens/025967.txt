@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB up/ADV and/CCONJ down/ADV 2/NUM step/NOUN then/ADV around/ADP they/PRON to/PART sit/VERB on/ADP the/DET stair/NOUN follow/VERB that/SCONJ a/DET person/NOUN step/VERB side/NOUN to/PART side/VERB to/PART loosen/VERB up/ADP 

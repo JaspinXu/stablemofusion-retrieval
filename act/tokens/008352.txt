@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB do/VERB a/DET step/NOUN over/ADV and/CCONJ continue/VERB to/PART walk/VERB then/ADV a/DET man/NOUN walk/VERB slowly/ADV down/ADP a/DET slope/NOUN 

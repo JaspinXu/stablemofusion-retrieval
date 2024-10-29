@@ -1,0 +1,1 @@
+A person walks around slowly, then takes a step, turns, and goes five steps back. After that, he takes something from or puts it on a high shelf, then turns over and goes back to the spot where he started his movement.

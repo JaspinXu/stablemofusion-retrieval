@@ -1,0 +1,1 @@
+the/DET toon/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV turn/VERB around/ADP walk/VERB back/ADV shortly/ADV after/SCONJ a/DET person/NOUN walk/VERB forward/ADV then/ADV to/ADP the/DET left/ADJ and/CCONJ stop/VERB 

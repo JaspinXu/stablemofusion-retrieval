@@ -1,0 +1,1 @@
+A figure seems to be casually walking, then moves sideways to the left for a few steps before walking sideways to the right for a further distance.

@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB two/NUM jump/VERB jack/NOUN then/ADV walk/VERB forward/ADV while/SCONJ turn/VERB left/ADJ 

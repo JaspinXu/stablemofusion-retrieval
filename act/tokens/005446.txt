@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV to/ADP his/PRON left/NOUN and/CCONJ stop/VERB while/SCONJ another/DET individual/NOUN in/ADP an/DET aggressive/ADJ stance/NOUN casually/ADV walk/VERB forward/ADV in/ADP a/DET horizontal/ADJ direction/NOUN 

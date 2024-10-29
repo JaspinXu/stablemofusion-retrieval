@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV pivot/VERB back/ADV in/ADP a/DET counterclockwise/NOUN half/ADJ circle/NOUN while/SCONJ another/DET person/NOUN walk/VERB forward/ADV keep/VERB both/DET arm/NOUN to/ADP their/PRON side/NOUN 

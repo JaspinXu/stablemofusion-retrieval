@@ -1,0 +1,1 @@
+a/DET person/NOUN balance/VERB on/ADP a/DET board/NOUN then/ADV sidestep/VERB to/ADP the/DET left/NOUN subsequently/ADV to/ADP the/DET right/NOUN and/CCONJ finally/ADV return/VERB to/ADP the/DET middle/ADJ 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADP on/ADP their/PRON left/ADJ foot/NOUN follow/VERB that/SCONJ the/DET person/NOUN stand/VERB still/ADV hold/VERB their/PRON left/ADJ hand/NOUN out/ADP in/ADP front/NOUN of/ADP they/PRON slowly/ADV point/VERB to/ADP their/PRON left/NOUN and/CCONJ then/ADV drop/VERB their/PRON arm/NOUN by/ADP their/PRON side/NOUN 

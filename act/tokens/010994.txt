@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB hold/VERB on/ADP to/ADP a/DET rail/NOUN with/ADP each/DET hand/NOUN and/CCONJ then/ADV a/DET man/NOUN be/AUX push/VERB with/ADP force/NOUN from/ADP the/DET right/ADJ side/NOUN 

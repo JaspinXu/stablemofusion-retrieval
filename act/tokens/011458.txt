@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB forward/ADV alternate/VERB on/ADP one/NUM or/CCONJ two/NUM foot/NOUN and/CCONJ then/ADV walk/VERB forward/ADV follow/VERB that/SCONJ they/PRON quickly/ADV stumble/VERB to/ADP the/DET left/NOUN and/CCONJ then/ADV back/ADV to/ADP the/DET right/NOUN 

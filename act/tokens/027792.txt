@@ -1,0 +1,1 @@
+this/DET person/NOUN jog/VERB forward/ADV then/ADV stop/VERB and/CCONJ next/ADV a/DET person/NOUN walk/VERB while/SCONJ hold/VERB a/DET handrail/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN dance/NOUN by/ADP throw/VERB both/DET arm/NOUN up/ADP take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV a/DET step/NOUN to/ADP the/DET back/NOUN while/SCONJ continue/VERB to/PART dance/VERB follow/VERB that/SCONJ he/PRON walk/VERB around/ADV grab/VERB something/PRON and/CCONJ then/ADV walk/VERB away/ADV again/ADV 

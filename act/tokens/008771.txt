@@ -1,0 +1,1 @@
+a/DET man/NOUN raise/VERB one/NUM arm/NOUN then/ADV lower/VERB it/PRON and/CCONJ raise/VERB the/DET other/ADJ arm/NOUN subsequently/ADV a/DET person/NOUN stand/VERB walk/VERB forward/ADV a/DET few/ADJ step/NOUN 

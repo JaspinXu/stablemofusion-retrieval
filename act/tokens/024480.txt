@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX perform/VERB a/DET kick/NOUN dance/NOUN forward/ADV then/ADV transition/NOUN into/ADP do/VERB the/DET macarena/PROPN 

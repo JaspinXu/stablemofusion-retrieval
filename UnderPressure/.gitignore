@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compressed / uncompressed / preprocessed data files
+dataset/*.rar
+dataset/S*/moticon.txt
+dataset/S*/sync.csv
+dataset/S*/xsens.mvnx
+dataset/S*/preprocessed

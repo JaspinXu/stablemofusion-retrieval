@@ -1,0 +1,1 @@
+A figure moves left to right while standing facing a wall, then a person walks forward, subsequently turns, and goes down the same path.

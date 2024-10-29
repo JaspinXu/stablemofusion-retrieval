@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB backandforth/NOUN from/ADP right/ADV to/ADP left/NOUN then/ADV get/VERB on/ADP all/DET four/NOUN and/CCONJ crawl/VERB in/ADP a/DET diagonal/ADJ line/NOUN to/ADP the/DET left/NOUN after/SCONJ that/SCONJ the/DET individual/NOUN stand/VERB up/ADP and/CCONJ take/VERB several/ADJ step/NOUN along/ADP the/DET diagonal/ADJ line/NOUN forward/ADV 

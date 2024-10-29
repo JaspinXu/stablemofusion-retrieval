@@ -1,0 +1,1 @@
+the/DET demandside/NOUN shuffle/VERB a/DET short/ADJ distance/NOUN to/ADP the/DET left/ADJ then/ADV side/NOUN shuffle/NOUN to/ADP the/DET right/NOUN for/ADP a/DET long/ADJ distance/NOUN after/ADP which/PRON a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ climb/NOUN stair/NOUN backwards/ADV 

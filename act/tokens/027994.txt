@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV then/ADV turn/VERB clockwise/NOUN and/CCONJ around/ADV subsequently/ADV hold/VERB their/PRON arm/NOUN up/ADP lower/VERB they/PRON and/CCONJ bend/VERB their/PRON arm/NOUN at/ADP the/DET elbow/NOUN while/SCONJ move/VERB back/ADV and/CCONJ forth/ADV 

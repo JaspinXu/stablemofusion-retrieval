@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB from/ADP one/NUM end/NOUN to/ADP the/DET other/ADJ while/SCONJ swiftly/ADV lean/VERB sideways/ADV and/CCONJ then/ADV slowly/ADV walk/VERB forward/ADV 

@@ -1,0 +1,1 @@
+A person is jumping on one leg, then walks forward, turns right to turn around, and subsequently walks back to the starting position.

@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB in/ADP a/DET circle/NOUN to/ADP the/DET right/ADJ then/ADV walk/VERB from/ADP the/DET upper/ADJ left/NOUN to/ADP the/DET low/ADJ right/NOUN and/CCONJ back/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN hammer/VERB a/DET nail/NOUN into/ADP a/DET wall/NOUN and/CCONJ then/ADV a/DET man/NOUN step/VERB back/ADV and/CCONJ shield/VERB his/PRON face/NOUN with/ADP both/PRON of/ADP his/PRON hand/NOUN 

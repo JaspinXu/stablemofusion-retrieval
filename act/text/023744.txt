@@ -1,0 +1,1 @@
+A person jogs in a left curve, then turns and jogs in the opposite direction while maintaining the same curve. Following that, the same person walks forward, stops, puts his left hand by his face, and keeps it there.

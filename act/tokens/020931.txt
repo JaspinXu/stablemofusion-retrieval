@@ -1,0 +1,1 @@
+someone/PRON stand/VERB and/CCONJ move/VERB their/PRON hand/NOUN then/ADV lift/VERB their/PRON right/ADJ foot/NOUN to/ADP their/PRON left/ADJ knee/NOUN and/CCONJ subsequently/ADV lift/VERB their/PRON left/ADJ foot/NOUN to/ADP their/PRON right/ADJ knee/NOUN 

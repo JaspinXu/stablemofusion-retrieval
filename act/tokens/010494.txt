@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB three/NUM step/NOUN forward/ADV then/ADV take/VERB two/NUM step/NOUN backwards/ADV he/PRON subsequently/ADV walk/VERB forward/ADV again/ADV take/VERB four/NUM step/NOUN after/SCONJ that/PRON a/DET person/NOUN stand/VERB and/CCONJ pretend/VERB to/PART play/VERB a/DET violin/NOUN on/ADP his/PRON right/ADJ shoulder/NOUN 

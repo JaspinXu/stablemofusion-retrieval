@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX lift/VERB a/DET dumbbell/NOUN with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ then/ADV do/VERB a/DET bicep/X curl/ADJ with/ADP his/PRON left/ADJ arm/NOUN 

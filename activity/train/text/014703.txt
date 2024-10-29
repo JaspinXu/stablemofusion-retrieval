@@ -1,0 +1,1 @@
+A person skips several steps to the left, then several steps to the right, followed by two steps to the left. After that, the person jogs half a circle of six steps and subsequently jogs back half a circle of six steps.

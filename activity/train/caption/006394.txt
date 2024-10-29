@@ -1,0 +1,18 @@
+person runs on the spot
+a person walks forward 2 steps, then makes a 180⁰ turn to his left by swinging his right leg around.
+person runs on the spot
+a person walks straight then turns around.
+person runs on the spot
+a person walks forward from one side to the other, then turns around and goes back to the original side.
+a man runs in place while moving his arms.
+a person walks forward 2 steps, then makes a 180⁰ turn to his left by swinging his right leg around.
+a man runs in place while moving his arms.
+a person walks straight then turns around.
+a man runs in place while moving his arms.
+a person walks forward from one side to the other, then turns around and goes back to the original side.
+a person jogs in place.
+a person walks forward 2 steps, then makes a 180⁰ turn to his left by swinging his right leg around.
+a person jogs in place.
+a person walks straight then turns around.
+a person jogs in place.
+a person walks forward from one side to the other, then turns around and goes back to the original side.

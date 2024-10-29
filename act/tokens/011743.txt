@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET fashion/NOUN similar/ADJ to/ADP a/DET model/NOUN on/ADP a/DET runway/NOUN full/ADJ of/ADP confidence/NOUN then/ADV a/DET man/NOUN take/VERB a/DET step/NOUN forward/ADV before/ADP stop/VERB 

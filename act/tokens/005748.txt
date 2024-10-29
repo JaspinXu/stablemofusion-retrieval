@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV turn/VERB leave/VERB and/CCONJ continue/VERB to/PART walk/VERB then/ADV stop/VERB follow/VERB that/SCONJ the/DET person/NOUN walk/VERB from/ADP the/DET back/ADJ center/NOUN to/AUX slightly/ADV front/ADJ right/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV climb/VERB up/ADP a/DET step/NOUN by/ADP hold/VERB it/PRON and/CCONJ then/ADV climb/VERB back/ADV down/ADV follow/VERB by/ADP a/DET robot/NOUN that/PRON start/VERB dance/VERB from/ADP left/ADJ to/ADP right/NOUN with/ADP its/PRON arm/NOUN in/ADP the/DET air/NOUN while/SCONJ tap/VERB its/PRON left/ADJ foot/NOUN to/ADP the/DET ground/NOUN 

@@ -1,0 +1,6 @@
+walking forward and then back.
+the toon steps backward at an angle, before shuffling to the side & stopping.
+a person walking forward and back.
+the toon steps backward at an angle, before shuffling to the side & stopping.
+the person was walking and turned left.
+the toon steps backward at an angle, before shuffling to the side & stopping.

@@ -1,0 +1,1 @@
+A person is running in place, then crouches down, stands up, and subsequently resumes the crouched position.

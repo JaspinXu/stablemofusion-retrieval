@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB to/ADP the/DET left/NOUN and/CCONJ walk/VERB back/ADV follow/VERB that/SCONJ both/DET hand/NOUN go/VERB up/ADP toward/ADP the/DET chest/NOUN and/CCONJ back/ADV out/ADP make/VERB a/DET curve/NOUN motion/NOUN and/CCONJ then/ADV the/DET right/ADJ hand/NOUN make/VERB a/DET turning/NOUN knob/NOUN motion/NOUN 

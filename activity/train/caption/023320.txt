@@ -1,0 +1,18 @@
+a person walks in an arc to the right, then turns and walks in an arc to the left.
+a person turns around, backs up slightly, walks forward several steps, turns around and walks halfway back.
+a person walks in an arc to the right, then turns and walks in an arc to the left.
+a person walks to the right, then back to the left.
+a person walks in an arc to the right, then turns and walks in an arc to the left.
+a person turns to their right to walk diagonally down a path, then turns to their left to return back up the path.
+a person walks forward and clockwise to their right, and then retraces their steps back.
+a person turns around, backs up slightly, walks forward several steps, turns around and walks halfway back.
+a person walks forward and clockwise to their right, and then retraces their steps back.
+a person walks to the right, then back to the left.
+a person walks forward and clockwise to their right, and then retraces their steps back.
+a person turns to their right to walk diagonally down a path, then turns to their left to return back up the path.
+a man walks in a curved path, and turns to retrace his steps, making the second curve slightly smaller.
+a person turns around, backs up slightly, walks forward several steps, turns around and walks halfway back.
+a man walks in a curved path, and turns to retrace his steps, making the second curve slightly smaller.
+a person walks to the right, then back to the left.
+a man walks in a curved path, and turns to retrace his steps, making the second curve slightly smaller.
+a person turns to their right to walk diagonally down a path, then turns to their left to return back up the path.

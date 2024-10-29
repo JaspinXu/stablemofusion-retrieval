@@ -1,0 +1,1 @@
+A person walks in a clockwise circle to the right, then walks forward taking small steps.

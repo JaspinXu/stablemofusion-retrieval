@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB diagonally/ADV to/ADP one/NUM end/NOUN of/ADP the/DET room/NOUN then/ADV turn/VERB around/ADV and/CCONJ hunch/NOUN over/ADP to/PART return/VERB to/ADP the/DET original/ADJ position/NOUN while/SCONJ someone/PRON sway/VERB from/ADP side/NOUN to/PART side/VERB with/ADP their/PRON foot/NOUN apart/ADV 

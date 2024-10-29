@@ -1,0 +1,6 @@
+a person is pushed to the right while walking forward
+a person walks forward then turns around and walk few more steps
+a person is attempting to walk staleft and is suddenly pushed out of the path. they recover and continue to walk.
+a person walks forward then turns around and walk few more steps
+a person recovers from being pushed while walking,.
+a person walks forward then turns around and walk few more steps

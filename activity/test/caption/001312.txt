@@ -1,0 +1,6 @@
+a peraon walking makes a right turn.
+a person dodges to the left, then to the right, then performs a kick with the left leg.
+someone walks forward turn right and stop
+a person dodges to the left, then to the right, then performs a kick with the left leg.
+a person walks forward, then to the right and stops.
+a person dodges to the left, then to the right, then performs a kick with the left leg.

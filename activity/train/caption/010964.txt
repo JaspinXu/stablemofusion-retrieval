@@ -1,0 +1,12 @@
+person gets up from floor
+the person is walking forwards.
+person gets up from floor
+a person walks straight forward.
+swaying from side to side.
+the person is walking forwards.
+swaying from side to side.
+a person walks straight forward.
+a person stands up from laying on the ground.
+the person is walking forwards.
+a person stands up from laying on the ground.
+a person walks straight forward.

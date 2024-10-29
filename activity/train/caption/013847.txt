@@ -1,0 +1,18 @@
+a person walks in a counter-clockwise circle.
+a person jogs in a clockwise circle.
+a person walks in a counter-clockwise circle.
+a person jogs slowly in a clockwise circle
+a person walks in a counter-clockwise circle.
+a person is jogging around
+the person walks around and turns counter clockwise.
+a person jogs in a clockwise circle.
+the person walks around and turns counter clockwise.
+a person jogs slowly in a clockwise circle
+the person walks around and turns counter clockwise.
+a person is jogging around
+a person walks calmly to the right making a full circle to the left.
+a person jogs in a clockwise circle.
+a person walks calmly to the right making a full circle to the left.
+a person jogs slowly in a clockwise circle
+a person walks calmly to the right making a full circle to the left.
+a person is jogging around

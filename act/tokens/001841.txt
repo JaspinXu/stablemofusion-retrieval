@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB forward/ADV and/CCONJ slightly/ADV to/ADP the/DET left/NOUN when/SCONJ they/PRON abruptly/ADV move/VERB to/ADP the/DET right/NOUN then/ADV continue/VERB walk/VERB back/ADV forward/ADV to/ADP the/DET left/NOUN after/ADP which/PRON they/PRON raise/VERB their/PRON left/ADJ arm/NOUN to/ADP their/PRON face/NOUN 

@@ -1,0 +1,12 @@
+a man walks with a normal gait forward.
+a person walks downward in a semicircle to the right hand side and stands still.
+a man walks with a normal gait forward.
+a person quickly walks to the left.
+a man walks with a normal gait forward.
+a person walks forward in a counter-clockwise trajectory a quarter turn.
+person walks five steps forward leading with right foot
+a person walks downward in a semicircle to the right hand side and stands still.
+person walks five steps forward leading with right foot
+a person quickly walks to the left.
+person walks five steps forward leading with right foot
+a person walks forward in a counter-clockwise trajectory a quarter turn.

@@ -1,0 +1,1 @@
+A person walks backwards and turns around, then runs in place, springs to the right, then to the left, and returns to their starting position.

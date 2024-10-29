@@ -1,0 +1,1 @@
+a/DET person/NOUN have/VERB a/DET seat/NOUN on/ADP a/DET stool/NOUN then/ADV step/VERB down/ADP off/ADP of/ADP it/PRON and/CCONJ subsequently/ADV sit/VERB on/ADP it/PRON again/ADV while/SCONJ a/DET man/NOUN move/VERB forward/ADV punch/NOUN and/CCONJ then/ADV move/VERB backward/ADV 

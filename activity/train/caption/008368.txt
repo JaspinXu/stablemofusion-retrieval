@@ -1,0 +1,12 @@
+a person takes large steps moving down to a bottom floor.
+a person falls to the left and then steps back where he was.
+a person takes large steps moving down to a bottom floor.
+a person is pushed to their left and stumbles but doesn't fall and walks back to where they were standing.
+a person takes large steps moving down to a bottom floor.
+a person jumped to the left, and backed to right place
+a person walks downstairs, right foot dominant.
+a person falls to the left and then steps back where he was.
+a person walks downstairs, right foot dominant.
+a person is pushed to their left and stumbles but doesn't fall and walks back to where they were standing.
+a person walks downstairs, right foot dominant.
+a person jumped to the left, and backed to right place

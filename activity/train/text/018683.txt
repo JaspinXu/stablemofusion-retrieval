@@ -1,0 +1,1 @@
+A person walks from the top left towards the bottom right, then backtracks before walking forward to the top right and backtracking again, while a man simultaneously moves his right forearm slowly in a circular motion.

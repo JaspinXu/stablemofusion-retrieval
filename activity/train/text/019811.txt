@@ -1,0 +1,1 @@
+A person turns anticlockwise, then walks, and after that takes wide steps beginning with its right leg, moving from the bottom left to the top right.

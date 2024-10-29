@@ -1,0 +1,1 @@
+a/DET person/NOUN jog/VERB in/ADP a/DET left/ADJ curve/NOUN then/ADV turn/VERB and/CCONJ jog/NOUN in/ADP the/DET opposite/ADJ direction/NOUN while/SCONJ maintain/VERB the/DET same/ADJ curve/NOUN follow/VERB that/SCONJ the/DET same/ADJ person/NOUN walk/VERB forward/ADV stop/NOUN put/VERB his/PRON left/ADJ hand/NOUN by/ADP his/PRON face/NOUN and/CCONJ keep/VERB it/PRON there/ADV 

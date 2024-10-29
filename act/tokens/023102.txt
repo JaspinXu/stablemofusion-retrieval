@@ -1,0 +1,1 @@
+a/DET person/NOUN signal/VERB for/ADP a/DET basketball/NOUN dribble/ADJ in/ADP three/NUM different/ADJ style/NOUN and/CCONJ then/ADV they/PRON transition/VERB into/ADP perform/VERB a/DET ballerina/NOUN dance/NOUN 

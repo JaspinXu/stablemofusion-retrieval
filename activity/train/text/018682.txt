@@ -1,0 +1,1 @@
+The person picks an object from waist high and puts it in his arms, then walks from the top left towards the bottom right, backtracks, walks forward to the top right, and backtracks again.

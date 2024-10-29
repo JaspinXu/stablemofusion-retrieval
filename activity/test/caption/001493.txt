@@ -1,0 +1,18 @@
+a person walks forward while making small adjustments right and left
+a person walks forward then turns around to walk back.
+a person walks forward while making small adjustments right and left
+person is walking down then around.
+a person walks forward while making small adjustments right and left
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.
+person walks then steps over something
+a person walks forward then turns around to walk back.
+person walks then steps over something
+person is walking down then around.
+person walks then steps over something
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.
+a person walks forward, stepping over an object, then continuing to walk and stop after.
+a person walks forward then turns around to walk back.
+a person walks forward, stepping over an object, then continuing to walk and stop after.
+person is walking down then around.
+a person walks forward, stepping over an object, then continuing to walk and stop after.
+a person takes one step, pivots around clockwise with the right foot on the second step, keeping the left foot up, then takes three more steps.

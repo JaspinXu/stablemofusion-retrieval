@@ -1,0 +1,18 @@
+a person walks in forward slowly.
+a person walks towards the left side.
+a person walks in forward slowly.
+person slowly walks towards the adjacent wall then stops
+a person walks in forward slowly.
+a person walks curving to his left.
+a person slowly walked forward
+a person walks towards the left side.
+a person slowly walked forward
+person slowly walks towards the adjacent wall then stops
+a person slowly walked forward
+a person walks curving to his left.
+a person walking down in a straight line
+a person walks towards the left side.
+a person walking down in a straight line
+person slowly walks towards the adjacent wall then stops
+a person walking down in a straight line
+a person walks curving to his left.

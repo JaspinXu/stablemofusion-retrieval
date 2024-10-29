@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB from/ADP one/NUM foot/NOUN to/ADP another/PRON while/SCONJ bounce/VERB in/ADP the/DET same/ADJ space/NOUN then/ADV sway/VERB from/ADP right/ADV to/ADP leave/VERB with/ADP both/CCONJ hand/NOUN up/ADP as/SCONJ if/SCONJ reach/VERB for/ADP something/PRON 

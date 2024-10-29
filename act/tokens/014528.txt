@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB up/ADP and/CCONJ down/ADV 10/NUM time/NOUN then/ADV a/DET person/NOUN walk/VERB leisurely/ADV forward/ADV subsequently/ADV pivot/NOUN to/ADP their/PRON left/NOUN in/ADP a/DET ushape/NOUN and/CCONJ afterward/ADV walk/VERB straight/ADV 

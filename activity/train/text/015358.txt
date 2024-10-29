@@ -1,0 +1,1 @@
+A person walks in an S-curve pattern, then walks back and forth from left to right and subsequently stops in the middle.

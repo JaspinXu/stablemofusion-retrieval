@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB forward/ADV slowly/ADV take/VERB six/NUM step/NOUN while/SCONJ avoid/VERB a/DET gap/NOUN 

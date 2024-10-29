@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX fly/VERB like/ADP an/DET airplane/NOUN then/ADV walk/VERB a/DET few/ADJ step/NOUN turn/VERB around/ADP and/CCONJ begin/VERB crawl/VERB on/ADP the/DET floor/NOUN in/ADP the/DET other/ADJ direction/NOUN after/SCONJ that/PRON they/PRON stand/VERB and/CCONJ walk/VERB the/DET other/ADJ way/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB to/ADP the/DET left/ADJ two/NUM time/NOUN then/ADV hop/VERB to/ADP the/DET right/ADJ and/CCONJ subsequently/ADV walk/VERB on/ADP all/DET four/NOUN 

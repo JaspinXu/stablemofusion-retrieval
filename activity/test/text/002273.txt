@@ -1,0 +1,1 @@
+A person steps to the left two steps, then steps to the right two steps, and after that steps back to where he started. Following that, he takes one step backward, leans on a wall to squat down once, and ultimately returns to his original spot.

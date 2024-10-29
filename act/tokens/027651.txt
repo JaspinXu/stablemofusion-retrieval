@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV step/VERB over/ADP an/DET object/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN walk/VERB bend/NOUN leave/VERB 

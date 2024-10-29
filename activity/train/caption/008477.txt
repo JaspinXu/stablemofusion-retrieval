@@ -1,0 +1,18 @@
+a person walks forward, then turns around and walks back  in the opposite direction.
+he does push recovery left
+a person walks forward, then turns around and walks back  in the opposite direction.
+a person walking diagonally from left to right and switching back to left
+a person walks forward, then turns around and walks back  in the opposite direction.
+a man walks slowly and staggers to the right in a zig zag shape and then stops.
+a person walks forward, turns around clockwise, and walks back.
+he does push recovery left
+a person walks forward, turns around clockwise, and walks back.
+a person walking diagonally from left to right and switching back to left
+a person walks forward, turns around clockwise, and walks back.
+a man walks slowly and staggers to the right in a zig zag shape and then stops.
+person walks forward, turns right, walks back
+he does push recovery left
+person walks forward, turns right, walks back
+a person walking diagonally from left to right and switching back to left
+person walks forward, turns right, walks back
+a man walks slowly and staggers to the right in a zig zag shape and then stops.

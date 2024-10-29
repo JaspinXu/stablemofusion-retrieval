@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB still/ADV move/VERB both/DET arm/NOUN and/CCONJ rotate/VERB a/DET steering/NOUN wheel/NOUN in/ADP circular/ADJ motion/NOUN then/ADV they/PRON start/VERB at/ADP the/DET midpoint/NOUN walk/NOUN all/DET the/DET way/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV traverse/VERB all/DET the/DET way/NOUN across/ADP to/ADP the/DET right/NOUN 

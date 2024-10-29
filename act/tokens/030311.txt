@@ -1,0 +1,1 @@
+the/DET man/NOUN take/VERB 9/NUM slow/ADJ step/NOUN forward/ADV then/ADV hold/VERB both/DET hand/NOUN near/ADP his/PRON face/NOUN while/SCONJ tilt/VERB his/PRON head/NOUN backward/ADV slightly/ADV 

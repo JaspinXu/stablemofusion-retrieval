@@ -1,0 +1,1 @@
+A person walks in a circle counterclockwise, then slowly walks in the right direction, followed by moving forward and subsequently turning left.

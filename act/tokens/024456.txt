@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB in/ADP a/DET circle/NOUN clockwise/NOUN while/SCONJ move/VERB their/PRON hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV start/VERB to/PART sprint/VERB halfway/ADV through/ADP 

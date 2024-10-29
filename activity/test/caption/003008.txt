@@ -1,0 +1,12 @@
+a person walks forward then upwards.
+a person is walking then stops and sits down
+a person walks forward then upwards.
+a person walks forward, briefly sits down, and then stands and walk back in the opposite direction.
+a person slowly walks forward and then up a flight of stairs
+a person is walking then stops and sits down
+a person slowly walks forward and then up a flight of stairs
+a person walks forward, briefly sits down, and then stands and walk back in the opposite direction.
+a person walks forward and suddenly stops moving forward and stay at the same position while moving his feet.
+a person is walking then stops and sits down
+a person walks forward and suddenly stops moving forward and stay at the same position while moving his feet.
+a person walks forward, briefly sits down, and then stands and walk back in the opposite direction.

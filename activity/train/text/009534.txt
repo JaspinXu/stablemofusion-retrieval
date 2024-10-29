@@ -1,0 +1,1 @@
+A person walks, then quickly moves to the right, subsequently walks forward, dodges to the left, and then rights himself.

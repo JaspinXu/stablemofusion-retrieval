@@ -1,0 +1,1 @@
+The toon walks forward a few steps, then turns around and walks back, after that someone walks forward, turns right, and stops.

@@ -1,0 +1,1 @@
+A person walks back and forwards following a U-shape pattern, then steps down from left to right before turning around and beginning to step back up.

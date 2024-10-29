@@ -1,0 +1,1 @@
+A person is jogging forward, jumping over an obstacle with each step, and then continues to jog to the other side of a rectangle.

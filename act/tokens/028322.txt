@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN and/CCONJ then/ADV continue/VERB to/PART walk/VERB in/ADP a/DET circular/ADJ motion/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN gesture/NOUN dramatically/ADV with/ADP both/DET hand/NOUN while/SCONJ walk/VERB forward/ADV and/CCONJ then/ADV walk/VERB in/ADP a/DET semicircle/NOUN for/ADP 5/NUM step/NOUN subsequently/ADV turn/VERB and/CCONJ return/VERB to/ADP their/PRON starting/NOUN position/NOUN 

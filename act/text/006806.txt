@@ -1,0 +1,1 @@
+A person takes one step backward, then walks in an arc to the right and finally stops.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB three/NUM step/NOUN then/ADV turn/VERB to/ADP the/DET right/ADJ side/NOUN follow/VERB by/ADP turn/VERB to/ADP the/DET lefthand/NOUN side/NOUN and/CCONJ bring/VERB their/PRON left/ADJ hand/NOUN up/ADP to/ADP the/DET mouth/NOUN area/NOUN while/SCONJ pretend/VERB to/PART be/AUX a/DET gorilla/NOUN 

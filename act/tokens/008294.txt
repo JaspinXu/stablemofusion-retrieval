@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV slowly/ADV with/ADP a/DET medium/ADJ gait/NOUN then/ADV another/DET person/NOUN walk/VERB forward/ADV and/CCONJ to/ADP the/DET left/ADJ 

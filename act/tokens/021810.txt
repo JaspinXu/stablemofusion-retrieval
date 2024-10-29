@@ -1,0 +1,1 @@
+a/DET stick/NOUN figure/NOUN take/VERB five/NUM step/NOUN forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB five/NUM step/NOUN back/ADV follow/VERB by/ADP a/DET man/NOUN who/PRON walk/VERB from/ADP side/NOUN to/PART side/VERB turn/VERB around/ADV and/CCONJ proceed/VERB to/ADP his/PRON place/NOUN 

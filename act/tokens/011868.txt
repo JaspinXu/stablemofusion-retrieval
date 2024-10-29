@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB around/ADP the/DET room/NOUN in/ADP a/DET counterclockwise/NOUN motion/NOUN then/ADV take/VERB a/DET step/NOUN to/ADP the/DET right/NOUN to/PART sit/VERB down/ADP subsequently/ADV get/VERB back/ADV up/ADV and/CCONJ take/VERB a/DET step/NOUN to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB upstairs/ADV then/ADV back/ADV downstairs/ADV and/CCONJ afterwards/ADV lift/VERB an/DET object/NOUN and/CCONJ place/VERB it/PRON down/ADP in/ADP another/DET spot/NOUN 

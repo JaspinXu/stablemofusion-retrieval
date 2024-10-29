@@ -1,0 +1,1 @@
+a/DET robot/NOUN start/VERB walk/VERB forward/ADV while/SCONJ touch/VERB the/DET handrail/NOUN with/ADP its/PRON right/ADJ hand/NOUN then/ADV a/DET man/NOUN perform/VERB a/DET low/ADJ kick/NOUN 

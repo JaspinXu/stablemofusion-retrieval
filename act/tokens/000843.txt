@@ -1,0 +1,1 @@
+a/DET person/NOUN perform/VERB a/DET roundhouse/NOUN kick/VERB with/ADP the/DET right/ADJ leg/NOUN then/ADV walk/VERB forward/ADV a/DET little/ADJ to/ADP the/DET left/ADJ 

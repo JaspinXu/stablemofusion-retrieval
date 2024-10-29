@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV and/CCONJ then/ADV be/AUX push/VERB by/ADP something/PRON to/ADP the/DET left/ADJ subsequently/ADV they/PRON walk/VERB straight/ADV before/ADP change/VERB direction/NOUN and/CCONJ move/VERB in/ADP a/DET diagonal/ADJ line/NOUN to/ADP the/DET right/NOUN 

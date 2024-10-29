@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB backandforth/NOUN from/ADP right/ADV to/ADP left/NOUN and/CCONJ then/ADV finally/ADV move/VERB forward/ADV and/CCONJ backward/ADV ultimately/ADV arrive/VERB at/ADP the/DET same/ADJ place/NOUN 

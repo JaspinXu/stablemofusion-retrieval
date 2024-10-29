@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADV 4/NUM step/NOUN by/ADP lift/VERB one/NUM leg/NOUN at/ADP a/DET time/NOUN then/ADV turn/VERB around/ADV and/CCONJ walk/VERB down/ADP those/DET step/NOUN after/SCONJ that/PRON a/DET man/NOUN bring/VERB his/PRON hand/NOUN up/ADP towards/ADP his/PRON body/NOUN and/CCONJ then/ADV push/VERB they/PRON away/ADV 

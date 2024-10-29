@@ -1,0 +1,1 @@
+the/DET man/NOUN climb/VERB 3/NUM tall/ADJ stair/NOUN then/ADV move/VERB his/PRON arm/NOUN out/ADP at/ADP his/PRON side/NOUN and/CCONJ in/ADP front/NOUN of/ADP he/PRON in/ADP a/DET swimming/NOUN motion/NOUN 

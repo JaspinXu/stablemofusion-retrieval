@@ -1,0 +1,4 @@
+stick figure turns counter clock ways for half a circle, then back clock ways
+a person runs to the left, the right, left and back to center.
+a man slowly turns left and then turns right.
+a person runs to the left, the right, left and back to center.

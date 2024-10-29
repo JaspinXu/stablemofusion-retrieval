@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB five/NUM step/NOUN forward/ADV then/ADV walk/VERB in/ADP a/DET clockwise/NOUN circular/ADJ pattern/NOUN to/ADP their/PRON left/ADJ 

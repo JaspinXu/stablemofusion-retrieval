@@ -1,0 +1,4 @@
+a person moves to his left
+the person takes a large step towards their left.
+a person moves to his left
+a person stands in one place and then gets pushed to the left

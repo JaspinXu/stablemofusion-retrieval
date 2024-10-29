@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB upstairs/ADV then/ADV a/DET man/NOUN keep/VERB his/PRON arm/NOUN stationary/ADJ at/ADP his/PRON side/NOUN as/SCONJ he/PRON walk/VERB forward/ADV turn/VERB clockwise/NOUN and/CCONJ walk/VERB back/ADV 

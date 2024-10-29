@@ -1,0 +1,1 @@
+Someone grabs something, observes it, and then drops it. Following that, a person takes a step forward, turns directly around, and takes a step forwards again, returning to the original spot.

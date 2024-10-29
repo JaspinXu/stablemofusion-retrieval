@@ -1,0 +1,1 @@
+a/DET person/NOUN ballet/NOUN dance/NOUN in/ADP a/DET triangle/NOUN then/ADV hop/VERB back/ADV and/CCONJ forth/ADV 

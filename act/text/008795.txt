@@ -1,0 +1,1 @@
+The sim is standing, then moves into a sitting position before standing back up, while simultaneously a person is moving something from right to left.

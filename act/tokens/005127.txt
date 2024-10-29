@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV then/ADV take/VERB a/DET rather/ADV large/ADJ step/NOUN with/ADP his/PRON left/ADJ leg/NOUN continue/VERB to/PART walk/VERB forward/ADV subsequently/PROPN a/DET robot/NOUN try/VERB to/PART stretch/VERB its/PRON arm/NOUN 

@@ -1,0 +1,1 @@
+A person walks in a circle two times, then runs forward and kicks, subsequently walks backwards to return to the original spot, and thereafter runs forward again while repeating the kicking motion.

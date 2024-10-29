@@ -1,0 +1,1 @@
+A person runs counterclockwise, then moves in left and right directions, and finally turns to walk counterclockwise again.

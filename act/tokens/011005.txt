@@ -1,0 +1,1 @@
+a/DET person/NOUN start/VERB walk/VERB backwards/ADV then/ADV sit/VERB down/ADP after/SCONJ that/SCONJ the/DET person/NOUN stand/VERB back/ADV up/ADP off/ADP the/DET item/NOUN he/PRON be/AUX sit/VERB on/ADP and/CCONJ stand/VERB upright/ADJ follow/VERB that/SCONJ the/DET man/NOUN slam/VERB something/PRON onto/ADP the/DET ground/NOUN 

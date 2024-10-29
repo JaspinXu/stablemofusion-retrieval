@@ -1,0 +1,1 @@
+A stick figure takes five steps forward, then turns around and walks five steps back the other way. Subsequently, a man walks from side to side before turning around and walking back to his place.

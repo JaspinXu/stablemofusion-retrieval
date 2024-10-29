@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV stumble/NOUN slightly/ADV then/ADV start/VERB to/PART walk/VERB to/ADP the/DET right/NOUN and/CCONJ subsequently/ADV turn/VERB leave/VERB in/ADP a/DET zigzag/PROPN motion/NOUN 

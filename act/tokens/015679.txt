@@ -1,0 +1,1 @@
+a/DET person/NOUN sit/VERB in/ADP a/DET chair/NOUN to/ADP the/DET right/ADJ while/SCONJ face/VERB leave/VERB with/ADP arm/NOUN on/ADP the/DET armrest/NOUN then/ADV he/PRON stand/VERB up/ADP and/CCONJ walk/VERB to/ADP the/DET left/NOUN after/SCONJ that/PRON he/PRON run/VERB forward/ADV and/CCONJ to/ADP his/PRON right/NOUN and/CCONJ then/ADV turn/VERB and/CCONJ run/VERB back/ADV 

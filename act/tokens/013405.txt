@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB on/ADP the/DET righthand/NOUN side/NOUN walk/VERB casually/ADV in/ADP a/DET counterclockwise/NOUN circle/NOUN back/ADV to/ADP the/DET starting/NOUN position/NOUN and/CCONJ then/ADV stand/VERB follow/VERB that/SCONJ another/DET person/NOUN jog/VERB diagonally/ADV stop/VERB and/CCONJ then/ADV jump/VERB before/ADP continue/VERB to/PART jog/VERB 

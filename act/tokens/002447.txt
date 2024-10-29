@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB vertically/ADV on/ADP the/DET spot/NOUN and/CCONJ then/ADV perform/VERB a/DET bicep/X curl/ADJ with/ADP his/PRON right/ADJ arm/NOUN 

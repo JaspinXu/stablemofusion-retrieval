@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX pick/VERB up/ADP and/CCONJ move/VERB something/PRON then/ADV take/VERB three/NUM step/NOUN sideways/ADV to/ADP their/PRON left/NOUN follow/VERB by/ADP five/NUM step/NOUN sideways/ADV to/ADP their/PRON right/NOUN and/CCONJ finally/ADV two/NUM step/NOUN sideways/ADV to/PART return/VERB to/ADP their/PRON original/ADJ position/NOUN 

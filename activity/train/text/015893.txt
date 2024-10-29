@@ -1,0 +1,1 @@
+A person walks down a slope slowly, then walks to their right hand side, returns to the middle, and subsequently walks to their left hand side before continuing to walk forward. After that, the person throws a football.

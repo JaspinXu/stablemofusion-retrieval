@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV back/ADV and/CCONJ then/ADV jump/VERB in/ADP the/DET air/NOUN with/ADP arm/NOUN and/CCONJ leg/NOUN apart/ADV before/ADP turn/VERB around/ADV on/ADP himself/PRON 

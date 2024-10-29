@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX in/ADP an/DET accident/NOUN and/CCONJ then/ADV a/DET person/NOUN step/VERB forward/ADV to/ADP the/DET right/NOUN sit/VERB down/ADP put/VERB his/PRON hand/NOUN on/ADP his/PRON knee/NOUN to/PART sit/VERB up/ADP and/CCONJ subsequently/ADV walk/VERB back/ADV to/ADP the/DET left/ADJ 

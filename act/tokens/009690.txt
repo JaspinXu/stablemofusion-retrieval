@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB two/NUM step/NOUN forward/ADV before/ADP take/VERB one/NUM huge/ADJ step/NOUN to/ADP the/DET left/NOUN then/ADV walk/VERB forward/ADV again/ADV subsequently/ADV the/DET toon/NOUN raise/VERB both/DET arm/NOUN jump/VERB in/ADP place/NOUN and/CCONJ then/ADV walk/VERB across/ADP the/DET short/ADJ plane/NOUN 

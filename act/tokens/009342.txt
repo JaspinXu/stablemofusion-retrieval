@@ -1,0 +1,1 @@
+the/DET man/NOUN jog/VERB forward/ADV 2/NUM step/NOUN then/ADV walk/VERB straight/ADV toward/ADP a/DET person/NOUN who/PRON be/AUX look/VERB ahead/ADV 

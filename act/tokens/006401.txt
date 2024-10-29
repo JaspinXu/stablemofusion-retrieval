@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ stop/VERB then/ADV they/PRON reach/VERB down/ADP a/DET little/ADJ to/ADP the/DET left/ADJ and/CCONJ afterward/ADV reach/VERB down/ADP a/DET little/ADJ to/ADP the/DET right/NOUN 

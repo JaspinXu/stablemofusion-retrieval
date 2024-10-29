@@ -1,0 +1,1 @@
+The sim appears to be walking at a slight angle at a normal rate of speed, then raises both arms outstretched at the sides, bending them at the elbows before lifting them straight over the head, and subsequently returns to the original position.

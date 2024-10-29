@@ -1,0 +1,6 @@
+person is walking straight ahead
+the stickperson is at a certain angle
+a person doing a normal walk.
+the stickperson is at a certain angle
+figure appears to be walking
+the stickperson is at a certain angle

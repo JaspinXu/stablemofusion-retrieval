@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ backward/ADV twice/ADV then/ADV someone/PRON slowly/ADV swing/VERB his/PRON head/NOUN and/CCONJ shoulder/NOUN in/ADP a/DET counterclockwise/NOUN circle/NOUN subsequently/ADV swinge/VERB his/PRON hip/NOUN slowly/ADV in/ADP a/DET clockwise/NOUN circle/NOUN 

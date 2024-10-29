@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX do/VERB a/DET dance/NOUN move/NOUN then/ADV take/VERB 5/NUM side/NOUN step/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV 3/NUM side/NOUN step/NOUN back/ADV to/ADP the/DET right/NOUN 

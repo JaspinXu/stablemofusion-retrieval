@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET curved/ADJ line/NOUN then/ADV spin/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN three/NUM time/NOUN with/ADP his/PRON hand/NOUN in/ADP front/NOUN of/ADP he/PRON 

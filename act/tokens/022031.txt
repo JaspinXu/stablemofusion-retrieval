@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET phone/NOUN dial/NOUN a/DET phone/NOUN number/NOUN and/CCONJ then/ADV hold/VERB the/DET phone/NOUN to/ADP their/PRON right/ADJ ear/NOUN follow/VERB that/SCONJ they/PRON raise/VERB their/PRON hand/NOUN and/CCONJ then/ADV hold/VERB something/PRON 

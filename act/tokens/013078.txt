@@ -1,0 +1,1 @@
+a/DET person/NOUN pick/VERB up/ADP a/DET heavy/ADJ object/NOUN and/CCONJ throw/VERB it/PRON with/ADP both/DET hand/NOUN then/ADV turn/VERB counterclockwise/NOUN and/CCONJ saunter/NOUN down/ADP the/DET catwalk/NOUN before/ADP turn/VERB clockwise/NOUN and/CCONJ face/VERB forward/ADV 

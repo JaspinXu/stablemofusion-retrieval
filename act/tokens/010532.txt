@@ -1,0 +1,1 @@
+a/DET person/NOUN briskly/ADV walk/VERB in/ADP a/DET counterclockwise/NOUN direction/NOUN then/ADV jog/VERB to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV jog/VERB to/ADP the/DET right/NOUN 

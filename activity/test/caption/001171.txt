@@ -1,0 +1,18 @@
+a person stumbling to their left side.
+a person walks diagonally across a room from right to left.
+a person stumbling to their left side.
+the person is walking towards the right.
+a person stumbling to their left side.
+a person walks in a curved movement to the right
+a person is pushed to his left side.
+a person walks diagonally across a room from right to left.
+a person is pushed to his left side.
+the person is walking towards the right.
+a person is pushed to his left side.
+a person walks in a curved movement to the right
+a person is pushed to the left to standstill.
+a person walks diagonally across a room from right to left.
+a person is pushed to the left to standstill.
+the person is walking towards the right.
+a person is pushed to the left to standstill.
+a person walks in a curved movement to the right

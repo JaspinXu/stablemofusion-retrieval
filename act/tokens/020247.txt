@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB rope/PROPN as/ADP a/DET form/NOUN of/ADP exercise/NOUN and/CCONJ then/ADV walk/VERB backandforth/NOUN around/ADP a/DET bend/NOUN 

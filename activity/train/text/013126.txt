@@ -1,0 +1,1 @@
+The sim walks across the plane, then bends down to grab something, walks to the opposite side, and afterward returns to replace the object at a high level while hugging the chest.

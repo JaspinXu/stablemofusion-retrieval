@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB three/NUM step/NOUN to/ADP his/PRON right/ADJ then/ADV five/NUM step/NOUN to/ADP his/PRON left/ADJ and/CCONJ finally/ADV three/NUM step/NOUN to/ADP his/PRON right/ADJ after/SCONJ that/PRON he/PRON walk/VERB forwards/ADV turn/VERB around/ADV and/CCONJ walk/VERB forwards/ADV again/ADV before/ADP turn/VERB around/ADV once/ADV more/ADJ 

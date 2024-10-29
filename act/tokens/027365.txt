@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ step/VERB up/ADP over/ADP a/DET structure/NOUN then/ADV continue/VERB walk/VERB with/ADP both/DET hand/NOUN on/ADP a/DET handrail/NOUN while/SCONJ navigate/VERB through/ADP a/DET hallway/NOUN grab/VERB the/DET rail/NOUN with/ADP both/DET hand/NOUN again/ADV for/ADP support/NOUN 

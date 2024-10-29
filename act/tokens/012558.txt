@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET slow/ADJ zigzag/PROPN then/ADV turn/VERB and/CCONJ begin/VERB to/PART walk/VERB back/ADV subsequently/ADV a/DET person/NOUN crawl/VERB along/ADP the/DET floor/NOUN 

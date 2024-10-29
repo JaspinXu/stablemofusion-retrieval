@@ -1,0 +1,1 @@
+a/DET man/NOUN do/VERB a/DET dance/NOUN shuffle/NOUN backward/ADV and/CCONJ dance/NOUN again/ADV then/ADV he/PRON turn/VERB round/ADV 180/NUM degree/NOUN in/ADP a/DET clockwise/NOUN direction/NOUN and/CCONJ appear/VERB to/PART open/VERB a/DET ring/NOUN pull/VERB can/AUX and/CCONJ drink/VERB out/ADP of/ADP it/PRON 

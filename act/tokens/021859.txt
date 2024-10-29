@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV to/PART open/VERB the/DET door/NOUN then/ADV turn/VERB around/ADV and/CCONJ subsequently/ADV unscrew/VERB a/DET jarlike/ADJ object/NOUN 

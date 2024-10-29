@@ -1,0 +1,1 @@
+a/DET man/NOUN take/VERB a/DET few/ADJ step/NOUN forwards/ADV then/ADV spin/VERB clockwise/NOUN twice/ADV subsequently/ADV spin/VERB anticlockwise/PROPN twice/ADV and/CCONJ afterward/ADV a/DET person/NOUN move/VERB their/PRON shoulder/NOUN around/ADV while/SCONJ try/VERB to/PART wiggle/VERB their/PRON hip/NOUN 

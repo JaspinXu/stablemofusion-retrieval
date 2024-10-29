@@ -1,0 +1,1 @@
+a/DET person/NOUN practice/VERB a/DET sequence/NOUN of/ADP karate/ADJ move/NOUN first/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADV subsequently/ADV hit/VERB a/DET punching/NOUN bag/NOUN while/SCONJ move/VERB around/ADP the/DET target/NOUN and/CCONJ dodge/VERB the/DET bag/NOUN 

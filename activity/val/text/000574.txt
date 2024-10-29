@@ -1,0 +1,1 @@
+A person walks forward, then spins to the right, afterward walking back. Following that, the same person walks up a few stairs, turns around, and then walks back down the stairs.

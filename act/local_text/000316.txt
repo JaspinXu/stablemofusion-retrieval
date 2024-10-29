@@ -1,0 +1,6 @@
+a person runs forward
+a person takes a turn to their left
+a person turns forward again
+a person slows to a stop
+a person hops up  
+the person swings their hands to their right

@@ -1,0 +1,1 @@
+A person is standing, then slides to the right, next skips several steps to the left, several steps to the right, and then takes two steps to the left.

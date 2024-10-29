@@ -1,0 +1,1 @@
+the/DET forwardfacing/NOUN figure/NOUN climb/VERB two/NUM step/NOUN up/ADP a/DET ladder/NOUN then/ADV descend/VERB by/ADP two/NUM step/NOUN and/CCONJ halt/NOUN once/ADV reach/VERB the/DET ground/NOUN subsequently/ADV a/DET man/NOUN run/VERB counterclockwise/NOUN make/VERB a/DET half/NOUN circle/NOUN and/CCONJ then/ADV turn/VERB to/PART run/VERB halfway/ADV back/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN throw/VERB an/DET object/NOUN with/ADP their/PRON left/ADJ hand/NOUN and/CCONJ then/ADV catch/VERB another/DET object/NOUN with/ADP both/DET hand/NOUN subsequently/ADV transition/VERB into/ADP a/DET crouch/VERB position/NOUN to/PART throw/VERB punch/NOUN 

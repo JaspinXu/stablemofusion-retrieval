@@ -1,0 +1,16 @@
+tqdm
+scipy
+matplotlib
+spacy
+accelerate
+transformers
+einops
+diffusers
+panda3d
+git+https://github.com/openai/CLIP.git
+# for generation demo
+gradio
+# for train 
+tensorboard
+smplx
+

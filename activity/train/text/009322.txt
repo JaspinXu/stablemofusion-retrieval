@@ -1,0 +1,1 @@
+A person walks backwards and stops, then continues walking, turns to the right while still moving, and finally comes to a stop.

@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB to/ADP the/DET right/ADJ then/ADV run/VERB to/ADP the/DET left/NOUN next/PROPN he/PRON run/VERB to/ADP the/DET right/ADJ turn/VERB around/ADV and/CCONJ run/VERB straight/ADV follow/VERB by/ADP turn/VERB around/ADV again/ADV 

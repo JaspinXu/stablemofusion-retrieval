@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV pivot/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ they/PRON start/VERB before/ADP start/VERB to/PART pitch/VERB but/CCONJ then/ADV stop/VERB 

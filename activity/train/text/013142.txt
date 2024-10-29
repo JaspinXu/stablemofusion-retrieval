@@ -1,0 +1,1 @@
+A person jogs to one side, then turns around and jogs to the other side; following that, they turn around and jog back to their original position while being pushed from the right side.

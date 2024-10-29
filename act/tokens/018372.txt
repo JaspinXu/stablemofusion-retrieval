@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV up/ADP to/ADP an/DET elevated/ADJ platform/NOUN then/ADV a/DET man/NOUN turn/VERB and/CCONJ walk/VERB away/ADV leave/VERB a/DET trail/NOUN behind/ADP he/PRON 

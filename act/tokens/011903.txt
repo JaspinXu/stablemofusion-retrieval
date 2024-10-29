@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB part/NOUN way/ADV down/ADP the/DET step/NOUN then/ADV stop/VERB and/CCONJ after/ADP that/PRON a/DET person/NOUN walk/VERB in/ADP a/DET clockwise/NOUN circle/NOUN to/ADP the/DET right/NOUN 

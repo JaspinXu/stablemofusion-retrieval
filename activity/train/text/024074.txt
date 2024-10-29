@@ -1,0 +1,1 @@
+A person picks up an item and then places it on their head, subsequently walking forward with the item above their head.

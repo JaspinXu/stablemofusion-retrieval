@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ bend/NOUN over/ADP to/PART pick/VERB something/PRON up/ADP then/ADV walk/VERB forward/ADV more/ADV and/CCONJ place/VERB the/DET object/NOUN on/ADP a/DET table/NOUN afterward/ADV they/PRON transition/VERB to/ADP run/VERB on/ADP a/DET treadmill/NOUN 

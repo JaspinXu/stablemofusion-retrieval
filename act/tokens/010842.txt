@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB with/ADP his/PRON foot/NOUN wide/ADJ and/CCONJ swing/VERB his/PRON arm/NOUN above/ADP his/PRON head/NOUN then/ADV take/VERB two/NUM step/NOUN forward/ADV turn/VERB 180/NUM degree/NOUN to/ADP his/PRON left/NOUN and/CCONJ walk/VERB back/ADV to/ADP where/SCONJ he/PRON start/VERB 

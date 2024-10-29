@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB in/ADP place/NOUN four/NUM time/NOUN then/ADV a/DET man/NOUN walk/VERB a/DET short/ADJ distance/NOUN and/CCONJ briefly/NOUN walk/VERB on/ADP the/DET spot/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB down/ADP a/DET path/NOUN slightly/ADV move/VERB towards/ADP the/DET left/ADJ side/NOUN and/CCONJ then/ADV pick/VERB up/ADP an/DET object/NOUN and/CCONJ hold/VERB it/PRON 

@@ -1,0 +1,1 @@
+A stick figure stands still before walking forward in a diagonal direction, then a person jumps up and down.

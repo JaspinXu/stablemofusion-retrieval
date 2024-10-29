@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slowly/ADV in/ADP a/DET straight/ADJ line/NOUN then/ADV later/ADV change/VERB direction/NOUN to/PART walk/VERB in/ADP a/DET semicircle/NOUN to/ADP the/DET right/NOUN 

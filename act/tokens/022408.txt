@@ -1,0 +1,1 @@
+the/DET man/NOUN walk/VERB in/ADP a/DET circle/NOUN twice/ADV begin/VERB with/ADP his/PRON right/ADJ foot/NOUN and/CCONJ end/VERB on/ADP his/PRON left/NOUN then/ADV a/DET person/NOUN walk/VERB counterclockwise/NOUN in/ADP a/DET circle/NOUN one/NUM and/CCONJ a/DET half/NOUN time/NOUN 

@@ -1,0 +1,1 @@
+A person walks forward, then performs a 180-degree counterclockwise spin, and subsequently walks back to the starting position. Following that, they take a step forward and then turn to walk to their right.

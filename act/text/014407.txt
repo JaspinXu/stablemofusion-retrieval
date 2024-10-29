@@ -1,0 +1,1 @@
+A person walks forward and then turns around to sit down. After that, they get back up and walk back towards where they started, subsequently walking to the right and turning around before walking to the right again.

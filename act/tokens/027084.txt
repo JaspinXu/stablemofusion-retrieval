@@ -1,0 +1,1 @@
+a/DET man/NOUN do/VERB three/NUM jump/VERB jack/NOUN and/CCONJ then/ADV a/DET person/NOUN perform/VERB one/NUM squat/NOUN from/ADP a/DET standing/NOUN position/NOUN 

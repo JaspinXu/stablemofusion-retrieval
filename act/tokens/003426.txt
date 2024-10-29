@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB forward/ADV make/VERB a/DET left/ADJ turn/NOUN and/CCONJ then/ADV jump/VERB forward/ADV on/ADP the/DET floor/NOUN 

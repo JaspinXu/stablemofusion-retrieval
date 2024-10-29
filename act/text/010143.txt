@@ -1,0 +1,1 @@
+A person takes 2 steps forward, then turns back around, next takes some steps forward, a step back, and then another step forward.

@@ -1,0 +1,1 @@
+A person runs around in a circle in a clockwise motion, completing two laps total, and then a sim walks from one end of the plane to the other, reaching to grab an object before turning around and walking back and forth.

@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB both/DET hand/NOUN up/ADP to/PART shoulder/VERB height/NOUN while/SCONJ bend/VERB at/ADP the/DET elbow/NOUN then/ADV take/VERB one/NUM quick/ADJ step/NOUN to/ADP the/DET left/NOUN with/ADP his/PRON arm/NOUN down/ADP by/ADP his/PRON side/NOUN 

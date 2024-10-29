@@ -1,0 +1,1 @@
+He puts both arms up and down, then the robot walks forward slowly and subsequently stops.

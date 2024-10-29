@@ -1,0 +1,1 @@
+the/DET person/NOUN put/VERB their/PRON hand/NOUN up/ADP and/CCONJ rotate/VERB their/PRON body/NOUN around/ADP then/ADV walk/VERB in/ADP a/DET circular/ADJ path/NOUN while/SCONJ wave/VERB once/ADV with/ADP their/PRON left/ADJ hand/NOUN after/ADP take/VERB a/DET few/ADJ step/NOUN they/PRON wave/VERB with/ADP their/PRON right/ADJ hand/NOUN and/CCONJ continue/VERB walk/VERB 

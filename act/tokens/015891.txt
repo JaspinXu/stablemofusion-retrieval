@@ -1,0 +1,1 @@
+a/DET person/NOUN side/NOUN step/NOUN to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/ADJ return/VERB to/ADP the/DET middle/NOUN while/SCONJ a/DET man/NOUN stand/VERB with/ADP his/PRON hand/NOUN to/ADP his/PRON side/NOUN and/CCONJ then/ADV take/VERB a/DET step/NOUN back/ADV 

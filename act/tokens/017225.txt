@@ -1,0 +1,1 @@
+a/DET person/NOUN act/VERB like/ADP a/DET chicken/NOUN while/SCONJ walk/VERB forward/ADV and/CCONJ rock/VERB back/ADV and/CCONJ forth/ADV 

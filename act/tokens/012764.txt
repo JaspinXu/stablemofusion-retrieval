@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB sideways/ADV to/ADP the/DET left/NOUN and/CCONJ then/ADV to/ADP the/DET right/NOUN follow/VERB by/ADP a/DET person/NOUN slowly/ADV step/VERB down/ADP some/DET stair/NOUN backwards/ADV 

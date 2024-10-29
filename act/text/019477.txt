@@ -1,0 +1,1 @@
+A person is dribbling a ball, then walks forward in the left direction, and after that, returns back before continuing to walk slowly.

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV in/ADP an/DET s/PROPN pattern/NOUN then/ADV a/DET man/NOUN pick/VERB something/PRON up/ADP with/ADP his/PRON left/ADJ hand/NOUN and/CCONJ put/VERB it/PRON on/ADP a/DET table/NOUN 

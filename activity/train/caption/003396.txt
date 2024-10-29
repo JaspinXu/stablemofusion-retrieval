@@ -1,0 +1,12 @@
+a person walks down a set of stairs.
+someone is walking and turn left
+a person walks down a set of stairs.
+walking forward in a diagonal line.
+a person walks down stairs.
+someone is walking and turn left
+a person walks down stairs.
+walking forward in a diagonal line.
+a person carefully walks forward.
+someone is walking and turn left
+a person carefully walks forward.
+walking forward in a diagonal line.

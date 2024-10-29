@@ -1,0 +1,1 @@
+A person walks to his right, then turns around to make a jump. Following that, a man walks to the left, then walks to the right and skips.

@@ -1,0 +1,1 @@
+A person walks forward, then takes 5 steps forward beginning with the right foot, and then walks back before proceeding to walk forward again.

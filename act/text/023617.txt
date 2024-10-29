@@ -1,0 +1,1 @@
+A person walks diagonally until turning around, then walks back to where they originally started, subsequently walking forward and backward while dragging his left foot.

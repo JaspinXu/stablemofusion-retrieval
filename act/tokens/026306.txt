@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX run/VERB and/CCONJ then/ADV stop/VERB while/SCONJ a/DET person/NOUN be/AUX walk/VERB and/CCONJ subsequently/ADV jump/VERB forward/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backward/ADV five/NUM step/NOUN start/VERB with/ADP the/DET left/ADJ foot/NOUN then/ADV hop/VERB up/ADP and/CCONJ down/ADP 

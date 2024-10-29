@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV and/CCONJ then/ADV jump/VERB subsequently/ADV walk/VERB slowly/ADV in/ADP a/DET circular/ADJ motion/NOUN with/ADP their/PRON head/NOUN point/VERB toward/ADP the/DET ground/NOUN 

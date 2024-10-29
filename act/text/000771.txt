@@ -1,0 +1,1 @@
+A person is walking backwards in a diagonal line, then stands still and subsequently slides to the right.

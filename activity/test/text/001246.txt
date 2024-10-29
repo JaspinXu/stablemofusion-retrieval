@@ -1,0 +1,1 @@
+A person walks from the top right to the bottom left of the screen, then pivots on their left foot and goes back to where they started, after that, they push themselves to make a jump.

@@ -1,0 +1,1 @@
+A person runs forward six steps, then faces the other way after turning, and subsequently jumps before getting pushed to the right.

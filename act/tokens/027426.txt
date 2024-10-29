@@ -1,0 +1,1 @@
+someone/PRON walk/VERB forward/ADV then/ADV turn/VERB left/ADJ and/CCONJ stop/VERB after/SCONJ that/SCONJ a/DET person/NOUN dodge/VERB to/ADP the/DET right/NOUN then/ADV to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV perform/VERB a/DET kick/NOUN with/ADP the/DET right/ADJ leg/NOUN 

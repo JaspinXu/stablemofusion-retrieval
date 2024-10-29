@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB slightly/ADV forward/ADV and/CCONJ towards/ADP the/DET left/NOUN then/ADV a/DET man/NOUN continue/VERB by/ADP walk/VERB up/ADP stair/NOUN with/ADP his/PRON left/ADJ arm/NOUN out/ADP 

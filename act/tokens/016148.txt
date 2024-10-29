@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forwards/ADV then/ADV turn/VERB around/ADP and/CCONJ sit/VERB down/ADP while/SCONJ a/DET man/NOUN walk/VERB clockwise/NOUN subsequently/ADV turn/VERB counterclockwise/NOUN make/VERB an/DET s/NOUN shape/NOUN and/CCONJ then/ADV stop/VERB 

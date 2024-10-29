@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV at/ADP a/DET normal/ADJ speed/NOUN then/ADV a/DET person/NOUN walk/VERB backwards/ADV and/CCONJ stop/VERB 

@@ -1,0 +1,18 @@
+person is slow walking ahead.
+a person is walking forward and slightly to the right.
+person is slow walking ahead.
+the body walks straight forward in a normal pace.
+person is slow walking ahead.
+a person walks someone in a straight line
+a person walks forward avoiding gap.
+a person is walking forward and slightly to the right.
+a person walks forward avoiding gap.
+the body walks straight forward in a normal pace.
+a person walks forward avoiding gap.
+a person walks someone in a straight line
+a person walks forward slowly
+a person is walking forward and slightly to the right.
+a person walks forward slowly
+the body walks straight forward in a normal pace.
+a person walks forward slowly
+a person walks someone in a straight line

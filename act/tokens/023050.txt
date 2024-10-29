@@ -1,0 +1,1 @@
+the/DET figure/NOUN be/AUX stand/VERB and/CCONJ lift/VERB his/PRON red/ADJ arm/NOUN every/DET few/ADJ second/NOUN then/ADV a/DET person/NOUN pick/VERB up/ADP a/DET bottle/NOUN open/VERB it/PRON and/CCONJ set/VERB it/PRON on/ADP the/DET table/NOUN 

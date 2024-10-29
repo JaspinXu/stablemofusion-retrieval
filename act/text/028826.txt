@@ -1,0 +1,1 @@
+A person is standing, then turns left and starts walking some distance. After that, they turn around and walk the other way, and subsequently, they turn around again to walk back to where they started. Meanwhile, a character is standing at an angular position, making the motion as if they are swinging a baseball bat.

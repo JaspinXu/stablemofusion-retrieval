@@ -1,0 +1,18 @@
+the person is walking down the slope.
+a person walks to his left.
+the person is walking down the slope.
+the person walks in a quarter-circle to their right.
+the person is walking down the slope.
+a person takes a turn to the left.
+a person walks down a small hill.
+a person walks to his left.
+a person walks down a small hill.
+the person walks in a quarter-circle to their right.
+a person walks down a small hill.
+a person takes a turn to the left.
+person moves forward four steps
+a person walks to his left.
+person moves forward four steps
+the person walks in a quarter-circle to their right.
+person moves forward four steps
+a person takes a turn to the left.

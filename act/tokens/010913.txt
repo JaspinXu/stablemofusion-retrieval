@@ -1,0 +1,1 @@
+a/DET person/NOUN skip/VERB and/CCONJ then/ADV walk/VERB next/ADV a/DET man/NOUN walk/VERB pick/VERB up/ADP an/DET object/NOUN and/CCONJ then/ADV walk/VERB to/ADP the/DET opposite/ADJ end/NOUN of/ADP the/DET room/NOUN 

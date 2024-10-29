@@ -1,0 +1,1 @@
+a/DET person/NOUN slowly/ADV walk/VERB around/ADV in/ADP a/DET rectangular/ADJ shape/NOUN stop/VERB before/ADP make/VERB a/DET turn/NOUN each/DET time/NOUN and/CCONJ then/ADV continue/VERB walk/VERB in/ADP a/DET near/ADJ complete/ADJ counterclockwise/NOUN square/NOUN 

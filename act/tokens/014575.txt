@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX walk/VERB straight/ADV forward/ADV and/CCONJ then/ADV backwards/ADV follow/VERB by/ADP a/DET stick/NOUN figure/NOUN that/PRON walk/VERB in/ADP a/DET line/NOUN before/ADP rotate/VERB counterclockwise/NOUN and/CCONJ walk/VERB back/ADV 

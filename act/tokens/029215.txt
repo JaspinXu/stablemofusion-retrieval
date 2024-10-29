@@ -1,0 +1,1 @@
+the/DET person/NOUN fill/VERB the/DET glass/NOUN with/ADP water/NOUN then/ADV pour/VERB it/PRON into/ADP the/DET plant/NOUN pot/NOUN and/CCONJ subsequently/ADV a/DET person/NOUN sit/VERB on/ADP the/DET floor/NOUN while/SCONJ cross/VERB both/DET leg/NOUN 

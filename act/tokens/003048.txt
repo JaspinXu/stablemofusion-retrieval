@@ -1,0 +1,1 @@
+a/DET person/NOUN first/ADV kick/VERB an/DET object/NOUN on/ADP the/DET ground/NOUN with/ADP his/PRON left/ADJ foot/NOUN then/ADV with/ADP his/PRON right/ADJ foot/NOUN and/CCONJ subsequently/ADV perform/VERB a/DET cartwheel/NOUN 

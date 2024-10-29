@@ -1,0 +1,18 @@
+a person turns completely around, leaps forward, takes a step as he turns back around, then walks back to where he started.
+jogging forward a couple of feet
+a person turns completely around, leaps forward, takes a step as he turns back around, then walks back to where he started.
+the person is running.
+a person turns completely around, leaps forward, takes a step as he turns back around, then walks back to where he started.
+this person jogs forward and stops.
+person stands in foreground, turns around and jumps to background, turns again and walks to foreground with arms at shoulder height.
+jogging forward a couple of feet
+person stands in foreground, turns around and jumps to background, turns again and walks to foreground with arms at shoulder height.
+the person is running.
+person stands in foreground, turns around and jumps to background, turns again and walks to foreground with arms at shoulder height.
+this person jogs forward and stops.
+pivot 90 degrees to the left, jump forward with both feet, land and walk forward one step with left and right foot, turn around 180 degrees and take 3 steps forward starting with left foot.
+jogging forward a couple of feet
+pivot 90 degrees to the left, jump forward with both feet, land and walk forward one step with left and right foot, turn around 180 degrees and take 3 steps forward starting with left foot.
+the person is running.
+pivot 90 degrees to the left, jump forward with both feet, land and walk forward one step with left and right foot, turn around 180 degrees and take 3 steps forward starting with left foot.
+this person jogs forward and stops.

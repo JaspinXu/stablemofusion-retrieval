@@ -1,0 +1,1 @@
+A person walks in a counter-clockwise circle, then continues moving to create a circle on the floor.

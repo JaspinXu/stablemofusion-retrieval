@@ -1,0 +1,18 @@
+a person walks slowly hunched over to the left.
+a person is leaping a few feet, turning direction, then leaping another few feet.
+a person walks slowly hunched over to the left.
+a person jumps over something multiple times.
+a person walks slowly hunched over to the left.
+jump on the floor moving one place to other place create a box.
+a person side steps/lunges in a right direction getting closer to the edge of the walkway then starts to turn back and do the same in the left direction
+a person is leaping a few feet, turning direction, then leaping another few feet.
+a person side steps/lunges in a right direction getting closer to the edge of the walkway then starts to turn back and do the same in the left direction
+a person jumps over something multiple times.
+a person side steps/lunges in a right direction getting closer to the edge of the walkway then starts to turn back and do the same in the left direction
+jump on the floor moving one place to other place create a box.
+a person is creeping to their right.
+a person is leaping a few feet, turning direction, then leaping another few feet.
+a person is creeping to their right.
+a person jumps over something multiple times.
+a person is creeping to their right.
+jump on the floor moving one place to other place create a box.

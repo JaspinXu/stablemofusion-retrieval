@@ -1,0 +1,1 @@
+a/DET person/NOUN get/VERB up/ADP from/ADP a/DET crouch/VERB position/NOUN then/ADV throw/VERB an/DET object/NOUN overhand/NOUN subsequently/ADV throw/VERB a/DET second/ADJ object/NOUN underhand/NOUN and/CCONJ finally/ADV throw/VERB a/DET third/ADJ object/NOUN overhand/ADJ after/SCONJ that/PRON a/DET man/NOUN stumble/NOUN and/CCONJ drink/VERB something/PRON 

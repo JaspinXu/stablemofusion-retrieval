@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET bowl/NOUN and/CCONJ tilt/VERB it/PRON to/ADP the/DET left/NOUN as/SCONJ if/SCONJ to/PART empty/VERB the/DET content/NOUN then/ADV a/DET man/NOUN bend/VERB down/ADP to/PART examine/VERB something/PRON before/ADP stand/VERB up/ADP 

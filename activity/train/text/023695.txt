@@ -1,0 +1,1 @@
+A character is initially moving at a slow walking velocity in a line, then swiftly transitions into a quick burst of speed while navigating in a circle. Following that, the character shuffles to their left, moving leg over leg, before shuffling back to the starting area of the "plane."

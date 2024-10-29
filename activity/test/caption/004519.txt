@@ -1,0 +1,12 @@
+a person walks with side steps to the left and then walks forward, then turn around and walks back
+a person walks quickly in a diagonal direction for 8 steps and then turns to walk in the direction they came from.
+a person walks with side steps to the left and then walks forward, then turn around and walks back
+a character quickly walks forward in a diagonal motion then turns around and walks back to where they started.
+the person is walking then runnijg.
+a person walks quickly in a diagonal direction for 8 steps and then turns to walk in the direction they came from.
+the person is walking then runnijg.
+a character quickly walks forward in a diagonal motion then turns around and walks back to where they started.
+a person sidesteps around the room, then runs forward
+a person walks quickly in a diagonal direction for 8 steps and then turns to walk in the direction they came from.
+a person sidesteps around the room, then runs forward
+a character quickly walks forward in a diagonal motion then turns around and walks back to where they started.

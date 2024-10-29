@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET slight/ADJ diagonal/NOUN then/ADV take/VERB two/NUM step/NOUN slip/NOUN and/CCONJ slide/NOUN to/ADP his/PRON right/ADJ subsequently/ADV recover/NOUN and/CCONJ walk/VERB to/ADP his/PRON left/ADJ 

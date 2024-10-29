@@ -1,0 +1,1 @@
+A person starts to jog in place, then turns to their right and runs to the edge. Afterward, they turn and run all the way to their left, repeating this jogging pattern. Subsequently, they walk forward, pick up an item in their right hand, move it to the left, and set it down.

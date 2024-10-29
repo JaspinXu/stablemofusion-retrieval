@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET half/ADJ circle/NOUN from/ADP left/ADJ to/ADP right/ADV then/ADV curve/VERB slightly/ADV to/ADP the/DET left/ADJ 

@@ -1,0 +1,1 @@
+the/DET figure/NOUN place/VERB an/DET object/NOUN from/ADP the/DET left/NOUN to/ADP the/DET right/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB forward/ADV while/SCONJ raise/VERB their/PRON right/ADJ arm/NOUN 

@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB forward/ADV and/CCONJ then/ADV backward/ADV repeatedly/ADV while/SCONJ a/DET person/NOUN look/VERB at/ADP the/DET ground/NOUN and/CCONJ slowly/ADV move/VERB their/PRON arm/NOUN backwards/ADV and/CCONJ forwards/ADV 

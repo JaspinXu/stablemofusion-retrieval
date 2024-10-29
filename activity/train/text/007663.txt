@@ -1,0 +1,1 @@
+A person walks forward, turns around, and then walks back, subsequently stepping over something in their path.

@@ -1,0 +1,18 @@
+a person moves object from right to left.
+a person walks casually clockwise in a circle.
+a person moves object from right to left.
+the person is walking in a comple circle counter counterclockwise.
+a person moves object from right to left.
+a person walks in a counter counterclockwise circle.
+a person picks something up then moves it to the left
+a person walks casually clockwise in a circle.
+a person picks something up then moves it to the left
+the person is walking in a comple circle counter counterclockwise.
+a person picks something up then moves it to the left
+a person walks in a counter counterclockwise circle.
+a person slowly lifts something from the right to the left.
+a person walks casually clockwise in a circle.
+a person slowly lifts something from the right to the left.
+the person is walking in a comple circle counter counterclockwise.
+a person slowly lifts something from the right to the left.
+a person walks in a counter counterclockwise circle.

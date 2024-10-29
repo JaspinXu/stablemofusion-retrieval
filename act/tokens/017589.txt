@@ -1,0 +1,1 @@
+a/DET man/NOUN move/VERB his/PRON arm/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV walk/VERB in/ADP a/DET sinusoidal/NOUN sidewinde/VERB path/NOUN from/ADP right/ADV to/ADP leave/VERB in/ADP two/NUM cycle/NOUN 

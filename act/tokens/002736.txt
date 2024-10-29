@@ -1,0 +1,1 @@
+this/DET person/NOUN walk/VERB forward/ADV then/ADV trip/VERB slightly/ADV subsequently/ADV be/AUX push/VERB backwards/ADV and/CCONJ try/VERB to/PART recover/VERB 

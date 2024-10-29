@@ -1,0 +1,1 @@
+A person picks up a tool and an object, cuts it while keeping it in the same place from where it has been taken, then walks forward slowly.

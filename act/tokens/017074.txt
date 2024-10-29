@@ -1,0 +1,1 @@
+a/DET man/NOUN be/AUX throw/VERB his/PRON right/ADJ arm/NOUN towards/ADP the/DET ground/NOUN while/SCONJ walk/VERB forward/ADV next/ADV he/PRON rotate/VERB his/PRON right/ADJ arm/NOUN forward/ADV three/NUM time/NOUN and/CCONJ then/ADV backwards/ADV four/NUM time/NOUN follow/VERB that/SCONJ he/PRON rotate/VERB his/PRON left/ADJ arm/NOUN forward/ADV three/NUM time/NOUN 

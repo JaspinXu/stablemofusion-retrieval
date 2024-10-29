@@ -1,0 +1,1 @@
+the/DET man/NOUN do/VERB 3/NUM jump/VERB jack/NOUN and/CCONJ then/ADV the/DET person/NOUN take/VERB a/DET bunch/NOUN of/ADP step/NOUN walk/VERB forward/ADV 

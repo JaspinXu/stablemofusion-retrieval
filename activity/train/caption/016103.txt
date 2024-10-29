@@ -1,0 +1,12 @@
+a person turns around and picks up an item with his right hand, holds the item to his shoulder, then turns back around to place the items back down.
+a person walks forward, crouches, then walks back
+a person turns around and picks up an item with his right hand, holds the item to his shoulder, then turns back around to place the items back down.
+a person walks forwards then turns around and sits down.
+a person turns around and picks up an item with his right hand, holds the item to his shoulder, then turns back around to place the items back down.
+a person walks straight forward then turns around and squats down in a sitting position. they hold that for a couple seconds then stand back up and walk back
+a person picks up a telephone and listens to it for a bit before putting it back.
+a person walks forward, crouches, then walks back
+a person picks up a telephone and listens to it for a bit before putting it back.
+a person walks forwards then turns around and sits down.
+a person picks up a telephone and listens to it for a bit before putting it back.
+a person walks straight forward then turns around and squats down in a sitting position. they hold that for a couple seconds then stand back up and walk back

@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV four/NUM step/NOUN and/CCONJ then/ADV swing/VERB his/PRON left/ADJ arm/NOUN before/ADP rub/VERB it/PRON with/ADP his/PRON right/ADJ hand/NOUN 

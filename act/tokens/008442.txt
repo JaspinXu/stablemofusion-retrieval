@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP a/DET flight/NOUN of/ADP stair/NOUN then/ADV continue/VERB to/PART walk/VERB after/ADP step/VERB over/ADP an/DET obstacle/NOUN 

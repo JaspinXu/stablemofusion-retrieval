@@ -1,0 +1,1 @@
+the/DET guy/NOUN walk/VERB backwards/ADV then/ADV sit/VERB on/ADP the/DET bench/NOUN stand/VERB up/ADP and/CCONJ walk/VERB forward/ADV subsequently/ADV move/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN 

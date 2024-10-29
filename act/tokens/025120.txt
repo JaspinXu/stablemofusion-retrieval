@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV spin/VERB to/ADP the/DET right/ADV afterward/ADV walk/VERB back/ADV follow/VERB that/SCONJ the/DET same/ADJ person/NOUN walk/VERB up/ADP a/DET few/ADJ stair/NOUN turn/VERB around/ADV and/CCONJ then/ADV walk/VERB back/ADV down/ADP the/DET stair/NOUN 

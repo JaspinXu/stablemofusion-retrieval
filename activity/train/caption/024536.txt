@@ -1,0 +1,4 @@
+the sim walks in a loop fashion from one side of the plane to the other before turning around.
+a person walks around aimlessly.
+the sim walks in a loop fashion from one side of the plane to the other before turning around.
+a person walking around in a circle

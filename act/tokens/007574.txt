@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB backwards/ADV then/ADV crawl/VERB forward/ADV and/CCONJ afterwards/ADV walk/VERB five/NUM step/NOUN straight/ADV ahead/ADV before/ADP stop/VERB 

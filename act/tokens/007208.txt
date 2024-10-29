@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB and/CCONJ pick/VERB up/ADP an/DET object/NOUN then/ADV throw/VERB it/PRON follow/VERB by/ADP continue/VERB to/PART walk/VERB subsequently/PROPN an/DET individual/NOUN be/AUX walk/VERB as/ADV well/ADV bend/VERB over/ADP to/PART grab/VERB something/PRON throw/VERB the/DET object/NOUN and/CCONJ then/ADV resume/VERB walk/VERB 

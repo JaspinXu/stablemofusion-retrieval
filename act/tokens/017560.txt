@@ -1,0 +1,1 @@
+a/DET person/NOUN have/VERB hand/NOUN on/ADP knee/NOUN rotate/VERB the/DET right/ADJ hand/NOUN in/ADP a/DET circular/ADJ motion/NOUN then/ADV place/VERB both/DET hand/NOUN back/ADV on/ADP the/DET knee/NOUN next/ADP lift/VERB both/DET arm/NOUN above/ADP the/DET head/NOUN three/NUM time/NOUN and/CCONJ thereafter/ADV push/VERB a/DET shopping/NOUN cart/NOUN 

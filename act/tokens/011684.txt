@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV jump/VERB up/ADP and/CCONJ down/ADV and/CCONJ subsequently/ADV the/DET sim/NOUN walk/VERB to/ADP the/DET far/ADJ end/NOUN of/ADP the/DET plane/NOUN wobble/VERB a/DET bit/NOUN 

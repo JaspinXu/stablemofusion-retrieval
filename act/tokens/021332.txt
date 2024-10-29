@@ -1,0 +1,1 @@
+a/DET person/NOUN turn/VERB counterclockwise/NOUN 180/NUM degree/NOUN then/ADV walk/VERB straight/ADV next/ADJ turn/VERB counterclockwise/NOUN 180/NUM degree/NOUN again/ADV and/CCONJ subsequently/ADV bend/VERB down/ADP to/PART take/VERB off/ADP a/DET boot/NOUN 

@@ -1,0 +1,1 @@
+The person was pushed backwards but did not fall down. Subsequently, the rig walks forward, then turns around and continues walking before stopping where he started.

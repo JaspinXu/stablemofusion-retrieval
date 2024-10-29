@@ -1,0 +1,1 @@
+A stick figure turns counterclockwise for half a circle, then turns back clockwise; subsequently, a person runs to the right, then to the left, back to the right, and returns to the center.

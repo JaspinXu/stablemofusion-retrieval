@@ -1,0 +1,1 @@
+the/DET body/NOUN walk/VERB in/ADP a/DET left/ADJ bend/NOUN and/CCONJ then/ADV a/DET person/NOUN walk/VERB in/ADP place/NOUN 

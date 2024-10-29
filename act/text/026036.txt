@@ -1,0 +1,1 @@
+A person moves diagonally backwards as if dragging one leg, then walks forward, turns around counterclockwise, and walks back. After that, they repeat the entire process, but this time the turn is clockwise.

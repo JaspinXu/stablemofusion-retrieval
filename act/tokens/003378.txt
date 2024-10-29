@@ -1,0 +1,1 @@
+a/DET person/NOUN hop/VERB forward/ADV on/ADP two/NUM foot/NOUN then/ADV walk/VERB up/ADP towards/ADP the/DET left/ADJ 

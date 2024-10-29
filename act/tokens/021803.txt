@@ -1,0 +1,1 @@
+a/DET person/NOUN stand/VERB on/ADP their/PRON right/ADJ leg/NOUN with/ADP their/PRON left/ADJ leg/NOUN in/ADP the/DET air/NOUN move/VERB their/PRON left/ADJ leg/NOUN around/ADP for/ADP balance/NOUN and/CCONJ then/ADV the/DET man/NOUN begin/VERB walk/VERB on/ADP uneven/ADJ terrain/NOUN 

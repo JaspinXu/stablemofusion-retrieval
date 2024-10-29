@@ -1,0 +1,6 @@
+a person reaches to the right to pass an object.
+a person walks forward and then stops.
+a person reaches to the right to pass an object.
+a person walks straight forward.
+a person reaches to the right to pass an object.
+a person walks forward tgen comes to a stop

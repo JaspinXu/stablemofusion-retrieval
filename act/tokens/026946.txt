@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV right/ADV leave/VERB right/ADV leave/VERB right/ADV left/ADV move/VERB three/NUM pace/NOUN follow/VERB that/SCONJ a/DET person/NOUN look/VERB through/ADP binocular/NOUN 

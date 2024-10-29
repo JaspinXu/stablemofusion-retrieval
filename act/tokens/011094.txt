@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV lift/VERB a/DET small/ADJ object/NOUN then/ADV walk/VERB away/ADV and/CCONJ thereafter/ADV put/VERB their/PRON arm/NOUN out/ADP into/ADP a/DET tpose/NOUN 

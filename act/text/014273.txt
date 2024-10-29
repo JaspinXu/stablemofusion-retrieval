@@ -1,0 +1,1 @@
+A person performs a dance routine, then walks to the left, followed by stepping to the right, and finally returns to where he started from.

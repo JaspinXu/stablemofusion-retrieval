@@ -1,0 +1,1 @@
+a/DET man/NOUN swing/VERB an/DET object/NOUN between/ADP his/PRON left/ADJ and/CCONJ right/ADJ hand/NOUN then/ADV a/DET person/NOUN kneel/VERB down/ADP and/CCONJ start/VERB crawl/VERB from/ADP left/ADJ to/ADP right/NOUN 

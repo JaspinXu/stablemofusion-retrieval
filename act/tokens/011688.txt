@@ -1,0 +1,1 @@
+a/DET person/NOUN lift/VERB a/DET dumbbell/NOUN with/ADP both/CCONJ hand/NOUN and/CCONJ then/ADV pace/VERB back/ADV and/CCONJ forward/ADV a/DET few/ADJ time/NOUN before/ADP come/VERB back/ADV to/ADP a/DET stop/NOUN 

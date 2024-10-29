@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV a/DET few/ADJ step/NOUN then/ADV take/VERB small/ADJ step/NOUN than/ADP before/ADV and/CCONJ walk/VERB backwards/ADV 

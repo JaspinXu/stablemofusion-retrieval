@@ -1,0 +1,1 @@
+A person slowly moves in a right and left direction, then stumbles to the left while walking.

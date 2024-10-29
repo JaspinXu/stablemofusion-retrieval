@@ -1,0 +1,1 @@
+a/DET person/NOUN play/VERB tennis/NOUN hit/VERB the/DET ball/NOUN three/NUM time/NOUN slightly/ADV bend/VERB forward/ADV to/ADP the/DET right/ADJ while/SCONJ extend/VERB both/DET arm/NOUN in/ADP a/DET scoop/VERB motion/NOUN across/ADP the/DET body/NOUN to/ADP the/DET left/ADJ and/CCONJ back/NOUN down/ADV again/ADV 

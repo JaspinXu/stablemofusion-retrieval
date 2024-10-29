@@ -1,0 +1,1 @@
+this/DET person/NOUN begin/VERB to/PART run/VERB forward/ADV in/ADP a/DET clockwise/NOUN circle/NOUN and/CCONJ then/ADV they/PRON quickly/ADV turn/VERB around/ADP to/PART run/VERB in/ADP a/DET counterclockwise/NOUN circle/NOUN follow/VERB by/ADP drag/VERB their/PRON left/ADJ leg/NOUN in/ADP that/DET same/ADJ counterclockwise/NOUN direction/NOUN 

@@ -1,0 +1,1 @@
+the/DET toon/NOUN be/AUX walk/VERB down/ADP a/DET short/ADJ plane/NOUN at/ADP normal/ADJ speed/NOUN then/ADV a/DET person/NOUN walk/VERB forward/ADV and/CCONJ turn/VERB to/ADP the/DET left/ADJ 

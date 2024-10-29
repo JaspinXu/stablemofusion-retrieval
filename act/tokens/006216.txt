@@ -1,0 +1,1 @@
+from/ADP a/DET standing/NOUN position/NOUN the/DET person/NOUN take/VERB a/DET quick/ADJ step/NOUN forward/ADV with/ADP their/PRON right/ADJ foot/NOUN then/ADV begin/VERB do/VERB exercise/NOUN with/ADP jumping/NOUN jack/NOUN 

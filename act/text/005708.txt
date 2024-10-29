@@ -1,0 +1,1 @@
+A person walks forward and curves left as they walk, then continues to walk to his right.

@@ -1,0 +1,1 @@
+A person is standing, then moves into a crawling position, crawls forward, and turns around to crawl backward. After that, he stands back up, looks to his right, steps back, sits down, stands up again, and finally steps forward.

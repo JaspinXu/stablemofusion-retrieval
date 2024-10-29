@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV in/ADP a/DET diagonal/ADJ then/NOUN gesture/NOUN and/CCONJ point/NOUN with/ADP their/PRON left/ADJ hand/NOUN at/ADP one/NUM point/NOUN they/PRON make/VERB a/DET sweeping/ADJ motion/NOUN with/ADP both/DET hand/NOUN before/ADP return/VERB to/ADP point/VERB with/ADP the/DET left/ADJ hand/NOUN as/SCONJ if/SCONJ give/VERB a/DET speech/NOUN 

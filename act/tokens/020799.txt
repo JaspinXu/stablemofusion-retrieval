@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV fall/VERB down/ADP then/ADV get/VERB up/ADP turn/VERB around/ADV and/CCONJ head/VERB back/ADV to/ADP the/DET original/ADJ spot/NOUN after/SCONJ that/SCONJ they/PRON flail/VERB their/PRON arm/NOUN around/ADP like/ADP a/DET monkey/NOUN and/CCONJ do/VERB a/DET karate/ADJ kick/NOUN 

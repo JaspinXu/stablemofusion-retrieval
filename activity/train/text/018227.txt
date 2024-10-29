@@ -1,0 +1,1 @@
+The man walks in a circle twice, beginning with his left foot and ending on his right, and then the sim joins in, walking in circles alongside him.

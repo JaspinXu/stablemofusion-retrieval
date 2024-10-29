@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV after/SCONJ that/PRON he/PRON grab/VERB one/NUM arm/NOUN and/CCONJ turn/VERB around/ADP again/ADV finally/ADV he/PRON be/AUX completely/ADV still/ADV with/ADP his/PRON right/ADJ arm/NOUN raise/VERB 

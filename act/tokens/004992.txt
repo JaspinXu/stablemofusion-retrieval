@@ -1,0 +1,1 @@
+a/DET person/NOUN do/VERB three/NUM jump/VERB jack/NOUN then/ADV walk/VERB forward/ADV do/VERB a/DET motion/NOUN to/PART shake/VERB hand/NOUN with/ADP another/DET person/NOUN and/CCONJ subsequently/ADV walk/VERB away/ADV to/ADP the/DET right/NOUN 

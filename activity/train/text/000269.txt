@@ -1,0 +1,1 @@
+A stick figure's left and right arms are moving up and down while a board under the stick figure's feet moves right and left. Subsequently, the person jumps up and down twice.

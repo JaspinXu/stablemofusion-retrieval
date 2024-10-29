@@ -1,0 +1,1 @@
+A person walks half the circle in the counterclockwise direction, then starts running from the next half, subsequently walking forward before turning around and walking forward again.

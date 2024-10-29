@@ -1,0 +1,1 @@
+A person moves slightly to the right, takes two steps forward, and then two steps to the right, subsequently walking forward in a diagonal line.

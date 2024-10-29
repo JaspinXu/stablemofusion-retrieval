@@ -1,0 +1,1 @@
+a/DET man/NOUN do/VERB a/DET waltz/NOUN with/ADP his/PRON left/ADJ hand/NOUN lift/VERB and/CCONJ then/ADV he/PRON turn/VERB around/ADP clockwise/NOUN while/SCONJ stretch/VERB his/PRON arm/NOUN out/ADP 

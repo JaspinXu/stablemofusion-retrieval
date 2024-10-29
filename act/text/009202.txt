@@ -1,0 +1,1 @@
+A person climbs a set of invisible stairs, starting with their left foot and continuing with the right foot until they have climbed 4 steps. After that, a man takes a step forward, turns around to the left side, and walks back.

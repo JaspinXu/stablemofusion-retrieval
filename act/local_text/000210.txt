@@ -1,0 +1,5 @@
+the sim walks in a loop fashion  
+the sim stands back up again
+the sim is about to climb a step
+a sim is standing at a crouch  
+the sim slows down into a crouch

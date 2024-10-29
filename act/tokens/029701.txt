@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET circular/ADJ path/NOUN then/ADV a/DET man/NOUN walk/VERB forward/ADV turn/VERB around/ADP walk/NOUN diagonally/ADV and/CCONJ subsequently/ADV turn/VERB around/ADP and/CCONJ crouch/NOUN 

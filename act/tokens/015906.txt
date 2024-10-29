@@ -1,0 +1,1 @@
+the/DET man/NOUN be/AUX walk/VERB slowly/ADV then/ADV sit/VERB down/ADP get/VERB up/ADP and/CCONJ walk/VERB around/ADP the/DET room/NOUN 

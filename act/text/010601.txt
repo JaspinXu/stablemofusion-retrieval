@@ -1,0 +1,1 @@
+A person hopped one time and then went up the steps, while a robot started walking forward and subsequently stopped.

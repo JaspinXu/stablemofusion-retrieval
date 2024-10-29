@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX move/VERB across/ADP the/DET floor/NOUN to/ADP the/DET left/ADJ side/NOUN then/ADV come/VERB back/ADV on/ADP the/DET way/NOUN to/ADP the/DET right/ADJ side/NOUN subsequently/ADV sit/VERB down/ADP and/CCONJ stand/VERB up/ADP 

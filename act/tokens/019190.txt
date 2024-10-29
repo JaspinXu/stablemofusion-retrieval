@@ -1,0 +1,1 @@
+a/DET man/NOUN jump/VERB rope/NOUN then/ADV a/DET person/NOUN sit/VERB on/ADP a/DET chair/NOUN backwards/ADV and/CCONJ cross/VERB their/PRON arm/NOUN over/ADP the/DET top/NOUN of/ADP the/DET chair/NOUN 

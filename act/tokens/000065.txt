@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB by/ADP make/VERB a/DET backflip/NOUN and/CCONJ then/ADV a/DET man/NOUN pick/VERB up/ADP an/DET object/NOUN on/ADP the/DET right/ADJ side/NOUN with/ADP both/DET hand/NOUN 

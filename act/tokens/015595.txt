@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB up/ADP to/ADP a/DET door/NOUN knock/VERB and/CCONJ leave/VERB then/ADV another/DET person/NOUN be/AUX sit/VERB there/ADV and/CCONJ raise/VERB their/PRON hand/NOUN in/ADP a/DET horizontal/ADJ motion/NOUN 

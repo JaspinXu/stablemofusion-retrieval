@@ -1,0 +1,1 @@
+A stick person takes a step to the side, then turns backwards and walks a line, repeating the motion. After that, the person puts both hands together and lifts both arms.

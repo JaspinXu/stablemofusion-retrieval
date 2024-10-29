@@ -1,0 +1,1 @@
+A person takes seven steps to the right in a circular motion, then walks forward, turns, and walks back.

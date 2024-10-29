@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV very/ADV slowly/ADV with/ADP no/DET motion/NOUN in/ADP their/PRON arm/NOUN then/ADV continue/VERB walk/VERB forward/ADV while/SCONJ turn/VERB left/ADJ 

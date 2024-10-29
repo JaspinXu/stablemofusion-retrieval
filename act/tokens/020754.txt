@@ -1,0 +1,1 @@
+a/DET man/NOUN walk/VERB forward/ADV in/ADP place/NOUN slowly/ADV then/ADV a/DET person/NOUN walk/VERB up/ADP a/DET slope/NOUN and/CCONJ subsequently/ADV go/VERB down/ADP it/PRON 

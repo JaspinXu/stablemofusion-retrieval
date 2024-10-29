@@ -1,0 +1,6 @@
+a person walks backwards then walks forward to the right and then turns around and walks forwards.
+the sim takes a step forward, sits down, raises their left hand to their head, then placing both hands in front of them as to be holding a steering wheel.
+person steps backwards towards the left hand side, then forward towards the right, turns around and walks back to the left.
+the sim takes a step forward, sits down, raises their left hand to their head, then placing both hands in front of them as to be holding a steering wheel.
+a person walks backwards and then beings walking forwards, turns around and walks back again
+the sim takes a step forward, sits down, raises their left hand to their head, then placing both hands in front of them as to be holding a steering wheel.

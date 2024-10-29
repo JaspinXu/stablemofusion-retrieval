@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV slowly/ADV then/ADV continue/VERB straight/ADV turn/VERB right/ADJ and/CCONJ finally/ADV stop/VERB 

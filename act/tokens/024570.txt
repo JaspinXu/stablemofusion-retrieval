@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB a/DET third/NOUN of/ADP a/DET circle/NOUN counterclockwise/NOUN and/CCONJ then/ADV flap/VERB their/PRON arm/NOUN like/ADP a/DET chicken/NOUN 

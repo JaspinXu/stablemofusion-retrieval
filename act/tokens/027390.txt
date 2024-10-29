@@ -1,0 +1,1 @@
+a/DET person/NOUN be/AUX walk/VERB then/ADV turn/VERB around/ADV and/CCONJ walk/VERB back/ADV while/SCONJ the/DET sim/NOUN walk/VERB forward/ADV reach/VERB the/DET end/NOUN of/ADP the/DET plane/NOUN and/CCONJ subsequently/ADV loop/VERB backwards/ADV again/ADV 

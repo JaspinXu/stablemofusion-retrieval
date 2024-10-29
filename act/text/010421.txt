@@ -1,0 +1,1 @@
+The sim moves from a crouch into a lie on their front side, then a person walks two steps forwards, swings their left foot out to turn to the left, and walks back.

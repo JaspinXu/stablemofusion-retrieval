@@ -1,0 +1,12 @@
+a person walks straight, takes a half turn to the left, walks and then stops
+walking to the side then the other.
+a person walks straight, takes a half turn to the left, walks and then stops
+the person is walking around the room.
+a man walks forward, turns right and walks in that direction.
+walking to the side then the other.
+a man walks forward, turns right and walks in that direction.
+the person is walking around the room.
+a person walks forward, stops, turns directly to their left, then walks forward again.
+walking to the side then the other.
+a person walks forward, stops, turns directly to their left, then walks forward again.
+the person is walking around the room.

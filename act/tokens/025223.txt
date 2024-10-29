@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX dance/VERB the/DET salsa/NOUN then/ADV move/VERB by/ADP strafe/VERB 2/NUM step/NOUN to/ADP the/DET right/NOUN follow/VERB by/ADP 4/NUM step/NOUN to/ADP the/DET left/ADJ and/CCONJ finally/ADV 2/NUM step/NOUN to/ADP the/DET right/ADV again/ADV stop/VERB and/CCONJ start/VERB in/ADP the/DET same/ADJ position/NOUN 

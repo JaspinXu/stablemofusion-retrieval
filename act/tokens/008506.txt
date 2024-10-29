@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET straight/ADJ line/NOUN at/ADP a/DET medium/ADJ pace/NOUN then/ADV drive/VERB the/DET ball/NOUN in/ADP a/DET game/NOUN of/ADP golf/NOUN 

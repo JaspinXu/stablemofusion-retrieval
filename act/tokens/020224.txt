@@ -1,0 +1,1 @@
+a/DET man/NOUN hammer/VERB the/DET nail/NOUN into/ADP the/DET plywood/NOUN then/ADV a/DET person/NOUN lean/VERB on/ADP the/DET floor/NOUN and/CCONJ start/VERB walk/VERB 

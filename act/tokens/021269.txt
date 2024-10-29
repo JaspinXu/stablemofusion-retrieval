@@ -1,0 +1,1 @@
+a/DET person/NOUN laterally/ADV skip/VERB jump/NOUN from/ADP sidetoside/NOUN three/NUM time/NOUN then/ADV a/DET man/NOUN walk/VERB around/ADP pace/VERB in/ADP a/DET circular/ADJ clockwise/NOUN motion/NOUN and/CCONJ come/VERB to/ADP a/DET slight/ADJ halt/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN drink/VERB two/NUM sip/NOUN of/ADP water/NOUN then/ADV put/VERB the/DET cap/NOUN back/ADV on/ADP the/DET bottle/NOUN and/CCONJ afterward/ADV begin/VERB to/PART pace/VERB backandforth/NOUN 

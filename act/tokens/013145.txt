@@ -1,0 +1,1 @@
+a/DET person/NOUN run/VERB counterclockwise/NOUN then/ADV move/VERB in/ADP left/ADJ and/CCONJ right/ADJ direction/NOUN and/CCONJ finally/ADV turn/VERB to/PART walk/VERB counterclockwise/NOUN again/ADV 

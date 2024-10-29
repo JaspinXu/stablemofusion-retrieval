@@ -1,0 +1,4 @@
+a person walks forward then curves to the left.
+the person is walking towards the left.
+a person walks forward then curves to the left.
+a person walks at the edge of a rectangle on the floor and walks to other side of it.

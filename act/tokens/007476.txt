@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB to/ADP the/DET left/ADJ side/NOUN and/CCONJ continue/VERB walk/VERB subsequently/ADV take/VERB 5/NUM curve/VERB step/NOUN 

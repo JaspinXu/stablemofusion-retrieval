@@ -1,0 +1,1 @@
+A person turns left and then walks straight; following that, they turn around and walk straight again. Meanwhile, someone is walking forward when they get pushed from their right.

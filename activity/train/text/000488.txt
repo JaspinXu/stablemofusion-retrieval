@@ -1,0 +1,1 @@
+A person is running and jumps over an obstacle, then continues running. Later, they stretch their arms above their head.

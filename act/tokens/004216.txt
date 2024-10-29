@@ -1,0 +1,1 @@
+a/DET person/NOUN with/ADP arm/NOUN in/ADP front/NOUN of/ADP they/PRON elbow/VERB bent/ADJ shift/NOUN their/PRON weight/NOUN from/ADP one/NUM foot/NOUN to/ADP another/PRON then/ADV they/PRON jog/VERB in/ADP a/DET straight/ADJ line/NOUN and/CCONJ stop/VERB with/ADP both/DET arm/NOUN near/ADP their/PRON hip/NOUN 

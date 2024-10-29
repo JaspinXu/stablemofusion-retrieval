@@ -1,0 +1,1 @@
+A person walks down the stairs, then turns right and walks forward before turning right again to walk down the stairs, and subsequently walks forward slowly, beginning with their left foot.

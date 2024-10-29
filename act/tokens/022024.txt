@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB clockwise/NOUN then/ADV step/VERB sidetoside/NOUN subsequently/ADV move/VERB forward/ADV and/CCONJ turn/VERB back/ADV to/PART face/VERB the/DET front/NOUN 

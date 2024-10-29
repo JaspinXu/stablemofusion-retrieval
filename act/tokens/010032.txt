@@ -1,0 +1,1 @@
+the/DET person/NOUN be/AUX do/VERB a/DET left/ADJ arm/NOUN upper/ADJ body/NOUN stretch/NOUN and/CCONJ then/ADV raise/VERB their/PRON hand/NOUN above/ADP their/PRON head/NOUN in/ADP a/DET starfish/ADJ position/NOUN 

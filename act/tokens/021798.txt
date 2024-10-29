@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET semicircular/ADJ route/NOUN to/ADP the/DET left/NOUN then/ADV do/AUX a/DET defensive/ADJ shuffle/NOUN to/ADP the/DET left/ADJ and/CCONJ subsequently/ADV to/ADP the/DET right/NOUN 

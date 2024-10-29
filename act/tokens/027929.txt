@@ -1,0 +1,1 @@
+the/DET person/NOUN walk/VERB forward/ADV somewhat/ADV slowly/ADV then/ADV take/VERB two/NUM step/NOUN forward/ADV spin/NOUN around/ADP counterclockwise/NOUN in/ADP the/DET opposite/ADJ direction/NOUN and/CCONJ finally/ADV take/VERB two/NUM step/NOUN back/ADV 

@@ -1,0 +1,1 @@
+a/DET person/NOUN jump/VERB with/ADP both/DET foot/NOUN and/CCONJ turn/VERB counterclockwise/NOUN before/ADP land/VERB then/ADV after/ADP land/VERB they/PRON take/VERB one/NUM step/NOUN back/ADV with/ADP their/PRON left/ADJ foot/NOUN 

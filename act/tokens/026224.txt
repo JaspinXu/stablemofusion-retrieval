@@ -1,0 +1,1 @@
+the/DET right/ADJ leg/NOUN move/VERB forward/ADV and/CCONJ stop/VERB on/ADP the/DET ground/NOUN next/ADV to/ADP the/DET left/ADJ leg/NOUN subsequently/PROPN the/DET person/NOUN step/VERB back/ADV and/CCONJ put/VERB both/DET arm/NOUN up/ADP in/ADP front/NOUN of/ADP their/PRON face/NOUN 

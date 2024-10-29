@@ -1,0 +1,18 @@
+the person is cleaning something.
+a person walks forward and stops
+the person is cleaning something.
+a man walks down some stairs, ending in a standing position.
+the person is cleaning something.
+the person is walking downstairs.
+person looks around and then takes a step to their left
+a person walks forward and stops
+person looks around and then takes a step to their left
+a man walks down some stairs, ending in a standing position.
+person looks around and then takes a step to their left
+the person is walking downstairs.
+a person side steps once to the left.
+a person walks forward and stops
+a person side steps once to the left.
+a man walks down some stairs, ending in a standing position.
+a person side steps once to the left.
+the person is walking downstairs.

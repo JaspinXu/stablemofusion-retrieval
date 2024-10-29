@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB forward/ADV then/ADV turn/VERB right/ADV after/SCONJ that/PRON walk/VERB back/ADV diagonally/ADV while/SCONJ a/DET man/NOUN bend/VERB down/ADP and/CCONJ look/VERB back/ADV and/CCONJ forth/ADV from/ADP right/ADV to/ADP left/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN raise/VERB both/DET hand/NOUN and/CCONJ make/VERB some/DET gesture/NOUN then/ADV kick/VERB forward/ADV twice/ADV with/ADP their/PRON left/ADJ leg/NOUN follow/VERB by/ADP kick/VERB twice/ADV to/ADP the/DET side/NOUN with/ADP their/PRON left/ADJ leg/NOUN and/CCONJ subsequently/ADV punch/VERB twice/ADV with/ADP their/PRON right/ADJ hand/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN place/VERB item/NOUN in/ADP a/DET line/NOUN up/ADP then/ADV walk/VERB in/ADP a/DET curve/NOUN to/ADP the/DET right/ADJ turn/NOUN and/CCONJ climb/VERB several/ADJ stair/NOUN 

@@ -1,0 +1,1 @@
+a/DET person/NOUN move/VERB step/NOUN to/ADP their/PRON left/NOUN then/ADV take/VERB a/DET few/ADJ step/NOUN to/ADP their/PRON right/NOUN and/CCONJ after/ADP that/PRON make/VERB a/DET few/ADJ more/ADJ step/NOUN to/ADP their/PRON left/ADJ subsequently/ADV they/PRON step/VERB forward/ADV bend/VERB their/PRON right/ADJ knee/NOUN and/CCONJ raise/VERB their/PRON right/ADJ arm/NOUN 

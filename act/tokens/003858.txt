@@ -1,0 +1,1 @@
+a/DET person/NOUN take/VERB one/NUM diagonal/ADJ step/NOUN forward/ADV and/CCONJ to/ADP the/DET left/NOUN then/ADV a/DET man/NOUN move/VERB his/PRON hand/NOUN up/ADP at/ADP shoulder/NOUN level/NOUN and/CCONJ subsequently/ADV repeat/VERB this/DET motion/NOUN by/ADP circle/VERB his/PRON hand/NOUN 

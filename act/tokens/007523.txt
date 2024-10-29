@@ -1,0 +1,1 @@
+a/DET man/NOUN step/VERB up/ADP then/ADV walk/VERB forward/ADV next/ADP a/DET person/NOUN jog/VERB down/ADP the/DET stair/NOUN and/CCONJ jump/VERB up/ADP with/ADP both/DET foot/NOUN 

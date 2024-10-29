@@ -1,0 +1,1 @@
+a/DET person/NOUN walk/VERB in/ADP a/DET half/ADJ circle/NOUN in/ADP an/DET anticlockwise/NOUN direction/NOUN and/CCONJ then/ADV while/SCONJ stand/VERB perform/VERB two/NUM bicep/VERB curl/NOUN with/ADP their/PRON right/ADJ arm/NOUN follow/VERB by/ADP one/NUM bicep/X curl/ADJ with/ADP their/PRON left/ADJ arm/NOUN 

@@ -1,0 +1,1 @@
+A figure walks a path across jagged terrain, then takes several steps forward, before turning around and retracing their steps in the direction from which they came.

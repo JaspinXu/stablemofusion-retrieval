@@ -1,0 +1,1 @@
+A person walks forward and steps on an object, then steps off of it. After that, they turn and get back on the object, only to get back off it again. Following that, the person crawls across the floor.

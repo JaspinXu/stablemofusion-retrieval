@@ -1,0 +1,1 @@
+A person walks at a regular pace forward, then runs over and stops.

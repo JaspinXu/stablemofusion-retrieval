@@ -1,4 +1,4 @@
-# StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework
+# StableMoFusion-retrieval
 
 <!-- [![Project Page](https://img.shields.io/badge/Project_Page-<xxx>-<COLOR>.svg)](https://h-y1heng.github.io/StableMoFusion-page/)
 [![Website](https://img.shields.io/badge/Website-Demo-fedcba?style=flat-square)](https://steve-zeyu-zhang.github.io/MotionMamba/) 

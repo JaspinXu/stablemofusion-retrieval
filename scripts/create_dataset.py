@@ -14,7 +14,7 @@ from tqdm.auto import tqdm
 from datasets import get_dataset
 import random
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='')
 
 nlp = spacy.load("en_core_web_sm")
 

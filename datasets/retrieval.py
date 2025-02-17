@@ -11,7 +11,7 @@ from openai import OpenAI
 import time
 from tqdm.auto import tqdm
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='')
 # export OPENAI_API_KEY='your_api_key_here'
 
 class RetrievalDatabase(nn.Module):
